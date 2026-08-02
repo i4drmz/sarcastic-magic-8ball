@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Ensures RN's `flex: 1` chains actually fill the viewport on web, and that
+ * scrolling happens inside individual <ScrollView>s (as on native) instead of
+ * the whole document scrolling. Native platforms ignore this file.
+ */
+html,
+body,
+#root {
+  height: 100%;
+  overflow: hidden;
+}

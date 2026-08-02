@@ -1,0 +1,122 @@
+[
+  {
+    "id": "release-1",
+    "album": {
+      "id": "album-golden-hour",
+      "title": "Golden Hour",
+      "artistId": "artist-ateez",
+      "artistName": "ATEEZ",
+      "coverUrl": "https://picsum.photos/seed/album-golden-hour/600/600",
+      "releaseType": "album",
+      "trackCount": 12,
+      "isSaved": true
+    },
+    "releaseDate": "2026-07-26",
+    "isNew": true
+  },
+  {
+    "id": "release-2",
+    "album": {
+      "id": "album-supernatural",
+      "title": "Supernatural",
+      "artistId": "artist-newjeans",
+      "artistName": "NewJeans",
+      "coverUrl": "https://picsum.photos/seed/album-supernatural/600/600",
+      "releaseType": "single",
+      "trackCount": 2,
+      "isSaved": false
+    },
+    "releaseDate": "2026-07-25",
+    "isNew": true
+  },
+  {
+    "id": "release-3",
+    "album": {
+      "id": "album-crazy",
+      "title": "Crazy",
+      "artistId": "artist-leseraphim",
+      "artistName": "LE SSERAFIM",
+      "coverUrl": "https://picsum.photos/seed/album-crazy/600/600",
+      "releaseType": "ep",
+      "trackCount": 6,
+      "isSaved": true
+    },
+    "releaseDate": "2026-07-24",
+    "isNew": true
+  },
+  {
+    "id": "release-4",
+    "album": {
+      "id": "album-ceremony",
+      "title": "Ceremony",
+      "artistId": "artist-stray-kids",
+      "artistName": "Stray Kids",
+      "coverUrl": "https://picsum.photos/seed/album-ceremony/600/600",
+      "releaseType": "album",
+      "trackCount": 10,
+      "isSaved": false
+    },
+    "releaseDate": "2026-07-22",
+    "isNew": false
+  },
+  {
+    "id": "release-5",
+    "album": {
+      "id": "album-ivetorium",
+      "title": "IVEtorium",
+      "artistId": "artist-ive",
+      "artistName": "IVE",
+      "coverUrl": "https://picsum.photos/seed/album-ivetorium/600/600",
+      "releaseType": "ep",
+      "trackCount": 7,
+      "isSaved": false
+    },
+    "releaseDate": "2026-07-20",
+    "isNew": false
+  },
+  {
+    "id": "release-6",
+    "album": {
+      "id": "album-spillthefeels",
+      "title": "Spill the Feels",
+      "artistId": "artist-seventeen",
+      "artistName": "SEVENTEEN",
+      "coverUrl": "https://picsum.photos/seed/album-spillthefeels/600/600",
+      "releaseType": "album",
+      "trackCount": 14,
+      "isSaved": true
+    },
+    "releaseDate": "2026-07-18",
+    "isNew": false
+  },
+  {
+    "id": "release-7",
+    "album": {
+      "id": "album-synkdive",
+      "title": "Synk: Dive",
+      "artistId": "artist-aespa",
+      "artistName": "aespa",
+      "coverUrl": "https://picsum.photos/seed/album-synkdive/600/600",
+      "releaseType": "single",
+      "trackCount": 3,
+      "isSaved": false
+    },
+    "releaseDate": "2026-07-17",
+    "isNew": false
+  },
+  {
+    "id": "release-8",
+    "album": {
+      "id": "album-starlight",
+      "title": "Starlight Diary",
+      "artistId": "artist-txt",
+      "artistName": "TOMORROW X TOGETHER",
+      "coverUrl": "https://picsum.photos/seed/album-starlight/600/600",
+      "releaseType": "album",
+      "trackCount": 11,
+      "isSaved": false
+    },
+    "releaseDate": "2026-07-15",
+    "isNew": false
+  }
+]

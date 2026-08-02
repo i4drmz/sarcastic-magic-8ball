@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-26",
+  "stats": [
+    { "id": "stat-news", "icon": "news", "label": "News", "count": 16 },
+    { "id": "stat-release", "icon": "release", "label": "New Releases", "count": 8 },
+    { "id": "stat-birthday", "icon": "birthday", "label": "Birthdays", "count": 4 },
+    { "id": "stat-comeback", "icon": "comeback", "label": "Comebacks", "count": 3 },
+    { "id": "stat-award", "icon": "award", "label": "Award Events", "count": 2 }
+  ]
+}

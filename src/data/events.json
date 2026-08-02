@@ -1,0 +1,59 @@
+[
+  {
+    "id": "event-1",
+    "type": "comeback",
+    "title": "Golden Hour",
+    "artistName": "ATEEZ",
+    "imageUrl": "https://picsum.photos/seed/event-ateez/800/600",
+    "date": "2026-07-28",
+    "daysUntil": 2
+  },
+  {
+    "id": "event-2",
+    "type": "concert",
+    "title": "World Tour: Seoul Leg",
+    "artistName": "SEVENTEEN",
+    "imageUrl": "https://picsum.photos/seed/event-svt-concert/800/600",
+    "date": "2026-07-31",
+    "daysUntil": 5,
+    "location": "Gocheok Sky Dome, Seoul"
+  },
+  {
+    "id": "event-3",
+    "type": "fanmeeting",
+    "title": "Bunnies Only: Live Fan Meeting",
+    "artistName": "NewJeans",
+    "imageUrl": "https://picsum.photos/seed/event-newjeans-fm/800/600",
+    "date": "2026-08-02",
+    "daysUntil": 7,
+    "location": "KSPO Dome, Seoul"
+  },
+  {
+    "id": "event-4",
+    "type": "award",
+    "title": "Global K-Music Awards",
+    "artistName": "Various Artists",
+    "imageUrl": "https://picsum.photos/seed/event-award-show/800/600",
+    "date": "2026-08-09",
+    "daysUntil": 14,
+    "location": "Incheon"
+  },
+  {
+    "id": "event-5",
+    "type": "comeback",
+    "title": "IVEtorium: Chapter Two",
+    "artistName": "IVE",
+    "imageUrl": "https://picsum.photos/seed/event-ive-comeback/800/600",
+    "date": "2026-08-11",
+    "daysUntil": 16
+  },
+  {
+    "id": "event-6",
+    "type": "anniversary",
+    "title": "8th Debut Anniversary Live",
+    "artistName": "Stray Kids",
+    "imageUrl": "https://picsum.photos/seed/event-skz-anniversary/800/600",
+    "date": "2026-08-25",
+    "daysUntil": 30
+  }
+]

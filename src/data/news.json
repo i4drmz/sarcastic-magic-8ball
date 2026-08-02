@@ -1,0 +1,179 @@
+[
+  {
+    "id": "news-1",
+    "headline": "ATEEZ announce 'Golden Hour' world tour dates for 2027",
+    "summary": "The eight-member group will kick off their largest tour yet across 24 cities, starting in Seoul this spring.",
+    "imageUrl": "https://picsum.photos/seed/news-ateez-tour/1200/800",
+    "category": "concert",
+    "source": { "id": "src-idolwire", "name": "IdolWire" },
+    "publishedAt": "2026-07-26T08:30:00.000Z",
+    "relatedArtistIds": ["artist-ateez"],
+    "isBookmarked": false,
+    "isFeatured": true,
+    "readMinutes": 3
+  },
+  {
+    "id": "news-2",
+    "headline": "NewJeans drops surprise pre-release single ahead of new EP",
+    "summary": "The track leans into a stripped-back sound, a departure from their usual Y2K production.",
+    "imageUrl": "https://picsum.photos/seed/news-newjeans-single/1200/800",
+    "category": "comeback",
+    "source": { "id": "src-soompi", "name": "Soompi" },
+    "publishedAt": "2026-07-26T05:15:00.000Z",
+    "relatedArtistIds": ["artist-newjeans"],
+    "isBookmarked": true,
+    "readMinutes": 2
+  },
+  {
+    "id": "news-3",
+    "headline": "LE SSERAFIM tops iTunes charts in 38 countries",
+    "summary": "'Crazy' continues its global run, marking the group's fastest chart sweep to date.",
+    "imageUrl": "https://picsum.photos/seed/news-lesserafim-chart/1200/800",
+    "category": "chart",
+    "source": { "id": "src-allkpop", "name": "allkpop" },
+    "publishedAt": "2026-07-25T21:00:00.000Z",
+    "relatedArtistIds": ["artist-leseraphim"],
+    "readMinutes": 2
+  },
+  {
+    "id": "news-4",
+    "headline": "Stray Kids to headline year-end award show finale",
+    "summary": "The group closes out the ceremony for the second consecutive year.",
+    "imageUrl": "https://picsum.photos/seed/news-skz-award/1200/800",
+    "category": "award",
+    "source": { "id": "src-koreaherald", "name": "Korea Herald" },
+    "publishedAt": "2026-07-25T14:45:00.000Z",
+    "relatedArtistIds": ["artist-stray-kids"],
+    "readMinutes": 4
+  },
+  {
+    "id": "news-5",
+    "headline": "IVE unveils concept trailer for upcoming album",
+    "summary": "Fans speculate a bolder, more mature direction based on the trailer's visual cues.",
+    "imageUrl": "https://picsum.photos/seed/news-ive-trailer/1200/800",
+    "category": "comeback",
+    "source": { "id": "src-soompi", "name": "Soompi" },
+    "publishedAt": "2026-07-25T10:00:00.000Z",
+    "relatedArtistIds": ["artist-ive"],
+    "readMinutes": 2
+  },
+  {
+    "id": "news-6",
+    "headline": "SEVENTEEN's Carat Land pop-up opens in five cities",
+    "summary": "The immersive fan experience will travel across Asia and North America.",
+    "imageUrl": "https://picsum.photos/seed/news-svt-popup/1200/800",
+    "category": "industry",
+    "source": { "id": "src-idolwire", "name": "IdolWire" },
+    "publishedAt": "2026-07-24T19:20:00.000Z",
+    "relatedArtistIds": ["artist-seventeen"],
+    "readMinutes": 3
+  },
+  {
+    "id": "news-7",
+    "headline": "aespa reveals 'Synk Dive' as title track for new single",
+    "summary": "Produced with the group's long-time collaborators, the track leans into hyperpop textures.",
+    "imageUrl": "https://picsum.photos/seed/news-aespa-title/1200/800",
+    "category": "comeback",
+    "source": { "id": "src-allkpop", "name": "allkpop" },
+    "publishedAt": "2026-07-24T13:00:00.000Z",
+    "relatedArtistIds": ["artist-aespa"],
+    "readMinutes": 2
+  },
+  {
+    "id": "news-8",
+    "headline": "TXT to perform at global music festival main stage",
+    "summary": "The group joins an international lineup spanning multiple genres.",
+    "imageUrl": "https://picsum.photos/seed/news-txt-festival/1200/800",
+    "category": "concert",
+    "source": { "id": "src-koreaherald", "name": "Korea Herald" },
+    "publishedAt": "2026-07-24T09:10:00.000Z",
+    "relatedArtistIds": ["artist-txt"],
+    "readMinutes": 3
+  },
+  {
+    "id": "news-9",
+    "headline": "RIIZE's debut anniversary special to air next week",
+    "summary": "A behind-the-scenes documentary chronicling their first year will stream exclusively.",
+    "imageUrl": "https://picsum.photos/seed/news-riize-doc/1200/800",
+    "category": "variety",
+    "source": { "id": "src-soompi", "name": "Soompi" },
+    "publishedAt": "2026-07-23T22:40:00.000Z",
+    "relatedArtistIds": ["artist-riize"],
+    "readMinutes": 2
+  },
+  {
+    "id": "news-10",
+    "headline": "ILLIT surpasses 500 million cumulative streams",
+    "summary": "The rookie group hits the milestone faster than any debut act this year.",
+    "imageUrl": "https://picsum.photos/seed/news-illit-streams/1200/800",
+    "category": "chart",
+    "source": { "id": "src-idolwire", "name": "IdolWire" },
+    "publishedAt": "2026-07-23T16:05:00.000Z",
+    "relatedArtistIds": ["artist-illit"],
+    "readMinutes": 2
+  },
+  {
+    "id": "news-11",
+    "headline": "Exclusive: inside the making of this year's biggest comeback",
+    "summary": "Producers and choreographers break down the creative process from concept to release.",
+    "imageUrl": "https://picsum.photos/seed/news-exclusive-comeback/1200/800",
+    "category": "exclusive",
+    "source": { "id": "src-idolwire", "name": "IdolWire" },
+    "publishedAt": "2026-07-23T08:30:00.000Z",
+    "readMinutes": 6
+  },
+  {
+    "id": "news-12",
+    "headline": "Agencies report record-breaking export revenue for the industry",
+    "summary": "Physical album sales and global streaming continue to drive growth.",
+    "imageUrl": "https://picsum.photos/seed/news-industry-revenue/1200/800",
+    "category": "industry",
+    "source": { "id": "src-koreaherald", "name": "Korea Herald" },
+    "publishedAt": "2026-07-22T18:00:00.000Z",
+    "readMinutes": 4
+  },
+  {
+    "id": "news-13",
+    "headline": "IVE's Wonyoung named brand ambassador for global fashion house",
+    "summary": "The multi-year partnership includes a debut campaign shooting this fall.",
+    "imageUrl": "https://picsum.photos/seed/news-ive-fashion/1200/800",
+    "category": "industry",
+    "source": { "id": "src-allkpop", "name": "allkpop" },
+    "publishedAt": "2026-07-22T12:15:00.000Z",
+    "relatedArtistIds": ["artist-ive"],
+    "readMinutes": 2
+  },
+  {
+    "id": "news-14",
+    "headline": "Stray Kids' Bang Chan teases solo mixtape project",
+    "summary": "The leader hints at a personal, self-produced release later this year.",
+    "imageUrl": "https://picsum.photos/seed/news-skz-mixtape/1200/800",
+    "category": "exclusive",
+    "source": { "id": "src-soompi", "name": "Soompi" },
+    "publishedAt": "2026-07-22T07:50:00.000Z",
+    "relatedArtistIds": ["artist-stray-kids"],
+    "readMinutes": 3
+  },
+  {
+    "id": "news-15",
+    "headline": "LE SSERAFIM confirmed for late-night talk show debut",
+    "summary": "The group will perform their title track live for the first time on US television.",
+    "imageUrl": "https://picsum.photos/seed/news-lesserafim-tv/1200/800",
+    "category": "variety",
+    "source": { "id": "src-koreaherald", "name": "Korea Herald" },
+    "publishedAt": "2026-07-21T20:30:00.000Z",
+    "relatedArtistIds": ["artist-leseraphim"],
+    "readMinutes": 2
+  },
+  {
+    "id": "news-16",
+    "headline": "TOMORROW X TOGETHER wins Best Music Video at global awards",
+    "summary": "The visually striking short film earns the group's first major international trophy.",
+    "imageUrl": "https://picsum.photos/seed/news-txt-award/1200/800",
+    "category": "award",
+    "source": { "id": "src-allkpop", "name": "allkpop" },
+    "publishedAt": "2026-07-21T15:00:00.000Z",
+    "relatedArtistIds": ["artist-txt"],
+    "readMinutes": 2
+  }
+]

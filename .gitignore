@@ -1,0 +1,53 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Legacy Android / IDE artifacts (this project is Expo)
+.idea/
+app/
+build/
+*.iml
+local.properties
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+.env.local
+.env.*.local
+
+# secrets (public EXPO_PUBLIC_PULSE_DATA_BASE_URL lives in committed .env)
+.env.secret
+
+# typescript
+*.tsbuildinfo
+
+# generated native folders
+/ios
+/android

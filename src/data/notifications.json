@@ -1,0 +1,37 @@
+[
+  {
+    "id": "notif-1",
+    "type": "release",
+    "title": "New release from ATEEZ",
+    "body": "Golden Hour is out now.",
+    "imageUrl": "https://picsum.photos/seed/album-golden-hour/300/300",
+    "createdAt": "2026-07-26T08:30:00.000Z",
+    "isRead": false
+  },
+  {
+    "id": "notif-2",
+    "type": "birthday",
+    "title": "Hongjoong's birthday",
+    "body": "Wish ATEEZ's Hongjoong a happy birthday today.",
+    "imageUrl": "https://picsum.photos/seed/bday-hongjoong/300/300",
+    "createdAt": "2026-07-26T06:00:00.000Z",
+    "isRead": false
+  },
+  {
+    "id": "notif-3",
+    "type": "news",
+    "title": "Trending now",
+    "body": "LE SSERAFIM tops iTunes charts in 38 countries.",
+    "imageUrl": "https://picsum.photos/seed/news-lesserafim-chart/300/300",
+    "createdAt": "2026-07-25T21:00:00.000Z",
+    "isRead": true
+  },
+  {
+    "id": "notif-4",
+    "type": "event",
+    "title": "Comeback in 2 days",
+    "body": "ATEEZ's Golden Hour drops July 28.",
+    "createdAt": "2026-07-25T12:00:00.000Z",
+    "isRead": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "discover-1",
+    "category": "trending-groups",
+    "title": "Trending Groups",
+    "subtitle": "Who everyone's talking about",
+    "imageUrl": "https://picsum.photos/seed/discover-groups/600/600"
+  },
+  {
+    "id": "discover-2",
+    "category": "trending-songs",
+    "title": "Trending Songs",
+    "subtitle": "This week's most played",
+    "imageUrl": "https://picsum.photos/seed/discover-songs/600/600"
+  },
+  {
+    "id": "discover-3",
+    "category": "trending-albums",
+    "title": "Trending Albums",
+    "subtitle": "Charting across every platform",
+    "imageUrl": "https://picsum.photos/seed/discover-albums/600/600"
+  },
+  {
+    "id": "discover-4",
+    "category": "newest-debuts",
+    "title": "Newest Debuts",
+    "subtitle": "Fresh faces this month",
+    "imageUrl": "https://picsum.photos/seed/discover-debuts/600/600"
+  },
+  {
+    "id": "discover-5",
+    "category": "rookie-groups",
+    "title": "Rookie Groups",
+    "subtitle": "Ones to watch this year",
+    "imageUrl": "https://picsum.photos/seed/discover-rookies/600/600"
+  }
+]

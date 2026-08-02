@@ -1,0 +1,62 @@
+{
+  "spotify": [
+    { "id": "sp-1", "chart": "spotify", "rank": 1, "previousRank": 1, "movement": "same", "songTitle": "Golden Hour", "artistName": "ATEEZ", "albumCoverUrl": "https://picsum.photos/seed/album-golden-hour/300/300" },
+    { "id": "sp-2", "chart": "spotify", "rank": 2, "previousRank": 4, "movement": "up", "movementAmount": 2, "songTitle": "Supernatural", "artistName": "NewJeans", "albumCoverUrl": "https://picsum.photos/seed/album-supernatural/300/300" },
+    { "id": "sp-3", "chart": "spotify", "rank": 3, "previousRank": 2, "movement": "down", "movementAmount": 1, "songTitle": "Crazy", "artistName": "LE SSERAFIM", "albumCoverUrl": "https://picsum.photos/seed/album-crazy/300/300" },
+    { "id": "sp-4", "chart": "spotify", "rank": 4, "movement": "new", "songTitle": "Ceremony", "artistName": "Stray Kids", "albumCoverUrl": "https://picsum.photos/seed/album-ceremony/300/300" },
+    { "id": "sp-5", "chart": "spotify", "rank": 5, "previousRank": 3, "movement": "down", "movementAmount": 2, "songTitle": "IVEtorium", "artistName": "IVE", "albumCoverUrl": "https://picsum.photos/seed/album-ivetorium/300/300" },
+    { "id": "sp-6", "chart": "spotify", "rank": 6, "previousRank": 6, "movement": "same", "songTitle": "Spill the Feels", "artistName": "SEVENTEEN", "albumCoverUrl": "https://picsum.photos/seed/album-spillthefeels/300/300" },
+    { "id": "sp-7", "chart": "spotify", "rank": 7, "previousRank": 9, "movement": "up", "movementAmount": 2, "songTitle": "Synk: Dive", "artistName": "aespa", "albumCoverUrl": "https://picsum.photos/seed/album-synkdive/300/300" },
+    { "id": "sp-8", "chart": "spotify", "rank": 8, "previousRank": 5, "movement": "down", "movementAmount": 3, "songTitle": "Starlight Diary", "artistName": "TOMORROW X TOGETHER", "albumCoverUrl": "https://picsum.photos/seed/album-starlight/300/300" },
+    { "id": "sp-9", "chart": "spotify", "rank": 9, "previousRank": 7, "movement": "down", "movementAmount": 2, "songTitle": "Boom", "artistName": "RIIZE", "albumCoverUrl": "https://picsum.photos/seed/riize-cover/300/300" },
+    { "id": "sp-10", "chart": "spotify", "rank": 10, "movement": "new", "songTitle": "Magnetic Rewind", "artistName": "ILLIT", "albumCoverUrl": "https://picsum.photos/seed/illit-cover/300/300" }
+  ],
+  "melon": [
+    { "id": "ml-1", "chart": "melon", "rank": 1, "previousRank": 2, "movement": "up", "movementAmount": 1, "songTitle": "Crazy", "artistName": "LE SSERAFIM", "albumCoverUrl": "https://picsum.photos/seed/album-crazy/300/300" },
+    { "id": "ml-2", "chart": "melon", "rank": 2, "previousRank": 1, "movement": "down", "movementAmount": 1, "songTitle": "Golden Hour", "artistName": "ATEEZ", "albumCoverUrl": "https://picsum.photos/seed/album-golden-hour/300/300" },
+    { "id": "ml-3", "chart": "melon", "rank": 3, "previousRank": 3, "movement": "same", "songTitle": "Ceremony", "artistName": "Stray Kids", "albumCoverUrl": "https://picsum.photos/seed/album-ceremony/300/300" },
+    { "id": "ml-4", "chart": "melon", "rank": 4, "previousRank": 6, "movement": "up", "movementAmount": 2, "songTitle": "IVEtorium", "artistName": "IVE", "albumCoverUrl": "https://picsum.photos/seed/album-ivetorium/300/300" },
+    { "id": "ml-5", "chart": "melon", "rank": 5, "movement": "new", "songTitle": "Supernatural", "artistName": "NewJeans", "albumCoverUrl": "https://picsum.photos/seed/album-supernatural/300/300" },
+    { "id": "ml-6", "chart": "melon", "rank": 6, "previousRank": 4, "movement": "down", "movementAmount": 2, "songTitle": "Spill the Feels", "artistName": "SEVENTEEN", "albumCoverUrl": "https://picsum.photos/seed/album-spillthefeels/300/300" },
+    { "id": "ml-7", "chart": "melon", "rank": 7, "previousRank": 7, "movement": "same", "songTitle": "Synk: Dive", "artistName": "aespa", "albumCoverUrl": "https://picsum.photos/seed/album-synkdive/300/300" },
+    { "id": "ml-8", "chart": "melon", "rank": 8, "previousRank": 10, "movement": "up", "movementAmount": 2, "songTitle": "Boom", "artistName": "RIIZE", "albumCoverUrl": "https://picsum.photos/seed/riize-cover/300/300" },
+    { "id": "ml-9", "chart": "melon", "rank": 9, "previousRank": 8, "movement": "down", "movementAmount": 1, "songTitle": "Starlight Diary", "artistName": "TOMORROW X TOGETHER", "albumCoverUrl": "https://picsum.photos/seed/album-starlight/300/300" },
+    { "id": "ml-10", "chart": "melon", "rank": 10, "previousRank": 9, "movement": "down", "movementAmount": 1, "songTitle": "Magnetic Rewind", "artistName": "ILLIT", "albumCoverUrl": "https://picsum.photos/seed/illit-cover/300/300" }
+  ],
+  "billboard": [
+    { "id": "bb-1", "chart": "billboard", "rank": 1, "previousRank": 1, "movement": "same", "songTitle": "Golden Hour", "artistName": "ATEEZ", "albumCoverUrl": "https://picsum.photos/seed/album-golden-hour/300/300" },
+    { "id": "bb-2", "chart": "billboard", "rank": 2, "previousRank": 3, "movement": "up", "movementAmount": 1, "songTitle": "Ceremony", "artistName": "Stray Kids", "albumCoverUrl": "https://picsum.photos/seed/album-ceremony/300/300" },
+    { "id": "bb-3", "chart": "billboard", "rank": 3, "previousRank": 2, "movement": "down", "movementAmount": 1, "songTitle": "Crazy", "artistName": "LE SSERAFIM", "albumCoverUrl": "https://picsum.photos/seed/album-crazy/300/300" },
+    { "id": "bb-4", "chart": "billboard", "rank": 4, "previousRank": 5, "movement": "up", "movementAmount": 1, "songTitle": "Spill the Feels", "artistName": "SEVENTEEN", "albumCoverUrl": "https://picsum.photos/seed/album-spillthefeels/300/300" },
+    { "id": "bb-5", "chart": "billboard", "rank": 5, "movement": "new", "songTitle": "Supernatural", "artistName": "NewJeans", "albumCoverUrl": "https://picsum.photos/seed/album-supernatural/300/300" },
+    { "id": "bb-6", "chart": "billboard", "rank": 6, "previousRank": 4, "movement": "down", "movementAmount": 2, "songTitle": "IVEtorium", "artistName": "IVE", "albumCoverUrl": "https://picsum.photos/seed/album-ivetorium/300/300" },
+    { "id": "bb-7", "chart": "billboard", "rank": 7, "previousRank": 8, "movement": "up", "movementAmount": 1, "songTitle": "Starlight Diary", "artistName": "TOMORROW X TOGETHER", "albumCoverUrl": "https://picsum.photos/seed/album-starlight/300/300" },
+    { "id": "bb-8", "chart": "billboard", "rank": 8, "previousRank": 7, "movement": "down", "movementAmount": 1, "songTitle": "Synk: Dive", "artistName": "aespa", "albumCoverUrl": "https://picsum.photos/seed/album-synkdive/300/300" },
+    { "id": "bb-9", "chart": "billboard", "rank": 9, "previousRank": 9, "movement": "same", "songTitle": "Boom", "artistName": "RIIZE", "albumCoverUrl": "https://picsum.photos/seed/riize-cover/300/300" },
+    { "id": "bb-10", "chart": "billboard", "rank": 10, "movement": "new", "songTitle": "Magnetic Rewind", "artistName": "ILLIT", "albumCoverUrl": "https://picsum.photos/seed/illit-cover/300/300" }
+  ],
+  "circle": [
+    { "id": "cc-1", "chart": "circle", "rank": 1, "previousRank": 2, "movement": "up", "movementAmount": 1, "songTitle": "Golden Hour", "artistName": "ATEEZ", "albumCoverUrl": "https://picsum.photos/seed/album-golden-hour/300/300" },
+    { "id": "cc-2", "chart": "circle", "rank": 2, "previousRank": 1, "movement": "down", "movementAmount": 1, "songTitle": "Crazy", "artistName": "LE SSERAFIM", "albumCoverUrl": "https://picsum.photos/seed/album-crazy/300/300" },
+    { "id": "cc-3", "chart": "circle", "rank": 3, "previousRank": 3, "movement": "same", "songTitle": "Ceremony", "artistName": "Stray Kids", "albumCoverUrl": "https://picsum.photos/seed/album-ceremony/300/300" },
+    { "id": "cc-4", "chart": "circle", "rank": 4, "movement": "new", "songTitle": "Supernatural", "artistName": "NewJeans", "albumCoverUrl": "https://picsum.photos/seed/album-supernatural/300/300" },
+    { "id": "cc-5", "chart": "circle", "rank": 5, "previousRank": 4, "movement": "down", "movementAmount": 1, "songTitle": "IVEtorium", "artistName": "IVE", "albumCoverUrl": "https://picsum.photos/seed/album-ivetorium/300/300" },
+    { "id": "cc-6", "chart": "circle", "rank": 6, "previousRank": 6, "movement": "same", "songTitle": "Spill the Feels", "artistName": "SEVENTEEN", "albumCoverUrl": "https://picsum.photos/seed/album-spillthefeels/300/300" },
+    { "id": "cc-7", "chart": "circle", "rank": 7, "previousRank": 9, "movement": "up", "movementAmount": 2, "songTitle": "Boom", "artistName": "RIIZE", "albumCoverUrl": "https://picsum.photos/seed/riize-cover/300/300" },
+    { "id": "cc-8", "chart": "circle", "rank": 8, "previousRank": 7, "movement": "down", "movementAmount": 1, "songTitle": "Synk: Dive", "artistName": "aespa", "albumCoverUrl": "https://picsum.photos/seed/album-synkdive/300/300" },
+    { "id": "cc-9", "chart": "circle", "rank": 9, "previousRank": 8, "movement": "down", "movementAmount": 1, "songTitle": "Starlight Diary", "artistName": "TOMORROW X TOGETHER", "albumCoverUrl": "https://picsum.photos/seed/album-starlight/300/300" },
+    { "id": "cc-10", "chart": "circle", "rank": 10, "movement": "new", "songTitle": "Magnetic Rewind", "artistName": "ILLIT", "albumCoverUrl": "https://picsum.photos/seed/illit-cover/300/300" }
+  ],
+  "youtube": [
+    { "id": "yt-1", "chart": "youtube", "rank": 1, "previousRank": 1, "movement": "same", "songTitle": "Golden Hour", "artistName": "ATEEZ", "albumCoverUrl": "https://picsum.photos/seed/album-golden-hour/300/300" },
+    { "id": "yt-2", "chart": "youtube", "rank": 2, "previousRank": 4, "movement": "up", "movementAmount": 2, "songTitle": "Ceremony", "artistName": "Stray Kids", "albumCoverUrl": "https://picsum.photos/seed/album-ceremony/300/300" },
+    { "id": "yt-3", "chart": "youtube", "rank": 3, "previousRank": 2, "movement": "down", "movementAmount": 1, "songTitle": "Crazy", "artistName": "LE SSERAFIM", "albumCoverUrl": "https://picsum.photos/seed/album-crazy/300/300" },
+    { "id": "yt-4", "chart": "youtube", "rank": 4, "movement": "new", "songTitle": "Supernatural", "artistName": "NewJeans", "albumCoverUrl": "https://picsum.photos/seed/album-supernatural/300/300" },
+    { "id": "yt-5", "chart": "youtube", "rank": 5, "previousRank": 3, "movement": "down", "movementAmount": 2, "songTitle": "Spill the Feels", "artistName": "SEVENTEEN", "albumCoverUrl": "https://picsum.photos/seed/album-spillthefeels/300/300" },
+    { "id": "yt-6", "chart": "youtube", "rank": 6, "previousRank": 6, "movement": "same", "songTitle": "IVEtorium", "artistName": "IVE", "albumCoverUrl": "https://picsum.photos/seed/album-ivetorium/300/300" },
+    { "id": "yt-7", "chart": "youtube", "rank": 7, "previousRank": 8, "movement": "up", "movementAmount": 1, "songTitle": "Synk: Dive", "artistName": "aespa", "albumCoverUrl": "https://picsum.photos/seed/album-synkdive/300/300" },
+    { "id": "yt-8", "chart": "youtube", "rank": 8, "previousRank": 7, "movement": "down", "movementAmount": 1, "songTitle": "Boom", "artistName": "RIIZE", "albumCoverUrl": "https://picsum.photos/seed/riize-cover/300/300" },
+    { "id": "yt-9", "chart": "youtube", "rank": 9, "previousRank": 10, "movement": "up", "movementAmount": 1, "songTitle": "Starlight Diary", "artistName": "TOMORROW X TOGETHER", "albumCoverUrl": "https://picsum.photos/seed/album-starlight/300/300" },
+    { "id": "yt-10", "chart": "youtube", "rank": 10, "movement": "new", "songTitle": "Magnetic Rewind", "artistName": "ILLIT", "albumCoverUrl": "https://picsum.photos/seed/illit-cover/300/300" }
+  ]
+}
