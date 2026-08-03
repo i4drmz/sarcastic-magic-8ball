@@ -1,0 +1,3583 @@
+{
+  "generatedAt": "2026-08-02T22:19:08.274Z",
+  "dataBaseUrl": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data",
+  "summary": {
+    "totalArtistsProcessed": 1740,
+    "artistsWithWorkingImages": 1294,
+    "imagesFromWikidata": 1294,
+    "imagesFromCommons": 0,
+    "artistsWithoutImages": 446,
+    "namesTranslatedToEnglish": 0,
+    "groupNamesTranslatedToEnglish": 0
+  },
+  "missingImages": [
+    {
+      "id": "q63791524",
+      "name": "Ahn Han-byeol",
+      "group": "DreamNote",
+      "wikidataId": "Q63791524",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q487462",
+      "name": "Alexander Lee Eusebio",
+      "group": "U-KISS",
+      "wikidataId": "Q487462",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q625732",
+      "name": "Allen Kim",
+      "group": "XING (band)",
+      "wikidataId": "Q625732",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q11518718",
+      "name": "Atsuki Kimura",
+      "group": "Crazy Dogs",
+      "wikidataId": "Q11518718",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q10846505",
+      "name": "B-Bomb",
+      "group": "Block B",
+      "wikidataId": "Q10846505",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16213433",
+      "name": "Bada Kim",
+      "group": "Sinawe",
+      "wikidataId": "Q16213433",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12597615",
+      "name": "Bae Da-hae",
+      "group": "Vanilla Lucy",
+      "wikidataId": "Q12597615",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q134691469",
+      "name": "Baek Jun-hyuk",
+      "group": "Idid",
+      "wikidataId": "Q134691469",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q60668841",
+      "name": "Bang Hyun-ah",
+      "group": "WANNA.B",
+      "wikidataId": "Q60668841",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q125223001",
+      "name": "Bang Yun-ha",
+      "group": "Unis",
+      "wikidataId": "Q125223001",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q65052566",
+      "name": "BC",
+      "group": "1Team",
+      "wikidataId": "Q65052566",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q4919435",
+      "name": "Bizniz",
+      "group": "I.F",
+      "wikidataId": "Q4919435",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q119432806",
+      "name": "Bona (Chakra)",
+      "group": "Chakra",
+      "wikidataId": "Q119432806",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q138675557",
+      "name": "Byun Sungjae",
+      "group": "Eloise",
+      "wikidataId": "Q138675557",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12621018",
+      "name": "C-Luv",
+      "group": "Soul Train",
+      "wikidataId": "Q12621018",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97704455",
+      "name": "Castle J",
+      "group": "MCND",
+      "wikidataId": "Q97704455",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q18230972",
+      "name": "Cha Hun",
+      "group": "N.Flying",
+      "wikidataId": "Q18230972",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16091962",
+      "name": "Cho Ha-rang",
+      "group": "Jewelry",
+      "wikidataId": "Q16091962",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q116937218",
+      "name": "Cho Kyungmin",
+      "group": "8Turn",
+      "wikidataId": "Q116937218",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120230463",
+      "name": "Choe Chan-yi",
+      "group": "BOYS24",
+      "wikidataId": "Q120230463",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q43089325",
+      "name": "Choi Do-won",
+      "group": "Ulala Session",
+      "wikidataId": "Q43089325",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63791511",
+      "name": "Choi Eui-jeong",
+      "group": "DreamNote",
+      "wikidataId": "Q63791511",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q62984143",
+      "name": "Choi Haneul",
+      "group": "Saturday",
+      "wikidataId": "Q62984143",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q31178401",
+      "name": "Choi Jae-man",
+      "group": "Urban Zakapa",
+      "wikidataId": "Q31178401",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q130218347",
+      "name": "Choi Ji-ho",
+      "group": "Ampers&One",
+      "wikidataId": "Q130218347",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12619628",
+      "name": "Choi Soo-eun",
+      "group": "Gangkiz",
+      "wikidataId": "Q12619628",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q18531275",
+      "name": "Choi Sung-min",
+      "group": "Speed",
+      "wikidataId": "Q18531275",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q80126990",
+      "name": "Choi Yeo-ri",
+      "group": "Ariaz",
+      "wikidataId": "Q80126990",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q136674212",
+      "name": "Choo Mi-jeong",
+      "group": "",
+      "wikidataId": "Q136674212",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q83688070",
+      "name": "Colde",
+      "group": "Off On Off",
+      "wikidataId": "Q83688070",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16766873",
+      "name": "D.Action",
+      "group": "Untouchable",
+      "wikidataId": "Q16766873",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112692536",
+      "name": "Daemon",
+      "group": "Superkind",
+      "wikidataId": "Q112692536",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12582742",
+      "name": "Dalpalan",
+      "group": "Pippi band",
+      "wikidataId": "Q12582742",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73817101",
+      "name": "Dam I",
+      "group": "ANS",
+      "wikidataId": "Q73817101",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q21575878",
+      "name": "Davink",
+      "group": "OnePiece",
+      "wikidataId": "Q21575878",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12592881",
+      "name": "Devin Lee",
+      "group": "Dr. Core 911",
+      "wikidataId": "Q12592881",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12593778",
+      "name": "Digili",
+      "group": "Honey Family",
+      "wikidataId": "Q12593778",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q18815429",
+      "name": "Do Ha-rin",
+      "group": "Space A",
+      "wikidataId": "Q18815429",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107213681",
+      "name": "Do Hee",
+      "group": "Cignature",
+      "wikidataId": "Q107213681",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q134579900",
+      "name": "Doeun",
+      "group": "Young Posse",
+      "wikidataId": "Q134579900",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12616637",
+      "name": "Dongik Cho",
+      "group": "",
+      "wikidataId": "Q12616637",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107559919",
+      "name": "Dosie",
+      "group": "Purple Kiss",
+      "wikidataId": "Q107559919",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16180538",
+      "name": "DTheo",
+      "group": "Soul Dive",
+      "wikidataId": "Q16180538",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q13432198",
+      "name": "Duk Kyu Ha",
+      "group": "",
+      "wikidataId": "Q13432198",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112023536",
+      "name": "E-CHAN",
+      "group": "DKB",
+      "wikidataId": "Q112023536",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97340017",
+      "name": "E-TION",
+      "group": "ONF",
+      "wikidataId": "Q97340017",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q115785099",
+      "name": "Eom Se-ung",
+      "group": "THE MAN BLK",
+      "wikidataId": "Q115785099",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q101207563",
+      "name": "Eunbyeol",
+      "group": "Prisma",
+      "wikidataId": "Q101207563",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q138708459",
+      "name": "Eunsun",
+      "group": "",
+      "wikidataId": "Q138708459",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16766877",
+      "name": "From20",
+      "group": "Big Star",
+      "wikidataId": "Q16766877",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16079983",
+      "name": "G.Gorilla",
+      "group": "Eve",
+      "wikidataId": "Q16079983",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q43110888",
+      "name": "Go Eun-chae",
+      "group": "Papaya",
+      "wikidataId": "Q43110888",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73920083",
+      "name": "Go Hyun-seo",
+      "group": "G-reyish",
+      "wikidataId": "Q73920083",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112023331",
+      "name": "Go Jae-suk",
+      "group": "Bunny Girls",
+      "wikidataId": "Q112023331",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120230461",
+      "name": "Go Woo-jin",
+      "group": "THE MAN BLK",
+      "wikidataId": "Q120230461",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16179570",
+      "name": "Gohn",
+      "group": "Xeno-T",
+      "wikidataId": "Q16179570",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q122760771",
+      "name": "Gyehyeon",
+      "group": "VERIVERY",
+      "wikidataId": "Q122760771",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q101207120",
+      "name": "Gyeongmin",
+      "group": "Prisma",
+      "wikidataId": "Q101207120",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12584034",
+      "name": "Gyepy",
+      "group": "Autumn Vacation",
+      "wikidataId": "Q12584034",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q133520642",
+      "name": "Ha Yoo-joon",
+      "group": "AxMxP",
+      "wikidataId": "Q133520642",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16092478",
+      "name": "Hae Geum",
+      "group": "BeBe Mignon",
+      "wikidataId": "Q16092478",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q9203527",
+      "name": "Haee",
+      "group": "GLAM",
+      "wikidataId": "Q9203527",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q81812234",
+      "name": "Haena",
+      "group": "ANS",
+      "wikidataId": "Q81812234",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12624272",
+      "name": "Han Ye-won",
+      "group": "Sugar",
+      "wikidataId": "Q12624272",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12624267",
+      "name": "Han Youngae",
+      "group": "",
+      "wikidataId": "Q12624267",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q84324502",
+      "name": "Hana (ALDL)",
+      "group": "Cignature",
+      "wikidataId": "Q84324502",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q20444729",
+      "name": "Hello Gayoung",
+      "group": "",
+      "wikidataId": "Q20444729",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q116795956",
+      "name": "HELLO GLOOM",
+      "group": "IMFACT",
+      "wikidataId": "Q116795956",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q132965766",
+      "name": "Her Check",
+      "group": "Zingo",
+      "wikidataId": "Q132965766",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q22975411",
+      "name": "Hoegidong Danpyunsun",
+      "group": "Danpyunsun and the Sailors",
+      "wikidataId": "Q22975411",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97339381",
+      "name": "Hong Eun-ki",
+      "group": "Rainz",
+      "wikidataId": "Q97339381",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16180645",
+      "name": "Hong Hwa-ja",
+      "group": "Koreana",
+      "wikidataId": "Q16180645",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q24856296",
+      "name": "Hooni",
+      "group": "Hooni Yongi",
+      "wikidataId": "Q24856296",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q116226506",
+      "name": "Hosu",
+      "group": "Black Level",
+      "wikidataId": "Q116226506",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61100151",
+      "name": "Hwall",
+      "group": "The Boyz",
+      "wikidataId": "Q61100151",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q110118291",
+      "name": "Hwang Chae-min",
+      "group": "Vitamin",
+      "wikidataId": "Q110118291",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q28412071",
+      "name": "Hwang In-ho",
+      "group": "SKYE",
+      "wikidataId": "Q28412071",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q95243152",
+      "name": "Hwang Jung-ha",
+      "group": "BEATWIN",
+      "wikidataId": "Q95243152",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q60669024",
+      "name": "Hwang Se-jin",
+      "group": "WANNA.B",
+      "wikidataId": "Q60669024",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q68477637",
+      "name": "Hwang Yunsung",
+      "group": "ROMEO",
+      "wikidataId": "Q68477637",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123157276",
+      "name": "Hwiseo",
+      "group": "EL7Z UP",
+      "wikidataId": "Q123157276",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q110942574",
+      "name": "Hyuk Gun Kim",
+      "group": "The Cross",
+      "wikidataId": "Q110942574",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q68478721",
+      "name": "Hyunjong",
+      "group": "KNK",
+      "wikidataId": "Q68478721",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q47666673",
+      "name": "Im Dong-gun",
+      "group": "Hyukoh",
+      "wikidataId": "Q47666673",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q62984351",
+      "name": "Im Jiyeon",
+      "group": "Saturday",
+      "wikidataId": "Q62984351",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q28410741",
+      "name": "Im Jun Hyeok",
+      "group": "Day6",
+      "wikidataId": "Q28410741",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q31177864",
+      "name": "Im So-young",
+      "group": "Stellar",
+      "wikidataId": "Q31177864",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16090291",
+      "name": "In-Ho Eom",
+      "group": "Shinchon Blues",
+      "wikidataId": "Q16090291",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16175868",
+      "name": "Inati",
+      "group": "DMTN",
+      "wikidataId": "Q16175868",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q116226505",
+      "name": "Intae",
+      "group": "Black Level",
+      "wikidataId": "Q116226505",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107559920",
+      "name": "Ireh",
+      "group": "Purple Kiss",
+      "wikidataId": "Q107559920",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q81811194",
+      "name": "J",
+      "group": "ANS",
+      "wikidataId": "Q81811194",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q17504097",
+      "name": "Jang Bo-young",
+      "group": "Us",
+      "wikidataId": "Q17504097",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q80126992",
+      "name": "Jang Hyog-yeong",
+      "group": "Ariaz",
+      "wikidataId": "Q80126992",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120472629",
+      "name": "Jang Sang-in",
+      "group": "Maytree",
+      "wikidataId": "Q120472629",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16170048",
+      "name": "Jang Seok-hyeon",
+      "group": "Sharp",
+      "wikidataId": "Q16170048",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q134689736",
+      "name": "Jang Yong-hoon",
+      "group": "Idid",
+      "wikidataId": "Q134689736",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16091504",
+      "name": "Janghoil",
+      "group": "015B",
+      "wikidataId": "Q16091504",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16179702",
+      "name": "Jenissi",
+      "group": "Xeno-T",
+      "wikidataId": "Q16179702",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63791516",
+      "name": "Jeon Ji-min",
+      "group": "DreamNote",
+      "wikidataId": "Q63791516",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q111693475",
+      "name": "Jeon Min-gyu",
+      "group": "DKZ",
+      "wikidataId": "Q111693475",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109704",
+      "name": "Jeon Min-wook",
+      "group": "BAE173",
+      "wikidataId": "Q107109704",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109690",
+      "name": "Jeong Ji-soo",
+      "group": "Busters",
+      "wikidataId": "Q107109690",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q55734091",
+      "name": "Jeong Sa-gang",
+      "group": "The East Light",
+      "wikidataId": "Q55734091",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q119433339",
+      "name": "Jeong Seung-hwan",
+      "group": "ATBO",
+      "wikidataId": "Q119433339",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73920079",
+      "name": "Jeong Ye-na",
+      "group": "G-reyish",
+      "wikidataId": "Q73920079",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61770150",
+      "name": "Jeong Yoon-hye",
+      "group": "Flavor",
+      "wikidataId": "Q61770150",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q114772081",
+      "name": "Jiae",
+      "group": "Wassup",
+      "wikidataId": "Q114772081",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q493514",
+      "name": "Jihyuk",
+      "group": "Supernova",
+      "wikidataId": "Q493514",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q84324505",
+      "name": "Jin Hyeon-ju",
+      "group": "Good Day",
+      "wikidataId": "Q84324505",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q21825034",
+      "name": "Jin Woong Lim",
+      "group": "Travel Skeches",
+      "wikidataId": "Q21825034",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q22974994",
+      "name": "Jina U",
+      "group": "Hot Place",
+      "wikidataId": "Q22974994",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16091817",
+      "name": "Jisun",
+      "group": "ShaFLA",
+      "wikidataId": "Q16091817",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q43111358",
+      "name": "Jo A-yeong",
+      "group": "Aurora",
+      "wikidataId": "Q43111358",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q11271396",
+      "name": "Jo Eun-byul",
+      "group": "LUV",
+      "wikidataId": "Q11271396",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97239593",
+      "name": "Jo Joong-hee",
+      "group": "A-Jax",
+      "wikidataId": "Q97239593",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q80126993",
+      "name": "Jo Ju-eun",
+      "group": "Ariaz",
+      "wikidataId": "Q80126993",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q71443436",
+      "name": "JoA",
+      "group": "Stellar",
+      "wikidataId": "Q71443436",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12616964",
+      "name": "Joe Won Sun",
+      "group": "Roller Coaster",
+      "wikidataId": "Q12616964",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12616997",
+      "name": "joyumn",
+      "group": "Gate Flowers",
+      "wikidataId": "Q12616997",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63378931",
+      "name": "Jun Eun-mi",
+      "group": "Jewelry",
+      "wikidataId": "Q63378931",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q58476154",
+      "name": "Jun-yeol Yoo",
+      "group": "Zoo",
+      "wikidataId": "Q58476154",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12615793",
+      "name": "Jung Shi-woon",
+      "group": "Baby V.O.X.",
+      "wikidataId": "Q12615793",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16767590",
+      "name": "Jung Sung-hak",
+      "group": "Big Star",
+      "wikidataId": "Q16767590",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16176620",
+      "name": "Jung Uk",
+      "group": "24K",
+      "wikidataId": "Q16176620",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64785153",
+      "name": "Jung Yerim",
+      "group": "Purple Beck",
+      "wikidataId": "Q64785153",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q493619",
+      "name": "Jung Yoon-hak",
+      "group": "Supernova",
+      "wikidataId": "Q493619",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q3812752",
+      "name": "Kang Doo",
+      "group": "The Jadu",
+      "wikidataId": "Q3812752",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q67933442",
+      "name": "Kang Hyeon-su",
+      "group": "BLK",
+      "wikidataId": "Q67933442",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q140185451",
+      "name": "Kang Ji Wook",
+      "group": "Coed School",
+      "wikidataId": "Q140185451",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q30942258",
+      "name": "Kang Ji-eun",
+      "group": "LPG",
+      "wikidataId": "Q30942258",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q17157459",
+      "name": "Kang Jin-woo",
+      "group": "Bounce",
+      "wikidataId": "Q17157459",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64177288",
+      "name": "Kang Min-ju",
+      "group": "GWSN",
+      "wikidataId": "Q64177288",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q131547763",
+      "name": "Kang Min-seo",
+      "group": "Fantasy Boys",
+      "wikidataId": "Q131547763",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q80126988",
+      "name": "Kang Si-hyeon",
+      "group": "Ariaz",
+      "wikidataId": "Q80126988",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16080024",
+      "name": "Kang Won-rae",
+      "group": "Clon",
+      "wikidataId": "Q16080024",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q85882698",
+      "name": "Keum Dong Hyun",
+      "group": "Epex",
+      "wikidataId": "Q85882698",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61750304",
+      "name": "Kevin Moon",
+      "group": "The Boyz",
+      "wikidataId": "Q61750304",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16177791",
+      "name": "Kiggen",
+      "group": "Phantom",
+      "wikidataId": "Q16177791",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q23995054",
+      "name": "Kim Al-eum",
+      "group": "Green Area",
+      "wikidataId": "Q23995054",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q72587185",
+      "name": "Kim Bada",
+      "group": "HINAPIA",
+      "wikidataId": "Q72587185",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12587510",
+      "name": "Kim Bo-mi",
+      "group": "TVXQ",
+      "wikidataId": "Q12587510",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q62984452",
+      "name": "Kim Chae Won",
+      "group": "Saturday",
+      "wikidataId": "Q62984452",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16090147",
+      "name": "Kim Chang-hoon",
+      "group": "Sanulrim",
+      "wikidataId": "Q16090147",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q62984184",
+      "name": "Kim Cho-hee",
+      "group": "Saturday",
+      "wikidataId": "Q62984184",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q28698437",
+      "name": "Kim Dong-myung",
+      "group": "Boohwal",
+      "wikidataId": "Q28698437",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q626896",
+      "name": "Kim Dong-ryul",
+      "group": "Exhibition",
+      "wikidataId": "Q626896",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q111544443",
+      "name": "Kim Ga-ram",
+      "group": "Le Sserafim",
+      "wikidataId": "Q111544443",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12586978",
+      "name": "Kim Gwang-jin",
+      "group": "The Classic",
+      "wikidataId": "Q12586978",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12589282",
+      "name": "Kim Hyung Joong",
+      "group": "Toy",
+      "wikidataId": "Q12589282",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q626349",
+      "name": "Kim Isak",
+      "group": "Isak N Jiyeon",
+      "wikidataId": "Q626349",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16178587",
+      "name": "Kim Jeong-eun",
+      "group": "Maronnier",
+      "wikidataId": "Q16178587",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q79404278",
+      "name": "Kim Ji-sung",
+      "group": "TRCNG",
+      "wikidataId": "Q79404278",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q55736771",
+      "name": "Kim Jun-wook",
+      "group": "The East Light",
+      "wikidataId": "Q55736771",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112022592",
+      "name": "Kim Kang-min",
+      "group": "TRCNG",
+      "wikidataId": "Q112022592",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q69697295",
+      "name": "Kim Min-ji",
+      "group": "Busters",
+      "wikidataId": "Q69697295",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q55728091",
+      "name": "Kim Min-seok (singer, born 1991)",
+      "group": "MeloMance",
+      "wikidataId": "Q55728091",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16180028",
+      "name": "Kim Pureun",
+      "group": "Elf",
+      "wikidataId": "Q16180028",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q55729432",
+      "name": "Kim Rock-hyun",
+      "group": "100%",
+      "wikidataId": "Q55729432",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109294",
+      "name": "Kim Sang-min",
+      "group": "Cross Gene",
+      "wikidataId": "Q107109294",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q111693473",
+      "name": "Kim Se-hyeon",
+      "group": "DKZ",
+      "wikidataId": "Q111693473",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q115528243",
+      "name": "Kim Seon-you",
+      "group": "CLASS:y",
+      "wikidataId": "Q115528243",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q43088724",
+      "name": "Kim Seong-lee",
+      "group": "Rainz",
+      "wikidataId": "Q43088724",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63791275",
+      "name": "Kim Seung-hun",
+      "group": "CIX",
+      "wikidataId": "Q63791275",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q130222829",
+      "name": "Kim Seung-mo",
+      "group": "Ampers&One",
+      "wikidataId": "Q130222829",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q6409396",
+      "name": "Kim Soo-chul",
+      "group": "Little Big Man",
+      "wikidataId": "Q6409396",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q498071",
+      "name": "Kim Sung-hee",
+      "group": "Kara",
+      "wikidataId": "Q498071",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16175718",
+      "name": "Kim Sung-Pil",
+      "group": "By JINSUNG",
+      "wikidataId": "Q16175718",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q6763158",
+      "name": "Kim Tae-heon",
+      "group": "ZE:A",
+      "wikidataId": "Q6763158",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q65239041",
+      "name": "Kim Tae-hyun",
+      "group": "DickPunks",
+      "wikidataId": "Q65239041",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q17157546",
+      "name": "Kim Woo-geun",
+      "group": "Bounce",
+      "wikidataId": "Q17157546",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q85974971",
+      "name": "Kim Ximya",
+      "group": "XXX",
+      "wikidataId": "Q85974971",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q109456944",
+      "name": "Kim Ye-hyeon",
+      "group": "Gidondae",
+      "wikidataId": "Q109456944",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123157356",
+      "name": "Kim Yeon-kyu",
+      "group": "ATBO",
+      "wikidataId": "Q123157356",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16177125",
+      "name": "Kim Yong Jin",
+      "group": "Bohemian",
+      "wikidataId": "Q16177125",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109452",
+      "name": "Kim Yong-seok",
+      "group": "Cross Gene",
+      "wikidataId": "Q107109452",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q140073967",
+      "name": "Kim Yoo Hyun",
+      "group": "Ye-A",
+      "wikidataId": "Q140073967",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120230477",
+      "name": "Kim Yoo-hwan",
+      "group": "Speed",
+      "wikidataId": "Q120230477",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q24857942",
+      "name": "Kim Yu-min",
+      "group": "RANIA",
+      "wikidataId": "Q24857942",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12584419",
+      "name": "Ko Ji-yong",
+      "group": "Sechs Kies",
+      "wikidataId": "Q12584419",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q10855340",
+      "name": "Koh Yu-jin",
+      "group": "Flower",
+      "wikidataId": "Q10855340",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12585562",
+      "name": "Ku Tchä-hun",
+      "group": "Jaurim",
+      "wikidataId": "Q12585562",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16167733",
+      "name": "Kwon Byeong-jun",
+      "group": "Pippi band",
+      "wikidataId": "Q16167733",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q18229754",
+      "name": "Kwon Kwang Jin",
+      "group": "CNBLUE",
+      "wikidataId": "Q18229754",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107108944",
+      "name": "Kyeong-ha",
+      "group": "TST",
+      "wikidataId": "Q107108944",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112021229",
+      "name": "Kyungmin",
+      "group": "Mister T",
+      "wikidataId": "Q112021229",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64785158",
+      "name": "Layeon",
+      "group": "Purple Beck",
+      "wikidataId": "Q64785158",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q66441287",
+      "name": "Lee Chae-lin",
+      "group": "Fanatics",
+      "wikidataId": "Q66441287",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q131582080",
+      "name": "Lee Da-eul",
+      "group": "POLARIX",
+      "wikidataId": "Q131582080",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97212696",
+      "name": "Lee Daewon",
+      "group": "Mister T",
+      "wikidataId": "Q97212696",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q67991392",
+      "name": "Lee Dong-won",
+      "group": "KNK",
+      "wikidataId": "Q67991392",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109143",
+      "name": "Lee Dongheon",
+      "group": "VERIVERY",
+      "wikidataId": "Q107109143",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q67981175",
+      "name": "Lee Dongyeol",
+      "group": "Up10tion",
+      "wikidataId": "Q67981175",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q13646009",
+      "name": "Lee Eun Joo",
+      "group": "Moogadang",
+      "wikidataId": "Q13646009",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12610817",
+      "name": "Lee Gai",
+      "group": "Settorae",
+      "wikidataId": "Q12610817",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q18648456",
+      "name": "Lee Haena",
+      "group": "Matilda",
+      "wikidataId": "Q18648456",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q20444233",
+      "name": "Lee Hyun-seob",
+      "group": "",
+      "wikidataId": "Q20444233",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q134519981",
+      "name": "Lee In-haeng",
+      "group": "HALO",
+      "wikidataId": "Q134519981",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q47666667",
+      "name": "Lee In-woo",
+      "group": "Hyukoh",
+      "wikidataId": "Q47666667",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12613109",
+      "name": "Lee Jae Yong",
+      "group": "Norazo",
+      "wikidataId": "Q12613109",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q22974740",
+      "name": "Lee Jangwon",
+      "group": "Peppertones",
+      "wikidataId": "Q22974740",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q117478089",
+      "name": "Lee Jong-hee",
+      "group": "MASC",
+      "wikidataId": "Q117478089",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q23007883",
+      "name": "Lee Jong-hwa",
+      "group": "Madtown",
+      "wikidataId": "Q23007883",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97221041",
+      "name": "Lee Jun Yong",
+      "group": "Noir",
+      "wikidataId": "Q97221041",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q131582068",
+      "name": "Lee Jun-hyuk",
+      "group": "POLARIX",
+      "wikidataId": "Q131582068",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q65054045",
+      "name": "Lee Jun-sang",
+      "group": "PLT",
+      "wikidataId": "Q65054045",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12612702",
+      "name": "Lee Juno",
+      "group": "Seo Taiji and Boys",
+      "wikidataId": "Q12612702",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q58862083",
+      "name": "Lee Ki-won",
+      "group": "Rainz",
+      "wikidataId": "Q58862083",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16175701",
+      "name": "Lee Ki-wook",
+      "group": "DOZ",
+      "wikidataId": "Q16175701",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q60669036",
+      "name": "Lee Min-ji",
+      "group": "WANNA.B",
+      "wikidataId": "Q60669036",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q65052562",
+      "name": "Lee Ru-rin",
+      "group": "1Team",
+      "wikidataId": "Q65052562",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q85884657",
+      "name": "Lee Sang-hyuk",
+      "group": "SF9",
+      "wikidataId": "Q85884657",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16177787",
+      "name": "Lee Sang-soon",
+      "group": "Verandah Project",
+      "wikidataId": "Q16177787",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12611814",
+      "name": "Lee Se-joon",
+      "group": "Yurisangja",
+      "wikidataId": "Q12611814",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q56691013",
+      "name": "Lee Seok-cheol",
+      "group": "The East Light",
+      "wikidataId": "Q56691013",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q139677463",
+      "name": "Lee Seung Kwang",
+      "group": "Goofy",
+      "wikidataId": "Q139677463",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16179205",
+      "name": "Lee Seung-gyu",
+      "group": "Koreana",
+      "wikidataId": "Q16179205",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q56691022",
+      "name": "Lee Seung-hyun",
+      "group": "The East Light",
+      "wikidataId": "Q56691022",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q9205048",
+      "name": "Lee Seung-yeop",
+      "group": "A-Jax",
+      "wikidataId": "Q9205048",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16079908",
+      "name": "Lee Si-a",
+      "group": "CHI CHI",
+      "wikidataId": "Q16079908",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16178661",
+      "name": "Lee So Min",
+      "group": "Black Beat",
+      "wikidataId": "Q16178661",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16097622",
+      "name": "Lee Soo",
+      "group": "M.C The Max",
+      "wikidataId": "Q16097622",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16090965",
+      "name": "Lee Sung-jin",
+      "group": "NRG",
+      "wikidataId": "Q16090965",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97308624",
+      "name": "Lee Tae Seung",
+      "group": "Teen Teen",
+      "wikidataId": "Q97308624",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q108261336",
+      "name": "Lee Tae-yee",
+      "group": "BB Girls",
+      "wikidataId": "Q108261336",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97308625",
+      "name": "Lee Woo-jin",
+      "group": "Teen Teen",
+      "wikidataId": "Q97308625",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q34439554",
+      "name": "Lee Woo-jin",
+      "group": "The East Light",
+      "wikidataId": "Q34439554",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73920080",
+      "name": "Lee Ye-so",
+      "group": "G-reyish",
+      "wikidataId": "Q73920080",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16766917",
+      "name": "Lee Young-jun",
+      "group": "Big Star",
+      "wikidataId": "Q16766917",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q10976505",
+      "name": "Lee Yunjeong",
+      "group": "Pippi band",
+      "wikidataId": "Q10976505",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q19162089",
+      "name": "Lee Zi Yi",
+      "group": "Turtles",
+      "wikidataId": "Q19162089",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q71442517",
+      "name": "Leeseul",
+      "group": "Stellar",
+      "wikidataId": "Q71442517",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q11287124",
+      "name": "Leeu",
+      "group": "M.Pire",
+      "wikidataId": "Q11287124",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q100397038",
+      "name": "Leia",
+      "group": "Blackswan",
+      "wikidataId": "Q100397038",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64177448",
+      "name": "Lena",
+      "group": "GWSN",
+      "wikidataId": "Q64177448",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q47673683",
+      "name": "Lim Hyun-jae",
+      "group": "Hyukoh",
+      "wikidataId": "Q47673683",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63639006",
+      "name": "Lim Ji-min",
+      "group": "JUST B",
+      "wikidataId": "Q63639006",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q125223945",
+      "name": "Lim Seo-won",
+      "group": "Unis",
+      "wikidataId": "Q125223945",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q133826419",
+      "name": "LIN",
+      "group": "Nouera",
+      "wikidataId": "Q133826419",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q9126881",
+      "name": "Maeng Yun-young",
+      "group": "A-Jax",
+      "wikidataId": "Q9126881",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q57599540",
+      "name": "Maru",
+      "group": "C-Clown",
+      "wikidataId": "Q57599540",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12581530",
+      "name": "MC Meta",
+      "group": "Garion",
+      "wikidataId": "Q12581530",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q20946308",
+      "name": "Microdot",
+      "group": "All Black",
+      "wikidataId": "Q20946308",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q109455290",
+      "name": "Migyo",
+      "group": "LoveUs",
+      "wikidataId": "Q109455290",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12594691",
+      "name": "Mikey",
+      "group": "Turbo",
+      "wikidataId": "Q12594691",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q68480290",
+      "name": "Milo",
+      "group": "ROMEO",
+      "wikidataId": "Q68480290",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123157347",
+      "name": "Min Jung-hu",
+      "group": "N.O.M",
+      "wikidataId": "Q123157347",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12611442",
+      "name": "Min Kyoung Lee",
+      "group": "Diva",
+      "wikidataId": "Q12611442",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q105705462",
+      "name": "Min-su",
+      "group": "YOUNG&WILD",
+      "wikidataId": "Q105705462",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q124854436",
+      "name": "Minjae",
+      "group": "MCND",
+      "wikidataId": "Q124854436",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16097180",
+      "name": "Mino",
+      "group": "Free Style",
+      "wikidataId": "Q16097180",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q109455263",
+      "name": "Minsune",
+      "group": "Piggy Dolls",
+      "wikidataId": "Q109455263",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q68479963",
+      "name": "Minsung",
+      "group": "ROMEO",
+      "wikidataId": "Q68479963",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q17158017",
+      "name": "Miso",
+      "group": "GLAM",
+      "wikidataId": "Q17158017",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q28698773",
+      "name": "Monika",
+      "group": "Hot Place",
+      "wikidataId": "Q28698773",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109710",
+      "name": "Moon Je-hyun",
+      "group": "1Team",
+      "wikidataId": "Q107109710",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16799643",
+      "name": "Moon Kwan Chul",
+      "group": "",
+      "wikidataId": "Q16799643",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63791514",
+      "name": "Moon Sin-ae",
+      "group": "DreamNote",
+      "wikidataId": "Q63791514",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16079898",
+      "name": "Moon Sung-hoon",
+      "group": "NRG",
+      "wikidataId": "Q16079898",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109162",
+      "name": "Muzin",
+      "group": "BAE173",
+      "wikidataId": "Q107109162",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q111904432",
+      "name": "Na Yoon-su",
+      "group": "N.O.M",
+      "wikidataId": "Q111904432",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12589524",
+      "name": "Nah Deul",
+      "group": "Weather Forecast",
+      "wikidataId": "Q12589524",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q134696506",
+      "name": "Nah Sang-hyun",
+      "group": "Band Nah",
+      "wikidataId": "Q134696506",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16180320",
+      "name": "Nakta",
+      "group": "Xeno-T",
+      "wikidataId": "Q16180320",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q27841676",
+      "name": "Nari",
+      "group": "Wassup",
+      "wikidataId": "Q27841676",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q132147277",
+      "name": "Narin",
+      "group": "Meovv",
+      "wikidataId": "Q132147277",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q43089385",
+      "name": "NAVINCI",
+      "group": "Xeno-T",
+      "wikidataId": "Q43089385",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61863055",
+      "name": "New",
+      "group": "The Boyz",
+      "wikidataId": "Q61863055",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109130",
+      "name": "Noa",
+      "group": "TFN",
+      "wikidataId": "Q107109130",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16159691",
+      "name": "Nuck",
+      "group": "Soul Dive",
+      "wikidataId": "Q16159691",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q27951611",
+      "name": "Oh Hyuk",
+      "group": "Hyukoh",
+      "wikidataId": "Q27951611",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q21059602",
+      "name": "Oh Ji-hoon",
+      "group": "Two Two",
+      "wikidataId": "Q21059602",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109445",
+      "name": "Oh Jin-seong",
+      "group": "IZI",
+      "wikidataId": "Q107109445",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q18389317",
+      "name": "Oh Jongseok",
+      "group": "JJCC",
+      "wikidataId": "Q18389317",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q115528250",
+      "name": "Oh Junseok",
+      "group": "ATBO",
+      "wikidataId": "Q115528250",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12590740",
+      "name": "Oh Sang Eun",
+      "group": "Shinvi",
+      "wikidataId": "Q12590740",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109436",
+      "name": "Oh Se-hyeon",
+      "group": "Apeace",
+      "wikidataId": "Q107109436",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73817107",
+      "name": "Oh Se-jin",
+      "group": "ANS",
+      "wikidataId": "Q73817107",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16182032",
+      "name": "Oh Tae Ho",
+      "group": "Shinchon Blues",
+      "wikidataId": "Q16182032",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q844600",
+      "name": "Oh Won-bin",
+      "group": "F.T. Island",
+      "wikidataId": "Q844600",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q125223559",
+      "name": "Oh Yoon-a",
+      "group": "Unis",
+      "wikidataId": "Q125223559",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97227873",
+      "name": "Ok Jin-uk",
+      "group": "Super Five",
+      "wikidataId": "Q97227873",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q27953041",
+      "name": "One",
+      "group": "1Punch",
+      "wikidataId": "Q27953041",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16172124",
+      "name": "P-Goon",
+      "group": "Xeno-T",
+      "wikidataId": "Q16172124",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97338898",
+      "name": "Park Bo-in",
+      "group": "A-Daily",
+      "wikidataId": "Q97338898",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123157351",
+      "name": "Park Do-ha",
+      "group": "XEED",
+      "wikidataId": "Q123157351",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63791520",
+      "name": "Park Eun-jo",
+      "group": "DreamNote",
+      "wikidataId": "Q63791520",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61559299",
+      "name": "Park Eun-sol",
+      "group": "Tropical",
+      "wikidataId": "Q61559299",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q58474266",
+      "name": "Park Gi Young",
+      "group": "Zoo",
+      "wikidataId": "Q58474266",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q105705481",
+      "name": "Park Gyu-jung",
+      "group": "GroovyRoom",
+      "wikidataId": "Q105705481",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16176475",
+      "name": "Park Hyun-joon",
+      "group": "Pippi band",
+      "wikidataId": "Q16176475",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73803089",
+      "name": "Park Hyun-min",
+      "group": "Apple.B",
+      "wikidataId": "Q73803089",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q27952182",
+      "name": "Park Jang-hyun",
+      "group": "Vromance",
+      "wikidataId": "Q27952182",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q125473566",
+      "name": "Park Je-up",
+      "group": "IMFACT",
+      "wikidataId": "Q125473566",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120696494",
+      "name": "Park Jeong-geun",
+      "group": "HAWW",
+      "wikidataId": "Q120696494",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107559918",
+      "name": "Park Ji-eun",
+      "group": "Purple Kiss",
+      "wikidataId": "Q107559918",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112021225",
+      "name": "Park Min Hye",
+      "group": "Big Mama",
+      "wikidataId": "Q112021225",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q71245507",
+      "name": "Park Min-seo",
+      "group": "Saturday",
+      "wikidataId": "Q71245507",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64785162",
+      "name": "Park Minyi",
+      "group": "Purple Beck",
+      "wikidataId": "Q64785162",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q105705526",
+      "name": "Park Seun-yeon",
+      "group": "Matilda",
+      "wikidataId": "Q105705526",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73920076",
+      "name": "Park Shin-young",
+      "group": "G-reyish",
+      "wikidataId": "Q73920076",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63791518",
+      "name": "Park Su-min",
+      "group": "DreamNote",
+      "wikidataId": "Q63791518",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q138110563",
+      "name": "Park Sui",
+      "group": "TURAN",
+      "wikidataId": "Q138110563",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q55694668",
+      "name": "Park Yong-ju",
+      "group": "SM Rookies",
+      "wikidataId": "Q55694668",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97216182",
+      "name": "Park Yoolim",
+      "group": "7princess",
+      "wikidataId": "Q97216182",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73799496",
+      "name": "Park Yu-rim",
+      "group": "Apple.B",
+      "wikidataId": "Q73799496",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q21576975",
+      "name": "Park Yun-hwa",
+      "group": "T-max",
+      "wikidataId": "Q21576975",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12622336",
+      "name": "Philtre",
+      "group": "Planet Shiver",
+      "wikidataId": "Q12622336",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61863833",
+      "name": "Q",
+      "group": "The Boyz",
+      "wikidataId": "Q61863833",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112023176",
+      "name": "RAM",
+      "group": "D-Unit",
+      "wikidataId": "Q112023176",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123554439",
+      "name": "Rami",
+      "group": "Babymonster",
+      "wikidataId": "Q123554439",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73817111",
+      "name": "Raon",
+      "group": "ANS",
+      "wikidataId": "Q73817111",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q57599411",
+      "name": "Ray",
+      "group": "C-Clown",
+      "wikidataId": "Q57599411",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q127424600",
+      "name": "Riina",
+      "group": "H1-Key",
+      "wikidataId": "Q127424600",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12594371",
+      "name": "Rimi",
+      "group": "Overclass",
+      "wikidataId": "Q12594371",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123157358",
+      "name": "Roni",
+      "group": "XEED",
+      "wikidataId": "Q123157358",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123554440",
+      "name": "Rora",
+      "group": "Babymonster",
+      "wikidataId": "Q123554440",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73817106",
+      "name": "Royeon",
+      "group": "ANS",
+      "wikidataId": "Q73817106",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12619872",
+      "name": "Rumble Fish",
+      "group": "Rumble Fish",
+      "wikidataId": "Q12619872",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12970204",
+      "name": "Ryang Ha",
+      "group": "Ryanga Rhanga",
+      "wikidataId": "Q12970204",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q25559386",
+      "name": "Ryang Hyun",
+      "group": "Ryanga Rhanga",
+      "wikidataId": "Q25559386",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q117178278",
+      "name": "Saena",
+      "group": "Ablume",
+      "wikidataId": "Q117178278",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16170972",
+      "name": "SALTNPAPER",
+      "group": "Movement",
+      "wikidataId": "Q16170972",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q20948596",
+      "name": "Sanchez",
+      "group": "Phantom",
+      "wikidataId": "Q20948596",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16167012",
+      "name": "Sangdo",
+      "group": "Xeno-T",
+      "wikidataId": "Q16167012",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61863254",
+      "name": "Sangyeon",
+      "group": "The Boyz",
+      "wikidataId": "Q61863254",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q110272735",
+      "name": "Satbyeol",
+      "group": "PIXY",
+      "wikidataId": "Q110272735",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112021732",
+      "name": "SAya",
+      "group": "SWAY",
+      "wikidataId": "Q112021732",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12602382",
+      "name": "Sean2Slow",
+      "group": "Movement",
+      "wikidataId": "Q12602382",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q84324503",
+      "name": "Seline",
+      "group": "Cignature",
+      "wikidataId": "Q84324503",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q84324506",
+      "name": "Semi",
+      "group": "Cignature",
+      "wikidataId": "Q84324506",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12602374",
+      "name": "Sentimental Scenery",
+      "group": "Epitone Project",
+      "wikidataId": "Q12602374",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97208928",
+      "name": "Seo Dong-sung",
+      "group": "N.Flying",
+      "wikidataId": "Q97208928",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q9188714",
+      "name": "Seo Jae-hyung",
+      "group": "A-Jax",
+      "wikidataId": "Q9188714",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q624464",
+      "name": "Seo Ji-young",
+      "group": "Sharp",
+      "wikidataId": "Q624464",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q67983211",
+      "name": "Seo Min-kyung",
+      "group": "Apple.B",
+      "wikidataId": "Q67983211",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q21058428",
+      "name": "Seo Yeon-soo",
+      "group": "Major",
+      "wikidataId": "Q21058428",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16767745",
+      "name": "Seo Youkyung",
+      "group": "AOA",
+      "wikidataId": "Q16767745",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q127424599",
+      "name": "Seoi",
+      "group": "H1-Key",
+      "wikidataId": "Q127424599",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12601623",
+      "name": "Seok Joon",
+      "group": "Old Fish",
+      "wikidataId": "Q12601623",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64176925",
+      "name": "Seokyoung",
+      "group": "GWSN",
+      "wikidataId": "Q64176925",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112257711",
+      "name": "Seol Won-dae",
+      "group": "DKZ",
+      "wikidataId": "Q112257711",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109314",
+      "name": "Seong-seob",
+      "group": "N.cus",
+      "wikidataId": "Q107109314",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64176781",
+      "name": "Seoryoung",
+      "group": "GWSN",
+      "wikidataId": "Q64176781",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61679273",
+      "name": "Seung-hwa Park",
+      "group": "Yurisangja",
+      "wikidataId": "Q61679273",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64038640",
+      "name": "Seungeun",
+      "group": "Bvndit",
+      "wikidataId": "Q64038640",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q68479576",
+      "name": "Seunghwan",
+      "group": "ROMEO",
+      "wikidataId": "Q68479576",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120792908",
+      "name": "Seungjun",
+      "group": "ONF",
+      "wikidataId": "Q120792908",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64785163",
+      "name": "Seyeon",
+      "group": "Purple Beck",
+      "wikidataId": "Q64785163",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q60418356",
+      "name": "Shaun",
+      "group": "The Koxx",
+      "wikidataId": "Q60418356",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q105705882",
+      "name": "Shim Jae-hyun",
+      "group": "Thornapple",
+      "wikidataId": "Q105705882",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12604156",
+      "name": "Shin Daechul",
+      "group": "Sinawe",
+      "wikidataId": "Q12604156",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12604200",
+      "name": "Shin Dong-wook",
+      "group": "Goofy",
+      "wikidataId": "Q12604200",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73920072",
+      "name": "Shin Hye-ji",
+      "group": "G-reyish",
+      "wikidataId": "Q73920072",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q19940283",
+      "name": "Shin Jaepyung",
+      "group": "Peppertones",
+      "wikidataId": "Q19940283",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q22975001",
+      "name": "Shin Ji-soo",
+      "group": "Tahiti",
+      "wikidataId": "Q22975001",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12604339",
+      "name": "Shin Seok-chul",
+      "group": "Seoul Electric Band",
+      "wikidataId": "Q12604339",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12604391",
+      "name": "Shin Soo Ah",
+      "group": "Seoul Family",
+      "wikidataId": "Q12604391",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16090251",
+      "name": "Shin Sung-woo",
+      "group": "Boohwal",
+      "wikidataId": "Q16090251",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q115287775",
+      "name": "Shin Ye-chan",
+      "group": "Omega X",
+      "wikidataId": "Q115287775",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12604475",
+      "name": "Shin yongjae",
+      "group": "4Men",
+      "wikidataId": "Q12604475",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12604506",
+      "name": "Shin Yun-cheol",
+      "group": "Seoul Electric Band",
+      "wikidataId": "Q12604506",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q19939230",
+      "name": "Shinji",
+      "group": "N.EX.T",
+      "wikidataId": "Q19939230",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109354",
+      "name": "Sian",
+      "group": "TFN",
+      "wikidataId": "Q107109354",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63964483",
+      "name": "Simyeong",
+      "group": "Bvndit",
+      "wikidataId": "Q63964483",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112692559",
+      "name": "Sio",
+      "group": "Superkind",
+      "wikidataId": "Q112692559",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q117178613",
+      "name": "Sio",
+      "group": "Ablume",
+      "wikidataId": "Q117178613",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q57600321",
+      "name": "Siwoo",
+      "group": "C-Clown",
+      "wikidataId": "Q57600321",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q130218860",
+      "name": "Siyun",
+      "group": "Ampers&One",
+      "wikidataId": "Q130218860",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q24856814",
+      "name": "Sohn Ah-ram",
+      "group": "Soul Train",
+      "wikidataId": "Q24856814",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12602760",
+      "name": "Son Ji Chang",
+      "group": "The Blue",
+      "wikidataId": "Q12602760",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q111466890",
+      "name": "Son Jun-hyung",
+      "group": "Ghost9",
+      "wikidataId": "Q111466890",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q47973704",
+      "name": "Son Yu-ji",
+      "group": "Apple.B",
+      "wikidataId": "Q47973704",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q19657317",
+      "name": "Song Baek-kyeong",
+      "group": "1TYM",
+      "wikidataId": "Q19657317",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q24855825",
+      "name": "Song Hee-jin",
+      "group": "Good Day",
+      "wikidataId": "Q24855825",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61100100",
+      "name": "Song Min-kyung",
+      "group": "The SeeYa",
+      "wikidataId": "Q61100100",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64038543",
+      "name": "Songhee",
+      "group": "Bvndit",
+      "wikidataId": "Q64038543",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q62984297",
+      "name": "Soon Min-ji",
+      "group": "Saturday",
+      "wikidataId": "Q62984297",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q55730168",
+      "name": "Su-jin",
+      "group": "Wassup",
+      "wikidataId": "Q55730168",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q138573306",
+      "name": "Sun Jong Pyo",
+      "group": "Eloise",
+      "wikidataId": "Q138573306",
+      "reasonCode": "wikidata_download_failed",
+      "reason": "Image exists on Wikidata but failed during download."
+    },
+    {
+      "id": "q12601926",
+      "name": "Sung Dae-hyun",
+      "group": "R.ef",
+      "wikidataId": "Q12601926",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q53316644",
+      "name": "Sung Ji-yeon",
+      "group": "Momoland",
+      "wikidataId": "Q53316644",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q11074533",
+      "name": "Sung Yoojin",
+      "group": "The SeeYa",
+      "wikidataId": "Q11074533",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q62984417",
+      "name": "Sunha",
+      "group": "Saturday",
+      "wikidataId": "Q62984417",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q134579897",
+      "name": "Sunhye",
+      "group": "Young Posse",
+      "wikidataId": "Q134579897",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q138708084",
+      "name": "Sunmo",
+      "group": "",
+      "wikidataId": "Q138708084",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12587392",
+      "name": "Sweetpea",
+      "group": "Delispice",
+      "wikidataId": "Q12587392",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q97339383",
+      "name": "Taekwan",
+      "group": "Mister T",
+      "wikidataId": "Q97339383",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q7694067",
+      "name": "Teddy Park",
+      "group": "1TYM",
+      "wikidataId": "Q7694067",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q55735394",
+      "name": "Thomas I. Cook",
+      "group": "My Aunt Mary",
+      "wikidataId": "Q55735394",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12616377",
+      "name": "Typhoon",
+      "group": "TRAX",
+      "wikidataId": "Q12616377",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q27951485",
+      "name": "U-Kwon",
+      "group": "Block B",
+      "wikidataId": "Q27951485",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12582085",
+      "name": "UMC/UW",
+      "group": "Soul Train",
+      "wikidataId": "Q12582085",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q84324501",
+      "name": "Unia",
+      "group": "Cignature",
+      "wikidataId": "Q84324501",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q119431791",
+      "name": "Urabe Hikaru",
+      "group": "Fantasy Boys",
+      "wikidataId": "Q119431791",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q18684347",
+      "name": "Vicky",
+      "group": "Diva",
+      "wikidataId": "Q18684347",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q124289564",
+      "name": "Win (South Korean singer)",
+      "group": "MCND",
+      "wikidataId": "Q124289564",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112023395",
+      "name": "Wish",
+      "group": "Epex",
+      "wikidataId": "Q112023395",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q119432686",
+      "name": "Won Bin",
+      "group": "ATBO",
+      "wikidataId": "Q119432686",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q43089062",
+      "name": "Won Heum",
+      "group": "Norazo",
+      "wikidataId": "Q43089062",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q60668820",
+      "name": "Woo Ami",
+      "group": "WANNA.B",
+      "wikidataId": "Q60668820",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q115528249",
+      "name": "Woo Kyung-jun",
+      "group": "The New Six",
+      "wikidataId": "Q115528249",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q19599201",
+      "name": "Woo Tae-woon",
+      "group": "Speed",
+      "wikidataId": "Q19599201",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q61827783",
+      "name": "Woody",
+      "group": "N-Train",
+      "wikidataId": "Q61827783",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120792977",
+      "name": "Wyatt",
+      "group": "ONF",
+      "wikidataId": "Q120792977",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q112339506",
+      "name": "Wyi Soo-jin",
+      "group": "Sun",
+      "wikidataId": "Q112339506",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q110405032",
+      "name": "Yang Da-som",
+      "group": "Laysha",
+      "wikidataId": "Q110405032",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q131582076",
+      "name": "Yang Dong-hwa",
+      "group": "POLARIX",
+      "wikidataId": "Q131582076",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q69697035",
+      "name": "Yang Tae-seon",
+      "group": "TRCNG",
+      "wikidataId": "Q69697035",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q127424601",
+      "name": "Yel",
+      "group": "H1-Key",
+      "wikidataId": "Q127424601",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12607520",
+      "name": "Yeong-joon",
+      "group": "Led Apple",
+      "wikidataId": "Q12607520",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12607163",
+      "name": "Yeongene",
+      "group": "Linus' Blanket",
+      "wikidataId": "Q12607163",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q110118380",
+      "name": "Yeoreum",
+      "group": "Hello Venus",
+      "wikidataId": "Q110118380",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64785149",
+      "name": "Yeowool",
+      "group": "Purple Beck",
+      "wikidataId": "Q64785149",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12611915",
+      "name": "Yi Sung Yol",
+      "group": "U&Me Blue",
+      "wikidataId": "Q12611915",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q625499",
+      "name": "Yim Jae-beom",
+      "group": "Sinawe",
+      "wikidataId": "Q625499",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q64038706",
+      "name": "Yiyeon",
+      "group": "Bvndit",
+      "wikidataId": "Q64038706",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16182050",
+      "name": "Yohan",
+      "group": "Pia",
+      "wikidataId": "Q16182050",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q24000467",
+      "name": "Yongi",
+      "group": "Hooni Yongi",
+      "wikidataId": "Q24000467",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q123156634",
+      "name": "Yongki",
+      "group": "N.O.M",
+      "wikidataId": "Q123156634",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q139956229",
+      "name": "Yoo Dong Ho",
+      "group": "Apeace",
+      "wikidataId": "Q139956229",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q1437092",
+      "name": "Yoo Gun Hyung",
+      "group": "Untitle",
+      "wikidataId": "Q1437092",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q63791522",
+      "name": "Yoo Ha-bin",
+      "group": "DreamNote",
+      "wikidataId": "Q63791522",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q117469316",
+      "name": "Yoo Hee-jae",
+      "group": "MASC",
+      "wikidataId": "Q117469316",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q27843696",
+      "name": "Yoo Ho-seok",
+      "group": "Click-B",
+      "wikidataId": "Q27843696",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q24000111",
+      "name": "Yoo Hyun-jae",
+      "group": "Two Two",
+      "wikidataId": "Q24000111",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16169808",
+      "name": "Yoo Young",
+      "group": "ZaZa",
+      "wikidataId": "Q16169808",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q100314749",
+      "name": "Yoo Young-seo",
+      "group": "BAE173",
+      "wikidataId": "Q100314749",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q138706875",
+      "name": "Yooin",
+      "group": "",
+      "wikidataId": "Q138706875",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q107109485",
+      "name": "Yoojun",
+      "group": "BAE173",
+      "wikidataId": "Q107109485",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q73800425",
+      "name": "Yoon Ha-eun",
+      "group": "Apple.B",
+      "wikidataId": "Q73800425",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q59788076",
+      "name": "Yoon Hye-won",
+      "group": "CHI CHI",
+      "wikidataId": "Q59788076",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q134507304",
+      "name": "Yoon Jae-chan",
+      "group": "XRO",
+      "wikidataId": "Q134507304",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q127162746",
+      "name": "Yoon Jiyoon",
+      "group": "Izna",
+      "wikidataId": "Q127162746",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q3269532",
+      "name": "Youjeen",
+      "group": "Cherry Filter",
+      "wikidataId": "Q3269532",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16090313",
+      "name": "Young Ji",
+      "group": "Bubble Sisters",
+      "wikidataId": "Q16090313",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q71440403",
+      "name": "Youngheun",
+      "group": "Stellar",
+      "wikidataId": "Q71440403",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q11094986",
+      "name": "Yun Jin-sol",
+      "group": "Jewelry",
+      "wikidataId": "Q11094986",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12596724",
+      "name": "Yun Sang-hun",
+      "group": "Melo Breeze",
+      "wikidataId": "Q12596724",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q108261504",
+      "name": "Yuna",
+      "group": "BB Girls",
+      "wikidataId": "Q108261504",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q130539361",
+      "name": "Yunmin",
+      "group": "Touched",
+      "wikidataId": "Q130539361",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q120260925",
+      "name": "Zeze",
+      "group": "Led Apple",
+      "wikidataId": "Q120260925",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q28870931",
+      "name": "Zi.U",
+      "group": "RANIA",
+      "wikidataId": "Q28870931",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q16057686",
+      "name": "Zick Jasper",
+      "group": "M.I.B",
+      "wikidataId": "Q16057686",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12617844",
+      "name": "Zinnie",
+      "group": "Diva",
+      "wikidataId": "Q12617844",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    },
+    {
+      "id": "q12616701",
+      "name": "Zobin",
+      "group": "Norazo",
+      "wikidataId": "Q12616701",
+      "reasonCode": "no_wikidata_image",
+      "reason": "No Wikidata profile image (P18), and no reliable Commons fallback image was stored."
+    }
+  ]
+}
