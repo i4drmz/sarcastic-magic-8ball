@@ -203,6 +203,18 @@ function extractPlace(text: string): { city: string | null; country: string } | 
   return countryOnly;
 }
 
+/** Badge type from the headline phrase — more precise than scanning the whole blob. */
+function typeFromPhrase(phrase: string | null, blob: string): PulseEvent['type'] {
+  const p = (phrase ?? '').toLowerCase();
+  if (/fan\s*meeting|fanmeeting/.test(p)) return 'Fan Meeting';
+  if (/fan\s*sign/.test(p)) return 'Fansign';
+  if (/festival/.test(p)) return 'Festival';
+  if (/pop[\s-]?up/.test(p)) return 'Pop-up Store';
+  if (/exhibition/.test(p)) return 'Exhibition';
+  if (p) return 'Concert';
+  return classifyEventType(blob);
+}
+
 const HEADLINE_ANNOUNCE_VERB =
   /\b(announces?|announced|to\s+hold|holds?|kicks?\s+off|extends?|unveils?|reveals?|brings?|returns?|previews?|thrills?|delivers?|confirms?)\b/i;
 const GENERIC_LEAD =
@@ -359,7 +371,7 @@ export function articleToEvent(
   return {
     event: {
       id,
-      type: classifyEventType(blob),
+      type: typeFromPhrase(typePhrase, blob),
       title: headline,
       artist,
       group: artist,

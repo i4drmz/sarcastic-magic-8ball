@@ -23,17 +23,17 @@ scripts/publishEventData.ts          ← commit/push only when fingerprint chang
 
 ## Technical report (latest run)
 
-- **Ran at:** 2026-08-04T01:03:30.513Z
+- **Ran at:** 2026-08-04T15:46:46.675Z
 - **Feeds attempted:** 12
 - **Feeds successful:** 12
 - **Feeds failed:** 0
 - **Total RSS items:** 243
-- **Event-related items:** 24
-- **Discovery cards extracted:** 16
-- **Items discarded (non-matching only):** 226
-- **After dedupe:** 16
-- **Written to events.json:** 16
-- **Coverage of event-related items:** 66.7% of event-related items became discovery cards
+- **Event-related items:** 21
+- **Discovery cards extracted:** 12
+- **Items discarded (non-matching only):** 230
+- **After dedupe:** 12
+- **Written to events.json:** 12
+- **Coverage of event-related items:** 57.1% of event-related items became discovery cards
 
 ### Per-feed results
 
@@ -41,14 +41,14 @@ scripts/publishEventData.ts          ← commit/push only when fingerprint chang
 |------|--------|------:|--------------:|----------:|----------:|
 | Soompi (`soompi`) | OK | 60 | 1 | 1 | 59 |
 | Soompi Music (`soompi-music`) | OK | 60 | 7 | 6 | 53 |
-| allkpop Lab (`allkpop`) | OK | 40 | 9 | 9 | 31 |
+| allkpop Lab (`allkpop`) | OK | 40 | 5 | 5 | 35 |
 | Koreaboo (`koreaboo`) | OK | 10 | 0 | 0 | 10 |
-| Billboard (`billboard`) | OK | 10 | 2 | 0 | 10 |
+| Billboard (`billboard`) | OK | 10 | 1 | 0 | 10 |
 | Billboard Music (`billboard-music`) | OK | 10 | 1 | 0 | 10 |
-| NME (`nme`) | OK | 10 | 1 | 0 | 10 |
-| NME Music (`nme-music`) | OK | 10 | 1 | 0 | 10 |
+| NME (`nme`) | OK | 10 | 2 | 0 | 10 |
+| NME Music (`nme-music`) | OK | 10 | 3 | 0 | 10 |
 | Rolling Stone (`rollingstone`) | OK | 10 | 0 | 0 | 10 |
-| Rolling Stone Music News (`rollingstone-music`) | OK | 10 | 2 | 0 | 10 |
+| Rolling Stone Music News (`rollingstone-music`) | OK | 10 | 1 | 0 | 10 |
 | helloKpop (`hellokpop`) | OK | 3 | 0 | 0 | 3 |
 | The Bias List (`biaslist`) | OK | 10 | 0 | 0 | 10 |
 
@@ -59,9 +59,9 @@ Missing venue / city / date is **not** a discard reason.
 
 | Reason | Count |
 |--------|------:|
-| no_event_signal | 153 |
-| not_event_announcement | 66 |
-| not_kpop | 7 |
+| no_event_signal | 149 |
+| not_event_announcement | 73 |
+| not_kpop | 8 |
 
 ## Card fields
 

@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-08-04T13:47:12.028Z",
-  "lastUpdated": "2026-08-04T13:47:12.028Z",
+  "generatedAt": "2026-08-04T15:46:46.675Z",
+  "lastUpdated": "2026-08-04T15:46:46.675Z",
   "sourceSummary": [
+    "soompi",
     "soompi-music",
     "allkpop"
   ],
@@ -24,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/bigbang-unveil-logo-motion-for-20th-anniversary-world-tour-xx-cosmos",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-7168d9c97f2497f5",
@@ -44,7 +45,27 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/b1a4-celebrate-15th-anniversary-with-three-day-d-day-concert",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
+    },
+    {
+      "id": "evt-7cf5c89e4521bda7",
+      "type": "Concert",
+      "title": "Concert",
+      "artist": "SF9",
+      "group": "SF9",
+      "date": "2026-08-04",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "SF9 announced a Concert. Tap Find Tickets for dates and venues.",
+      "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-cb859984ec762e8a",
@@ -64,27 +85,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/dpr-cream-and-dpr-artic-electrify-120000-fans-at-spains-top-festivals",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
-    },
-    {
-      "id": "evt-301ddd248de477c7",
-      "type": "Concert",
-      "title": "Concert",
-      "artist": "aespa",
-      "group": "aespa",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "aespa announced a Concert, coming to Seoul. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/aespa-to-live-stream-first-gocheok-dome-concert-in-146-theaters",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-274abe21a5ed0f0f",
@@ -104,7 +105,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/silica-gel-previews-new-songs-at-pentaport-rock-festival",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-ea6bea76038cf55c",
@@ -124,7 +125,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/junny-to-hold-solo-concert-in-tokyo-this-september",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -144,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -164,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -184,7 +185,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -204,7 +205,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-fdabf01f08be8630",
@@ -224,7 +225,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857192wpp/wayv-announces-new-concert-tour-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     },
     {
       "id": "evt-1ca79e2f8f622a9f",
@@ -244,27 +245,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857175wpp/taemin-announces-new-2026-2027-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
-    },
-    {
-      "id": "evt-6778070f73d59c4b",
-      "type": "Concert",
-      "title": "World Tour “ANDLESS”",
-      "artist": "TripleS",
-      "group": "TripleS",
-      "date": "2026-07-21",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TripleS announced a World Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://www.soompi.com/article/1856423wpp/triples-announces-dates-and-cities-for-2026-world-tour-andless",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T13:47:12.028Z"
+      "lastUpdated": "2026-08-04T15:46:46.675Z"
     }
   ]
 }
