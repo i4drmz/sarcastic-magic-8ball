@@ -1,12 +1,52 @@
 {
-  "generatedAt": "2026-08-04T01:03:30.513Z",
-  "lastUpdated": "2026-08-04T01:03:30.513Z",
+  "generatedAt": "2026-08-04T08:20:00.998Z",
+  "lastUpdated": "2026-08-04T08:20:00.998Z",
   "sourceSummary": [
-    "soompi",
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "koreaboo"
   ],
   "events": [
+    {
+      "id": "evt-43c7b6a2c93be186",
+      "type": "Concert",
+      "title": "Anniversary World Tour “XX : COSMOS”",
+      "artist": "BIGBANG",
+      "group": "BIGBANG",
+      "date": "2026-08-04",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "BIGBANG announced an Anniversary World Tour. Tap Find Tickets for dates and venues.",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/bigbang-unveil-logo-motion-for-20th-anniversary-world-tour-xx-cosmos",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
+    },
+    {
+      "id": "evt-b56a27e2ab98a4a7",
+      "type": "Fansign",
+      "title": "Popular Female Idol’s Translator At Fan Sign Event Goes Massively Viral",
+      "artist": null,
+      "group": null,
+      "date": "2026-08-04",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "They weren't sure who they were there to see.",
+      "sourceUrl": "https://www.koreaboo.com/news/izna-jeemin-translator-fan-sign-goes-viral-visuals/",
+      "ticketUrl": null,
+      "source": "rss:koreaboo",
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
+    },
     {
       "id": "evt-301ddd248de477c7",
       "type": "Concert",
@@ -25,27 +65,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/aespa-to-live-stream-first-gocheok-dome-concert-in-146-theaters",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
-    },
-    {
-      "id": "evt-3450dc53594ea3ee",
-      "type": "Concert",
-      "title": "Concert",
-      "artist": "BOYNEXTDOOR",
-      "group": "BOYNEXTDOOR",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "BOYNEXTDOOR announced a Concert, coming to Seoul. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/boynextdoor-announce-september-comeback-during-busan-concert",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-de0b59f079fcc48b",
@@ -65,7 +85,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/touched-deliver-explosive-live-at-incheon-pentaport-with-new-song-debut",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-19726e288f3f8ab4",
@@ -85,7 +105,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/82major-extend-global-rise-with-vibrant-fan-concert-in-macau",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-274abe21a5ed0f0f",
@@ -105,27 +125,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/silica-gel-previews-new-songs-at-pentaport-rock-festival",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
-    },
-    {
-      "id": "evt-fdb87cf0aba359ed",
-      "type": "Festival",
-      "title": "Festival",
-      "artist": "TOMORROW X TOGETHER",
-      "group": "TOMORROW X TOGETHER",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Tokyo",
-      "country": "JP",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TOMORROW X TOGETHER announced a Festival, coming to Tokyo. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/tomorrow-x-together-preview-new-song-at-tokyo-fireworks-festival",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-79a2c1e67e4f1109",
@@ -145,27 +145,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/nflying-kicks-off-first-nationwide-tour-with-successful-seoul-concerts",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
-    },
-    {
-      "id": "evt-2eea84c746cc98cb",
-      "type": "Concert",
-      "title": "North American Tour",
-      "artist": "CORTIS",
-      "group": "CORTIS",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Chicago",
-      "country": "US",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "CORTIS announced a North American Tour, coming to Chicago. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/cortis-thrills-50000-fans-at-lollapalooza-chicago-kicks-off-north-american-tour",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-ea6bea76038cf55c",
@@ -185,7 +165,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/junny-to-hold-solo-concert-in-tokyo-this-september",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -204,8 +184,8 @@
       "shortDescription": "OMEGA X announced an Asia Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -225,7 +205,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -245,7 +225,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -265,7 +245,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-fdabf01f08be8630",
@@ -285,7 +265,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857192wpp/wayv-announces-new-concert-tour-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-1ca79e2f8f622a9f",
@@ -305,7 +285,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857175wpp/taemin-announces-new-2026-2027-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     },
     {
       "id": "evt-6778070f73d59c4b",
@@ -325,7 +305,7 @@
       "sourceUrl": "https://www.soompi.com/article/1856423wpp/triples-announces-dates-and-cities-for-2026-world-tour-andless",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T01:03:30.513Z"
+      "lastUpdated": "2026-08-04T08:20:00.998Z"
     }
   ]
 }
