@@ -23,7 +23,7 @@ scripts/publishEventData.ts          ← commit/push only when fingerprint chang
 
 ## Technical report (latest run)
 
-- **Ran at:** 2026-08-04T22:39:59.313Z
+- **Ran at:** 2026-08-04T22:41:35.332Z
 - **Feeds attempted:** 12
 - **Feeds successful:** 12
 - **Feeds failed:** 0

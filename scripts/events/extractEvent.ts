@@ -359,10 +359,7 @@ export function articleToEvent(
   if (artist && (typePhrase || tourName)) {
     const typeLabel = typePhrase ?? 'Concert';
     headline = tourName ? `${typeLabel} “${tourName}”` : typeLabel;
-    const indefinite = /^[aeiou]/i.test(typeLabel) ? 'an' : 'a';
-    const bits: string[] = [`${artist} has ${indefinite} ${typeLabel} coming up`];
-    if (place?.city) bits.push(`in ${place.city}`);
-    shortDescription = `${bits.join(', ')}.`;
+    shortDescription = `${artist} ${typeLabel} COMING UP`.toUpperCase();
   } else {
     headline = cleanHeadline(titleRaw);
     shortDescription = cleanShortSummary(description || content || headline);
