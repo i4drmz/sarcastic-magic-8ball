@@ -48,7 +48,7 @@ const HEADLINE_PROMO_VERB =
 
 /** Headline matches → never treat as an event card (news-style coverage). */
 const HEADLINE_EXCLUDE =
-  /\b(interview|review|recap|photos?|gallery|reaction|opinion|rankings?|charts?|sales|streaming|teaser|\bMV\b|music\s+video|behind\s+the\s+scenes|playlist|confessionals?|hiatus|fan\s+club|solo\s+debut|grammy\s+submission|premiere\s+date|on\s+set\s+of|cancell?ed|cancels|postponed?|sits?\s+out|pulls?\s+out|drops?\s+out|due\s+to\s+illness)\b/i;
+  /\b(interview|review|recap|photos?|gallery|reaction|opinion|rankings?|charts?|sales|streaming|teaser|\bMV\b|music\s+video|behind\s+the\s+scenes|playlist|confessionals?|hiatus|fan\s+club|solo\s+debut|grammy\s+submission|premiere\s+date|on\s+set\s+of|cancell?ed|cancels|postponed?|sits?\s+out|pulls?\s+out|drops?\s+out|due\s+to\s+illness|completes?|completed|concludes?|wrap(?:s|ped)?\s+up)\b/i;
 
 /** Extra non-announcement headlines (obituaries, earnings, listicles, etc.). */
 const HEADLINE_HARD_EXCLUDE =
@@ -127,6 +127,102 @@ function matchArtist(
     }
   }
   return null;
+}
+
+/** Quoted tour/show name in the headline, e.g. Tour "BEYOND". */
+function extractQuotedName(headline: string): string | null {
+  const m = headline.match(/["“'‘]([^"”'’]{2,40})["”'’]/);
+  return m ? m[1].trim() : null;
+}
+
+const TYPE_PHRASE_RE =
+  /\b((?:world|asian?|europe(?:an)?|north\s+american|nationwide|anniversary|solo|encore|debut|first)\s+)?(world\s+tour|tour|fan\s+concert|fan\s+meeting|fanmeeting|fan\s*sign|showcase|festival|concert|pop[\s-]?up|exhibition)\b/i;
+
+function titleCaseWords(s: string): string {
+  return s.replace(/\S+/g, (w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase());
+}
+
+/** Event phrase from the headline, e.g. “Asia Tour”, “Fan Concert”. */
+function extractTypePhrase(headline: string): string | null {
+  const m = headline.match(TYPE_PHRASE_RE);
+  if (!m) return null;
+  const phrase = `${m[1] ? `${m[1].trim()} ` : ''}${m[2].trim()}`.replace(/\s+/g, ' ');
+  return titleCaseWords(phrase);
+}
+
+/** Cities/countries commonly named in K-pop event announcements. */
+const KNOWN_PLACES: Array<{ key: string; city: string | null; country: string }> = [
+  { key: 'seoul', city: 'Seoul', country: 'KR' },
+  { key: 'busan', city: 'Busan', country: 'KR' },
+  { key: 'incheon', city: 'Incheon', country: 'KR' },
+  { key: 'daegu', city: 'Daegu', country: 'KR' },
+  { key: 'tokyo', city: 'Tokyo', country: 'JP' },
+  { key: 'osaka', city: 'Osaka', country: 'JP' },
+  { key: 'nagoya', city: 'Nagoya', country: 'JP' },
+  { key: 'fukuoka', city: 'Fukuoka', country: 'JP' },
+  { key: 'yokohama', city: 'Yokohama', country: 'JP' },
+  { key: 'macau', city: 'Macau', country: 'MO' },
+  { key: 'hong kong', city: 'Hong Kong', country: 'HK' },
+  { key: 'taipei', city: 'Taipei', country: 'TW' },
+  { key: 'bangkok', city: 'Bangkok', country: 'TH' },
+  { key: 'singapore', city: 'Singapore', country: 'SG' },
+  { key: 'manila', city: 'Manila', country: 'PH' },
+  { key: 'jakarta', city: 'Jakarta', country: 'ID' },
+  { key: 'kuala lumpur', city: 'Kuala Lumpur', country: 'MY' },
+  { key: 'london', city: 'London', country: 'GB' },
+  { key: 'paris', city: 'Paris', country: 'FR' },
+  { key: 'berlin', city: 'Berlin', country: 'DE' },
+  { key: 'amsterdam', city: 'Amsterdam', country: 'NL' },
+  { key: 'los angeles', city: 'Los Angeles', country: 'US' },
+  { key: 'new york', city: 'New York', country: 'US' },
+  { key: 'chicago', city: 'Chicago', country: 'US' },
+  { key: 'atlanta', city: 'Atlanta', country: 'US' },
+  { key: 'dallas', city: 'Dallas', country: 'US' },
+  { key: 'houston', city: 'Houston', country: 'US' },
+  { key: 'seattle', city: 'Seattle', country: 'US' },
+  { key: 'san francisco', city: 'San Francisco', country: 'US' },
+  { key: 'oakland', city: 'Oakland', country: 'US' },
+  { key: 'newark', city: 'Newark', country: 'US' },
+  { key: 'toronto', city: 'Toronto', country: 'CA' },
+  { key: 'vancouver', city: 'Vancouver', country: 'CA' },
+  { key: 'sydney', city: 'Sydney', country: 'AU' },
+  { key: 'melbourne', city: 'Melbourne', country: 'AU' },
+  { key: 'japan', city: null, country: 'JP' },
+  { key: 'korea', city: null, country: 'KR' },
+];
+
+function extractPlace(text: string): { city: string | null; country: string } | null {
+  const normalized = ` ${normalizeKeyPart(text)} `;
+  let countryOnly: { city: string | null; country: string } | null = null;
+  for (const place of KNOWN_PLACES) {
+    if (normalized.includes(` ${place.key} `)) {
+      if (place.city) return place;
+      countryOnly = countryOnly ?? place;
+    }
+  }
+  return countryOnly;
+}
+
+const HEADLINE_ANNOUNCE_VERB =
+  /\b(announces?|announced|to\s+hold|holds?|kicks?\s+off|extends?|unveils?|reveals?|brings?|returns?|previews?|thrills?|delivers?|confirms?)\b/i;
+const GENERIC_LEAD =
+  /^(new|the|this|that|every|watch|how|why|what|when|where|top|breaking|exclusive|update|k-?pop)\b/i;
+
+/**
+ * Fallback act name: the words before the announce verb
+ * (“OMEGA X Announces …” → “OMEGA X”, “SUPER JUNIOR's Yesung …” → “SUPER JUNIOR”).
+ */
+function artistFromHeadline(headline: string): string | null {
+  const verb = headline.match(HEADLINE_ANNOUNCE_VERB);
+  if (!verb || verb.index === undefined || verb.index === 0) return null;
+  let lead = headline.slice(0, verb.index).trim();
+  const possessive = lead.match(/^(.{2,30}?)['’]s\s+/);
+  if (possessive) lead = possessive[1].trim();
+  lead = lead.replace(/[,:;–—-]\s*$/, '').trim();
+  if (!lead || lead.length > 30) return null;
+  if (lead.split(/\s+/).length > 4) return null;
+  if (GENERIC_LEAD.test(lead)) return null;
+  return lead;
 }
 
 function cleanHeadline(raw: string): string {
@@ -227,17 +323,38 @@ export function articleToEvent(
     return { event: null, discardReason: 'no_event_signal' };
   }
 
-  const artist = matchArtist(blob, opts.knownActKeys, opts.displayNames);
+  const dictArtist = matchArtist(blob, opts.knownActKeys, opts.displayNames);
 
   // General music feeds carry mostly Western acts — keep only clearly K-pop items.
-  if (!opts.kpopDedicated && !artist && !KPOP_SIGNAL.test(blob)) {
+  if (!opts.kpopDedicated && !dictArtist && !KPOP_SIGNAL.test(blob)) {
     return { event: null, discardReason: 'not_kpop' };
   }
 
-  const headline = cleanHeadline(titleRaw);
-  const shortDescription = cleanShortSummary(description || content || headline);
+  // Headline-derived act names only when the item is already known to be K-pop.
+  const artist = dictArtist ?? artistFromHeadline(titleRaw);
+
+  const place = extractPlace(blob);
+  const typePhrase = extractTypePhrase(titleRaw);
+  const tourName = extractQuotedName(titleRaw);
+
+  // Rewrite in our own words when the act is known — the card should read like
+  // a concert listing, never like a news article.
+  let headline: string;
+  let shortDescription: string | null;
+  if (artist && (typePhrase || tourName)) {
+    const typeLabel = typePhrase ?? 'Concert';
+    headline = tourName ? `${typeLabel} “${tourName}”` : typeLabel;
+    const indefinite = /^[aeiou]/i.test(typeLabel) ? 'an' : 'a';
+    const bits: string[] = [`${artist} announced ${indefinite} ${typeLabel}`];
+    if (place?.city) bits.push(`coming to ${place.city}`);
+    shortDescription = `${bits.join(', ')}. Tap Find Tickets for dates and venues.`;
+  } else {
+    headline = cleanHeadline(titleRaw);
+    shortDescription = cleanShortSummary(description || content || headline);
+  }
+
   const publishedDate = article.publishedAt?.slice(0, 10) || opts.today;
-  const id = `evt-${stableHash(`${normalizeKeyPart(headline)}|${article.url}`)}`;
+  const id = `evt-${stableHash(`${normalizeKeyPart(cleanHeadline(titleRaw))}|${article.url}`)}`;
 
   return {
     event: {
@@ -250,8 +367,8 @@ export function articleToEvent(
       date: publishedDate && publishedDate.length === 10 ? publishedDate : todayUtcDateString(),
       time: null,
       venue: 'TBA',
-      city: 'TBA',
-      country: 'XX',
+      city: place?.city ?? 'TBA',
+      country: place?.country ?? 'XX',
       latitude: null,
       longitude: null,
       image: article.image?.trim() || null,
