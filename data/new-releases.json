@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-08-04T22:47:30.498Z",
+  "count": 50,
+  "songs": [
+    {
+      "title": "SWEAT",
+      "artist": "KISS OF LIFE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/678/14415678_20260803161630_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602695411"
+    },
+    {
+      "title": "틀린그림찾기",
+      "artist": "원슈타인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/024/14415024_20260803113728_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693130"
+    },
+    {
+      "title": "FLIRTY",
+      "artist": "다영 (DAYOUNG)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/684/14415684_20260803161902_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602695419"
+    },
+    {
+      "title": "Cider Memories",
+      "artist": "키스누",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/023/14415023_20260803113627_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693129"
+    },
+    {
+      "title": "What The Hell??",
+      "artist": "아더 (0ther)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/14/934/14414934_20260803105444_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602692718"
+    },
+    {
+      "title": "눈부신 우리의 날들",
+      "artist": "손효규",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/679/14415679_20260803161658_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602695413"
+    },
+    {
+      "title": "NYTC",
+      "artist": "키드밀리 (Kid Milli)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/43/313/14243313_20260729155755_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602667452"
+    },
+    {
+      "title": "멈춰야해?",
+      "artist": "훈스 (HOONS)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/14/997/14414997_20260803113015_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693029"
+    },
+    {
+      "title": "YO MAMA",
+      "artist": "RAPH4EL",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/936/14415936_20260803183330_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602696395"
+    },
+    {
+      "title": "오빠 지금 뭐해",
+      "artist": "아이언즈(Irons)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/022/14415022_20260803113627_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693128"
+    }
+  ]
+}

@@ -9,7 +9,6 @@ import path from 'node:path';
 
 /** Load committed/.local .env into process.env when scripts run outside Expo. */
 function loadDotEnv(): void {
-  if (process.env.EXPO_PUBLIC_PULSE_DATA_BASE_URL?.trim()) return;
   for (const name of ['.env', '.env.local']) {
     const filePath = path.join(process.cwd(), name);
     if (!existsSync(filePath)) continue;
@@ -31,7 +30,6 @@ function loadDotEnv(): void {
         process.env[key] = value;
       }
     }
-    break;
   }
 }
 
@@ -66,6 +64,10 @@ export function birthdaysJsonUrl(baseUrl: string = getPulseDataBaseUrl()): strin
 
 export function eventsJsonUrl(baseUrl: string = getPulseDataBaseUrl()): string {
   return `${baseUrl.replace(/\/+$/, '')}/events.json`;
+}
+
+export function newReleasesJsonUrl(baseUrl: string = getPulseDataBaseUrl()): string {
+  return `${baseUrl.replace(/\/+$/, '')}/new-releases.json`;
 }
 
 export function hostedImageUrl(filename: string, baseUrl: string = getPulseDataBaseUrl()): string {
