@@ -35,20 +35,20 @@ export type DiscardReason =
  */
 const KPOP_SIGNAL = /\bk[\s-]?pop\b|\bkpop\b|\bkorean\b|\bkorea\b|\bseoul\b|\bk-?drama\b/i;
 
-/** Strong event nouns / ticket language — enough on their own. */
+/** Strong event nouns / ticket language — must pair with a promo verb. */
 const HEADLINE_EVENT_NOUN =
   /\b(concerts?|world\s*tour|\btours?\b|fan\s*concert|fan\s*meeting|fanmeeting|fansign|fan\s*sign|showcase|\blive\b|festivals?|pop[\s-]?ups?|exhibitions?|tickets?)\b/i;
 
 /**
- * Soft promotion verbs — only count when the headline also has an event noun
- * (avoids “announces hiatus / fan club / solo debut” false positives).
+ * Announcement / upcoming-event verbs. Event nouns alone are not enough
+ * (that lets past-performance recaps like “electrify … festivals” through).
  */
 const HEADLINE_PROMO_VERB =
-  /\b(announces|announced|coming\s+to|returns\s+to)\b/i;
+  /\b(announces?|announced|announcing|coming\s+to|returns?\s+to|returning\s+to|to\s+hold|will\s+hold|set\s+to|unveils?|unveiled|reveals?|revealed|schedules?|scheduled|confirms?|confirmed|adds?\s+dates?|tickets?\s+on\s+sale)\b/i;
 
 /** Headline matches → never treat as an event card (news-style coverage). */
 const HEADLINE_EXCLUDE =
-  /\b(interview|review|recap|photos?|gallery|reaction|opinion|rankings?|charts?|sales|streaming|teaser|\bMV\b|music\s+video|behind\s+the\s+scenes|playlist|confessionals?|hiatus|fan\s+club|solo\s+debut|grammy\s+submission|premiere\s+date|on\s+set\s+of|cancell?ed|cancels|postponed?|sits?\s+out|pulls?\s+out|drops?\s+out|due\s+to\s+illness|completes?|completed|concludes?|wrap(?:s|ped)?\s+up)\b/i;
+  /\b(interview|review|recap|photos?|gallery|reaction|opinion|rankings?|charts?|sales|streaming|teaser|\bMV\b|music\s+video|behind\s+the\s+scenes|playlist|confessionals?|hiatus|fan\s+club|solo\s+debut|grammy\s+submission|premiere\s+date|on\s+set\s+of|cancell?ed|cancels|postponed?|sits?\s+out|pulls?\s+out|drops?\s+out|due\s+to\s+illness|completes?|completed|concludes?|wrap(?:s|ped)?\s+up|electrif\w*|showcase[ds]?|took\s+the\s+stage|hit\s+the\s+stage|performed\s+at|drawing\s+(?:a\s+)?combined|\bfans\s+at\b|\bidea\b|\bconcept\b|marked\s+their|celebrates?\s+\d|celebrate\s+\d)\b/i;
 
 /** Extra non-announcement headlines (obituaries, earnings, listicles, etc.). */
 const HEADLINE_HARD_EXCLUDE =
@@ -265,8 +265,7 @@ function cleanShortSummary(text: string): string | null {
 }
 
 function headlineHasEventInclude(headline: string): boolean {
-  if (HEADLINE_EVENT_NOUN.test(headline)) return true;
-  // “announces … tour/concert/…” etc.
+  // Must look like an upcoming announcement — not a past show write-up.
   return HEADLINE_PROMO_VERB.test(headline) && HEADLINE_EVENT_NOUN.test(headline);
 }
 

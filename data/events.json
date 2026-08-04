@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-08-04T19:18:29.005Z",
-  "lastUpdated": "2026-08-04T19:18:29.005Z",
+  "generatedAt": "2026-08-04T22:36:45.721Z",
+  "lastUpdated": "2026-08-04T22:36:45.721Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop",
-    "koreaboo"
+    "allkpop"
   ],
   "events": [
     {
@@ -26,27 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/bigbang-unveil-logo-motion-for-20th-anniversary-world-tour-xx-cosmos",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
-    },
-    {
-      "id": "evt-7168d9c97f2497f5",
-      "type": "Concert",
-      "title": "B1A4 celebrate 15th anniversary with three-day 'D-DAY' concert",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-04",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.allkpop.com/upload/2026/08/content/040504/1785834280-1.jpg",
-      "shortDescription": "B1A4 marked their 15th anniversary with a three-day solo concert titled 'D-DAY' at KBS Arena in Seoul. The event opened with the surprise release of their digital single \"D-DAY,\" which set an emotional tone for the show. The concert bega…",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/b1a4-celebrate-15th-anniversary-with-three-day-d-day-concert",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -66,47 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
-    },
-    {
-      "id": "evt-cb859984ec762e8a",
-      "type": "Festival",
-      "title": "DPR Cream and DPR Artic electrify 120,000 fans at Spain's top festivals",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-04",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.allkpop.com/upload/2026/08/content/040448/1785833292-1.jpg",
-      "shortDescription": "DPR Cream and DPR Artic showcased their growing global reach by performing at two of Spain's biggest music festivals, drawing a combined audience of more than 120,000. The duo first took the stage on July 27 at the 'Zebra 2026' festival…",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/dpr-cream-and-dpr-artic-electrify-120000-fans-at-spains-top-festivals",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
-    },
-    {
-      "id": "evt-fa67ec743fb9a810",
-      "type": "Concert",
-      "title": "New K-Pop GA Idea? Fans Passing Pee Bag Around At Concert Goes Viral",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-04",
-      "time": null,
-      "venue": "TBA",
-      "city": "Chicago",
-      "country": "US",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://image.koreaboo.com/2026/08/FEATURED-IMAGE-2026-08-04T135333.849.jpg",
-      "shortDescription": "That's a lot.",
-      "sourceUrl": "https://www.koreaboo.com/news/new-kpop-pit-idea-fans-passing-pee-around-concert-goes-viral/",
-      "ticketUrl": null,
-      "source": "rss:koreaboo",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -126,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -146,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -166,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -186,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     },
     {
       "id": "evt-fdabf01f08be8630",
@@ -206,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857192wpp/wayv-announces-new-concert-tour-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     },
     {
       "id": "evt-1ca79e2f8f622a9f",
@@ -226,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857175wpp/taemin-announces-new-2026-2027-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T19:18:29.005Z"
+      "lastUpdated": "2026-08-04T22:36:45.721Z"
     }
   ]
 }
