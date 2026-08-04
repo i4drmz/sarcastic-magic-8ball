@@ -2,7 +2,6 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 
 const MELON_NEW_URL = 'https://www.melon.com/new/index.htm';
-const MAX_SONGS = 10;
 
 const BROWSER_HEADERS = {
   'User-Agent':
@@ -69,7 +68,7 @@ export async function fetchMelonNewReleases(): Promise<MelonNewReleases> {
 
     return {
       count: songs.length,
-      songs: songs.slice(0, MAX_SONGS),
+      songs,
     };
   } catch {
     return { count: 0, songs: [] };
