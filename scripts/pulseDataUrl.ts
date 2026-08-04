@@ -64,6 +64,10 @@ export function birthdaysJsonUrl(baseUrl: string = getPulseDataBaseUrl()): strin
   return `${baseUrl.replace(/\/+$/, '')}/birthdays.json`;
 }
 
+export function eventsJsonUrl(baseUrl: string = getPulseDataBaseUrl()): string {
+  return `${baseUrl.replace(/\/+$/, '')}/events.json`;
+}
+
 export function hostedImageUrl(filename: string, baseUrl: string = getPulseDataBaseUrl()): string {
   const base = baseUrl.replace(/\/+$/, '');
   const file = filename.replace(/^\/+/, '');

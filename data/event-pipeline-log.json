@@ -1,0 +1,222 @@
+{
+  "ranAt": "2026-08-03T23:33:36.103Z",
+  "success": true,
+  "apiRequests": 12,
+  "providersRegistered": [
+    "rss"
+  ],
+  "providersEnabled": [
+    "rss"
+  ],
+  "providersSkipped": [],
+  "providersSucceeded": [
+    "rss"
+  ],
+  "providersFailed": [],
+  "feedStats": [
+    {
+      "id": "soompi",
+      "label": "Soompi",
+      "url": "https://www.soompi.com/feed",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 60,
+      "eventRelated": 1,
+      "extracted": 1,
+      "discarded": 59,
+      "discardReasons": {
+        "no_event_signal": 46,
+        "not_event_announcement": 13
+      }
+    },
+    {
+      "id": "soompi-music",
+      "label": "Soompi Music",
+      "url": "https://www.soompi.com/category/music/feed",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 60,
+      "eventRelated": 9,
+      "extracted": 8,
+      "discarded": 51,
+      "discardReasons": {
+        "no_event_signal": 25,
+        "not_event_announcement": 26
+      }
+    },
+    {
+      "id": "allkpop",
+      "label": "allkpop Lab",
+      "url": "https://www.allkpop.com/rss_xml/lab.php",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 40,
+      "eventRelated": 11,
+      "extracted": 11,
+      "discarded": 29,
+      "discardReasons": {
+        "no_event_signal": 25,
+        "not_event_announcement": 4
+      }
+    },
+    {
+      "id": "koreaboo",
+      "label": "Koreaboo",
+      "url": "https://www.koreaboo.com/feed",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 10,
+      "discardReasons": {
+        "no_event_signal": 8,
+        "not_event_announcement": 2
+      }
+    },
+    {
+      "id": "billboard",
+      "label": "Billboard",
+      "url": "https://www.billboard.com/feed/",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 2,
+      "extracted": 2,
+      "discarded": 8,
+      "discardReasons": {
+        "no_event_signal": 5,
+        "not_event_announcement": 3
+      }
+    },
+    {
+      "id": "billboard-music",
+      "label": "Billboard Music",
+      "url": "https://www.billboard.com/music/feed/",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 1,
+      "extracted": 0,
+      "discarded": 9,
+      "discardReasons": {
+        "no_event_signal": 5,
+        "not_event_announcement": 4
+      }
+    },
+    {
+      "id": "nme",
+      "label": "NME",
+      "url": "https://www.nme.com/feed",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 2,
+      "extracted": 2,
+      "discarded": 8,
+      "discardReasons": {
+        "no_event_signal": 7,
+        "not_event_announcement": 1
+      }
+    },
+    {
+      "id": "nme-music",
+      "label": "NME Music",
+      "url": "https://www.nme.com/news/music/feed",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 2,
+      "extracted": 0,
+      "discarded": 8,
+      "discardReasons": {
+        "no_event_signal": 8
+      }
+    },
+    {
+      "id": "rollingstone",
+      "label": "Rolling Stone",
+      "url": "https://www.rollingstone.com/feed/",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 10,
+      "discardReasons": {
+        "no_event_signal": 9,
+        "not_event_announcement": 1
+      }
+    },
+    {
+      "id": "rollingstone-music",
+      "label": "Rolling Stone Music News",
+      "url": "https://www.rollingstone.com/music/music-news/feed/",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 3,
+      "extracted": 3,
+      "discarded": 7,
+      "discardReasons": {
+        "no_event_signal": 7
+      }
+    },
+    {
+      "id": "hellokpop",
+      "label": "helloKpop",
+      "url": "https://hellokpop.com/feed/",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 3,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 3,
+      "discardReasons": {
+        "not_event_announcement": 2,
+        "no_event_signal": 1
+      }
+    },
+    {
+      "id": "biaslist",
+      "label": "The Bias List",
+      "url": "https://www.thebiaslist.com/feed/",
+      "ok": true,
+      "httpStatus": 200,
+      "items": 10,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 10,
+      "discardReasons": {
+        "no_event_signal": 5,
+        "not_event_announcement": 5
+      }
+    }
+  ],
+  "rawEvents": 27,
+  "afterDedupe": 27,
+  "afterUpcomingFilter": 27,
+  "totalItems": 243,
+  "totalEventRelated": 31,
+  "totalExtracted": 27,
+  "totalDiscarded": 212,
+  "extractionAccuracyPct": 87.1,
+  "previousCount": 42,
+  "writtenCount": 27,
+  "changed": true,
+  "published": false,
+  "notes": [
+    "rss:soompi: items=60 related=1 extracted=1 discarded=59",
+    "rss:soompi-music: items=60 related=9 extracted=8 discarded=51",
+    "rss:allkpop: items=40 related=11 extracted=11 discarded=29",
+    "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
+    "rss:billboard: items=10 related=2 extracted=2 discarded=8",
+    "rss:billboard-music: items=10 related=1 extracted=0 discarded=9",
+    "rss:nme: items=10 related=2 extracted=2 discarded=8",
+    "rss:nme-music: items=10 related=2 extracted=0 discarded=8",
+    "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
+    "rss:rollingstone-music: items=10 related=3 extracted=3 discarded=7",
+    "rss:hellokpop: items=3 related=0 extracted=0 discarded=3",
+    "rss:biaslist: items=10 related=0 extracted=0 discarded=10"
+  ]
+}
