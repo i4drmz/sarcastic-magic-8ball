@@ -23,7 +23,7 @@ scripts/publishEventData.ts          ← commit/push only when fingerprint chang
 
 ## Technical report (latest run)
 
-- **Ran at:** 2026-08-04T22:36:45.721Z
+- **Ran at:** 2026-08-04T22:39:59.313Z
 - **Feeds attempted:** 12
 - **Feeds successful:** 12
 - **Feeds failed:** 0
@@ -59,8 +59,8 @@ Missing venue / city / date is **not** a discard reason.
 
 | Reason | Count |
 |--------|------:|
-| no_event_signal | 165 |
-| not_event_announcement | 69 |
+| no_event_signal | 164 |
+| not_event_announcement | 70 |
 
 ## Card fields
 

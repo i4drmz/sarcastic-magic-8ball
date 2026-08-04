@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-08-04T22:36:45.721Z",
+  "ranAt": "2026-08-04T22:39:59.313Z",
   "success": true,
   "apiRequests": 20,
   "providersRegistered": [
@@ -85,7 +85,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 10
+        "not_event_announcement": 1,
+        "no_event_signal": 9
       }
     },
     {
@@ -197,7 +198,7 @@
   "totalExtracted": 8,
   "totalDiscarded": 234,
   "extractionAccuracyPct": 88.9,
-  "previousCount": 10,
+  "previousCount": 8,
   "writtenCount": 8,
   "changed": true,
   "published": false,

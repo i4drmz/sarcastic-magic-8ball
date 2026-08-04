@@ -254,10 +254,12 @@ function cleanShortSummary(text: string): string | null {
   const cleaned = text
     .replace(/\s+/g, ' ')
     .replace(/\b(according to|the article|this report|read more|continue reading)\b/gi, '')
+    .replace(/\bannounc(?:e|es|ed|ing)\b/gi, '')
     .replace(/\s*Tap Find Tickets[^.]*\.?/gi, '')
     .replace(/\s*The post\b[\s\S]*$/i, '')
     .replace(/\s*appeared first on\b[\s\S]*$/i, '')
     .replace(/\s+/g, ' ')
+    .replace(/\s+,/g, ',')
     .trim();
   if (!cleaned) return null;
   if (cleaned.length <= 240) return cleaned;
@@ -358,8 +360,8 @@ export function articleToEvent(
     const typeLabel = typePhrase ?? 'Concert';
     headline = tourName ? `${typeLabel} “${tourName}”` : typeLabel;
     const indefinite = /^[aeiou]/i.test(typeLabel) ? 'an' : 'a';
-    const bits: string[] = [`${artist} announced ${indefinite} ${typeLabel}`];
-    if (place?.city) bits.push(`coming to ${place.city}`);
+    const bits: string[] = [`${artist} has ${indefinite} ${typeLabel} coming up`];
+    if (place?.city) bits.push(`in ${place.city}`);
     shortDescription = `${bits.join(', ')}.`;
   } else {
     headline = cleanHeadline(titleRaw);
