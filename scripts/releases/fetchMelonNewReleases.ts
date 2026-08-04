@@ -73,7 +73,8 @@ export async function fetchMelonNewReleases(): Promise<MelonNewReleases> {
       songs.push({
         ...song,
         title: await toEnglishLabel(song.title),
-        artist: await toEnglishLabel(song.artist),
+        // Keep artist names in the original Korean / Melon label.
+        artist: song.artist,
       });
     }
 
