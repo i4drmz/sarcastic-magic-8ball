@@ -26,7 +26,14 @@ export interface RssArticleInput {
 export type DiscardReason =
   | 'no_event_signal'
   | 'missing_title_or_url'
-  | 'not_event_announcement';
+  | 'not_event_announcement'
+  | 'not_kpop';
+
+/**
+ * Explicit K-pop wording. Items from general music feeds must match this or a
+ * known K-pop act — otherwise Western tours/musicals leak into the feed.
+ */
+const KPOP_SIGNAL = /\bk[\s-]?pop\b|\bkpop\b|\bkorean\b|\bkorea\b|\bseoul\b|\bk-?drama\b/i;
 
 /** Strong event nouns / ticket language — enough on their own. */
 const HEADLINE_EVENT_NOUN =
@@ -41,11 +48,11 @@ const HEADLINE_PROMO_VERB =
 
 /** Headline matches → never treat as an event card (news-style coverage). */
 const HEADLINE_EXCLUDE =
-  /\b(interview|review|recap|photos?|gallery|reaction|opinion|rankings?|charts?|sales|streaming|teaser|\bMV\b|music\s+video|behind\s+the\s+scenes|playlist|confessionals?|hiatus|fan\s+club|solo\s+debut|grammy\s+submission|premiere\s+date|on\s+set\s+of)\b/i;
+  /\b(interview|review|recap|photos?|gallery|reaction|opinion|rankings?|charts?|sales|streaming|teaser|\bMV\b|music\s+video|behind\s+the\s+scenes|playlist|confessionals?|hiatus|fan\s+club|solo\s+debut|grammy\s+submission|premiere\s+date|on\s+set\s+of|cancell?ed|cancels|postponed?|sits?\s+out|pulls?\s+out|drops?\s+out|due\s+to\s+illness)\b/i;
 
-/** Extra non-announcement headlines (obituaries, earnings, etc.). */
+/** Extra non-announcement headlines (obituaries, earnings, listicles, etc.). */
 const HEADLINE_HARD_EXCLUDE =
-  /\b(\bdies\b|\bdied\b|passed\s+away|obituary|what every music company made|q[1-4]\s+20\d{2}\s+earnings)\b/i;
+  /\b(\bdies\b|\bdied\b|passed\s+away|obituary|what every music company made|q[1-4]\s+20\d{2}\s+earnings)\b|^\s*every\s|\((so\s+far|updating)\)/i;
 
 const STOP_ACT_KEYS = new Set([
   'new',
@@ -80,6 +87,23 @@ const STOP_ACT_KEYS = new Set([
   'astro',
 ]);
 
+/**
+ * Act names that are also everyday English words — only count them when the
+ * text has explicit K-pop context (else “seventeen albums” → SEVENTEEN).
+ */
+const AMBIGUOUS_ACT_KEYS = new Set([
+  'seventeen',
+  'twice',
+  'once',
+  'april',
+  'may',
+  'winner',
+  'lucy',
+  'monsta',
+  'boys',
+  'girls',
+]);
+
 function textMentionsAct(normalizedText: string, key: string): boolean {
   if (key.length <= 4) {
     return ` ${normalizedText} `.includes(` ${key} `);
@@ -93,9 +117,11 @@ function matchArtist(
   displayNames: Map<string, string>,
 ): string | null {
   const normalized = normalizeKeyPart(text);
+  const hasKpopContext = KPOP_SIGNAL.test(text);
   const keys = [...knownActKeys].sort((a, b) => b.length - a.length);
   for (const key of keys) {
     if (key.length < 2) continue;
+    if (AMBIGUOUS_ACT_KEYS.has(key) && !hasKpopContext) continue;
     if (textMentionsAct(normalized, key)) {
       return displayNames.get(key) || key;
     }
@@ -180,6 +206,8 @@ export function articleToEvent(
     today: string;
     knownActKeys: Set<string>;
     displayNames: Map<string, string>;
+    /** False for general music outlets — those items need a K-pop match. */
+    kpopDedicated: boolean;
   },
 ): { event: PulseEvent | null; discardReason: DiscardReason | null } {
   const titleRaw = (article.title || '').trim();
@@ -200,6 +228,12 @@ export function articleToEvent(
   }
 
   const artist = matchArtist(blob, opts.knownActKeys, opts.displayNames);
+
+  // General music feeds carry mostly Western acts — keep only clearly K-pop items.
+  if (!opts.kpopDedicated && !artist && !KPOP_SIGNAL.test(blob)) {
+    return { event: null, discardReason: 'not_kpop' };
+  }
+
   const headline = cleanHeadline(titleRaw);
   const shortDescription = cleanShortSummary(description || content || headline);
   const publishedDate = article.publishedAt?.slice(0, 10) || opts.today;

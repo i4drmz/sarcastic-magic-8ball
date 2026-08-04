@@ -1,35 +1,12 @@
 {
-  "generatedAt": "2026-08-03T23:33:36.103Z",
-  "lastUpdated": "2026-08-03T23:33:36.103Z",
+  "generatedAt": "2026-08-04T00:46:39.175Z",
+  "lastUpdated": "2026-08-04T00:46:39.175Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop",
-    "billboard",
-    "nme",
-    "rollingstone-music"
+    "allkpop"
   ],
   "events": [
-    {
-      "id": "evt-8f7ad9ee9a858401",
-      "type": "Concert",
-      "title": "‘Trainspotting: The Musical’ UK tour cancelled as tickets were “just not selling”",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.nme.com/wp-content/uploads/2026/08/Trainspotting-Musical-2026.jpg",
-      "shortDescription": "In a statement, the musical stated that \"the current economic climate has resulted in lower than expected ticket sales\"",
-      "sourceUrl": "https://www.nme.com/news/music/trainspotting-the-musical-uk-tour-cancelled-as-tickets-were-just-not-selling-3960541?utm_source=rss&utm_medium=rss&utm_campaign=trainspotting-the-musical-uk-tour-cancelled-as-tickets-were-just-not-selling",
-      "ticketUrl": null,
-      "source": "rss:nme",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
     {
       "id": "evt-19726e288f3f8ab4",
       "type": "Concert",
@@ -48,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/82major-extend-global-rise-with-vibrant-fan-concert-in-macau",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-301ddd248de477c7",
@@ -68,47 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/aespa-to-live-stream-first-gocheok-dome-concert-in-146-theaters",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-a259c0e50ab0df16",
-      "type": "Festival",
-      "title": "Australia’s Biggest Outback Music Festival Sells Out 2026 Edition",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "This year’s lineup includes The Teskey Brothers, Jon Stevens, John Butler, Boy & Bear, and more.",
-      "sourceUrl": "https://www.billboard.com/pro/australia-biggest-outback-music-festival-sells-out-2026-event/",
-      "ticketUrl": null,
-      "source": "rss:billboard",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-d12cbd3b36368c3c",
-      "type": "Concert",
-      "title": "Bob Dylan Wraps Up Dramatic U.S. Tour by Adding One More Guitarist Into the Mix: Jimmie Vaughan",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "Five different guitar players have served in Dylan's band over the past couple of months, and he closed out the summer by welcoming longtime buddy Jimmie Vaughan for three songs",
-      "sourceUrl": "https://www.rollingstone.com/music/music-news/bob-dylan-u-s-tour-jimmie-vaughan-1235602566/",
-      "ticketUrl": null,
-      "source": "rss:rollingstone-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-3450dc53594ea3ee",
@@ -128,7 +65,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/boynextdoor-announce-september-comeback-during-busan-concert",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-2eea84c746cc98cb",
@@ -148,7 +85,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/cortis-thrills-50000-fans-at-lollapalooza-chicago-kicks-off-north-american-tour",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-9282bc7f1c939c42",
@@ -168,7 +105,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/enhypen-complete-north-and-south-america-tour-with-193000-fans",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-ea6bea76038cf55c",
@@ -188,7 +125,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/junny-to-hold-solo-concert-in-tokyo-this-september",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-11f5c349a8de037a",
@@ -208,27 +145,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/madein-completes-sold-out-debut-solo-concert-in-japan",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-cc05113580d3cd03",
-      "type": "Concert",
-      "title": "Megadeth announce last ever UK and European tour with Black Label Society and Testament: “We wanted it to be a true celebration of metal”",
-      "artist": "SEVENTEEN",
-      "group": "SEVENTEEN",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.nme.com/wp-content/uploads/2026/08/live-megadeth.jpg",
-      "shortDescription": "\"This isn't about saying goodbye. It's about celebrating everything we've built together over the last four decades\"",
-      "sourceUrl": "https://www.nme.com/news/music/megadeth-announce-last-ever-uk-and-european-tour-with-black-label-society-and-testament-we-wanted-it-to-be-a-true-celebration-of-metal-3960507?utm_source=rss&utm_medium=rss&utm_campaign=megadeth-announce-last-ever-uk-and-european-tour-with-black-label-society-and-testament-we-wanted-it-to-be-a-true-celebration-of-metal",
-      "ticketUrl": null,
-      "source": "rss:nme",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-79a2c1e67e4f1109",
@@ -248,27 +165,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/nflying-kicks-off-first-nationwide-tour-with-successful-seoul-concerts",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-6257b0f915abc56c",
-      "type": "Festival",
-      "title": "Organizers Cancel Yours Always Festival With Benson Boone and Sombr Without Explanation",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "Fans were inexplicably refunded and the Salt Lake City music festival’s online presence was erased",
-      "sourceUrl": "https://www.rollingstone.com/music/music-news/yours-always-festival-benson-boone-sombr-cancelled-1235602447/",
-      "ticketUrl": null,
-      "source": "rss:rollingstone-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-274abe21a5ed0f0f",
@@ -288,7 +185,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/silica-gel-previews-new-songs-at-pentaport-rock-festival",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-fdb87cf0aba359ed",
@@ -308,7 +205,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/tomorrow-x-together-preview-new-song-at-tokyo-fireworks-festival",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-de0b59f079fcc48b",
@@ -328,47 +225,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/touched-deliver-explosive-live-at-incheon-pentaport-with-new-song-debut",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-11fb33590c7f97a1",
-      "type": "Festival",
-      "title": "Yours Always Festival, Featuring Benson Boone & Sombr, Has Been Canceled",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.billboard.com/wp-content/uploads/2026/07/P107EPQ4-e1785515631181.jpg?w=237&h=147&crop=1",
-      "shortDescription": "Fans shared their dismay online, revealing that several ticket holders had received refunds for their purchases without reason over the weekend.",
-      "sourceUrl": "https://www.billboard.com/music/pop/yours-always-festival-canceled-benson-boone-sombr-salt-lake-1236308454/",
-      "ticketUrl": null,
-      "source": "rss:billboard",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-d2a6ceddc706d548",
-      "type": "Concert",
-      "title": "Zac Brown Band Celebrates Concert Milestone by Giving Away Free Cruises to Entire Stadium",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "The country group surprised 37,000 audience members at Boston’s Fenway Park with a trip on Margaritaville at Sea in honor of 15 consecutive sold-out shows",
-      "sourceUrl": "https://www.rollingstone.com/music/music-news/zac-brown-brand-fenway-park-milestone-free-cruises-1235602576/",
-      "ticketUrl": null,
-      "source": "rss:rollingstone-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -388,7 +245,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -408,27 +265,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-2c1b0f2b2378b079",
-      "type": "Festival",
-      "title": "KATSEYE’s Sophia To Sit Out Hinterland Music Festival Due To Illness",
-      "artist": null,
-      "group": null,
-      "date": "2026-07-29",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "KATSEYE’s Sophia will not be joining the rest of the group at the upcoming Hinterland Music Festival. On July 28, KATSEYE announced that Sophia would not be able to perform at the festival “due to illness.” The rest of the group will be…",
-      "sourceUrl": "https://www.soompi.com/article/1858488wpp/katseyes-sophia-to-sit-out-hinterland-music-festival-due-to-illness",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -448,7 +285,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -468,7 +305,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-1ca79e2f8f622a9f",
@@ -488,7 +325,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857175wpp/taemin-announces-new-2026-2027-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-fdabf01f08be8630",
@@ -508,27 +345,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857192wpp/wayv-announces-new-concert-tour-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
-    },
-    {
-      "id": "evt-c4d52a7446efe4f9",
-      "type": "Local Event",
-      "title": "ifeye’s Bangkok Concert Cancelled At Last Minute",
-      "artist": null,
-      "group": null,
-      "date": "2026-07-23",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "ifeye’s “If I” concert in Bangkok will no longer be taking place as scheduled. On July 24 local time, Hi-Hat Entertainment announced that the Bangkok stop of ifeye’s “If I” tour “had been cancelled due to circumstances on the organizer’s…",
-      "sourceUrl": "https://www.soompi.com/article/1857083wpp/ifeyes-bangkok-concert-cancelled-at-last-minute",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     },
     {
       "id": "evt-6778070f73d59c4b",
@@ -548,7 +365,7 @@
       "sourceUrl": "https://www.soompi.com/article/1856423wpp/triples-announces-dates-and-cities-for-2026-world-tour-andless",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-03T23:33:36.103Z"
+      "lastUpdated": "2026-08-04T00:46:39.175Z"
     }
   ]
 }

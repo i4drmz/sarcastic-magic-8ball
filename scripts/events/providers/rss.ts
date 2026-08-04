@@ -114,6 +114,7 @@ export const rssProvider: EventProvider = {
               today: ctx.today,
               knownActKeys,
               displayNames,
+              kpopDedicated: feed.kpopDedicated,
             },
           );
 
