@@ -63,6 +63,8 @@
     "axios": "^1.19.0",
     "babel-preset-expo": "^57.0.0",
     "cheerio": "^1.2.0",
+    "es-hangul": "^2.4.0",
+    "hangul-romanization": "^1.0.1",
     "rss-parser": "^3.13.0",
     "sharp": "^0.35.3",
     "tsx": "^4.23.1",

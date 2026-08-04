@@ -1,6 +1,8 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 
+import { toEnglishLabel } from './toEnglishLabel';
+
 const MELON_NEW_URL = 'https://www.melon.com/new/index.htm';
 
 const BROWSER_HEADERS = {
@@ -47,7 +49,7 @@ export async function fetchMelonNewReleases(): Promise<MelonNewReleases> {
     });
 
     const $ = cheerio.load(String(data));
-    const songs: MelonNewSong[] = [];
+    const rawSongs: MelonNewSong[] = [];
 
     $('div.service_list_song table tbody tr').each((_, row) => {
       const $row = $(row);
@@ -58,13 +60,22 @@ export async function fetchMelonNewReleases(): Promise<MelonNewReleases> {
       );
       if (!title || !artist) return;
 
-      songs.push({
+      rawSongs.push({
         title,
         artist,
         image: albumCoverUrl($row.find('img[src*="album/images"]').attr('src')),
         link: songLink($row.find('input.input_check').attr('value')),
       });
     });
+
+    const songs: MelonNewSong[] = [];
+    for (const song of rawSongs) {
+      songs.push({
+        ...song,
+        title: await toEnglishLabel(song.title),
+        artist: await toEnglishLabel(song.artist),
+      });
+    }
 
     return {
       count: songs.length,
