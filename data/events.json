@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-08-04T08:20:00.998Z",
-  "lastUpdated": "2026-08-04T08:20:00.998Z",
+  "generatedAt": "2026-08-04T13:47:12.028Z",
+  "lastUpdated": "2026-08-04T13:47:12.028Z",
   "sourceSummary": [
     "soompi-music",
-    "allkpop",
-    "koreaboo"
+    "allkpop"
   ],
   "events": [
     {
@@ -25,12 +24,32 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/bigbang-unveil-logo-motion-for-20th-anniversary-world-tour-xx-cosmos",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
-      "id": "evt-b56a27e2ab98a4a7",
-      "type": "Fansign",
-      "title": "Popular Female Idol’s Translator At Fan Sign Event Goes Massively Viral",
+      "id": "evt-7168d9c97f2497f5",
+      "type": "Concert",
+      "title": "B1A4 celebrate 15th anniversary with three-day 'D-DAY' concert",
+      "artist": null,
+      "group": null,
+      "date": "2026-08-04",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "B1A4 marked their 15th anniversary with a three-day solo concert titled 'D-DAY' at KBS Arena in Seoul. The event opened with the surprise release of their digital single \"D-DAY,\" which set an emotional tone for the show. The concert bega…",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/b1a4-celebrate-15th-anniversary-with-three-day-d-day-concert",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
+    },
+    {
+      "id": "evt-cb859984ec762e8a",
+      "type": "Festival",
+      "title": "DPR Cream and DPR Artic electrify 120,000 fans at Spain's top festivals",
       "artist": null,
       "group": null,
       "date": "2026-08-04",
@@ -41,11 +60,11 @@
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "They weren't sure who they were there to see.",
-      "sourceUrl": "https://www.koreaboo.com/news/izna-jeemin-translator-fan-sign-goes-viral-visuals/",
+      "shortDescription": "DPR Cream and DPR Artic showcased their growing global reach by performing at two of Spain's biggest music festivals, drawing a combined audience of more than 120,000. The duo first took the stage on July 27 at the 'Zebra 2026' festival…",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/dpr-cream-and-dpr-artic-electrify-120000-fans-at-spains-top-festivals",
       "ticketUrl": null,
-      "source": "rss:koreaboo",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-301ddd248de477c7",
@@ -65,47 +84,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/aespa-to-live-stream-first-gocheok-dome-concert-in-146-theaters",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
-    },
-    {
-      "id": "evt-de0b59f079fcc48b",
-      "type": "Festival",
-      "title": "Concert “Incheon Pentaport”",
-      "artist": "Touched",
-      "group": "Touched",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Incheon",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "Touched announced a Concert, coming to Incheon. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/touched-deliver-explosive-live-at-incheon-pentaport-with-new-song-debut",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
-    },
-    {
-      "id": "evt-19726e288f3f8ab4",
-      "type": "Concert",
-      "title": "Fan Concert",
-      "artist": "82MAJOR",
-      "group": "82MAJOR",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Macau",
-      "country": "MO",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "82MAJOR announced a Fan Concert, coming to Macau. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/82major-extend-global-rise-with-vibrant-fan-concert-in-macau",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-274abe21a5ed0f0f",
@@ -125,27 +104,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/silica-gel-previews-new-songs-at-pentaport-rock-festival",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
-    },
-    {
-      "id": "evt-79a2c1e67e4f1109",
-      "type": "Concert",
-      "title": "Nationwide Tour",
-      "artist": "N.Flying",
-      "group": "N.Flying",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "N.Flying announced a Nationwide Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/nflying-kicks-off-first-nationwide-tour-with-successful-seoul-concerts",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-ea6bea76038cf55c",
@@ -165,7 +124,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/junny-to-hold-solo-concert-in-tokyo-this-september",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -185,7 +144,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -205,7 +164,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -225,7 +184,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -245,7 +204,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-fdabf01f08be8630",
@@ -265,7 +224,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857192wpp/wayv-announces-new-concert-tour-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-1ca79e2f8f622a9f",
@@ -285,7 +244,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857175wpp/taemin-announces-new-2026-2027-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     },
     {
       "id": "evt-6778070f73d59c4b",
@@ -305,7 +264,7 @@
       "sourceUrl": "https://www.soompi.com/article/1856423wpp/triples-announces-dates-and-cities-for-2026-world-tour-andless",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T08:20:00.998Z"
+      "lastUpdated": "2026-08-04T13:47:12.028Z"
     }
   ]
 }
