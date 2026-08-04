@@ -12,6 +12,7 @@ import {
 import { RSS_FEEDS } from '../feeds';
 import { fetchText } from '../http';
 import { looksLikeRss, parseFeedXml } from '../parseRss';
+import { resolveArticleImage } from '../resolveImage';
 import type { EventProvider, ProviderContext, ProviderResult, PulseEvent } from '../types';
 
 export interface FeedRunStat {
@@ -140,8 +141,22 @@ export const rssProvider: EventProvider = {
       );
     }
 
+    // Many feeds omit images — pull Open Graph images from article pages.
+    let imagesResolved = 0;
+    for (const event of events) {
+      if (event.image) continue;
+      if (!event.sourceUrl) continue;
+      const image = await resolveArticleImage(event.sourceUrl, 180);
+      apiRequests += 1;
+      if (image) {
+        event.image = image;
+        imagesResolved += 1;
+      }
+    }
+    notes.push(`images resolved from articles=${imagesResolved}/${events.length}`);
+
     const okFeeds = feedStats.filter((f) => f.ok).length;
-    ctx.log(`feeds ok=${okFeeds}/${feedStats.length} events=${events.length}`);
+    ctx.log(`feeds ok=${okFeeds}/${feedStats.length} events=${events.length} images=${imagesResolved}`);
 
     return {
       providerId: 'rss',

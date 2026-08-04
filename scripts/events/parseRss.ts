@@ -52,14 +52,19 @@ function attrValue(block: string, tag: string, attr: string): string | null {
 
 function extractImage(block: string, description: string, content: string): string | null {
   const enclosure = attrValue(block, 'enclosure', 'url');
-  if (enclosure && /\.(jpe?g|png|webp|gif)(\?|$)/i.test(enclosure)) return enclosure;
+  if (enclosure && (/^https?:\/\//i.test(enclosure) || /\.(jpe?g|png|webp|gif)(\?|$)/i.test(enclosure))) {
+    if (!/\.(mp3|mp4|m4a|aac|wav)(\?|$)/i.test(enclosure)) return enclosure;
+  }
 
-  const media = attrValue(block, 'media:content', 'url') || attrValue(block, 'media:thumbnail', 'url');
-  if (media) return media;
+  const media =
+    attrValue(block, 'media:content', 'url') ||
+    attrValue(block, 'media:thumbnail', 'url') ||
+    attrValue(block, 'media:content', 'url');
+  if (media && /^https?:\/\//i.test(media)) return media;
 
   const html = `${description}\n${content}`;
   const img = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if (img?.[1]) return decodeEntities(img[1]);
+  if (img?.[1] && /^https?:\/\//i.test(img[1])) return decodeEntities(img[1]);
 
   return null;
 }

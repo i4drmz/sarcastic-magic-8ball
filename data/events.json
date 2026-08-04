@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T15:46:46.675Z",
-  "lastUpdated": "2026-08-04T15:46:46.675Z",
+  "generatedAt": "2026-08-04T17:11:20.087Z",
+  "lastUpdated": "2026-08-04T17:11:20.087Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -20,12 +20,12 @@
       "country": "XX",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "BIGBANG announced an Anniversary World Tour. Tap Find Tickets for dates and venues.",
+      "image": "https://www.allkpop.com/upload/2026/08/content/032304/1785812668-1.jpg",
+      "shortDescription": "BIGBANG announced an Anniversary World Tour.",
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/bigbang-unveil-logo-motion-for-20th-anniversary-world-tour-xx-cosmos",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-7168d9c97f2497f5",
@@ -40,12 +40,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
+      "image": "https://www.allkpop.com/upload/2026/08/content/040504/1785834280-1.jpg",
       "shortDescription": "B1A4 marked their 15th anniversary with a three-day solo concert titled 'D-DAY' at KBS Arena in Seoul. The event opened with the surprise release of their digital single \"D-DAY,\" which set an emotional tone for the show. The concert bega…",
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/b1a4-celebrate-15th-anniversary-with-three-day-d-day-concert",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -60,12 +60,12 @@
       "country": "XX",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "SF9 announced a Concert. Tap Find Tickets for dates and venues.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/04065033/SF9.jpeg",
+      "shortDescription": "SF9 announced a Concert.",
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-cb859984ec762e8a",
@@ -80,52 +80,12 @@
       "country": "XX",
       "latitude": null,
       "longitude": null,
-      "image": null,
+      "image": "https://www.allkpop.com/upload/2026/08/content/040448/1785833292-1.jpg",
       "shortDescription": "DPR Cream and DPR Artic showcased their growing global reach by performing at two of Spain's biggest music festivals, drawing a combined audience of more than 120,000. The duo first took the stage on July 27 at the 'Zebra 2026' festival…",
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/dpr-cream-and-dpr-artic-electrify-120000-fans-at-spains-top-festivals",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
-    },
-    {
-      "id": "evt-274abe21a5ed0f0f",
-      "type": "Festival",
-      "title": "Festival",
-      "artist": "Silica Gel",
-      "group": "Silica Gel",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Incheon",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "Silica Gel announced a Festival, coming to Incheon. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/silica-gel-previews-new-songs-at-pentaport-rock-festival",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
-    },
-    {
-      "id": "evt-ea6bea76038cf55c",
-      "type": "Concert",
-      "title": "Solo Concert",
-      "artist": "JUNNY",
-      "group": "JUNNY",
-      "date": "2026-08-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Tokyo",
-      "country": "JP",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "JUNNY announced a Solo Concert, coming to Tokyo. Tap Find Tickets for dates and venues.",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/junny-to-hold-solo-concert-in-tokyo-this-september",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -140,12 +100,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "OMEGA X announced an Asia Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/31031335/omega-x-jul-26.jpg",
+      "shortDescription": "OMEGA X announced an Asia Tour, coming to Seoul.",
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -160,12 +120,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "fromis_9 announced an Asia Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/29043202/fromis_9-2026-asia-tour.jpg",
+      "shortDescription": "fromis_9 announced an Asia Tour, coming to Seoul.",
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -180,12 +140,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "SUPER JUNIOR announced an Anniversary Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/26234240/yesung-2.jpeg",
+      "shortDescription": "SUPER JUNIOR announced an Anniversary Tour, coming to Seoul.",
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -200,12 +160,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "VERIVERY announced a Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/27090325/verivery_70de12.jpeg",
+      "shortDescription": "VERIVERY announced a Tour, coming to Seoul.",
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-fdabf01f08be8630",
@@ -220,12 +180,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "WayV announced a Concert, coming to Seoul. Tap Find Tickets for dates and venues.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/23232547/wayv-4.jpg",
+      "shortDescription": "WayV announced a Concert, coming to Seoul.",
       "sourceUrl": "https://www.soompi.com/article/1857192wpp/wayv-announces-new-concert-tour-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     },
     {
       "id": "evt-1ca79e2f8f622a9f",
@@ -240,12 +200,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "SHINee announced a World Tour, coming to Seoul. Tap Find Tickets for dates and venues.",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/07/23221116/taemin-world-tour-2627.jpg",
+      "shortDescription": "SHINee announced a World Tour, coming to Seoul.",
       "sourceUrl": "https://www.soompi.com/article/1857175wpp/taemin-announces-new-2026-2027-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T15:46:46.675Z"
+      "lastUpdated": "2026-08-04T17:11:20.087Z"
     }
   ]
 }
