@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T09:15:59.040Z",
+  "generatedAt": "2026-08-05T14:42:34.680Z",
   "count": 50,
   "songs": [
     {
@@ -55,6 +55,12 @@
       "artist": "이우",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/369/14418369_20260804111938_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602703358"
+    },
+    {
+      "title": "conversation",
+      "artist": "79",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/562/14418562_20260804123648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602704150"
     },
     {
       "title": "Here and Now, a New Beginning Created by Us",
@@ -295,12 +301,6 @@
       "artist": "박지원 (프로미스나인)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/507/14336507_20260731150830_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602685266"
-    },
-    {
-      "title": "Prod. 4MAKERS",
-      "artist": "Ezzle(이즐)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/14/982/14414982_20260803112807_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602692948"
     }
   ]
 }
