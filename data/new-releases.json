@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-08-05T03:41:58.695Z",
+  "generatedAt": "2026-08-05T09:15:59.040Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Korean ver.",
+      "artist": "AEN (에이엔)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/890/14418890_20260804152030_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705165"
+    },
+    {
+      "title": "2002",
+      "artist": "이루마",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/370/14418370_20260804111950_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703360"
+    },
+    {
+      "title": "Feat. Leellamarz",
+      "artist": "TOIL",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/275/14418275_20260804105953_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703094"
+    },
+    {
+      "title": "Achilles",
+      "artist": "NOWZ (나우즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/888/14418888_20260804151904_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705161"
+    },
+    {
+      "title": "Good Day",
+      "artist": "서영은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/954/14418954_20260804153603_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705278"
+    },
+    {
+      "title": "CHERRY PIE",
+      "artist": "WHIB(휘브)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/776/14418776_20260805112417_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602704647"
+    },
+    {
+      "title": "Light of Love",
+      "artist": "HYNN (박혜원)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/272/14418272_20260804105845_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703091"
+    },
+    {
+      "title": "Summer Summer Nights",
+      "artist": "109",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/214/14418214_20260804102718_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602702829"
+    },
+    {
+      "title": "Saying I'm leaving because I love you",
+      "artist": "이우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/369/14418369_20260804111938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703358"
+    },
     {
       "title": "Here and Now, a New Beginning Created by Us",
       "artist": "한희정",
@@ -19,6 +73,12 @@
       "artist": "안재우",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/259/14418259_20260804104928_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602703031"
+    },
+    {
+      "title": "Man from the algorithm",
+      "artist": "늑준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/20/929/14220929_20260728163702_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602647830"
     },
     {
       "title": "Liberation Rock",
@@ -43,6 +103,12 @@
       "artist": "최준성 (Jun S)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/374/14418374_20260804112450_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602703365"
+    },
+    {
+      "title": "SPRAY U",
+      "artist": "XD:I",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/202/14418202_20260804100550_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602702781"
     },
     {
       "title": "Feat. MIO",
@@ -235,72 +301,6 @@
       "artist": "Ezzle(이즐)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/14/982/14414982_20260803112807_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602692948"
-    },
-    {
-      "title": "Alignment",
-      "artist": "김재덕",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/37/666/14337666_20260731153521_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685822"
-    },
-    {
-      "title": "It's okay if I'm a little late",
-      "artist": "서우진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/14/909/14414909_20260803103630_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602692589"
-    },
-    {
-      "title": "President (Feat. Min Kwang)",
-      "artist": "토스트보이 (TOAST BOY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/14/974/14414974_20260803112701_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602692891"
-    },
-    {
-      "title": "Volver",
-      "artist": "Johh (조흐)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/020/14415020_20260803113529_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602693121"
-    },
-    {
-      "title": "annular flight",
-      "artist": "이바다",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/29/287/14329287_20260731115332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602683994"
-    },
-    {
-      "title": "Cosmic Summer",
-      "artist": "지선 (Loveholic)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/859/14336859_20260731151626_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685376"
-    },
-    {
-      "title": "I was deceived by familiarity and didn't know it was precious (feat. Linu)",
-      "artist": "정창룡",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/39/055/14339055_20260731161000_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602686075"
-    },
-    {
-      "title": "Dong Dong",
-      "artist": "하프(HVLF)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/549/14336549_20260731150940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685284"
-    },
-    {
-      "title": "Romantic getaways",
-      "artist": "홀린 (HLIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/37/291/14337291_20260731152556_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685572"
-    },
-    {
-      "title": "you are really really cute",
-      "artist": "서희라(에코비)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/84/154/14284154_20260730154048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602677301"
-    },
-    {
-      "title": "the +82 Remix",
-      "artist": "DAILY:DIRECTION",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/73/912/14273912_20260730095845_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602673525"
     }
   ]
 }
