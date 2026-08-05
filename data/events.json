@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-08-04T22:41:35.332Z",
-  "lastUpdated": "2026-08-04T22:41:35.332Z",
+  "generatedAt": "2026-08-05T08:16:41.718Z",
+  "lastUpdated": "2026-08-05T08:16:41.718Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "billboard"
   ],
   "events": [
+    {
+      "id": "evt-379b934f681c6a00",
+      "type": "Concert",
+      "title": "World Tour “Electric Fall-Off World Tour”",
+      "artist": "Nature",
+      "group": "Nature",
+      "date": "2026-08-05",
+      "time": null,
+      "venue": "TBA",
+      "city": "London",
+      "country": "GB",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.billboard.com/wp-content/uploads/2026/08/j-cole-2026-press-umusic-cr-David-Peters-billboard-1800.jpg?w=1024",
+      "shortDescription": "NATURE WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.billboard.com/lists/j-cole-the-fall-off-tour-review-best-moments-new-york-city/",
+      "ticketUrl": null,
+      "source": "rss:billboard",
+      "lastUpdated": "2026-08-05T08:16:41.718Z"
+    },
     {
       "id": "evt-43c7b6a2c93be186",
       "type": "Concert",
@@ -25,7 +46,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/bigbang-unveil-logo-motion-for-20th-anniversary-world-tour-xx-cosmos",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
+      "lastUpdated": "2026-08-05T08:16:41.718Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -45,7 +66,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
+      "lastUpdated": "2026-08-05T08:16:41.718Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -65,7 +86,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
+      "lastUpdated": "2026-08-05T08:16:41.718Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -85,7 +106,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
+      "lastUpdated": "2026-08-05T08:16:41.718Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -105,7 +126,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
+      "lastUpdated": "2026-08-05T08:16:41.718Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -125,47 +146,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
-    },
-    {
-      "id": "evt-fdabf01f08be8630",
-      "type": "Concert",
-      "title": "Concert “BORN THIS Way”",
-      "artist": "WayV",
-      "group": "WayV",
-      "date": "2026-07-24",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/23232547/wayv-4.jpg",
-      "shortDescription": "WAYV CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1857192wpp/wayv-announces-new-concert-tour-born-this-way",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
-    },
-    {
-      "id": "evt-1ca79e2f8f622a9f",
-      "type": "Concert",
-      "title": "World Tour “LiMiNaL”",
-      "artist": "SHINee",
-      "group": "SHINee",
-      "date": "2026-07-24",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/23221116/taemin-world-tour-2627.jpg",
-      "shortDescription": "SHINEE WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1857175wpp/taemin-announces-new-2026-2027-world-tour-liminal",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-04T22:41:35.332Z"
+      "lastUpdated": "2026-08-05T08:16:41.718Z"
     }
   ]
 }
