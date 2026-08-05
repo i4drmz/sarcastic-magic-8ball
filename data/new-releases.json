@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-08-04T23:07:45.366Z",
+  "generatedAt": "2026-08-05T03:41:58.695Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Here and Now, a New Beginning Created by Us",
+      "artist": "한희정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/257/14418257_20260804104730_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703018"
+    },
+    {
+      "title": "Bulletproof (Ian Cover)",
+      "artist": "신해경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/213/14418213_20260804102701_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602702827"
+    },
+    {
+      "title": "Are you looking for me",
+      "artist": "안재우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/259/14418259_20260804104928_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703031"
+    },
+    {
+      "title": "Liberation Rock",
+      "artist": "AGAMI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/013/14415013_20260803113319_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693111"
+    },
+    {
+      "title": "groovy,groovy",
+      "artist": "Foolhaus(풀하우스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/19/229/14419229_20260804161029_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705889"
+    },
+    {
+      "title": "feat. Shane",
+      "artist": "oftn (오픈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/375/14418375_20260804112540_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703368"
+    },
+    {
+      "title": "010",
+      "artist": "최준성 (Jun S)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/374/14418374_20260804112450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703365"
+    },
+    {
+      "title": "Feat. MIO",
+      "artist": "Holynn (홀린)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/265/14418265_20260804105611_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703058"
+    },
     {
       "title": "SWEAT",
       "artist": "KISS OF LIFE",
@@ -15,10 +63,52 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602693130"
     },
     {
+      "title": "Say You Remember",
+      "artist": "뎁트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/253/14418253_20260804104142_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703003"
+    },
+    {
+      "title": "NO.515",
+      "artist": "Masterclass",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/373/14418373_20260804112351_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703364"
+    },
+    {
       "title": "FLIRTY",
       "artist": "다영 (DAYOUNG)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/684/14415684_20260803161902_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602695419"
+    },
+    {
+      "title": "Sunny all day",
+      "artist": "김경현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/292/14415292_20260803141452_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602694113"
+    },
+    {
+      "title": "Like a silent rain",
+      "artist": "설린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/256/14418256_20260804104709_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703016"
+    },
+    {
+      "title": "I don't want to hear it",
+      "artist": "란 (RAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/353/14418353_20260804111529_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703316"
+    },
+    {
+      "title": "Summer nights",
+      "artist": "승희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/267/14418267_20260804105631_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703063"
+    },
+    {
+      "title": "Feat. EUNSAN",
+      "artist": "OSSH",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/260/14418260_20260804105042_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703032"
     },
     {
       "title": "Cider Memories",
@@ -211,96 +301,6 @@
       "artist": "DAILY:DIRECTION",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/73/912/14273912_20260730095845_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602673525"
-    },
-    {
-      "title": "Back to me",
-      "artist": "puffitboi(퍼핏보이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/460/14336460_20260731150734_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685244"
-    },
-    {
-      "title": "Song That Never Says Goodbye",
-      "artist": "Rovv",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/87/431/14287431_20260730165603_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602678036"
-    },
-    {
-      "title": "Does it rain on the day you leave",
-      "artist": "웅산",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/21/895/14221895_20260728170252_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602648456"
-    },
-    {
-      "title": "Fettuccine",
-      "artist": "VROWN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/28/192/14328192_20260731105620_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602683847"
-    },
-    {
-      "title": "SMILE",
-      "artist": "sido",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/394/14336394_20260731150554_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685217"
-    },
-    {
-      "title": "sitting on the shore of a lake",
-      "artist": "김손손",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/30/197/14330197_20260731124845_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602684388"
-    },
-    {
-      "title": "1440",
-      "artist": "박다혜",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/29/262/14329262_20260731115027_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602683979"
-    },
-    {
-      "title": "Promise Chain",
-      "artist": "김태래 (ZEROBASEONE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/144/14336144_20260731145951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685167"
-    },
-    {
-      "title": "Ice Cream",
-      "artist": "이림",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/305/14336305_20260731150320_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685172"
-    },
-    {
-      "title": "I only want to lie down until today",
-      "artist": "푸른만월",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/36/356/14336356_20260731150431_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685206"
-    },
-    {
-      "title": "feat. SHIRT",
-      "artist": "은우주 (WZN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/29/245/14329245_20260731114823_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602683961"
-    },
-    {
-      "title": "Roll the Dice",
-      "artist": "오예린밴드",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/30/157/14330157_20260731124517_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602684319"
-    },
-    {
-      "title": "On the other side of the light",
-      "artist": "이보람 (씨야)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/35/999/14335999_20260731145734_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685163"
-    },
-    {
-      "title": "Hearts Don't Say Goodbye",
-      "artist": "송하예",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/88/282/14288282_20260730171538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602678259"
-    },
-    {
-      "title": "Dreams that will never come again",
-      "artist": "송이한",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/143/38/059/14338059_20260731154419_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602685861"
     }
   ]
 }
