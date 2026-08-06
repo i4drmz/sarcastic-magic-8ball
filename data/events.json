@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T08:14:44.841Z",
-  "lastUpdated": "2026-08-06T08:14:44.841Z",
+  "generatedAt": "2026-08-06T23:49:35.578Z",
+  "lastUpdated": "2026-08-06T23:49:35.578Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860564wpp/ong-seong-wu-announces-stops-for-2026-asia-fan-meeting-tour-lets-go-ong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     },
     {
       "id": "evt-186034d73f39b6b9",
@@ -65,27 +65,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/woodz-announces-encore-concert-at-kspo-dome-during-birthday-live",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
-    },
-    {
-      "id": "evt-81e1d6bbd5b26f56",
-      "type": "Festival",
-      "title": "Festival “College Music Festival”",
-      "artist": "MBC 'College Music Festival'",
-      "group": "MBC 'College Music Festival'",
-      "date": "2026-08-05",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "MBC 'COLLEGE MUSIC FESTIVAL' FESTIVAL COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/mbc-college-music-festival-unveils-2026-revamp-with-hui-as-music-director",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -105,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -125,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -145,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -165,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -185,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T08:14:44.841Z"
+      "lastUpdated": "2026-08-06T23:49:35.578Z"
     }
   ]
 }
