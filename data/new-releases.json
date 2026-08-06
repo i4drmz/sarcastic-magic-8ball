@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-08-06T03:47:41.934Z",
+  "generatedAt": "2026-08-06T09:18:42.564Z",
   "count": 50,
   "songs": [
     {
-      "title": "Flower in the desert",
+      "title": "feat. Summer Soul",
+      "artist": "언텔 (untell)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/707/14424707_20260805160544_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718920"
+    },
+    {
+      "title": "Feel Alive (Feat. Phniel)",
+      "artist": "서은광 (비투비)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/475/14424475_20260805151825_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718237"
+    },
+    {
+      "title": "To One",
+      "artist": "김뜻돌",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/861/14424861_20260805170751_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602719880"
+    },
+    {
+      "title": "Aung Daung (Feat. Station)",
+      "artist": "윤재찬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/478/14424478_20260805152001_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718242"
+    },
+    {
+      "title": "Before Sunrise",
+      "artist": "Heon Seo (헌서)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/478/14418478_20260805173535_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602703743"
+    },
+    {
+      "title": "Lottery Umbrella",
+      "artist": "이지함",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/19/486/14419486_20260804163246_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602706441"
+    },
+    {
+      "title": "English ver.",
       "artist": "우디 (Woody)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/000/14424000_20260805111537_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602716808"
@@ -31,6 +67,36 @@
       "artist": "정효빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/477/14424477_20260805151956_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602718240"
+    },
+    {
+      "title": "Seoul Slicker",
+      "artist": "두리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/876/14418876_20260804151642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705124"
+    },
+    {
+      "title": "Ni Hao 2",
+      "artist": "GGM Soulja",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/027/14424027_20260805112719_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602716916"
+    },
+    {
+      "title": "Pinion",
+      "artist": "NVM (Never Mind)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/024/14424024_20260805112554_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602716912"
+    },
+    {
+      "title": "Glow like this",
+      "artist": "MUU (뮤)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/964/14418964_20260804153735_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705289"
+    },
+    {
+      "title": "☆Beyond the stage",
+      "artist": "코코이야 (Kokoiya)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/887/14418887_20260804151846_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705156"
     },
     {
       "title": "feat. sido",
@@ -125,7 +191,7 @@
     {
       "title": "This Body Dies and Dies (feat. Waterproof Beauty)",
       "artist": "블랙홀 (Black Hole)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/23/958/14423958_20260805105648_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/23/958/14423958_20260806172907_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602716519"
     },
     {
@@ -235,72 +301,6 @@
       "artist": "Holynn (홀린)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/265/14418265_20260804105611_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602703058"
-    },
-    {
-      "title": "SWEAT",
-      "artist": "KISS OF LIFE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/678/14415678_20260803161630_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602695411"
-    },
-    {
-      "title": "Find Wrong Picture",
-      "artist": "원슈타인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/024/14415024_20260803113728_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602693130"
-    },
-    {
-      "title": "Say You Remember",
-      "artist": "뎁트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/253/14418253_20260804104142_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703003"
-    },
-    {
-      "title": "NO.515",
-      "artist": "Masterclass",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/373/14418373_20260804112351_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703364"
-    },
-    {
-      "title": "FLIRTY",
-      "artist": "다영 (DAYOUNG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/684/14415684_20260803161902_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602695419"
-    },
-    {
-      "title": "Sunny all day",
-      "artist": "김경현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/292/14415292_20260803141452_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602694113"
-    },
-    {
-      "title": "Like a silent rain",
-      "artist": "설린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/256/14418256_20260804104709_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703016"
-    },
-    {
-      "title": "I don't want to hear it",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/353/14418353_20260804111529_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703316"
-    },
-    {
-      "title": "Summer nights",
-      "artist": "승희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/267/14418267_20260804105631_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703063"
-    },
-    {
-      "title": "Feat. EUNSAN",
-      "artist": "OSSH",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/260/14418260_20260804105042_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703032"
-    },
-    {
-      "title": "Cider Memories",
-      "artist": "키스누",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/023/14415023_20260803113627_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602693129"
     }
   ]
 }
