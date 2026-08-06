@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-05T19:14:26.099Z",
+  "ranAt": "2026-08-06T01:29:00.439Z",
   "success": false,
-  "apiRequests": 18,
+  "apiRequests": 19,
   "providersRegistered": [
     "rss"
   ],
@@ -51,12 +51,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 40,
-      "eventRelated": 1,
-      "extracted": 1,
-      "discarded": 39,
+      "eventRelated": 2,
+      "extracted": 2,
+      "discarded": 38,
       "discardReasons": {
         "no_event_signal": 32,
-        "not_event_announcement": 7
+        "not_event_announcement": 6
       }
     },
     {
@@ -84,8 +84,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 8,
+        "not_event_announcement": 2
       }
     },
     {
@@ -99,40 +99,35 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 2
+        "no_event_signal": 7,
+        "not_event_announcement": 3
       }
     },
     {
       "id": "nme",
       "label": "NME",
       "url": "https://www.nme.com/feed",
-      "ok": true,
-      "httpStatus": 200,
-      "items": 10,
-      "eventRelated": 1,
+      "ok": false,
+      "httpStatus": 403,
+      "items": 0,
+      "eventRelated": 0,
       "extracted": 0,
-      "discarded": 10,
-      "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 1,
-        "not_kpop": 1
-      }
+      "discarded": 0,
+      "discardReasons": {},
+      "error": "HTTP 403"
     },
     {
       "id": "nme-music",
       "label": "NME Music",
       "url": "https://www.nme.com/news/music/feed",
-      "ok": true,
-      "httpStatus": 200,
-      "items": 10,
-      "eventRelated": 1,
+      "ok": false,
+      "httpStatus": 403,
+      "items": 0,
+      "eventRelated": 0,
       "extracted": 0,
-      "discarded": 10,
-      "discardReasons": {
-        "no_event_signal": 9,
-        "not_kpop": 1
-      }
+      "discarded": 0,
+      "discardReasons": {},
+      "error": "HTTP 403"
     },
     {
       "id": "rollingstone",
@@ -192,31 +187,31 @@
       }
     }
   ],
-  "rawEvents": 6,
-  "afterDedupe": 6,
-  "afterUpcomingFilter": 6,
-  "totalItems": 240,
-  "totalEventRelated": 9,
-  "totalExtracted": 6,
-  "totalDiscarded": 233,
-  "extractionAccuracyPct": 66.7,
-  "previousCount": 7,
-  "writtenCount": 6,
+  "rawEvents": 7,
+  "afterDedupe": 7,
+  "afterUpcomingFilter": 7,
+  "totalItems": 220,
+  "totalEventRelated": 8,
+  "totalExtracted": 7,
+  "totalDiscarded": 212,
+  "extractionAccuracyPct": 87.5,
+  "previousCount": 6,
+  "writtenCount": 7,
   "changed": true,
   "published": false,
   "notes": [
     "rss:soompi: items=60 related=1 extracted=1 discarded=59",
     "rss:soompi-music: items=60 related=5 extracted=4 discarded=55",
-    "rss:allkpop: items=40 related=1 extracted=1 discarded=39",
+    "rss:allkpop: items=40 related=2 extracted=2 discarded=38",
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme: items=10 related=1 extracted=0 discarded=10",
-    "rss:nme-music: items=10 related=1 extracted=0 discarded=10",
+    "rss:nme: HTTP 403",
+    "rss:nme-music: HTTP 403",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
     "rss:hellokpop: not RSS/Atom",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=6/6"
+    "rss:images resolved from articles=7/7"
   ]
 }
