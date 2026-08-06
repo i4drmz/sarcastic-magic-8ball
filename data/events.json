@@ -1,12 +1,52 @@
 {
-  "generatedAt": "2026-08-06T01:29:00.439Z",
-  "lastUpdated": "2026-08-06T01:29:00.439Z",
+  "generatedAt": "2026-08-06T08:14:44.841Z",
+  "lastUpdated": "2026-08-06T08:14:44.841Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-0fd42b3c28ddef06",
+      "type": "Fan Meeting",
+      "title": "Asia Fan Meeting “Let”",
+      "artist": "Ong Seong Wu",
+      "group": "Ong Seong Wu",
+      "date": "2026-08-06",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/05200748/ong-seong-wu-1-.jpeg",
+      "shortDescription": "ONG SEONG WU ASIA FAN MEETING COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1860564wpp/ong-seong-wu-announces-stops-for-2026-asia-fan-meeting-tour-lets-go-ong",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
+    },
+    {
+      "id": "evt-c1bf386e1fb3b0cc",
+      "type": "Fan Meeting",
+      "title": "Fan Meeting",
+      "artist": "Park Ji Hoon",
+      "group": "Park Ji Hoon",
+      "date": "2026-08-06",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/06002509/park-ji-hoon-jun-26-1.jpg",
+      "shortDescription": "PARK JI HOON FAN MEETING COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
+    },
     {
       "id": "evt-186034d73f39b6b9",
       "type": "Concert",
@@ -20,12 +60,12 @@
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": "https://www.allkpop.com/upload/2026/08/content/051109/1785942551-1.jpeg",
+      "image": null,
       "shortDescription": "WOODZ ENCORE CONCERT COMING UP",
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/woodz-announces-encore-concert-at-kspo-dome-during-birthday-live",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-06T01:29:00.439Z"
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
     },
     {
       "id": "evt-81e1d6bbd5b26f56",
@@ -40,12 +80,12 @@
       "country": "XX",
       "latitude": null,
       "longitude": null,
-      "image": "https://www.allkpop.com/upload/2026/08/content/050800/web_data/allkpop_1785931401_mbc-college-music-festival-2026-1200.jpg",
+      "image": null,
       "shortDescription": "MBC 'COLLEGE MUSIC FESTIVAL' FESTIVAL COMING UP",
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/mbc-college-music-festival-unveils-2026-revamp-with-hui-as-music-director",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-06T01:29:00.439Z"
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -65,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-06T01:29:00.439Z"
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -85,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T01:29:00.439Z"
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -105,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T01:29:00.439Z"
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -125,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T01:29:00.439Z"
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -145,7 +185,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T01:29:00.439Z"
+      "lastUpdated": "2026-08-06T08:14:44.841Z"
     }
   ]
 }
