@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T07:50:17.039Z",
+  "generatedAt": "2026-08-07T13:44:55.649Z",
   "count": 50,
   "songs": [
     {
@@ -27,16 +27,58 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602731234"
     },
     {
+      "title": "Happy Rain",
+      "artist": "10CM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/23/950/14423950_20260805103059_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602716490"
+    },
+    {
       "title": "Too Much",
       "artist": "던 (DAWN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/164/14415164_20260803122440_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602693654"
     },
     {
+      "title": "No Mercy",
+      "artist": "DPR IAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/810/14428810_20260806144850_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731287"
+    },
+    {
+      "title": "You′re my darling",
+      "artist": "범진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/815/14428815_20260806145020_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731302"
+    },
+    {
+      "title": "queSTion mark",
+      "artist": "스티 (STi)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/968/14428968_20260806152656_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731872"
+    },
+    {
+      "title": "Reason (feat. Crucial Star)",
+      "artist": "유명한아이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/581/14428581_20260806112241_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730372"
+    },
+    {
+      "title": "WHY YOU TALKIN LIKE DAT?",
+      "artist": "Kik5o",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/733/14428733_20260806133200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730909"
+    },
+    {
       "title": "Someday",
       "artist": "에릭남 (Eric Nam)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/755/14428755_20260806142659_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602730971"
+    },
+    {
+      "title": "Clingy",
+      "artist": "tāya",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/715/14428715_20260806131632_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730848"
     },
     {
       "title": "Don't steal my heart",
@@ -259,48 +301,6 @@
       "artist": "TOIL",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/275/14418275_20260804105953_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602703094"
-    },
-    {
-      "title": "Lukewarm beer",
-      "artist": "개똥 (류진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/712/14415712_20260807100752_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602695559"
-    },
-    {
-      "title": "Aligned",
-      "artist": "ecru (에크루)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/20/129/14420129_20260804172241_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602707859"
-    },
-    {
-      "title": "Happy Meal",
-      "artist": "Willy Wally",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/19/640/14419640_20260804164257_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602706722"
-    },
-    {
-      "title": "The day you left",
-      "artist": "태유",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/20/058/14420058_20260804171922_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602707759"
-    },
-    {
-      "title": "VAMPIRE",
-      "artist": "르네(Renée)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/866/14418866_20260804151239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602705094"
-    },
-    {
-      "title": "Still love",
-      "artist": "영롱",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/708/14415708_20260803164041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602695551"
-    },
-    {
-      "title": "Like a Falling Star",
-      "artist": "Jewely",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/889/14418889_20260804152017_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602705162"
     }
   ]
 }
