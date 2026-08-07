@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-07T03:23:22.501Z",
+  "generatedAt": "2026-08-07T07:50:17.039Z",
   "count": 50,
   "songs": [
+    {
+      "title": "This & That",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/706/14428706_20260806130640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730813"
+    },
+    {
+      "title": "courage",
+      "artist": "wave to earth",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/484/14428484_20260806101600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730101"
+    },
+    {
+      "title": "Blue Blood",
+      "artist": "ARTMS (아르테미스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/069/14429069_20260806154240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732314"
+    },
+    {
+      "title": "WAYF BOYS DO",
+      "artist": "WAYF BOYS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/802/14428802_20260806144258_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731234"
+    },
+    {
+      "title": "Too Much",
+      "artist": "던 (DAWN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/164/14415164_20260803122440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693654"
+    },
+    {
+      "title": "Someday",
+      "artist": "에릭남 (Eric Nam)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/755/14428755_20260806142659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730971"
+    },
     {
       "title": "Don't steal my heart",
       "artist": "맥거핀 (MGFF)",
@@ -265,42 +301,6 @@
       "artist": "Jewely",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/889/14418889_20260804152017_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602705162"
-    },
-    {
-      "title": "This Body Dies and Dies (feat. Waterproof Beauty)",
-      "artist": "블랙홀 (Black Hole)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/23/958/14423958_20260806172907_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602716519"
-    },
-    {
-      "title": "Regret is longing",
-      "artist": "차은주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/023/14424023_20260805112456_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602716910"
-    },
-    {
-      "title": "Achilles",
-      "artist": "NOWZ (나우즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/888/14418888_20260804151904_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602705161"
-    },
-    {
-      "title": "Good Day",
-      "artist": "서영은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/954/14418954_20260804153603_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602705278"
-    },
-    {
-      "title": "CHERRY PIE",
-      "artist": "WHIB(휘브)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/776/14418776_20260805112417_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602704647"
-    },
-    {
-      "title": "Light of Love",
-      "artist": "HYNN (박혜원)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/272/14418272_20260804105845_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703091"
     }
   ]
 }
