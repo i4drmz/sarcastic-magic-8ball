@@ -1,12 +1,32 @@
 {
-  "generatedAt": "2026-08-06T23:49:35.578Z",
-  "lastUpdated": "2026-08-06T23:49:35.578Z",
+  "generatedAt": "2026-08-07T06:59:59.683Z",
+  "lastUpdated": "2026-08-07T06:59:59.683Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-28cd28847839ba75",
+      "type": "Concert",
+      "title": "Encore Concert “The Replay”",
+      "artist": "Jay Park",
+      "group": "Jay Park",
+      "date": "2026-08-07",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "JAY PARK ENCORE CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/jay-park-to-hold-encore-concert-the-replay-in-seoul-this-august",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
+    },
     {
       "id": "evt-0fd42b3c28ddef06",
       "type": "Fan Meeting",
@@ -25,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860564wpp/ong-seong-wu-announces-stops-for-2026-asia-fan-meeting-tour-lets-go-ong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -45,27 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
-    },
-    {
-      "id": "evt-186034d73f39b6b9",
-      "type": "Concert",
-      "title": "Encore Concert",
-      "artist": "WOODZ",
-      "group": "WOODZ",
-      "date": "2026-08-05",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "WOODZ ENCORE CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/woodz-announces-encore-concert-at-kspo-dome-during-birthday-live",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -84,8 +84,8 @@
       "shortDescription": "SF9 CONCERT COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -105,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -125,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
     },
     {
       "id": "evt-828fb1e5da246105",
@@ -145,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857776wpp/super-juniors-yesung-announces-stops-for-10th-anniversary-tour-about-the-things-we-called-ordinary",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
     },
     {
       "id": "evt-3f1f15ede11130e6",
@@ -165,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-06T23:49:35.578Z"
+      "lastUpdated": "2026-08-07T06:59:59.683Z"
     }
   ]
 }
