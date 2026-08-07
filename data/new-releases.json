@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-07T00:20:53.388Z",
+  "generatedAt": "2026-08-07T03:23:22.501Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Don't steal my heart",
+      "artist": "맥거핀 (MGFF)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/804/14428804_20260806144359_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731255"
+    },
+    {
+      "title": "Buddha Butterfly",
+      "artist": "허찬미",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/754/14428754_20260806142638_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730969"
+    },
+    {
+      "title": "LA LA LA LUNE",
+      "artist": "JUNHEE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/393/14424393_20260805124947_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718007"
+    },
+    {
+      "title": "not my spotify",
+      "artist": "담예 (DAMYE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/785/14428785_20260806143631_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731142"
+    },
+    {
+      "title": "Imagine",
+      "artist": "아거 (AGER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/285/14429285_20260806174801_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602733478"
+    },
+    {
+      "title": "Feat.V.et,Taeb2",
+      "artist": "Tmlm",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/793/14428793_20260806144002_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731196"
+    },
     {
       "title": "feat. Summer Soul",
       "artist": "언텔 (untell)",
@@ -13,6 +49,48 @@
       "artist": "서은광 (비투비)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/475/14424475_20260805151825_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602718237"
+    },
+    {
+      "title": "Hong Gil-dong",
+      "artist": "아렌 (브라더스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/796/14428796_20260806144034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731206"
+    },
+    {
+      "title": "Unspeakable words",
+      "artist": "재경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/20/262/14420262_20260804174059_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602708299"
+    },
+    {
+      "title": "No Youth is Perfect",
+      "artist": "다인(DA!N)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/833/14428833_20260806150011_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731416"
+    },
+    {
+      "title": "Watermelon Days",
+      "artist": "J.Fla",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/805/14428805_20260806144448_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731257"
+    },
+    {
+      "title": "Collapse of homeostasis",
+      "artist": "ddim",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/909/14424909_20260805173322_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602720096"
+    },
+    {
+      "title": "In beautiful love",
+      "artist": "리디아 (Lydia)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/829/14424829_20260805164849_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602719672"
+    },
+    {
+      "title": "Blood Game",
+      "artist": "안시우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/156/14424156_20260805115229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602717281"
     },
     {
       "title": "To One",
@@ -149,7 +227,7 @@
     {
       "title": "Lukewarm beer",
       "artist": "개똥 (류진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/712/14415712_20260803164404_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/712/14415712_20260807100752_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602695559"
     },
     {
@@ -223,84 +301,6 @@
       "artist": "HYNN (박혜원)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/272/14418272_20260804105845_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602703091"
-    },
-    {
-      "title": "Summer Summer Nights",
-      "artist": "109",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/214/14418214_20260804102718_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602702829"
-    },
-    {
-      "title": "Saying I'm leaving because I love you",
-      "artist": "이우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/369/14418369_20260804111938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703358"
-    },
-    {
-      "title": "conversation",
-      "artist": "79",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/562/14418562_20260804123648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602704150"
-    },
-    {
-      "title": "Here and Now, a New Beginning Created by Us",
-      "artist": "한희정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/257/14418257_20260804104730_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703018"
-    },
-    {
-      "title": "Bulletproof (Ian Cover)",
-      "artist": "신해경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/213/14418213_20260804102701_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602702827"
-    },
-    {
-      "title": "Are you looking for me",
-      "artist": "안재우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/259/14418259_20260804104928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703031"
-    },
-    {
-      "title": "Man from the algorithm",
-      "artist": "늑준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/20/929/14220929_20260728163702_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602647830"
-    },
-    {
-      "title": "Liberation Rock",
-      "artist": "AGAMI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/013/14415013_20260803113319_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602693111"
-    },
-    {
-      "title": "groovy,groovy",
-      "artist": "Foolhaus(풀하우스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/19/229/14419229_20260804161029_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602705889"
-    },
-    {
-      "title": "feat. Shane",
-      "artist": "oftn (오픈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/375/14418375_20260804112540_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703368"
-    },
-    {
-      "title": "010",
-      "artist": "최준성 (Jun S)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/374/14418374_20260804112450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703365"
-    },
-    {
-      "title": "SPRAY U",
-      "artist": "XD:I",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/202/14418202_20260804100550_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602702781"
-    },
-    {
-      "title": "Feat. MIO",
-      "artist": "Holynn (홀린)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/265/14418265_20260804105611_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703058"
     }
   ]
 }
