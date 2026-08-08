@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-08T07:26:17.084Z",
+  "generatedAt": "2026-08-08T13:24:01.031Z",
   "count": 50,
   "songs": [
+    {
+      "title": "All I Can Say Is",
+      "artist": "LOUIS of LNGSHOT",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/530/14431530_20260807145141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739804"
+    },
+    {
+      "title": "Haute Couture",
+      "artist": "Royal 44",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/526/14431526_20260807145040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739794"
+    },
+    {
+      "title": "One More Bite",
+      "artist": "최다니엘",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/763/14428763_20260806143145_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731014"
+    },
+    {
+      "title": "Love, this is it.",
+      "artist": "박다혜",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/590/14428590_20260806113001_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730384"
+    },
+    {
+      "title": "I'm sorry, I'm sorry",
+      "artist": "란 (RAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/767/14428767_20260806143348_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731037"
+    },
+    {
+      "title": "Because I loved you",
+      "artist": "이진재",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/696/14429696_20260806184129_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602734519"
+    },
     {
       "title": "You know what I want to see",
       "artist": "DOKO (도코)",
@@ -37,6 +73,18 @@
       "artist": "Tella",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/716/14428716_20260806131752_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602730849"
+    },
+    {
+      "title": "Love Confesses Youth",
+      "artist": "반가희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/527/14431527_20260807145040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739799"
+    },
+    {
+      "title": "Lie? Shy! Why?",
+      "artist": "쿠우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/222/14429222_20260806170249_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732832"
     },
     {
       "title": "Happy Rain",
@@ -253,54 +301,6 @@
       "artist": "안시우",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/156/14424156_20260805115229_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602717281"
-    },
-    {
-      "title": "To One",
-      "artist": "김뜻돌",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/861/14424861_20260805170751_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602719880"
-    },
-    {
-      "title": "Aung Daung (Feat. Station)",
-      "artist": "윤재찬",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/478/14424478_20260805152001_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718242"
-    },
-    {
-      "title": "Before Sunrise",
-      "artist": "Heon Seo (헌서)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/478/14418478_20260805173535_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602703743"
-    },
-    {
-      "title": "Lottery Umbrella",
-      "artist": "이지함",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/19/486/14419486_20260804163246_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602706441"
-    },
-    {
-      "title": "English ver.",
-      "artist": "우디 (Woody)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/000/14424000_20260805111537_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602716808"
-    },
-    {
-      "title": "Rehearsal",
-      "artist": "로키드 (Lokid)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/128/94/740/12894740_20260804173606_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602707758"
-    },
-    {
-      "title": "Then the star-housewife began to weep and say,",
-      "artist": "이날치",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/142/13/862/14213862_20260729115630_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602646615"
-    },
-    {
-      "title": "Feat. Junji",
-      "artist": "Frezz",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/476/14424476_20260805151829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718239"
     }
   ]
 }
