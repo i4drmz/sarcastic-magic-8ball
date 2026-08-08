@@ -1,42 +1,12 @@
 {
-  "generatedAt": "2026-08-07T19:26:29.994Z",
+  "generatedAt": "2026-08-08T02:26:35.158Z",
   "count": 50,
   "songs": [
-    {
-      "title": "This & That",
-      "artist": "Stray Kids (스트레이 키즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/706/14428706_20260806130640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730813"
-    },
-    {
-      "title": "courage",
-      "artist": "wave to earth",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/484/14428484_20260806101600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730101"
-    },
-    {
-      "title": "Blue Blood",
-      "artist": "ARTMS (아르테미스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/069/14429069_20260806154240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732314"
-    },
-    {
-      "title": "WAYF BOYS DO",
-      "artist": "WAYF BOYS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/802/14428802_20260806144258_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731234"
-    },
     {
       "title": "Happy Rain",
       "artist": "10CM",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/23/950/14423950_20260805103059_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602716490"
-    },
-    {
-      "title": "Too Much",
-      "artist": "던 (DAWN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/164/14415164_20260803122440_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602693654"
     },
     {
       "title": "No Mercy",
@@ -67,6 +37,36 @@
       "artist": "Kik5o",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/733/14428733_20260806133200_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602730909"
+    },
+    {
+      "title": "This & That",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/706/14428706_20260806130640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730813"
+    },
+    {
+      "title": "courage",
+      "artist": "wave to earth",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/484/14428484_20260806101600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730101"
+    },
+    {
+      "title": "Blue Blood",
+      "artist": "ARTMS (아르테미스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/069/14429069_20260806154240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732314"
+    },
+    {
+      "title": "WAYF BOYS DO",
+      "artist": "WAYF BOYS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/802/14428802_20260806144258_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731234"
+    },
+    {
+      "title": "Too Much",
+      "artist": "던 (DAWN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/164/14415164_20260803122440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693654"
     },
     {
       "title": "Someday",
