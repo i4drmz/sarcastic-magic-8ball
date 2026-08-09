@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T00:55:02.255Z",
-  "lastUpdated": "2026-08-09T00:55:02.255Z",
+  "generatedAt": "2026-08-09T06:37:55.518Z",
+  "lastUpdated": "2026-08-09T06:37:55.518Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/qwer-announces-second-tour-rocket-launch-across-nine-asian-cities",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-09T00:55:02.255Z"
+      "lastUpdated": "2026-08-09T06:37:55.518Z"
     },
     {
       "id": "evt-0fd42b3c28ddef06",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860564wpp/ong-seong-wu-announces-stops-for-2026-asia-fan-meeting-tour-lets-go-ong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-09T00:55:02.255Z"
+      "lastUpdated": "2026-08-09T06:37:55.518Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -65,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-09T00:55:02.255Z"
+      "lastUpdated": "2026-08-09T06:37:55.518Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-09T00:55:02.255Z"
+      "lastUpdated": "2026-08-09T06:37:55.518Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -105,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-09T00:55:02.255Z"
+      "lastUpdated": "2026-08-09T06:37:55.518Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -125,27 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-09T00:55:02.255Z"
-    },
-    {
-      "id": "evt-3f1f15ede11130e6",
-      "type": "Concert",
-      "title": "Tour “GIVE ME FIVE, KEEP THAT VIBE”",
-      "artist": "VERIVERY",
-      "group": "VERIVERY",
-      "date": "2026-07-27",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/07/27090325/verivery_70de12.jpeg",
-      "shortDescription": "VERIVERY TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1857916wpp/verivery-announces-schedule-for-give-me-five-keep-that-vibe-tour",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-09T00:55:02.255Z"
+      "lastUpdated": "2026-08-09T06:37:55.518Z"
     }
   ]
 }
