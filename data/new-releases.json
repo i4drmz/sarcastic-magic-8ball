@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-09T02:33:54.900Z",
+  "generatedAt": "2026-08-09T07:28:49.613Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Easy On Her",
+      "artist": "Jimmy Brown",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/761/14428761_20260806143132_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602731007"
+    },
+    {
+      "title": "Only regrets remain in parting",
+      "artist": "스트레이 (The Stray)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/535/14431535_20260807145640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739813"
+    },
+    {
+      "title": "Surf",
+      "artist": "장수빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/532/14431532_20260807145528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739807"
+    },
+    {
+      "title": "Summer rush",
+      "artist": "bluebluebird",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/537/14431537_20260807150058_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739816"
+    },
+    {
+      "title": "Don't Get Confusing! (feat. Ruined)",
+      "artist": "ZUO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/394/14424394_20260805125049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718015"
+    },
+    {
+      "title": "Rebel (Art. stars (hangsung))",
+      "artist": "Anonymous Artists(어나니머스 아티스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/714/14428714_20260806131552_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730846"
+    },
     {
       "title": "All I Can Say Is",
       "artist": "LOUIS of LNGSHOT",
@@ -13,6 +49,36 @@
       "artist": "Royal 44",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/526/14431526_20260807145040_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602739794"
+    },
+    {
+      "title": "Go back to it all.",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/736/14428736_20260806133232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730914"
+    },
+    {
+      "title": "I'm sorry I'm not good at living.",
+      "artist": "이정석(Lee Jung seok)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/671/14429671_20260806183920_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602734430"
+    },
+    {
+      "title": "Ocean, Movies, Lies",
+      "artist": "이우든",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/310/14429310_20260806175934_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602733615"
+    },
+    {
+      "title": "WAY",
+      "artist": "BKWAN(비콴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/545/14429545_20260806182552_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602734059"
+    },
+    {
+      "title": "U",
+      "artist": "아울러 (OWLER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/391/14424391_20260805124926_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718001"
     },
     {
       "title": "One More Bite",
@@ -235,72 +301,6 @@
       "artist": "담예 (DAMYE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/785/14428785_20260806143631_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602731142"
-    },
-    {
-      "title": "Imagine",
-      "artist": "아거 (AGER)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/285/14429285_20260806174801_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602733478"
-    },
-    {
-      "title": "Feat.V.et,Taeb2",
-      "artist": "Tmlm",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/793/14428793_20260806144002_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731196"
-    },
-    {
-      "title": "feat. Summer Soul",
-      "artist": "언텔 (untell)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/707/14424707_20260805160544_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718920"
-    },
-    {
-      "title": "Feel Alive (Feat. Phniel)",
-      "artist": "서은광 (비투비)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/475/14424475_20260805151825_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718237"
-    },
-    {
-      "title": "Hong Gil-dong",
-      "artist": "아렌 (브라더스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/796/14428796_20260806144034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731206"
-    },
-    {
-      "title": "Unspeakable words",
-      "artist": "재경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/20/262/14420262_20260804174059_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602708299"
-    },
-    {
-      "title": "No Youth is Perfect",
-      "artist": "다인(DA!N)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/833/14428833_20260806150011_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731416"
-    },
-    {
-      "title": "Watermelon Days",
-      "artist": "J.Fla",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/805/14428805_20260806144448_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731257"
-    },
-    {
-      "title": "Collapse of homeostasis",
-      "artist": "ddim",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/909/14424909_20260805173322_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602720096"
-    },
-    {
-      "title": "In beautiful love",
-      "artist": "리디아 (Lydia)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/829/14424829_20260805164849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602719672"
-    },
-    {
-      "title": "Blood Game",
-      "artist": "안시우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/156/14424156_20260805115229_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602717281"
     }
   ]
 }
