@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-10T08:11:18.200Z",
+  "generatedAt": "2026-08-10T13:51:20.962Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Pop Off Pop Off",
+      "artist": "KiiiKiii (키키)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/080/14429080_20260806154450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732384"
+    },
+    {
+      "title": "BUSS DAT",
+      "artist": "Nosun",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/052/14435052_20260810112538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602750284"
+    },
+    {
+      "title": "Don't look in my eyes",
+      "artist": "JERO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/482/14424482_20260805152517_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718274"
+    },
+    {
+      "title": "actually",
+      "artist": "전태영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/265/14431265_20260807125813_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739383"
+    },
+    {
+      "title": "Sarangmoa",
+      "artist": "신미래",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/570/14431570_20260807151133_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602740133"
+    },
+    {
+      "title": "1 MORE TIME",
+      "artist": "AILYM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/515/14431515_20260807143300_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739777"
+    },
     {
       "title": "love me again",
       "artist": "OuiOui (위위)",
@@ -265,42 +301,6 @@
       "artist": "DOKO (도코)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/523/14431523_20260807144539_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602739787"
-    },
-    {
-      "title": "Feat. OLNL",
-      "artist": "태비 (Taeb2)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/539/14428539_20260810164120_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730271"
-    },
-    {
-      "title": "Even if I hate it, once again",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/088/14429088_20260806154950_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732426"
-    },
-    {
-      "title": "Odyssey",
-      "artist": "행로난",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/050/14429050_20260806153410_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732116"
-    },
-    {
-      "title": "Sandcastle",
-      "artist": "최창순",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/517/14431517_20260807144048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739780"
-    },
-    {
-      "title": "A Red Thread of Fate",
-      "artist": "Tella",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/716/14428716_20260806131752_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730849"
-    },
-    {
-      "title": "Love Confesses Youth",
-      "artist": "반가희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/527/14431527_20260807145040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739799"
     }
   ]
 }
