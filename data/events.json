@@ -1,10 +1,31 @@
 {
-  "generatedAt": "2026-08-10T00:57:25.374Z",
-  "lastUpdated": "2026-08-10T00:57:25.374Z",
+  "generatedAt": "2026-08-10T07:10:03.778Z",
+  "lastUpdated": "2026-08-10T07:10:03.778Z",
   "sourceSummary": [
+    "soompi",
     "soompi-music"
   ],
   "events": [
+    {
+      "id": "evt-1df548c8e151f9eb",
+      "type": "Concert",
+      "title": "Anniversary Tour “101010”",
+      "artist": "PENTAGON",
+      "group": "PENTAGON",
+      "date": "2026-08-10",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/09203139/pentagon-1-.png",
+      "shortDescription": "PENTAGON ANNIVERSARY TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-10T07:10:03.778Z"
+    },
     {
       "id": "evt-c1bf386e1fb3b0cc",
       "type": "Fan Meeting",
@@ -23,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T00:57:25.374Z"
+      "lastUpdated": "2026-08-10T07:10:03.778Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -43,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T00:57:25.374Z"
+      "lastUpdated": "2026-08-10T07:10:03.778Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -63,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T00:57:25.374Z"
+      "lastUpdated": "2026-08-10T07:10:03.778Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -83,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T00:57:25.374Z"
+      "lastUpdated": "2026-08-10T07:10:03.778Z"
     }
   ]
 }
