@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-08-10T02:39:46.990Z",
+  "generatedAt": "2026-08-10T08:11:18.200Z",
   "count": 50,
   "songs": [
+    {
+      "title": "love me again",
+      "artist": "OuiOui (위위)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/566/14431566_20260807151043_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602740084"
+    },
+    {
+      "title": "PADO",
+      "artist": "네이비쿼카 (NavyQuokka)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/541/14428541_20260806105951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602730273"
+    },
+    {
+      "title": "Stuck in the Summer",
+      "artist": "Silly Silky (실리실키)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/175/14429175_20260806163219_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732721"
+    },
+    {
+      "title": "feat. ISSEI",
+      "artist": "서이브(SEO EVE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/557/14431557_20260807150626_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739977"
+    },
+    {
+      "title": "Melotherapy",
+      "artist": "DORI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/559/14431559_20260807150749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739993"
+    },
+    {
+      "title": "2026 ver",
+      "artist": "감성단속반",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/30/990/14430990_20260807095158_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602738261"
+    },
+    {
+      "title": "This Version",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/269/14431269_20260807130029_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602739395"
+    },
     {
       "title": "KARINA & WINTER",
       "artist": "aespa",
@@ -19,6 +61,60 @@
       "artist": "Jayci yucca",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/538/14428538_20260806105551_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602730270"
+    },
+    {
+      "title": "feat. Seungmin",
+      "artist": "Jxxn (진)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/173/14429173_20260806162358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732719"
+    },
+    {
+      "title": "A rainy day reminds me of you",
+      "artist": "모닝커피 (Morning Coffee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/081/14429081_20260806154717_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732388"
+    },
+    {
+      "title": "I think it became love until the breakup.",
+      "artist": "나빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/899/14431899_20260807164759_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602741596"
+    },
+    {
+      "title": "People without dreams",
+      "artist": "0018",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/220/14429220_20260806170029_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732827"
+    },
+    {
+      "title": "Time Mannyeon",
+      "artist": "옛그리움 (Old Yearning)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/311/14429311_20260806175935_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602733616"
+    },
+    {
+      "title": "Slowly",
+      "artist": "PS영준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/182/14429182_20260806164239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732734"
+    },
+    {
+      "title": "Surf",
+      "artist": "Electric Planet Five",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/070/14429070_20260806154240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602732315"
+    },
+    {
+      "title": "Mood UP",
+      "artist": "구다희 (Dahee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/562/14431562_20260807150859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602740032"
+    },
+    {
+      "title": "I just think of you like a passing thought",
+      "artist": "리디아 (Lydia)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/159/14415159_20260803121938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602693648"
     },
     {
       "title": "Feat.SHIRT",
@@ -173,7 +269,7 @@
     {
       "title": "Feat. OLNL",
       "artist": "태비 (Taeb2)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/539/14428539_20260806105634_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/539/14428539_20260810164120_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602730271"
     },
     {
@@ -205,102 +301,6 @@
       "artist": "반가희",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/527/14431527_20260807145040_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602739799"
-    },
-    {
-      "title": "Lie? Shy! Why?",
-      "artist": "쿠우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/222/14429222_20260806170249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732832"
-    },
-    {
-      "title": "Happy Rain",
-      "artist": "10CM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/23/950/14423950_20260805103059_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602716490"
-    },
-    {
-      "title": "No Mercy",
-      "artist": "DPR IAN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/810/14428810_20260806144850_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731287"
-    },
-    {
-      "title": "Now and forever",
-      "artist": "DANI (박혁진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/600/14428600_20260806113724_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730424"
-    },
-    {
-      "title": "Feat. Lil Cherry",
-      "artist": "GOLDBUUDA, POPXICK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/263/14431263_20260807125411_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739375"
-    },
-    {
-      "title": "Feat. DYMIN, Hollow Young",
-      "artist": "정시엘 (J.Ciel)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/522/14431522_20260807144449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739786"
-    },
-    {
-      "title": "You′re my darling",
-      "artist": "범진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/815/14428815_20260806145020_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731302"
-    },
-    {
-      "title": "queSTion mark",
-      "artist": "스티 (STi)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/968/14428968_20260806152656_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731872"
-    },
-    {
-      "title": "feat. Josh",
-      "artist": "레몬시티(Lemon City)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/582/14428582_20260806112243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730374"
-    },
-    {
-      "title": "Even with me like this,",
-      "artist": "홈메이드레코딩",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/308/14429308_20260806175833_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602733610"
-    },
-    {
-      "title": "For You Who Forgot the Season (Vocal Oil)",
-      "artist": "타임브릿지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/589/14428589_20260806112701_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730382"
-    },
-    {
-      "title": "Love Cloud",
-      "artist": "D.Van",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/525/14431525_20260807144720_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739791"
-    },
-    {
-      "title": "Reason (feat. Crucial Star)",
-      "artist": "유명한아이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/581/14428581_20260806112241_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730372"
-    },
-    {
-      "title": "WHY YOU TALKIN LIKE DAT?",
-      "artist": "Kik5o",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/733/14428733_20260806133200_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730909"
-    },
-    {
-      "title": "Reverse (狂)",
-      "artist": "감다이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/518/14431518_20260807144152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739781"
-    },
-    {
-      "title": "This & That",
-      "artist": "Stray Kids (스트레이 키즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/706/14428706_20260806130640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730813"
     }
   ]
 }
