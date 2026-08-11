@@ -1,15 +1,93 @@
 {
-  "generatedAt": "2026-08-11T07:44:03.661Z",
+  "generatedAt": "2026-08-11T13:49:33.861Z",
   "count": 50,
   "songs": [
     {
-      "title": "Nae Maeum Han Jogak",
+      "title": "i love LOVE",
+      "artist": "정은지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/771/14435771_20260810152231_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602753871"
+    },
+    {
+      "title": "Blue Diamond",
+      "artist": "어반자카파",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/755/14435755_20260810152101_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602753788"
+    },
+    {
+      "title": "So we're going to",
+      "artist": "백아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/568/14435568_20260810142154_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602752996"
+    },
+    {
+      "title": "Verdant Escape",
+      "artist": "주영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/483/14424483_20260805152648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602718275"
+    },
+    {
+      "title": "Fake It",
+      "artist": "라키",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/016/14435016_20260810105119_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602750188"
+    },
+    {
+      "title": "I really like you.",
+      "artist": "남유정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/780/14435780_20260810152503_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602753888"
+    },
+    {
+      "title": "Exciting Music, Wrong Life",
+      "artist": "술탄 오브 더 디스코",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/555/14435555_20260810142041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602752878"
+    },
+    {
+      "title": "Renegade",
+      "artist": "OMEGA X (오메가엑스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/116/14435116_20260810114455_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602750660"
+    },
+    {
+      "title": "Neverland",
+      "artist": "D.N.X",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/575/14435575_20260810142528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602753030"
+    },
+    {
+      "title": "Raindrops",
+      "artist": "가리온",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/031/14435031_20260810111520_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602750211"
+    },
+    {
+      "title": "feat. JP",
+      "artist": "kiri",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/574/14435574_20260810142358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602753029"
+    },
+    {
+      "title": "In a hammock",
+      "artist": "우지원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/32/126/14432126_20260807183838_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602742830"
+    },
+    {
+      "title": "7 out of 7",
+      "artist": "Rosy Barbie",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/576/14435576_20260810142659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602753036"
+    },
+    {
+      "title": "A piece of my heart",
       "artist": "AtHeart (앳하트)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/521/14435521_20260810141747_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602752586"
     },
     {
-      "title": "LAST DANCE (feat. Mairin, Eunbangul, Ichaeyeon)",
+      "title": "Last dance (feat. Myrin, Silver Drops, Lee Chae-yeon)",
       "artist": "미미미누",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/032/14435032_20260810111829_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602750220"
@@ -21,19 +99,19 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602718021"
     },
     {
-      "title": "Gwaenhi Nalssiga Joaseo",
+      "title": "The weather was nice for nothing",
       "artist": "모디",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/019/14435019_20260810110659_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602750193"
     },
     {
-      "title": "Like This",
-      "artist": "Chris Bates",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/518/14435518_20260810141730_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602752557"
+      "title": "I've grown up,",
+      "artist": "도란도란",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/518/14435518_20260811171607_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602752559"
     },
     {
-      "title": "Yeoreumsai",
+      "title": "Between summer",
       "artist": "이도아",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/266/14431266_20260807125813_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602739384"
@@ -69,7 +147,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602718274"
     },
     {
-      "title": "Sasireun",
+      "title": "actually",
       "artist": "전태영",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/265/14431265_20260807125813_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602739383"
@@ -81,19 +159,19 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602750572"
     },
     {
-      "title": "Micheo Saenggakdo Motaesseo",
+      "title": "I didn't even think about it",
       "artist": "비비안 (BBAHN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/136/14435136_20260810115631_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602750696"
     },
     {
-      "title": "Apeultejiman",
+      "title": "It's sick, but",
       "artist": "서준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/285/14435285_20260810134140_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602751477"
     },
     {
-      "title": "Dungdung Tteodanineun Seom",
+      "title": "floating island",
       "artist": "문원 (MoonOne)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/122/14435122_20260810115018_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602750672"
@@ -141,7 +219,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602739977"
     },
     {
-      "title": "Mello Terapi",
+      "title": "Melotherapy",
       "artist": "DORI",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/559/14431559_20260807150749_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602739993"
@@ -171,7 +249,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602739944"
     },
     {
-      "title": "Neomu Tteugeowo Meogeosseo Deowi (feat. Choeseong)",
+      "title": "Too Hot to Eat Heat (feat. Choi Sung)",
       "artist": "Jayci yucca",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/538/14428538_20260806105551_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602730270"
@@ -183,25 +261,25 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602732719"
     },
     {
-      "title": "Bi Oneun Narimyeon Niga Saenggangna",
+      "title": "A rainy day reminds me of you",
       "artist": "모닝커피 (Morning Coffee)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/081/14429081_20260806154717_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602732388"
     },
     {
-      "title": "Ibyeolkkaji Sarangi Doen Geot Gata",
+      "title": "I think it became love until the breakup.",
       "artist": "나빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/899/14431899_20260807164759_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602741596"
     },
     {
-      "title": "Kkumi Eomneun Saram",
+      "title": "People without dreams",
       "artist": "0018",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/220/14429220_20260806170029_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602732827"
     },
     {
-      "title": "Sijeollinnyeon",
+      "title": "Time Mannyeon",
       "artist": "옛그리움 (Old Yearning)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/311/14429311_20260806175935_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602733616"
@@ -219,88 +297,10 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602732315"
     },
     {
-      "title": "Gibun UP",
+      "title": "Mood UP",
       "artist": "구다희 (Dahee)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/562/14431562_20260807150859_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602740032"
-    },
-    {
-      "title": "Geunyang Seuchyeoganeun Saenggakcheoreom Neol Tteoollyeo",
-      "artist": "리디아 (Lydia)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/159/14415159_20260803121938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602693648"
-    },
-    {
-      "title": "Feat.SHIRT",
-      "artist": "주은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/756/14428756_20260806142731_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730972"
-    },
-    {
-      "title": "Isanghan Iriya",
-      "artist": "아샤트리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/542/14431542_20260807150251_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739829"
-    },
-    {
-      "title": "Saranghandaneun Mareun Wae Eoryeoun Geolkkayo",
-      "artist": "초승 (CHOSNG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/625/14428625_20260806120036_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730593"
-    },
-    {
-      "title": "Gippeun Uri Joeun Nareun, Annyeong",
-      "artist": "임단우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/218/14429218_20260806165739_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732824"
-    },
-    {
-      "title": "Easy On Her",
-      "artist": "Jimmy Brown",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/761/14428761_20260806143132_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602731007"
-    },
-    {
-      "title": "Ibyeoren Huhoeman Nama",
-      "artist": "스트레이 (The Stray)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/535/14431535_20260807145640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739813"
-    },
-    {
-      "title": "Geudaeege",
-      "artist": "비하트 (B.HEART)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/539/14431539_20260807150150_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739818"
-    },
-    {
-      "title": "Shooting Now",
-      "artist": "최하리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/396/14424396_20260805125239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718018"
-    },
-    {
-      "title": "Uri Museun 42ya (Prod. Ijjana)",
-      "artist": "싸이버거",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/481/14424481_20260805152510_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718273"
-    },
-    {
-      "title": "Surf",
-      "artist": "장수빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/532/14431532_20260807145528_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739807"
-    },
-    {
-      "title": "Summer rush",
-      "artist": "bluebluebird",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/537/14431537_20260807150058_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739816"
-    },
-    {
-      "title": "Hetgallige Hajima ! (feat. Ryeojin)",
-      "artist": "ZUO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/394/14424394_20260805125049_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718015"
     }
   ]
 }
