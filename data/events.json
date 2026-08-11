@@ -1,11 +1,72 @@
 {
-  "generatedAt": "2026-08-10T07:10:03.778Z",
-  "lastUpdated": "2026-08-10T07:10:03.778Z",
+  "generatedAt": "2026-08-11T06:47:16.021Z",
+  "lastUpdated": "2026-08-11T06:47:16.021Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-70cc9ffa288fa2bf",
+      "type": "Concert",
+      "title": "Anniversary World Tour “XX : COSMOS”",
+      "artist": "BIGBANG",
+      "group": "BIGBANG",
+      "date": "2026-08-11",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "BIGBANG ANNIVERSARY WORLD TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/bigbang-reveal-trailer-for-20th-anniversary-world-tour-xx-cosmos",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
+    },
+    {
+      "id": "evt-0d97bff9c6014e9d",
+      "type": "Concert",
+      "title": "Concert “DAY OFF”",
+      "artist": "EXO",
+      "group": "EXO",
+      "date": "2026-08-11",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/10232913/dohkyungsoo.jpeg",
+      "shortDescription": "EXO CONCERT COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1861942wpp/doh-kyung-soo-announces-stops-for-2026-27-concert-tour-day-off",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
+    },
+    {
+      "id": "evt-edb933ae1daed30e",
+      "type": "Concert",
+      "title": "Concert “DAY OFF”",
+      "artist": "Doh Kyung Soo",
+      "group": "Doh Kyung Soo",
+      "date": "2026-08-11",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "DOH KYUNG SOO CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/doh-kyung-soo-announces-packed-2026-2027-day-off-concert-tour",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
+    },
     {
       "id": "evt-1df548c8e151f9eb",
       "type": "Concert",
@@ -24,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-10T07:10:03.778Z"
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -44,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T07:10:03.778Z"
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -64,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T07:10:03.778Z"
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
     },
     {
       "id": "evt-033d6f714024b541",
@@ -84,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858964wpp/omega-x-announces-first-asia-tour-beyond",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T07:10:03.778Z"
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
     },
     {
       "id": "evt-b1f884fb446ef864",
@@ -104,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1858411wpp/fromis_9-announces-2026-asia-tour-tomorrow-glow",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-10T07:10:03.778Z"
+      "lastUpdated": "2026-08-11T06:47:16.021Z"
     }
   ]
 }
