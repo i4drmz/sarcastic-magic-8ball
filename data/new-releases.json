@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:02:09.068Z",
+  "generatedAt": "2026-08-12T07:57:49.453Z",
   "count": 50,
   "songs": [
     {
@@ -37,6 +37,12 @@
       "artist": "뎁트",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/34/986/14434986_20260810103134_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602750048"
+    },
+    {
+      "title": "That Version",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/246/14439246_20260811104443_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764409"
     },
     {
       "title": "i love LOVE",
@@ -295,12 +301,6 @@
       "artist": "네이비쿼카 (NavyQuokka)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/541/14428541_20260806105951_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602730273"
-    },
-    {
-      "title": "Stuck in the Summer",
-      "artist": "Silly Silky (실리실키)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/175/14429175_20260806163219_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732721"
     }
   ]
 }
