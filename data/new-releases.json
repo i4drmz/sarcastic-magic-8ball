@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-08-12T07:57:49.453Z",
+  "generatedAt": "2026-08-12T13:54:48.276Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Nice Day",
+      "artist": "신인류",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/112/14436112_20260810164330_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602755819"
+    },
+    {
+      "title": "Go, Go!",
+      "artist": "엠씨더맥스 (M.C the MAX)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/824/14439824_20260811152943_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766810"
+    },
+    {
+      "title": "Lay Down On The Grass (feat. Hanna Chang)",
+      "artist": "크루셜스타 (CRUCiAL STAR)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/835/14439835_20260811154548_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766823"
+    },
+    {
+      "title": "Top 10 Reasons to Meet Me",
+      "artist": "AxMxP (에이엠피)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/881/14439881_20260811161658_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766938"
+    },
+    {
+      "title": "FLOWERBURN",
+      "artist": "KAVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/406/14439406_20260811112458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764896"
+    },
+    {
+      "title": "CHOPPA",
+      "artist": "오디(ODEE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/291/14436291_20260810181521_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602756438"
+    },
+    {
+      "title": "Deep Dream",
+      "artist": "idntt (아이덴티티)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/833/14439833_20260811154000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766820"
+    },
+    {
+      "title": "Remix",
+      "artist": "바다 (BADA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/076/14436076_20260810163053_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602755718"
+    },
+    {
+      "title": "Love it",
+      "artist": "미유 (Mew)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/250/14439250_20260811104745_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764419"
+    },
+    {
+      "title": "Miu Miu (Feat. trade L, sunna)",
+      "artist": "SEIN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/296/14436296_20260810181829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602756450"
+    },
+    {
+      "title": "LEMONADE",
+      "artist": "늑준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/687/14415687_20260803162132_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602695422"
+    },
+    {
+      "title": "Beyond this night",
+      "artist": "YUZU (NEKIRU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/695/14439695_20260811134048_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766168"
+    },
+    {
+      "title": "You know",
+      "artist": "박주성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/294/14436294_20260810181629_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602756447"
+    },
     {
       "title": "Dumb (Feat. z4vwm (Noise))",
       "artist": "SUDI",
@@ -223,84 +301,6 @@
       "artist": "Nosun",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/052/14435052_20260810112538_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602750284"
-    },
-    {
-      "title": "Colder",
-      "artist": "ej",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/082/14429082_20260806154827_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732390"
-    },
-    {
-      "title": "feat. AVOKID",
-      "artist": "LAVEEN (라빈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/467/14435467_20260810141040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602752209"
-    },
-    {
-      "title": "Don't look in my eyes",
-      "artist": "JERO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/482/14424482_20260805152517_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718274"
-    },
-    {
-      "title": "actually",
-      "artist": "전태영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/265/14431265_20260807125813_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739383"
-    },
-    {
-      "title": "everyday everynight",
-      "artist": "후아힌",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/107/14435107_20260810114149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750572"
-    },
-    {
-      "title": "I didn't even think about it",
-      "artist": "비비안 (BBAHN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/136/14435136_20260810115631_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750696"
-    },
-    {
-      "title": "It's sick, but",
-      "artist": "서준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/285/14435285_20260810134140_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602751477"
-    },
-    {
-      "title": "floating island",
-      "artist": "문원 (MoonOne)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/122/14435122_20260810115018_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750672"
-    },
-    {
-      "title": "Lock the door",
-      "artist": "초림",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/531/14435531_20260810141838_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602752656"
-    },
-    {
-      "title": "Sarangmoa",
-      "artist": "신미래",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/570/14431570_20260807151133_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602740133"
-    },
-    {
-      "title": "1 MORE TIME",
-      "artist": "AILYM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/515/14431515_20260807143300_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739777"
-    },
-    {
-      "title": "love me again",
-      "artist": "OuiOui (위위)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/566/14431566_20260807151043_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602740084"
-    },
-    {
-      "title": "PADO",
-      "artist": "네이비쿼카 (NavyQuokka)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/541/14428541_20260806105951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730273"
     }
   ]
 }
