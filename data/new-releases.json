@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-11T19:32:04.845Z",
+  "generatedAt": "2026-08-12T03:02:09.068Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Dumb (Feat. z4vwm (Noise))",
+      "artist": "SUDI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/289/14436289_20260810181219_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602756431"
+    },
+    {
+      "title": "Dear Star",
+      "artist": "경서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/430/14439430_20260811113118_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602765018"
+    },
+    {
+      "title": "Feel good",
+      "artist": "Omar and the Eastern Power (오마르와 동방전력)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/287/14436287_20260810180409_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602756424"
+    },
+    {
+      "title": "Feat. view",
+      "artist": "HAE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/037/14435037_20260810111931_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602750225"
+    },
+    {
+      "title": "Say good bye to them!",
+      "artist": "라니에(SOTK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/260/14439260_20260811104905_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764449"
+    },
+    {
+      "title": "Feat. Oh Yun",
+      "artist": "뎁트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/34/986/14434986_20260810103134_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602750048"
+    },
     {
       "title": "i love LOVE",
       "artist": "정은지",
@@ -13,6 +49,18 @@
       "artist": "어반자카파",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/755/14435755_20260810152101_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602753788"
+    },
+    {
+      "title": "VIP MIX",
+      "artist": "코알라(KOALA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/733/14435733_20260810151854_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602753655"
+    },
+    {
+      "title": "Thummanta",
+      "artist": "누군데?",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/697/14439697_20260811134140_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766170"
     },
     {
       "title": "So we're going to",
@@ -31,6 +79,48 @@
       "artist": "라키",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/016/14435016_20260810105119_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602750188"
+    },
+    {
+      "title": "A sweet day",
+      "artist": "한성일",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/195/14436195_20260810173518_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602756103"
+    },
+    {
+      "title": "feat. PM",
+      "artist": "표은지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/059/14436059_20260810162633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602755528"
+    },
+    {
+      "title": "neowa",
+      "artist": "나기철",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/074/14436074_20260810162956_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602755687"
+    },
+    {
+      "title": "You were my sea, you were a star",
+      "artist": "차소연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/700/14439700_20260811134240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766185"
+    },
+    {
+      "title": "Lies Only You Believe",
+      "artist": "아인 (AINE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/070/14436070_20260810162846_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602755621"
+    },
+    {
+      "title": "Love is the answer",
+      "artist": "더 브릿지 (The Bridge)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/993/14418993_20260804154434_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602705346"
+    },
+    {
+      "title": "I like you, I love you",
+      "artist": "림호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/38/757/14438757_20260811101000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764015"
     },
     {
       "title": "I really like you.",
@@ -211,96 +301,6 @@
       "artist": "Silly Silky (실리실키)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/175/14429175_20260806163219_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602732721"
-    },
-    {
-      "title": "feat. ISSEI",
-      "artist": "서이브(SEO EVE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/557/14431557_20260807150626_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739977"
-    },
-    {
-      "title": "Melotherapy",
-      "artist": "DORI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/559/14431559_20260807150749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739993"
-    },
-    {
-      "title": "2026 ver",
-      "artist": "감성단속반",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/30/990/14430990_20260807095158_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602738261"
-    },
-    {
-      "title": "This Version",
-      "artist": "Stray Kids (스트레이 키즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/269/14431269_20260807130029_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739395"
-    },
-    {
-      "title": "KARINA & WINTER",
-      "artist": "aespa",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/264/14431264_20260807125718_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739381"
-    },
-    {
-      "title": "END+ing",
-      "artist": "민니 (MINNIE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/551/14431551_20260807150454_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739944"
-    },
-    {
-      "title": "Too Hot to Eat Heat (feat. Choi Sung)",
-      "artist": "Jayci yucca",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/28/538/14428538_20260806105551_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602730270"
-    },
-    {
-      "title": "feat. Seungmin",
-      "artist": "Jxxn (진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/173/14429173_20260806162358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732719"
-    },
-    {
-      "title": "A rainy day reminds me of you",
-      "artist": "모닝커피 (Morning Coffee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/081/14429081_20260806154717_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732388"
-    },
-    {
-      "title": "I think it became love until the breakup.",
-      "artist": "나빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/899/14431899_20260807164759_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602741596"
-    },
-    {
-      "title": "People without dreams",
-      "artist": "0018",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/220/14429220_20260806170029_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732827"
-    },
-    {
-      "title": "Time Mannyeon",
-      "artist": "옛그리움 (Old Yearning)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/311/14429311_20260806175935_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602733616"
-    },
-    {
-      "title": "Slowly",
-      "artist": "PS영준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/182/14429182_20260806164239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732734"
-    },
-    {
-      "title": "Surf",
-      "artist": "Electric Planet Five",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/070/14429070_20260806154240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732315"
-    },
-    {
-      "title": "Mood UP",
-      "artist": "구다희 (Dahee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/562/14431562_20260807150859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602740032"
     }
   ]
 }
