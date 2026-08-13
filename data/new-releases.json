@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-08-13T07:59:54.565Z",
+  "generatedAt": "2026-08-13T13:54:47.575Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Last Train",
+      "artist": "Splayit (에스플릿)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/573/14443573_20260812152040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602781440"
+    },
+    {
+      "title": "Stuck! (Feat. g0nny)",
+      "artist": "pH-1",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/514/14439514_20260811115639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602765423"
+    },
+    {
+      "title": "+82",
+      "artist": "SUMIN (수민)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/209/14443209_20260812115723_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780190"
+    },
+    {
+      "title": "3 Days Later",
+      "artist": "HYNN (박혜원)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/577/14443577_20260812152143_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602781468"
+    },
+    {
+      "title": "Jellyfish have no heart",
+      "artist": "문빛",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/814/14443814_20260812162548_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782298"
+    },
+    {
+      "title": "Life is Beautiful",
+      "artist": "제이세라",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/731/14439731_20260811140650_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766319"
+    },
+    {
+      "title": "adrenaline",
+      "artist": "나플라 (nafla)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/326/14439326_20260811111115_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764620"
+    },
+    {
+      "title": "Songs around the clock",
+      "artist": "조곤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/506/14443506_20260812150051_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602781159"
+    },
+    {
+      "title": "FIREMAN",
+      "artist": "더더 (THETHE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/160/14443160_20260812113627_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780004"
+    },
     {
       "title": "Sea Glass",
       "artist": "사공 (Sagong)",
@@ -13,6 +67,18 @@
       "artist": "한결 (HANGYEOL)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/762/14442762_20260812095356_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602778279"
+    },
+    {
+      "title": "Bloom",
+      "artist": "SHARKI (샤르키)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/735/14439735_20260811141139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766329"
+    },
+    {
+      "title": "I love you and I'll tell you now",
+      "artist": "파니니 브런치 (PANINI BRUNCH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/733/14439733_20260811140842_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766322"
     },
     {
       "title": "Summer Piece (you just need to stay)",
@@ -235,72 +301,6 @@
       "artist": "어반자카파",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/755/14435755_20260810152101_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602753788"
-    },
-    {
-      "title": "VIP MIX",
-      "artist": "코알라(KOALA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/733/14435733_20260810151854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602753655"
-    },
-    {
-      "title": "Thummanta",
-      "artist": "누군데?",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/697/14439697_20260811134140_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766170"
-    },
-    {
-      "title": "So we're going to",
-      "artist": "백아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/568/14435568_20260810142154_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602752996"
-    },
-    {
-      "title": "Verdant Escape",
-      "artist": "주영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/483/14424483_20260805152648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718275"
-    },
-    {
-      "title": "Fake It",
-      "artist": "라키",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/016/14435016_20260810105119_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750188"
-    },
-    {
-      "title": "A sweet day",
-      "artist": "한성일",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/195/14436195_20260810173518_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602756103"
-    },
-    {
-      "title": "feat. PM",
-      "artist": "표은지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/059/14436059_20260810162633_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602755528"
-    },
-    {
-      "title": "neowa",
-      "artist": "나기철",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/074/14436074_20260810162956_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602755687"
-    },
-    {
-      "title": "You were my sea, you were a star",
-      "artist": "차소연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/700/14439700_20260811134240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766185"
-    },
-    {
-      "title": "Lies Only You Believe",
-      "artist": "아인 (AINE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/070/14436070_20260810162846_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602755621"
-    },
-    {
-      "title": "Love is the answer",
-      "artist": "더 브릿지 (The Bridge)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/993/14418993_20260804154434_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602705346"
     }
   ]
 }
