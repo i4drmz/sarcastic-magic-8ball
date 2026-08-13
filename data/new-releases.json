@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-12T19:33:07.852Z",
+  "generatedAt": "2026-08-13T03:04:53.965Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Sea Glass",
+      "artist": "사공 (Sagong)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/505/14439505_20260811115221_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602765374"
+    },
+    {
+      "title": "Even if there is no tomorrow when this world collapses",
+      "artist": "한결 (HANGYEOL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/762/14442762_20260812095356_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602778279"
+    },
+    {
+      "title": "Summer Piece (you just need to stay)",
+      "artist": "후추스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/734/14439734_20260811141049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766324"
+    },
+    {
+      "title": "I cry when we dance",
+      "artist": "yawn",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/513/14439513_20260811115639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602765422"
+    },
+    {
+      "title": "Blue Summer",
+      "artist": "에스투잇",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/512/14439512_20260811115424_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602765420"
+    },
+    {
+      "title": "More",
+      "artist": "크리스 메인 (Kris Main)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/208/14443208_20260812115541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780182"
+    },
     {
       "title": "Nice Day",
       "artist": "신인류",
@@ -15,10 +51,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602766810"
     },
     {
+      "title": "Walking Through My Days",
+      "artist": "Sean Park (션 박)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/34/987/14434987_20260810103249_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602750076"
+    },
+    {
+      "title": "KTX",
+      "artist": "김길영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/527/14443527_20260812150942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602781204"
+    },
+    {
       "title": "Lay Down On The Grass (feat. Hanna Chang)",
       "artist": "크루셜스타 (CRUCiAL STAR)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/835/14439835_20260811154548_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602766823"
+    },
+    {
+      "title": "Unblended",
+      "artist": "MORAN(민재)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/40/949/14440949_20260811183104_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602772532"
+    },
+    {
+      "title": "Feat. NOIDEACHILD",
+      "artist": "MUZIN (뮤진)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/151/14443151_20260812113513_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602779969"
+    },
+    {
+      "title": "Love Rides the Waves",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/796/14439796_20260811150127_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766651"
+    },
+    {
+      "title": "Can we live without tears?",
+      "artist": "데이네버체인지(TheyNeverChange)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/339/14443339_20260812141340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780536"
+    },
+    {
+      "title": "Lifestyle photos",
+      "artist": "한태이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/115/14443115_20260812112702_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602779815"
+    },
+    {
+      "title": "You're doing great",
+      "artist": "로브 (Lo.ve)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/739/14439739_20260811141459_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766334"
+    },
+    {
+      "title": "There was a separate nest.",
+      "artist": "황원주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/727/14439727_20260811140440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602766305"
+    },
+    {
+      "title": "Sunkissed!",
+      "artist": "현주 (HYEONJU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/124/14443124_20260812113105_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602779845"
+    },
+    {
+      "title": "Parting came at a moment's notice.",
+      "artist": "혜진 (HEZIIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/254/14436254_20260810174904_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602756324"
     },
     {
       "title": "Top 10 Reasons to Meet Me",
@@ -199,108 +301,6 @@
       "artist": "더 브릿지 (The Bridge)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/993/14418993_20260804154434_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602705346"
-    },
-    {
-      "title": "I like you, I love you",
-      "artist": "림호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/38/757/14438757_20260811101000_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764015"
-    },
-    {
-      "title": "I really like you.",
-      "artist": "남유정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/780/14435780_20260810152503_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602753888"
-    },
-    {
-      "title": "Exciting Music, Wrong Life",
-      "artist": "술탄 오브 더 디스코",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/555/14435555_20260810142041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602752878"
-    },
-    {
-      "title": "Renegade",
-      "artist": "OMEGA X (오메가엑스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/116/14435116_20260810114455_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750660"
-    },
-    {
-      "title": "Neverland",
-      "artist": "D.N.X",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/575/14435575_20260810142528_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602753030"
-    },
-    {
-      "title": "Raindrops",
-      "artist": "가리온",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/031/14435031_20260810111520_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750211"
-    },
-    {
-      "title": "feat. JP",
-      "artist": "kiri",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/574/14435574_20260810142358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602753029"
-    },
-    {
-      "title": "In a hammock",
-      "artist": "우지원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/32/126/14432126_20260807183838_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602742830"
-    },
-    {
-      "title": "7 out of 7",
-      "artist": "Rosy Barbie",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/576/14435576_20260810142659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602753036"
-    },
-    {
-      "title": "A piece of my heart",
-      "artist": "AtHeart (앳하트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/521/14435521_20260810141747_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602752586"
-    },
-    {
-      "title": "Last dance (feat. Myrin, Silver Drops, Lee Chae-yeon)",
-      "artist": "미미미누",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/032/14435032_20260810111829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750220"
-    },
-    {
-      "title": "my world begins and ends with you",
-      "artist": "해리안 윤소안 (Harryan Yoonsoan)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/24/399/14424399_20260805130312_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602718021"
-    },
-    {
-      "title": "The weather was nice for nothing",
-      "artist": "모디",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/019/14435019_20260810110659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750193"
-    },
-    {
-      "title": "I've grown up,",
-      "artist": "도란도란",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/518/14435518_20260811171607_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602752559"
-    },
-    {
-      "title": "Between summer",
-      "artist": "이도아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/31/266/14431266_20260807125813_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602739384"
-    },
-    {
-      "title": "Pop Off Pop Off",
-      "artist": "KiiiKiii (키키)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/29/080/14429080_20260806154450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602732384"
-    },
-    {
-      "title": "BUSS DAT",
-      "artist": "Nosun",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/052/14435052_20260810112538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750284"
     }
   ]
 }
