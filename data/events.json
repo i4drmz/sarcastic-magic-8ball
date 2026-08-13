@@ -1,33 +1,11 @@
 {
-  "generatedAt": "2026-08-13T07:12:06.477Z",
-  "lastUpdated": "2026-08-13T07:12:06.477Z",
+  "generatedAt": "2026-08-13T12:44:35.899Z",
+  "lastUpdated": "2026-08-13T12:44:35.899Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "allkpop",
-    "koreaboo"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-2e2d442960315290",
-      "type": "Festival",
-      "title": "Festival “Waterbomb”",
-      "artist": "BTS",
-      "group": "BTS",
-      "date": "2026-08-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://image.koreaboo.com/2026/08/KISS-OF-LIFE-FI-1.jpg",
-      "shortDescription": "BTS FESTIVAL COMING UP",
-      "sourceUrl": "https://www.koreaboo.com/news/waterbomb-goddesses-reveal-standing-festival-stage/",
-      "ticketUrl": null,
-      "source": "rss:koreaboo",
-      "lastUpdated": "2026-08-13T07:12:06.477Z"
-    },
     {
       "id": "evt-1cb327712456269e",
       "type": "Concert",
@@ -46,27 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-13T07:12:06.477Z"
-    },
-    {
-      "id": "evt-87ec361196be6b9e",
-      "type": "Concert",
-      "title": "Solo Concert “Unknown”",
-      "artist": "Lee Changsub",
-      "group": "Lee Changsub",
-      "date": "2026-08-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "LEE CHANGSUB SOLO CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/lee-changsub-announces-third-solo-concert-unknown-for-october-2026",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-13T07:12:06.477Z"
+      "lastUpdated": "2026-08-13T12:44:35.899Z"
     },
     {
       "id": "evt-0d97bff9c6014e9d",
@@ -86,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861942wpp/doh-kyung-soo-announces-stops-for-2026-27-concert-tour-day-off",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-13T07:12:06.477Z"
+      "lastUpdated": "2026-08-13T12:44:35.899Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -106,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T07:12:06.477Z"
+      "lastUpdated": "2026-08-13T12:44:35.899Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -126,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T07:12:06.477Z"
+      "lastUpdated": "2026-08-13T12:44:35.899Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -146,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T07:12:06.477Z"
+      "lastUpdated": "2026-08-13T12:44:35.899Z"
     }
   ]
 }
