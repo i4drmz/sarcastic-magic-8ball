@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-08-13T12:44:35.899Z",
-  "lastUpdated": "2026-08-13T12:44:35.899Z",
+  "generatedAt": "2026-08-13T18:48:36.148Z",
+  "lastUpdated": "2026-08-13T18:48:36.148Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "rollingstone-music"
   ],
   "events": [
+    {
+      "id": "evt-a0f894a9845db244",
+      "type": "Concert",
+      "title": "World Tour",
+      "artist": "BTS",
+      "group": "BTS",
+      "date": "2026-08-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/GettyImages-2246819897.jpg?w=1600&#038;h=900&#038;crop=1",
+      "shortDescription": "BTS WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.rollingstone.com/music/music-news/bts-member-v-hearing-loss-issues-world-tour-1235607924/",
+      "ticketUrl": null,
+      "source": "rss:rollingstone-music",
+      "lastUpdated": "2026-08-13T18:48:36.148Z"
+    },
     {
       "id": "evt-1cb327712456269e",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-13T12:44:35.899Z"
+      "lastUpdated": "2026-08-13T18:48:36.148Z"
     },
     {
       "id": "evt-0d97bff9c6014e9d",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861942wpp/doh-kyung-soo-announces-stops-for-2026-27-concert-tour-day-off",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-13T12:44:35.899Z"
+      "lastUpdated": "2026-08-13T18:48:36.148Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T12:44:35.899Z"
+      "lastUpdated": "2026-08-13T18:48:36.148Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T12:44:35.899Z"
+      "lastUpdated": "2026-08-13T18:48:36.148Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -104,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T12:44:35.899Z"
+      "lastUpdated": "2026-08-13T18:48:36.148Z"
     }
   ]
 }
