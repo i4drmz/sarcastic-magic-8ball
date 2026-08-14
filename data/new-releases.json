@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:55:57.589Z",
+  "generatedAt": "2026-08-14T13:50:44.609Z",
   "count": 50,
   "songs": [
     {
@@ -7,6 +7,60 @@
       "artist": "동현 (KickFlip)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/851/14446851_20260813134639_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602790793"
+    },
+    {
+      "title": "Feat. Skinny Brown",
+      "artist": "JAEHA (재하)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/336/14443336_20260812140229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780525"
+    },
+    {
+      "title": "PULL UP",
+      "artist": "Colde (콜드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/856/14446856_20260813134900_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790826"
+    },
+    {
+      "title": "HEART CRUSH!",
+      "artist": "아이리제 (IRISÉ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/333/14443333_20260812140045_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780516"
+    },
+    {
+      "title": "By when?",
+      "artist": "서도밴드 (sEODo BAND)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/495/14446495_20260813110540_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789624"
+    },
+    {
+      "title": "Just give me a hug",
+      "artist": "김종국",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/245/14439245_20260811104429_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764407"
+    },
+    {
+      "title": "24",
+      "artist": "문수진 (Moon Sujin)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/945/14443945_20260812171931_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782858"
+    },
+    {
+      "title": "Weirdo",
+      "artist": "키드킹 (Kidd King)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/943/14446943_20260813152135_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791179"
+    },
+    {
+      "title": "in another world.",
+      "artist": "니브 (NIve)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/332/14443332_20260812135835_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780514"
+    },
+    {
+      "title": "Under a tree",
+      "artist": "김다현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/162/14443162_20260813164431_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780008"
     },
     {
       "title": "SIGN",
@@ -247,60 +301,6 @@
       "artist": "로브 (Lo.ve)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/739/14439739_20260811141459_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602766334"
-    },
-    {
-      "title": "There was a separate nest.",
-      "artist": "황원주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/727/14439727_20260811140440_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766305"
-    },
-    {
-      "title": "Sunkissed!",
-      "artist": "현주 (HYEONJU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/124/14443124_20260812113105_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602779845"
-    },
-    {
-      "title": "Parting came at a moment's notice.",
-      "artist": "혜진 (HEZIIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/254/14436254_20260810174904_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602756324"
-    },
-    {
-      "title": "Top 10 Reasons to Meet Me",
-      "artist": "AxMxP (에이엠피)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/881/14439881_20260811161658_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766938"
-    },
-    {
-      "title": "FLOWERBURN",
-      "artist": "KAVE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/406/14439406_20260811112458_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764896"
-    },
-    {
-      "title": "CHOPPA",
-      "artist": "오디(ODEE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/291/14436291_20260810181521_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602756438"
-    },
-    {
-      "title": "Deep Dream",
-      "artist": "idntt (아이덴티티)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/833/14439833_20260811154000_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766820"
-    },
-    {
-      "title": "Remix",
-      "artist": "바다 (BADA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/076/14436076_20260810163053_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602755718"
-    },
-    {
-      "title": "Love it",
-      "artist": "미유 (Mew)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/250/14439250_20260811104745_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764419"
     }
   ]
 }
