@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-13T19:31:51.116Z",
+  "generatedAt": "2026-08-14T03:04:14.970Z",
   "count": 50,
   "songs": [
+    {
+      "title": "SIGN",
+      "artist": "김지웅 (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/329/14443329_20260812135516_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780511"
+    },
+    {
+      "title": "My Heart Beside You",
+      "artist": "허찬미",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/857/14446857_20260813134928_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790832"
+    },
+    {
+      "title": "Naver",
+      "artist": "모트 (Motte)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/313/14443313_20260812134218_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780436"
+    },
+    {
+      "title": "I'll tell you it's okay",
+      "artist": "세진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/537/14447537_20260813175730_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792845"
+    },
+    {
+      "title": "Honor and glory (longing and waiting)",
+      "artist": "양치기소년단",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/139/14439139_20260811102056_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764165"
+    },
     {
       "title": "Last Train",
       "artist": "Splayit (에스플릿)",
@@ -9,10 +39,34 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602781440"
     },
     {
+      "title": "Chiquita (Feat. Sung Hyun Heo (rosy))",
+      "artist": "CLOCK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/563/14443563_20260812151651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602781421"
+    },
+    {
+      "title": "feat. Shane",
+      "artist": "장예찬 (YECHAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/655/14446655_20260813120127_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790058"
+    },
+    {
       "title": "Stuck! (Feat. g0nny)",
       "artist": "pH-1",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/514/14439514_20260811115639_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602765423"
+    },
+    {
+      "title": "When I think of you,",
+      "artist": "비크(SOTK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/618/14446618_20260813114531_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789982"
+    },
+    {
+      "title": "with.OWN",
+      "artist": "JNSL",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/503/14446503_20260813110732_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789643"
     },
     {
       "title": "+82",
@@ -25,6 +79,24 @@
       "artist": "HYNN (박혜원)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/577/14443577_20260812152143_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602781468"
+    },
+    {
+      "title": "Galgunny",
+      "artist": "김재롱",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/152/14443152_20260812113514_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602779970"
+    },
+    {
+      "title": "Fame Feed",
+      "artist": "냥아치",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/331/14443331_20260812135547_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780513"
+    },
+    {
+      "title": "Green Dew",
+      "artist": "RONY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/317/14443317_20260812135158_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602780450"
     },
     {
       "title": "Jellyfish have no heart",
@@ -229,78 +301,6 @@
       "artist": "SEIN",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/296/14436296_20260810181829_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602756450"
-    },
-    {
-      "title": "LEMONADE",
-      "artist": "늑준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/15/687/14415687_20260803162132_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602695422"
-    },
-    {
-      "title": "Beyond this night",
-      "artist": "YUZU (NEKIRU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/695/14439695_20260811134048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766168"
-    },
-    {
-      "title": "You know",
-      "artist": "박주성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/294/14436294_20260810181629_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602756447"
-    },
-    {
-      "title": "Dumb (Feat. z4vwm (Noise))",
-      "artist": "SUDI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/289/14436289_20260810181219_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602756431"
-    },
-    {
-      "title": "Dear Star",
-      "artist": "경서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/430/14439430_20260811113118_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602765018"
-    },
-    {
-      "title": "Feel good",
-      "artist": "Omar and the Eastern Power (오마르와 동방전력)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/287/14436287_20260810180409_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602756424"
-    },
-    {
-      "title": "Feat. view",
-      "artist": "HAE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/037/14435037_20260810111931_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750225"
-    },
-    {
-      "title": "Say good bye to them!",
-      "artist": "라니에(SOTK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/260/14439260_20260811104905_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764449"
-    },
-    {
-      "title": "Feat. Oh Yun",
-      "artist": "뎁트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/34/986/14434986_20260810103134_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602750048"
-    },
-    {
-      "title": "That Version",
-      "artist": "Stray Kids (스트레이 키즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/246/14439246_20260811104443_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764409"
-    },
-    {
-      "title": "i love LOVE",
-      "artist": "정은지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/771/14435771_20260810152231_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602753871"
-    },
-    {
-      "title": "Blue Diamond",
-      "artist": "어반자카파",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/35/755/14435755_20260810152101_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602753788"
     }
   ]
 }
