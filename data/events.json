@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T01:03:49.411Z",
-  "lastUpdated": "2026-08-14T01:03:49.411Z",
+  "generatedAt": "2026-08-14T07:08:46.760Z",
+  "lastUpdated": "2026-08-14T07:08:46.760Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -23,11 +23,11 @@
       "latitude": null,
       "longitude": null,
       "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/nba-youngboy-heart-condition.jpg?w=1600&#038;h=900&#038;crop=1",
-      "shortDescription": "The rap star also said that he has “one or two” albums left in his colossal career",
+      "shortDescription": "The rap star also said that he has “one or two” albums left in his career",
       "sourceUrl": "https://www.rollingstone.com/music/music-news/nba-youngboy-korea-heart-condition-one-more-tour-1235608299/",
       "ticketUrl": null,
       "source": "rss:rollingstone",
-      "lastUpdated": "2026-08-14T01:03:49.411Z"
+      "lastUpdated": "2026-08-14T07:08:46.760Z"
     },
     {
       "id": "evt-452db029c658b105",
@@ -47,7 +47,7 @@
       "sourceUrl": "https://www.nme.com/news/music/bts-v-reveals-hearing-loss-issues-amid-world-tour-3962519?utm_source=rss&utm_medium=rss&utm_campaign=bts-v-reveals-hearing-loss-issues-amid-world-tour",
       "ticketUrl": null,
       "source": "rss:nme",
-      "lastUpdated": "2026-08-14T01:03:49.411Z"
+      "lastUpdated": "2026-08-14T07:08:46.760Z"
     },
     {
       "id": "evt-a0f894a9845db244",
@@ -67,7 +67,7 @@
       "sourceUrl": "https://www.rollingstone.com/music/music-news/bts-member-v-hearing-loss-issues-world-tour-1235607924/",
       "ticketUrl": null,
       "source": "rss:rollingstone-music",
-      "lastUpdated": "2026-08-14T01:03:49.411Z"
+      "lastUpdated": "2026-08-14T07:08:46.760Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -87,7 +87,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-14T01:03:49.411Z"
+      "lastUpdated": "2026-08-14T07:08:46.760Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -107,7 +107,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-14T01:03:49.411Z"
+      "lastUpdated": "2026-08-14T07:08:46.760Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -127,7 +127,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-14T01:03:49.411Z"
+      "lastUpdated": "2026-08-14T07:08:46.760Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -147,7 +147,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-14T01:03:49.411Z"
+      "lastUpdated": "2026-08-14T07:08:46.760Z"
     }
   ]
 }
