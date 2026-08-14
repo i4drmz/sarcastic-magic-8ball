@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-08-14T03:04:14.970Z",
+  "generatedAt": "2026-08-14T07:55:57.589Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Breathe",
+      "artist": "동현 (KickFlip)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/851/14446851_20260813134639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790793"
+    },
     {
       "title": "SIGN",
       "artist": "김지웅 (ZEROBASEONE)",
@@ -295,12 +301,6 @@
       "artist": "미유 (Mew)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/250/14439250_20260811104745_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602764419"
-    },
-    {
-      "title": "Miu Miu (Feat. trade L, sunna)",
-      "artist": "SEIN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/36/296/14436296_20260810181829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602756450"
     }
   ]
 }
