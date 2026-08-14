@@ -1,12 +1,54 @@
 {
-  "generatedAt": "2026-08-13T18:48:36.148Z",
-  "lastUpdated": "2026-08-13T18:48:36.148Z",
+  "generatedAt": "2026-08-14T01:03:49.411Z",
+  "lastUpdated": "2026-08-14T01:03:49.411Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
+    "nme",
+    "rollingstone",
     "rollingstone-music"
   ],
   "events": [
+    {
+      "id": "evt-0faf5f4cc5f82de2",
+      "type": "Concert",
+      "title": "NBA YoungBoy, Now Living in Korea, Reveals Heart Condition and Says He Has One More Tour in Him",
+      "artist": null,
+      "group": null,
+      "date": "2026-08-14",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/nba-youngboy-heart-condition.jpg?w=1600&#038;h=900&#038;crop=1",
+      "shortDescription": "The rap star also said that he has “one or two” albums left in his colossal career",
+      "sourceUrl": "https://www.rollingstone.com/music/music-news/nba-youngboy-korea-heart-condition-one-more-tour-1235608299/",
+      "ticketUrl": null,
+      "source": "rss:rollingstone",
+      "lastUpdated": "2026-08-14T01:03:49.411Z"
+    },
+    {
+      "id": "evt-452db029c658b105",
+      "type": "Concert",
+      "title": "World Tour",
+      "artist": "April",
+      "group": "April",
+      "date": "2026-08-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "Los Angeles",
+      "country": "US",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2026/08/bts_v2026_arirang.jpg",
+      "shortDescription": "APRIL WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.nme.com/news/music/bts-v-reveals-hearing-loss-issues-amid-world-tour-3962519?utm_source=rss&utm_medium=rss&utm_campaign=bts-v-reveals-hearing-loss-issues-amid-world-tour",
+      "ticketUrl": null,
+      "source": "rss:nme",
+      "lastUpdated": "2026-08-14T01:03:49.411Z"
+    },
     {
       "id": "evt-a0f894a9845db244",
       "type": "Concert",
@@ -25,7 +67,7 @@
       "sourceUrl": "https://www.rollingstone.com/music/music-news/bts-member-v-hearing-loss-issues-world-tour-1235607924/",
       "ticketUrl": null,
       "source": "rss:rollingstone-music",
-      "lastUpdated": "2026-08-13T18:48:36.148Z"
+      "lastUpdated": "2026-08-14T01:03:49.411Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -45,27 +87,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-13T18:48:36.148Z"
-    },
-    {
-      "id": "evt-0d97bff9c6014e9d",
-      "type": "Concert",
-      "title": "Concert “DAY OFF”",
-      "artist": "EXO",
-      "group": "EXO",
-      "date": "2026-08-11",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/10232913/dohkyungsoo.jpeg",
-      "shortDescription": "EXO CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1861942wpp/doh-kyung-soo-announces-stops-for-2026-27-concert-tour-day-off",
-      "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-08-13T18:48:36.148Z"
+      "lastUpdated": "2026-08-14T01:03:49.411Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -85,7 +107,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T18:48:36.148Z"
+      "lastUpdated": "2026-08-14T01:03:49.411Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -105,7 +127,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T18:48:36.148Z"
+      "lastUpdated": "2026-08-14T01:03:49.411Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -125,7 +147,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-13T18:48:36.148Z"
+      "lastUpdated": "2026-08-14T01:03:49.411Z"
     }
   ]
 }
