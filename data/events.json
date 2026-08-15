@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-08-14T18:40:47.446Z",
-  "lastUpdated": "2026-08-14T18:40:47.446Z",
+  "generatedAt": "2026-08-15T00:38:13.898Z",
+  "lastUpdated": "2026-08-15T00:38:13.898Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-f2d193b39d5fa14d",
+      "type": "Concert",
+      "title": "Solo Concert",
+      "artist": "MC Mong",
+      "group": "MC Mong",
+      "date": "2026-08-14",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "MC MONG SOLO CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/mc-mong-returns-to-stage-with-first-solo-concert-in-four-years",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-15T00:38:13.898Z"
+    },
     {
       "id": "evt-1cb327712456269e",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-14T18:40:47.446Z"
+      "lastUpdated": "2026-08-15T00:38:13.898Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-14T18:40:47.446Z"
+      "lastUpdated": "2026-08-15T00:38:13.898Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-14T18:40:47.446Z"
+      "lastUpdated": "2026-08-15T00:38:13.898Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-14T18:40:47.446Z"
+      "lastUpdated": "2026-08-15T00:38:13.898Z"
     }
   ]
 }
