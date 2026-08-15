@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-08-15T07:04:11.188Z",
+  "generatedAt": "2026-08-15T13:05:22.181Z",
   "count": 50,
   "songs": [
+    {
+      "title": "LOVE & GHOST",
+      "artist": "g0nny (거니)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/984/14443984_20260812180642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782948"
+    },
+    {
+      "title": "MZ GAZA",
+      "artist": "viceversa",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/782/14442782_20260812095709_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602778361"
+    },
+    {
+      "title": "Intellectualizer",
+      "artist": "나상도",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/862/14446862_20260813135046_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790843"
+    },
+    {
+      "title": "Know No Better",
+      "artist": "ONE:ME(원미)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/864/14446864_20260813135158_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790869"
+    },
+    {
+      "title": "Panorama of Days",
+      "artist": "정가이 (와인루프)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/982/14443982_20260812180541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782946"
+    },
+    {
+      "title": "I wanted you to be in a dream tonight",
+      "artist": "범진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/013/14447013_20260813153448_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791278"
+    },
+    {
+      "title": "Feat. Holynn, Jhnovr",
+      "artist": "HRDN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/333/14439333_20260811111218_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602764635"
+    },
+    {
+      "title": "Low Gravity",
+      "artist": "SUNWOO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/857/14449857_20260814144239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602799820"
+    },
+    {
+      "title": "Y.o.Y",
+      "artist": "AIDEN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/980/14443980_20260812180411_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782944"
+    },
     {
       "title": "UNBREAKABLE",
       "artist": "서문탁",
@@ -247,60 +301,6 @@
       "artist": "문빛",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/814/14443814_20260812162548_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602782298"
-    },
-    {
-      "title": "Life is Beautiful",
-      "artist": "제이세라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/731/14439731_20260811140650_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766319"
-    },
-    {
-      "title": "adrenaline",
-      "artist": "나플라 (nafla)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/326/14439326_20260811111115_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764620"
-    },
-    {
-      "title": "Songs around the clock",
-      "artist": "조곤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/506/14443506_20260812150051_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602781159"
-    },
-    {
-      "title": "FIREMAN",
-      "artist": "더더 (THETHE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/160/14443160_20260812113627_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780004"
-    },
-    {
-      "title": "Sea Glass",
-      "artist": "사공 (Sagong)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/505/14439505_20260811115221_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602765374"
-    },
-    {
-      "title": "Even if there is no tomorrow when this world collapses",
-      "artist": "한결 (HANGYEOL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/762/14442762_20260812095356_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602778279"
-    },
-    {
-      "title": "Bloom",
-      "artist": "SHARKI (샤르키)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/735/14439735_20260811141139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766329"
-    },
-    {
-      "title": "I love you and I'll tell you now",
-      "artist": "파니니 브런치 (PANINI BRUNCH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/733/14439733_20260811140842_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766322"
-    },
-    {
-      "title": "Summer Piece (you just need to stay)",
-      "artist": "후추스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/734/14439734_20260811141049_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602766324"
     }
   ]
 }
