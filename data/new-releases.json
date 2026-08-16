@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:06:55.253Z",
+  "generatedAt": "2026-08-16T18:52:15.756Z",
   "count": 50,
   "songs": [
     {
@@ -43,6 +43,12 @@
       "artist": "이범준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/196/14447196_20260813162835_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602791784"
+    },
+    {
+      "title": "Korean Ver.",
+      "artist": "아일릿(ILLIT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/608/14449608_20260814120211_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798990"
     },
     {
       "title": "live",
@@ -295,12 +301,6 @@
       "artist": "Dowhaji (도화지)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/118/14447118_20260813161400_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602791611"
-    },
-    {
-      "title": "Just give me a hug",
-      "artist": "김종국",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/245/14439245_20260811104429_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764407"
     }
   ]
 }
