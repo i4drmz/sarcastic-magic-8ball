@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-16T02:01:13.672Z",
+  "generatedAt": "2026-08-16T07:06:26.309Z",
   "count": 50,
   "songs": [
+    {
+      "title": "live",
+      "artist": "찰리빈웍스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/487/14447487_20260813174700_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792695"
+    },
+    {
+      "title": "Horizon",
+      "artist": "단칸방 로맨스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/615/14446615_20260813114429_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789974"
+    },
+    {
+      "title": "Pobrecito",
+      "artist": "The Suicide Diary",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/049/14447049_20260813155753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791393"
+    },
+    {
+      "title": "I like it because it's you I'm happy because it's you",
+      "artist": "이보람",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/394/14447394_20260813172905_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792503"
+    },
+    {
+      "title": "I am so afraid of love",
+      "artist": "숙희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/063/14443063_20260812110042_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602779678"
+    },
+    {
+      "title": "Beside you",
+      "artist": "김동하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/280/14447280_20260813164859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792151"
+    },
     {
       "title": "LOVE & GHOST",
       "artist": "g0nny (거니)",
@@ -15,16 +51,58 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602778361"
     },
     {
+      "title": "Feat. Ruen",
+      "artist": "픽트리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/946/14443946_20260812172838_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782861"
+    },
+    {
+      "title": "BAMTY",
+      "artist": "한재희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/404/14447404_20260813172924_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792514"
+    },
+    {
       "title": "Intellectualizer",
       "artist": "나상도",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/862/14446862_20260813135046_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602790843"
     },
     {
+      "title": "You're already pretty",
+      "artist": "아이보리 (Ivory)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/980/14446980_20260813153109_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791238"
+    },
+    {
+      "title": "At sunset",
+      "artist": "브라더스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/605/14447605_20260813181240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792995"
+    },
+    {
+      "title": "still lost",
+      "artist": "LOWELL STRAIGHT",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/340/14447340_20260813172232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792407"
+    },
+    {
+      "title": "deep!",
+      "artist": "Finn",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/006/14447006_20260813153345_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791264"
+    },
+    {
       "title": "Know No Better",
       "artist": "ONE:ME(원미)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/864/14446864_20260813135158_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602790869"
+    },
+    {
+      "title": "Lucid Dream",
+      "artist": "배우리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/125/14447125_20260813161448_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791618"
     },
     {
       "title": "Panorama of Days",
@@ -223,84 +301,6 @@
       "artist": "세진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/537/14447537_20260813175730_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602792845"
-    },
-    {
-      "title": "Honor and glory (longing and waiting)",
-      "artist": "양치기소년단",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/139/14439139_20260811102056_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764165"
-    },
-    {
-      "title": "Last Train",
-      "artist": "Splayit (에스플릿)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/573/14443573_20260812152040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602781440"
-    },
-    {
-      "title": "Chiquita (Feat. Sung Hyun Heo (rosy))",
-      "artist": "CLOCK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/563/14443563_20260812151651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602781421"
-    },
-    {
-      "title": "feat. Shane",
-      "artist": "장예찬 (YECHAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/655/14446655_20260813120127_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790058"
-    },
-    {
-      "title": "Stuck! (Feat. g0nny)",
-      "artist": "pH-1",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/514/14439514_20260811115639_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602765423"
-    },
-    {
-      "title": "When I think of you,",
-      "artist": "비크(SOTK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/618/14446618_20260813114531_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789982"
-    },
-    {
-      "title": "with.OWN",
-      "artist": "JNSL",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/503/14446503_20260813110732_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789643"
-    },
-    {
-      "title": "+82",
-      "artist": "SUMIN (수민)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/209/14443209_20260812115723_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780190"
-    },
-    {
-      "title": "3 Days Later",
-      "artist": "HYNN (박혜원)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/577/14443577_20260812152143_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602781468"
-    },
-    {
-      "title": "Galgunny",
-      "artist": "김재롱",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/152/14443152_20260812113514_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602779970"
-    },
-    {
-      "title": "Fame Feed",
-      "artist": "냥아치",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/331/14443331_20260812135547_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780513"
-    },
-    {
-      "title": "Green Dew",
-      "artist": "RONY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/317/14443317_20260812135158_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780450"
-    },
-    {
-      "title": "Jellyfish have no heart",
-      "artist": "문빛",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/814/14443814_20260812162548_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782298"
     }
   ]
 }
