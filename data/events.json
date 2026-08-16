@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T06:22:41.642Z",
-  "lastUpdated": "2026-08-16T06:22:41.642Z",
+  "generatedAt": "2026-08-16T18:14:23.569Z",
+  "lastUpdated": "2026-08-16T18:14:23.569Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/rescene-reveals-all-members-still-live-without-personal-phones-despite-music-show-wins",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-16T06:22:41.642Z"
+      "lastUpdated": "2026-08-16T18:14:23.569Z"
     },
     {
       "id": "evt-bab09589a3a79ae5",
@@ -44,7 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/taemin-announces-official-dates-and-cities-for-the-north-america-leg-of-his-2026-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-16T06:22:41.642Z"
+      "lastUpdated": "2026-08-16T18:14:23.569Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T06:22:41.642Z"
+      "lastUpdated": "2026-08-16T18:14:23.569Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T06:22:41.642Z"
+      "lastUpdated": "2026-08-16T18:14:23.569Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -104,27 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T06:22:41.642Z"
-    },
-    {
-      "id": "evt-7cf5c89e4521bda7",
-      "type": "Concert",
-      "title": "Concert",
-      "artist": "SF9",
-      "group": "SF9",
-      "date": "2026-08-04",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/04065033/SF9.jpeg",
-      "shortDescription": "SF9 CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T06:22:41.642Z"
+      "lastUpdated": "2026-08-16T18:14:23.569Z"
     }
   ]
 }
