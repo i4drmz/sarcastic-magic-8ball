@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-08-16T00:40:11.371Z",
-  "lastUpdated": "2026-08-16T00:40:11.371Z",
+  "generatedAt": "2026-08-16T06:22:41.642Z",
+  "lastUpdated": "2026-08-16T06:22:41.642Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-938e92e75dade5b4",
+      "type": "Concert",
+      "title": "RESCENE reveals all members still live without personal phones despite music show wins",
+      "artist": "RESCENE",
+      "group": "RESCENE",
+      "date": "2026-08-16",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "Rising girl group RESCENE revealed that none of the members currently have personal cell phones, explaining that they have chosen to remain without them during an important period in their careers. On the August 15 KST broadcast of tvN’s…",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/rescene-reveals-all-members-still-live-without-personal-phones-despite-music-show-wins",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-16T06:22:41.642Z"
+    },
     {
       "id": "evt-bab09589a3a79ae5",
       "type": "Concert",
@@ -24,27 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/taemin-announces-official-dates-and-cities-for-the-north-america-leg-of-his-2026-world-tour-liminal",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-16T00:40:11.371Z"
-    },
-    {
-      "id": "evt-f2d193b39d5fa14d",
-      "type": "Concert",
-      "title": "Solo Concert",
-      "artist": "MC Mong",
-      "group": "MC Mong",
-      "date": "2026-08-14",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "MC MONG SOLO CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/mc-mong-returns-to-stage-with-first-solo-concert-in-four-years",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-16T00:40:11.371Z"
+      "lastUpdated": "2026-08-16T06:22:41.642Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T00:40:11.371Z"
+      "lastUpdated": "2026-08-16T06:22:41.642Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T00:40:11.371Z"
+      "lastUpdated": "2026-08-16T06:22:41.642Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -104,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T00:40:11.371Z"
+      "lastUpdated": "2026-08-16T06:22:41.642Z"
     },
     {
       "id": "evt-7cf5c89e4521bda7",
@@ -124,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1859921wpp/sf9-announces-plans-for-10th-anniversary-comeback-concert-and-more",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-16T00:40:11.371Z"
+      "lastUpdated": "2026-08-16T06:22:41.642Z"
     }
   ]
 }

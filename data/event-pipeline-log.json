@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-08-16T00:40:11.371Z",
+  "ranAt": "2026-08-16T06:22:41.642Z",
   "success": false,
   "apiRequests": 18,
   "providersRegistered": [
@@ -25,8 +25,8 @@
       "extracted": 0,
       "discarded": 60,
       "discardReasons": {
-        "no_event_signal": 48,
-        "not_event_announcement": 12
+        "no_event_signal": 47,
+        "not_event_announcement": 13
       }
     },
     {
@@ -40,8 +40,8 @@
       "extracted": 4,
       "discarded": 56,
       "discardReasons": {
-        "no_event_signal": 35,
-        "not_event_announcement": 21
+        "not_event_announcement": 21,
+        "no_event_signal": 35
       }
     },
     {
@@ -55,8 +55,8 @@
       "extracted": 2,
       "discarded": 38,
       "discardReasons": {
-        "not_event_announcement": 8,
-        "no_event_signal": 30
+        "no_event_signal": 29,
+        "not_event_announcement": 9
       }
     },
     {
@@ -99,8 +99,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 2
+        "no_event_signal": 7,
+        "not_event_announcement": 3
       }
     },
     {
@@ -166,14 +166,16 @@
       "id": "hellokpop",
       "label": "helloKpop",
       "url": "https://hellokpop.com/feed/",
-      "ok": false,
-      "httpStatus": 202,
-      "items": 0,
+      "ok": true,
+      "httpStatus": 200,
+      "items": 3,
       "eventRelated": 0,
       "extracted": 0,
-      "discarded": 0,
-      "discardReasons": {},
-      "error": "response is not RSS/Atom XML"
+      "discarded": 3,
+      "discardReasons": {
+        "not_event_announcement": 2,
+        "no_event_signal": 1
+      }
     },
     {
       "id": "biaslist",
@@ -194,12 +196,12 @@
   "rawEvents": 6,
   "afterDedupe": 6,
   "afterUpcomingFilter": 6,
-  "totalItems": 240,
+  "totalItems": 243,
   "totalEventRelated": 6,
   "totalExtracted": 6,
-  "totalDiscarded": 234,
+  "totalDiscarded": 237,
   "extractionAccuracyPct": 100,
-  "previousCount": 5,
+  "previousCount": 6,
   "writtenCount": 6,
   "changed": true,
   "published": false,
@@ -214,7 +216,7 @@
     "rss:nme-music: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:hellokpop: not RSS/Atom",
+    "rss:hellokpop: items=3 related=0 extracted=0 discarded=3",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
     "rss:images resolved from articles=4/6"
   ]
