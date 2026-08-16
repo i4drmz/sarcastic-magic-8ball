@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-08-16T07:06:26.309Z",
+  "generatedAt": "2026-08-16T13:06:55.253Z",
   "count": 50,
   "songs": [
+    {
+      "title": "It's this starting project",
+      "artist": "매드클라운",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/872/14446872_20260813135329_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790891"
+    },
+    {
+      "title": "Reluctantly, all of me, null",
+      "artist": "아우릴고트 (OUREALGOAT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/378/14446378_20260813094139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789390"
+    },
+    {
+      "title": "Free Fall",
+      "artist": "안태규 (Dragon Pony)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/452/14447452_20260813173430_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792617"
+    },
+    {
+      "title": "Sometimes I miss you so much",
+      "artist": "펀치 (Punch)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/873/14446873_20260813135349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790892"
+    },
+    {
+      "title": "Let's go together",
+      "artist": "Kei (케이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/445/14447445_20260813173319_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792571"
+    },
+    {
+      "title": "Sink Into You",
+      "artist": "음성사서함",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/281/14447281_20260813164939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792153"
+    },
+    {
+      "title": "I hope I have touched you",
+      "artist": "이범준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/196/14447196_20260813162835_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791784"
+    },
     {
       "title": "live",
       "artist": "찰리빈웍스",
@@ -13,6 +55,18 @@
       "artist": "단칸방 로맨스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/615/14446615_20260813114429_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602789974"
+    },
+    {
+      "title": "Let's go have a drink",
+      "artist": "박현호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/433/14447433_20260813173218_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792547"
+    },
+    {
+      "title": "Weaknesses",
+      "artist": "더 파란",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/616/14446616_20260813114438_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789976"
     },
     {
       "title": "Pobrecito",
@@ -247,60 +301,6 @@
       "artist": "김종국",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/245/14439245_20260811104429_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602764407"
-    },
-    {
-      "title": "24",
-      "artist": "문수진 (Moon Sujin)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/945/14443945_20260812171931_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782858"
-    },
-    {
-      "title": "Breathe",
-      "artist": "동현 (KickFlip)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/851/14446851_20260815081020_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790793"
-    },
-    {
-      "title": "Weirdo",
-      "artist": "키드킹 (Kidd King)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/943/14446943_20260813152135_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791179"
-    },
-    {
-      "title": "in another world.",
-      "artist": "니브 (NIve)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/332/14443332_20260812135835_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780514"
-    },
-    {
-      "title": "Under a tree",
-      "artist": "김다현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/162/14443162_20260813164431_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780008"
-    },
-    {
-      "title": "SIGN",
-      "artist": "김지웅 (ZEROBASEONE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/329/14443329_20260812135516_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780511"
-    },
-    {
-      "title": "My Heart Beside You",
-      "artist": "허찬미",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/857/14446857_20260813134928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790832"
-    },
-    {
-      "title": "Naver",
-      "artist": "모트 (Motte)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/313/14443313_20260812134218_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780436"
-    },
-    {
-      "title": "I'll tell you it's okay",
-      "artist": "세진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/537/14447537_20260813175730_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792845"
     }
   ]
 }
