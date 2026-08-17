@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-17T00:38:35.036Z",
-  "lastUpdated": "2026-08-17T00:38:35.036Z",
+  "generatedAt": "2026-08-17T06:33:03.447Z",
+  "lastUpdated": "2026-08-17T06:33:03.447Z",
   "sourceSummary": [
-    "soompi-music",
-    "allkpop"
+    "soompi",
+    "soompi-music"
   ],
   "events": [
     {
-      "id": "evt-938e92e75dade5b4",
+      "id": "evt-04518f0a905aec8b",
       "type": "Concert",
-      "title": "RESCENE reveals all members still live without personal phones despite music show wins",
-      "artist": "RESCENE",
-      "group": "RESCENE",
-      "date": "2026-08-16",
+      "title": "Concert “EPISODE 1: ZERO FRONTIER”",
+      "artist": "NMIXX",
+      "group": "NMIXX",
+      "date": "2026-08-17",
       "time": null,
       "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
+      "city": "Incheon",
+      "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "Rising girl group RESCENE revealed that none of the members currently have personal cell phones, explaining that they have chosen to remain without them during an important period in their careers. On the August 15 KST broadcast of tvN’s…",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/rescene-reveals-all-members-still-live-without-personal-phones-despite-music-show-wins",
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/16212302/nmixx-jul-26.jpg",
+      "shortDescription": "NMIXX CONCERT COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-17T00:38:35.036Z"
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-17T06:33:03.447Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -44,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T00:38:35.036Z"
+      "lastUpdated": "2026-08-17T06:33:03.447Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T00:38:35.036Z"
+      "lastUpdated": "2026-08-17T06:33:03.447Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T00:38:35.036Z"
+      "lastUpdated": "2026-08-17T06:33:03.447Z"
     }
   ]
 }
