@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-17T06:33:03.447Z",
-  "lastUpdated": "2026-08-17T06:33:03.447Z",
+  "generatedAt": "2026-08-17T12:21:59.414Z",
+  "lastUpdated": "2026-08-17T12:21:59.414Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "hellokpop"
   ],
   "events": [
     {
@@ -24,7 +25,27 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-17T06:33:03.447Z"
+      "lastUpdated": "2026-08-17T12:21:59.414Z"
+    },
+    {
+      "id": "evt-1d95ffbfd87c2e2a",
+      "type": "Festival",
+      "title": "Festival",
+      "artist": "Hello82",
+      "group": "Hello82",
+      "date": "2026-08-17",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/HPpPMDVa4AA5QNg-400x242.jpg",
+      "shortDescription": "HELLO82 FESTIVAL COMING UP",
+      "sourceUrl": "https://www.hellokpop.com/news/hello82-unveils-full-lineup-for-82world-la-a-two-day-fan-built-festival-arriving-this-october/",
+      "ticketUrl": null,
+      "source": "rss:hellokpop",
+      "lastUpdated": "2026-08-17T12:21:59.414Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T06:33:03.447Z"
+      "lastUpdated": "2026-08-17T12:21:59.414Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T06:33:03.447Z"
+      "lastUpdated": "2026-08-17T12:21:59.414Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T06:33:03.447Z"
+      "lastUpdated": "2026-08-17T12:21:59.414Z"
     }
   ]
 }
