@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-08-17T07:29:21.350Z",
+  "generatedAt": "2026-08-17T13:12:44.397Z",
   "count": 50,
   "songs": [
+    {
+      "title": "prod. Meinhz",
+      "artist": "홍이삭",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/462/14449462_20260814103641_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798385"
+    },
+    {
+      "title": "Your Lips (Feat. Wendy)",
+      "artist": "준케이 (JUN. K)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/464/14449464_20260814103953_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798388"
+    },
+    {
+      "title": "Rusty Chest",
+      "artist": "주호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/875/14446875_20260813135549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790895"
+    },
+    {
+      "title": "Sweetest",
+      "artist": "로시 (Rothy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/874/14446874_20260813135449_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790894"
+    },
+    {
+      "title": "Take A Chance (Feat. Gyujin of NMIXX)",
+      "artist": "Jason Lee (제이슨 리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/513/14449513_20260814105432_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798610"
+    },
+    {
+      "title": "Party Of Stars (Feat. Jeong Dong-hwan)",
+      "artist": "소향",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/947/14443947_20260812172850_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782862"
+    },
+    {
+      "title": "World Wild Women",
+      "artist": "tripleS (트리플에스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/876/14446876_20260813135600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790897"
+    },
+    {
+      "title": "When you′re lonely",
+      "artist": "BLUHWA (블루화)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/463/14449463_20260814103729_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798387"
+    },
+    {
+      "title": "Why are you okay?",
+      "artist": "그리드웨이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/765/14442765_20260812095458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602778290"
+    },
     {
       "title": "Korean Ver.",
       "artist": "아일릿(ILLIT)",
@@ -13,6 +67,12 @@
       "artist": "윤덕원 (브로콜리너마저)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/305/14447305_20260813170803_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602792275"
+    },
+    {
+      "title": "Dim the light",
+      "artist": "Vapo (허원혁)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/376/14446376_20260813094029_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789388"
     },
     {
       "title": "NOBODY (with Jung Joon-hyuk, NECTA)",
@@ -241,66 +301,6 @@
       "artist": "배우리",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/125/14447125_20260813161448_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602791618"
-    },
-    {
-      "title": "Panorama of Days",
-      "artist": "정가이 (와인루프)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/982/14443982_20260812180541_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782946"
-    },
-    {
-      "title": "I wanted you to be in a dream tonight",
-      "artist": "범진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/013/14447013_20260813153448_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791278"
-    },
-    {
-      "title": "Feat. Holynn, Jhnovr",
-      "artist": "HRDN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/333/14439333_20260811111218_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602764635"
-    },
-    {
-      "title": "Low Gravity",
-      "artist": "SUNWOO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/857/14449857_20260814144239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602799820"
-    },
-    {
-      "title": "Y.o.Y",
-      "artist": "AIDEN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/980/14443980_20260812180411_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782944"
-    },
-    {
-      "title": "UNBREAKABLE",
-      "artist": "서문탁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/999/14446999_20260813153242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791257"
-    },
-    {
-      "title": "Mild fever",
-      "artist": "Confined White (컨파인드 화이트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/040/14447040_20260813155638_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791365"
-    },
-    {
-      "title": "Do well when you are",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/870/14446870_20260813135301_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790875"
-    },
-    {
-      "title": "I hope not.",
-      "artist": "시호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/528/14447528_20260813175539_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792826"
-    },
-    {
-      "title": "Again, to you (With. wiz)",
-      "artist": "두번째 별",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/973/14443973_20260812180022_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782935"
     }
   ]
 }
