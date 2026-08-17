@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-17T01:59:47.445Z",
+  "generatedAt": "2026-08-17T07:29:21.350Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Korean Ver.",
+      "artist": "아일릿(ILLIT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/608/14449608_20260814120211_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798990"
+    },
+    {
+      "title": "Before the end of the year",
+      "artist": "윤덕원 (브로콜리너마저)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/305/14447305_20260813170803_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792275"
+    },
+    {
+      "title": "NOBODY (with Jung Joon-hyuk, NECTA)",
+      "artist": "Marv",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/819/14442819_20260812100155_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602778578"
+    },
+    {
+      "title": "Ugly look",
+      "artist": "DYMIN (다이민)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/457/14449457_20260814103236_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798376"
+    },
+    {
+      "title": "Unrequited BGM",
+      "artist": "우나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/458/14449458_20260814103435_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798377"
+    },
+    {
+      "title": "Love spreads",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/948/14443948_20260812172851_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782864"
+    },
     {
       "title": "It's this starting project",
       "artist": "매드클라운",
@@ -13,6 +49,18 @@
       "artist": "아우릴고트 (OUREALGOAT)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/378/14446378_20260813094139_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602789390"
+    },
+    {
+      "title": "Sustainable (feat. Sihwa)",
+      "artist": "SWF Project",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/282/14447282_20260813165029_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792155"
+    },
+    {
+      "title": "I want to go all the way",
+      "artist": "헬로봉주르",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/422/14447422_20260813173028_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792534"
     },
     {
       "title": "Free Fall",
@@ -33,6 +81,42 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602792571"
     },
     {
+      "title": "Acoustic",
+      "artist": "구구 (GuGu)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/628/14447628_20260813181447_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602793073"
+    },
+    {
+      "title": "It became love.",
+      "artist": "김민울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/460/14449460_20260814103609_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798381"
+    },
+    {
+      "title": "The Long Way Back",
+      "artist": "박예음",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/985/14449985_20260814152240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602800492"
+    },
+    {
+      "title": "After School",
+      "artist": "현식 (XODIAC)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/300/14447300_20260813170641_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792215"
+    },
+    {
+      "title": "Thank you thank you so much",
+      "artist": "밈 (mim)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/40/933/14440933_20260811182829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602772405"
+    },
+    {
+      "title": "Maybe even if we don't tell",
+      "artist": "가영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/461/14449461_20260814103610_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798383"
+    },
+    {
       "title": "Sink Into You",
       "artist": "음성사서함",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/281/14447281_20260813164939_500.jpg",
@@ -43,12 +127,6 @@
       "artist": "이범준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/196/14447196_20260813162835_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602791784"
-    },
-    {
-      "title": "Korean Ver.",
-      "artist": "아일릿(ILLIT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/608/14449608_20260814120211_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798990"
     },
     {
       "title": "live",
@@ -223,84 +301,6 @@
       "artist": "두번째 별",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/973/14443973_20260812180022_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602782935"
-    },
-    {
-      "title": "Dance Of Love",
-      "artist": "박세정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/965/14443965_20260812175350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782927"
-    },
-    {
-      "title": "Feat. Skinny Brown",
-      "artist": "JAEHA (재하)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/336/14443336_20260812140229_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780525"
-    },
-    {
-      "title": "PULL UP",
-      "artist": "Colde (콜드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/856/14446856_20260813134900_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790826"
-    },
-    {
-      "title": "I like it because it's you. Because I love you.",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/690/14443690_20260812152844_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602781696"
-    },
-    {
-      "title": "Mona Lisa",
-      "artist": "성리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/108/14447108_20260813161127_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791579"
-    },
-    {
-      "title": "HEART CRUSH!",
-      "artist": "아이리제 (IRISÉ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/333/14443333_20260812140045_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602780516"
-    },
-    {
-      "title": "By when?",
-      "artist": "서도밴드 (sEODo BAND)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/495/14446495_20260813110540_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789624"
-    },
-    {
-      "title": "You're in the fog",
-      "artist": "마현권",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/855/14446855_20260813134857_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790822"
-    },
-    {
-      "title": "1929 Anxiety",
-      "artist": "김새얀",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/603/14447603_20260813181239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792993"
-    },
-    {
-      "title": "Feat. CODEMINE",
-      "artist": "Sean.K",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/128/14447128_20260813161503_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791624"
-    },
-    {
-      "title": "Thinkin' Bout You",
-      "artist": "Yonko (욘코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/944/14446944_20260813152749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791180"
-    },
-    {
-      "title": "YA",
-      "artist": "코드폴 (Chord Paul)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/970/14443970_20260812175822_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782932"
-    },
-    {
-      "title": "Blue Sky (Feat. Meldy, Woori Seo)",
-      "artist": "Dowhaji (도화지)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/118/14447118_20260813161400_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791611"
     }
   ]
 }
