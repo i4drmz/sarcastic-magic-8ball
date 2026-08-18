@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-08-18T07:11:41.001Z",
+  "generatedAt": "2026-08-18T13:15:20.844Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Blue Reef",
+      "artist": "이수현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/905/14446905_20260813151449_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790969"
+    },
+    {
+      "title": "Godspeed!",
+      "artist": "혁오 (HYUKOH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/44/090/14444090_20260812182722_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602783105"
+    },
+    {
+      "title": "Prod By THE HUB",
+      "artist": "연준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/869/14449869_20260814145229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602799950"
+    },
+    {
+      "title": "7 Things I Promise You (feat. Kyuri",
+      "artist": "조성확(IHWAK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/878/14446878_20260813140050_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790900"
+    },
+    {
+      "title": "I used to be a summer lover",
+      "artist": "구름",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/482/14449482_20260814104551_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798417"
+    },
+    {
+      "title": "own_translation heavy shower snow",
+      "artist": "한동근",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/194/14447194_20260813162807_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791781"
+    },
+    {
+      "title": "Dreams Come True",
+      "artist": "영파씨 (YOUNG POSSE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/927/14449927_20260814151105_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602800136"
+    },
+    {
+      "title": "Call me crazy",
+      "artist": "김승민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/50/220/14450220_20260814164258_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602801908"
+    },
+    {
+      "title": "Prince of the Seas",
+      "artist": "남유정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/607/14449607_20260814115615_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798989"
+    },
+    {
+      "title": "Don’t You Open Up",
+      "artist": "Sweet The Kid",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/612/14449612_20260814121318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798996"
+    },
+    {
+      "title": "FREQUENCY",
+      "artist": "TRYTHAT",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/804/14447804_20260813184244_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602793543"
+    },
+    {
+      "title": "It's unbelievable",
+      "artist": "Shane",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/558/14446558_20260813111840_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789777"
+    },
+    {
+      "title": "TANGERINE",
+      "artist": "MIO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/483/14449483_20260814104701_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798418"
+    },
+    {
+      "title": "Youth",
+      "artist": "Cosmonott(코스모너트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/950/14443950_20260812173052_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782867"
+    },
+    {
+      "title": "Who said let's go hiking?",
+      "artist": "임지원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/905/14449905_20260814150753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602799996"
+    },
     {
       "title": "Blurred Sleep (feat. Mingginyu)",
       "artist": "결 (KYUL)",
@@ -211,96 +301,6 @@
       "artist": "아우릴고트 (OUREALGOAT)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/378/14446378_20260813094139_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602789390"
-    },
-    {
-      "title": "Sustainable (feat. Sihwa)",
-      "artist": "SWF Project",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/282/14447282_20260813165029_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792155"
-    },
-    {
-      "title": "I want to go all the way",
-      "artist": "헬로봉주르",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/422/14447422_20260813173028_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792534"
-    },
-    {
-      "title": "Free Fall",
-      "artist": "안태규 (Dragon Pony)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/452/14447452_20260813173430_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792617"
-    },
-    {
-      "title": "Sometimes I miss you so much",
-      "artist": "펀치 (Punch)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/873/14446873_20260813135349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790892"
-    },
-    {
-      "title": "Let's go together",
-      "artist": "Kei (케이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/445/14447445_20260813173319_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792571"
-    },
-    {
-      "title": "Acoustic",
-      "artist": "구구 (GuGu)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/628/14447628_20260813181447_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602793073"
-    },
-    {
-      "title": "It became love.",
-      "artist": "김민울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/460/14449460_20260814103609_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798381"
-    },
-    {
-      "title": "The Long Way Back",
-      "artist": "박예음",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/985/14449985_20260814152240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602800492"
-    },
-    {
-      "title": "After School",
-      "artist": "현식 (XODIAC)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/300/14447300_20260813170641_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792215"
-    },
-    {
-      "title": "Thank you thank you so much",
-      "artist": "밈 (mim)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/40/933/14440933_20260811182829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602772405"
-    },
-    {
-      "title": "Maybe even if we don't tell",
-      "artist": "가영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/461/14449461_20260814103610_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798383"
-    },
-    {
-      "title": "Sink Into You",
-      "artist": "음성사서함",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/281/14447281_20260813164939_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792153"
-    },
-    {
-      "title": "I hope I have touched you",
-      "artist": "이범준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/196/14447196_20260813162835_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791784"
-    },
-    {
-      "title": "live",
-      "artist": "찰리빈웍스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/487/14447487_20260813174700_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792695"
-    },
-    {
-      "title": "Horizon",
-      "artist": "단칸방 로맨스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/615/14446615_20260813114429_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789974"
     }
   ]
 }
