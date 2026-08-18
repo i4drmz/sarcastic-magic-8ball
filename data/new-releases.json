@@ -1,18 +1,102 @@
 {
-  "generatedAt": "2026-08-18T01:56:09.550Z",
+  "generatedAt": "2026-08-18T07:11:41.001Z",
   "count": 50,
   "songs": [
     {
+      "title": "Blurred Sleep (feat. Mingginyu)",
+      "artist": "결 (KYUL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/475/14449475_20260814104347_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798404"
+    },
+    {
+      "title": "All I Need is You",
+      "artist": "siso(시소)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/50/159/14450159_20260814154401_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602801545"
+    },
+    {
+      "title": "Forced Memories",
+      "artist": "임가영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/877/14446877_20260813135719_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790898"
+    },
+    {
+      "title": "ROMEO",
+      "artist": "위지수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/191/14447191_20260813162431_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602791766"
+    },
+    {
+      "title": "Cruel (feat. Minsu)",
+      "artist": "Gila (길라)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/614/14449614_20260814121328_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798998"
+    },
+    {
+      "title": "We Done",
+      "artist": "KAMA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/800/14447800_20260813183942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602793525"
+    },
+    {
+      "title": "Feat. Taeb2",
+      "artist": "V.et",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/476/14449476_20260814104428_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798405"
+    },
+    {
+      "title": "Mysterious Girl",
+      "artist": "비올라 (VIOLA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/653/14446653_20260813120026_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602790056"
+    },
+    {
+      "title": "Tears Teardrop (Feat. Sungchuk Cho)",
+      "artist": "레이나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/655/14449655_20260814123000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602799154"
+    },
+    {
       "title": "prod. Meinhz",
       "artist": "홍이삭",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/462/14449462_20260814103641_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/462/14449462_20260818140053_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602798385"
+    },
+    {
+      "title": "If You Knew It Would Be Your Last (Feat. Donut Man)",
+      "artist": "시즈더데이 (seizetheday)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/614/14446614_20260813114330_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602789973"
+    },
+    {
+      "title": "You remember it too.",
+      "artist": "에피타이저 (Appetizer)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/949/14443949_20260812172939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602782866"
     },
     {
       "title": "Your Lips (Feat. Wendy)",
       "artist": "준케이 (JUN. K)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/464/14449464_20260814103953_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602798388"
+    },
+    {
+      "title": "When it rains",
+      "artist": "이윤희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/610/14449610_20260814120610_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798993"
+    },
+    {
+      "title": "Snow games",
+      "artist": "Hollow Young",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/618/14449618_20260814121737_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602799051"
+    },
+    {
+      "title": "On and On",
+      "artist": "Skinny Chase",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/614/14447614_20260813181341_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602793022"
     },
     {
       "title": "Rusty Chest",
@@ -25,6 +109,24 @@
       "artist": "로시 (Rothy)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/874/14446874_20260813135449_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602790894"
+    },
+    {
+      "title": "Will I be able to grow up?",
+      "artist": "이정봉",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/858/14449858_20260814144349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602799821"
+    },
+    {
+      "title": "Invisible (Prod. Yoo Dam)",
+      "artist": "레반 (Levan)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/616/14449616_20260814121337_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602799004"
+    },
+    {
+      "title": "I'll take the breakup",
+      "artist": "더 라임",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/803/14447803_20260813184031_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602793540"
     },
     {
       "title": "Take A Chance (Feat. Gyujin of NMIXX)",
@@ -199,108 +301,6 @@
       "artist": "단칸방 로맨스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/615/14446615_20260813114429_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602789974"
-    },
-    {
-      "title": "Let's go have a drink",
-      "artist": "박현호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/433/14447433_20260813173218_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792547"
-    },
-    {
-      "title": "Weaknesses",
-      "artist": "더 파란",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/616/14446616_20260813114438_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789976"
-    },
-    {
-      "title": "Pobrecito",
-      "artist": "The Suicide Diary",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/049/14447049_20260813155753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791393"
-    },
-    {
-      "title": "I like it because it's you I'm happy because it's you",
-      "artist": "이보람",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/394/14447394_20260813172905_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792503"
-    },
-    {
-      "title": "I am so afraid of love",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/063/14443063_20260812110042_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602779678"
-    },
-    {
-      "title": "Beside you",
-      "artist": "김동하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/280/14447280_20260813164859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792151"
-    },
-    {
-      "title": "LOVE & GHOST",
-      "artist": "g0nny (거니)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/984/14443984_20260812180642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782948"
-    },
-    {
-      "title": "MZ GAZA",
-      "artist": "viceversa",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/782/14442782_20260812095709_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602778361"
-    },
-    {
-      "title": "Feat. Ruen",
-      "artist": "픽트리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/946/14443946_20260812172838_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782861"
-    },
-    {
-      "title": "BAMTY",
-      "artist": "한재희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/404/14447404_20260813172924_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792514"
-    },
-    {
-      "title": "Intellectualizer",
-      "artist": "나상도",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/862/14446862_20260813135046_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790843"
-    },
-    {
-      "title": "You're already pretty",
-      "artist": "아이보리 (Ivory)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/980/14446980_20260813153109_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791238"
-    },
-    {
-      "title": "At sunset",
-      "artist": "브라더스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/605/14447605_20260813181240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792995"
-    },
-    {
-      "title": "still lost",
-      "artist": "LOWELL STRAIGHT",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/340/14447340_20260813172232_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792407"
-    },
-    {
-      "title": "deep!",
-      "artist": "Finn",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/006/14447006_20260813153345_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791264"
-    },
-    {
-      "title": "Know No Better",
-      "artist": "ONE:ME(원미)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/864/14446864_20260813135158_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790869"
-    },
-    {
-      "title": "Lucid Dream",
-      "artist": "배우리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/125/14447125_20260813161448_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791618"
     }
   ]
 }
