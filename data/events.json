@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-08-17T18:23:21.046Z",
-  "lastUpdated": "2026-08-17T18:23:21.046Z",
+  "generatedAt": "2026-08-18T06:25:09.521Z",
+  "lastUpdated": "2026-08-18T06:25:09.521Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-75263e4d7dc80657",
+      "type": "Fan Meeting",
+      "title": "Solo Fan Meeting",
+      "artist": "The Boyz",
+      "group": "The Boyz",
+      "date": "2026-08-18",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "THE BOYZ SOLO FAN MEETING COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/the-boyzs-hyunjae-to-hold-first-solo-fan-meeting-in-september",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-18T06:25:09.521Z"
+    },
     {
       "id": "evt-04518f0a905aec8b",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-17T18:23:21.046Z"
+      "lastUpdated": "2026-08-18T06:25:09.521Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T18:23:21.046Z"
+      "lastUpdated": "2026-08-18T06:25:09.521Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T18:23:21.046Z"
+      "lastUpdated": "2026-08-18T06:25:09.521Z"
     },
     {
       "id": "evt-c1bf386e1fb3b0cc",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1860685wpp/park-ji-hoons-agency-announces-cancellation-of-shanghai-fan-meeting",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-17T18:23:21.046Z"
+      "lastUpdated": "2026-08-18T06:25:09.521Z"
     }
   ]
 }
