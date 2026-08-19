@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-08-19T01:57:50.397Z",
+  "generatedAt": "2026-08-19T07:12:46.970Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Ethics and Ideology",
+      "artist": "박소은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/855/14459855_20260818143140_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828701"
+    },
+    {
+      "title": "Halo (Feat. Dobby Bee, Bird Light)",
+      "artist": "Miiro (미로)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/980/14459980_20260818153528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602829128"
+    },
+    {
+      "title": "Programmed Life",
+      "artist": "015B",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/844/14459844_20260818141401_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828680"
+    },
+    {
+      "title": "Sorry",
+      "artist": "웨이브 콜",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/50/224/14450224_20260814164551_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602801923"
+    },
+    {
+      "title": "sure? (feat. Sanhee)",
+      "artist": "Q the trumpet",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/849/14459849_20260818141803_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828689"
+    },
+    {
+      "title": "Y.O.U.",
+      "artist": "븨븨에스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/762/14459762_20260818133810_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828283"
+    },
+    {
+      "title": "Summer Carol",
+      "artist": "이범준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/847/14459847_20260818141542_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828685"
+    },
+    {
+      "title": "LIFE",
+      "artist": "미노이 (meenoi)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/541/14459541_20260818103033_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602827551"
+    },
     {
       "title": "Blue Reef",
       "artist": "이수현",
@@ -15,10 +63,70 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602783105"
     },
     {
+      "title": "It's a start",
+      "artist": "밴드기린(BandKirin)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/177/14460177_20260818160405_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602829668"
+    },
+    {
+      "title": "winter melts away",
+      "artist": "벤자민 (Benzamin)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/857/14459857_20260818143239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828703"
+    },
+    {
+      "title": "Feat. Chan, Chilloop",
+      "artist": "반에스틴 (BAN ESTIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/44/096/14444096_20260812183021_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602783119"
+    },
+    {
       "title": "Prod By THE HUB",
       "artist": "연준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/869/14449869_20260814145229_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602799950"
+    },
+    {
+      "title": "Then Anaña",
+      "artist": "추화정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/949/14449949_20260814151345_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602800330"
+    },
+    {
+      "title": "submissive & breedable",
+      "artist": "xiihu (시후)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/852/14459852_20260818143100_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828695"
+    },
+    {
+      "title": "fuck the motherfucker",
+      "artist": "오요테",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/854/14459854_20260818143131_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828699"
+    },
+    {
+      "title": "feat. ZUMMA",
+      "artist": "서근영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/949/14459949_20260818151437_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602829033"
+    },
+    {
+      "title": "Tin can",
+      "artist": "김우도",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/860/14459860_20260818143511_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828708"
+    },
+    {
+      "title": "Let it Burn",
+      "artist": "이성수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/853/14459853_20260818143109_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602828697"
+    },
+    {
+      "title": "Summer (feat. Eunmin)",
+      "artist": "페퍼민트 (peppermint)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/679/14447679_20260813181919_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602793256"
     },
     {
       "title": "7 Things I Promise You (feat. Kyuri",
@@ -193,114 +301,6 @@
       "artist": "주호",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/875/14446875_20260813135549_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602790895"
-    },
-    {
-      "title": "Sweetest",
-      "artist": "로시 (Rothy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/874/14446874_20260813135449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790894"
-    },
-    {
-      "title": "Will I be able to grow up?",
-      "artist": "이정봉",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/858/14449858_20260814144349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602799821"
-    },
-    {
-      "title": "Invisible (Prod. Yoo Dam)",
-      "artist": "레반 (Levan)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/616/14449616_20260814121337_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602799004"
-    },
-    {
-      "title": "I'll take the breakup",
-      "artist": "더 라임",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/803/14447803_20260813184031_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602793540"
-    },
-    {
-      "title": "Take A Chance (Feat. Gyujin of NMIXX)",
-      "artist": "Jason Lee (제이슨 리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/513/14449513_20260814105432_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798610"
-    },
-    {
-      "title": "Party Of Stars (Feat. Jeong Dong-hwan)",
-      "artist": "소향",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/947/14443947_20260812172850_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782862"
-    },
-    {
-      "title": "World Wild Women",
-      "artist": "tripleS (트리플에스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/876/14446876_20260813135600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790897"
-    },
-    {
-      "title": "When you′re lonely",
-      "artist": "BLUHWA (블루화)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/463/14449463_20260814103729_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798387"
-    },
-    {
-      "title": "Why are you okay?",
-      "artist": "그리드웨이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/765/14442765_20260812095458_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602778290"
-    },
-    {
-      "title": "Korean Ver.",
-      "artist": "아일릿(ILLIT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/608/14449608_20260814120211_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798990"
-    },
-    {
-      "title": "Before the end of the year",
-      "artist": "윤덕원 (브로콜리너마저)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/305/14447305_20260813170803_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792275"
-    },
-    {
-      "title": "Dim the light",
-      "artist": "Vapo (허원혁)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/376/14446376_20260813094029_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789388"
-    },
-    {
-      "title": "NOBODY (with Jung Joon-hyuk, NECTA)",
-      "artist": "Marv",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/819/14442819_20260812100155_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602778578"
-    },
-    {
-      "title": "Ugly look",
-      "artist": "DYMIN (다이민)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/457/14449457_20260814103236_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798376"
-    },
-    {
-      "title": "Unrequited BGM",
-      "artist": "우나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/458/14449458_20260814103435_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798377"
-    },
-    {
-      "title": "Love spreads",
-      "artist": "여은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/948/14443948_20260812172851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782864"
-    },
-    {
-      "title": "It's this starting project",
-      "artist": "매드클라운",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/872/14446872_20260813135329_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790891"
-    },
-    {
-      "title": "Reluctantly, all of me, null",
-      "artist": "아우릴고트 (OUREALGOAT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/378/14446378_20260813094139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789390"
     }
   ]
 }
