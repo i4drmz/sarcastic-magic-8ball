@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-08-19T12:23:34.460Z",
+  "ranAt": "2026-08-19T18:18:47.954Z",
   "success": false,
   "apiRequests": 20,
   "providersRegistered": [
@@ -21,12 +21,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 60,
-      "eventRelated": 2,
-      "extracted": 2,
-      "discarded": 58,
+      "eventRelated": 1,
+      "extracted": 1,
+      "discarded": 59,
       "discardReasons": {
-        "no_event_signal": 45,
-        "not_event_announcement": 13
+        "not_event_announcement": 13,
+        "no_event_signal": 46
       }
     },
     {
@@ -37,11 +37,11 @@
       "httpStatus": 200,
       "items": 60,
       "eventRelated": 4,
-      "extracted": 2,
+      "extracted": 3,
       "discarded": 56,
       "discardReasons": {
-        "no_event_signal": 35,
-        "not_event_announcement": 21
+        "no_event_signal": 34,
+        "not_event_announcement": 22
       }
     },
     {
@@ -55,8 +55,8 @@
       "extracted": 3,
       "discarded": 37,
       "discardReasons": {
-        "no_event_signal": 28,
-        "not_event_announcement": 9
+        "no_event_signal": 26,
+        "not_event_announcement": 11
       }
     },
     {
@@ -84,8 +84,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "not_event_announcement": 1,
+        "no_event_signal": 9
       }
     },
     {
@@ -110,12 +110,13 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 0,
+      "eventRelated": 1,
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "not_event_announcement": 1,
+        "no_event_signal": 8,
+        "not_kpop": 1
       }
     },
     {
@@ -125,12 +126,13 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 0,
+      "eventRelated": 1,
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "not_event_announcement": 1,
+        "no_event_signal": 8,
+        "not_kpop": 1
       }
     },
     {
@@ -144,8 +146,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -187,8 +188,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 6,
-        "no_event_signal": 4
+        "no_event_signal": 1,
+        "not_event_announcement": 9
       }
     }
   ],
@@ -196,23 +197,23 @@
   "afterDedupe": 8,
   "afterUpcomingFilter": 8,
   "totalItems": 243,
-  "totalEventRelated": 10,
+  "totalEventRelated": 11,
   "totalExtracted": 8,
-  "totalDiscarded": 233,
-  "extractionAccuracyPct": 80,
-  "previousCount": 7,
+  "totalDiscarded": 234,
+  "extractionAccuracyPct": 72.7,
+  "previousCount": 8,
   "writtenCount": 8,
   "changed": true,
   "published": false,
   "notes": [
-    "rss:soompi: items=60 related=2 extracted=2 discarded=58",
-    "rss:soompi-music: items=60 related=4 extracted=2 discarded=56",
+    "rss:soompi: items=60 related=1 extracted=1 discarded=59",
+    "rss:soompi-music: items=60 related=4 extracted=3 discarded=56",
     "rss:allkpop: items=40 related=3 extracted=3 discarded=37",
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme-music: items=10 related=0 extracted=0 discarded=10",
+    "rss:nme: items=10 related=1 extracted=0 discarded=10",
+    "rss:nme-music: items=10 related=1 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
     "rss:hellokpop: items=3 related=1 extracted=1 discarded=2",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T12:23:34.460Z",
-  "lastUpdated": "2026-08-19T12:23:34.460Z",
+  "generatedAt": "2026-08-19T18:18:47.954Z",
+  "lastUpdated": "2026-08-19T18:18:47.954Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -26,7 +26,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     },
     {
       "id": "evt-61fdb5104a158937",
@@ -46,7 +46,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/uspeer-announce-mini-fan-meeting-and-seoul-busking-after-promotions",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     },
     {
       "id": "evt-3f63ed790dbef882",
@@ -66,7 +66,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/hi-fi-uncorn-release-japanese-single-telescope-and-announce-tour",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     },
     {
       "id": "evt-82e69ae240ecd9d4",
@@ -86,7 +86,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/kim-jaejoong-and-kim-junsu-announce-jx-concert-in-korea-this-october",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -105,8 +105,8 @@
       "shortDescription": "NMIXX CONCERT COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     },
     {
       "id": "evt-1d95ffbfd87c2e2a",
@@ -126,7 +126,7 @@
       "sourceUrl": "https://www.hellokpop.com/news/hello82-unveils-full-lineup-for-82world-la-a-two-day-fan-built-festival-arriving-this-october/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -146,7 +146,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -166,7 +166,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-19T12:23:34.460Z"
+      "lastUpdated": "2026-08-19T18:18:47.954Z"
     }
   ]
 }
