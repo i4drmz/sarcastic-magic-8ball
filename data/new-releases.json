@@ -1,12 +1,72 @@
 {
-  "generatedAt": "2026-08-20T01:57:01.363Z",
+  "generatedAt": "2026-08-20T07:14:04.922Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Wave (Feat. Juheon (Monsta X))",
+      "artist": "Baby Shark Boy (베이비샤크보이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/081/14464081_20260819152040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602842938"
+    },
+    {
+      "title": "In the Sky",
+      "artist": "장윤정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/436/14463436_20260819103230_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840455"
+    },
+    {
+      "title": "To The Next Page",
+      "artist": "BOY.D (보이.디 of 9와 숫자들)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/717/14442717_20260812093641_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602778045"
+    },
+    {
+      "title": "Feat. Junji",
+      "artist": "HEALER",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/097/14464097_20260819152242_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602842975"
+    },
+    {
+      "title": "Feat. Huiii",
+      "artist": "S2AM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/627/14459627_20260818110725_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602827805"
+    },
+    {
+      "title": "promise made.",
+      "artist": "Aden (에이든)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/061/14461061_20260818180824_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602833195"
+    },
     {
       "title": "BiiiG",
       "artist": "BIGBANG (빅뱅)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/127/14463127_20260819092848_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602839323"
+    },
+    {
+      "title": "General Crowd",
+      "artist": "더 보울스 (The Bowls)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/491/14449491_20260814104935_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602798450"
+    },
+    {
+      "title": "SERENADE",
+      "artist": "KOREANGROOVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/441/14463441_20260819103738_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840467"
+    },
+    {
+      "title": "If it's a toxic day,",
+      "artist": "ONDA(온다)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/116/14464116_20260819152358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602843020"
+    },
+    {
+      "title": "Sad Rain",
+      "artist": "성리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/286/14461286_20260818183349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602834369"
     },
     {
       "title": "Scenario",
@@ -19,6 +79,78 @@
       "artist": "OURBIRTHDAY (아워벌스데이)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/138/30/913/13830913_20260818162502_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602828930"
+    },
+    {
+      "title": "Supernova and Dying Ants",
+      "artist": "도비비(Dovlvl)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/429/14463429_20260819102949_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840448"
+    },
+    {
+      "title": "Out of Time",
+      "artist": "수윤 (Sooyoon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/447/14463447_20260819104141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840483"
+    },
+    {
+      "title": "I guess this is love",
+      "artist": "장은지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/161/14464161_20260819153206_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602843234"
+    },
+    {
+      "title": "Love me Loud",
+      "artist": "LINA (리나)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/439/14463439_20260819103618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840464"
+    },
+    {
+      "title": "Search",
+      "artist": "INCENSE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/164/14464164_20260819153440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602843239"
+    },
+    {
+      "title": "Eventually we all die.",
+      "artist": "백식 (Baeksik)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/431/14463431_20260819103038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840450"
+    },
+    {
+      "title": "Happiness",
+      "artist": "조항조",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/446/14463446_20260819104030_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840481"
+    },
+    {
+      "title": "Temperature today",
+      "artist": "에리즈 (Aries)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/267/14461267_20260818183237_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602834295"
+    },
+    {
+      "title": "Take My Hand (Lullaby)",
+      "artist": "심각한 개구리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/563/14463563_20260819112437_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840912"
+    },
+    {
+      "title": "Mango (feat. Yoo Seung-woo)",
+      "artist": "준 (JUNE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/443/14463443_20260819103859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840469"
+    },
+    {
+      "title": "Unread",
+      "artist": "프리멜로",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/50/265/14450265_20260814170458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602802109"
+    },
+    {
+      "title": "My uses",
+      "artist": "지예 (JIYE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/448/14463448_20260819104539_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840485"
     },
     {
       "title": "1-10, 1 minute ago (stopped at 9)",
@@ -169,138 +301,6 @@
       "artist": "xiihu (시후)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/852/14459852_20260818143100_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602828695"
-    },
-    {
-      "title": "fuck the motherfucker",
-      "artist": "오요테",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/854/14459854_20260818143131_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828699"
-    },
-    {
-      "title": "feat. ZUMMA",
-      "artist": "서근영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/949/14459949_20260818151437_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602829033"
-    },
-    {
-      "title": "Tin can",
-      "artist": "김우도",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/860/14459860_20260818143511_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828708"
-    },
-    {
-      "title": "Let it Burn",
-      "artist": "이성수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/853/14459853_20260818143109_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828697"
-    },
-    {
-      "title": "Summer (feat. Eunmin)",
-      "artist": "페퍼민트 (peppermint)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/679/14447679_20260813181919_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602793256"
-    },
-    {
-      "title": "7 Things I Promise You (feat. Kyuri",
-      "artist": "조성확(IHWAK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/878/14446878_20260813140050_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790900"
-    },
-    {
-      "title": "I used to be a summer lover",
-      "artist": "구름",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/482/14449482_20260814104551_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798417"
-    },
-    {
-      "title": "own_translation heavy shower snow",
-      "artist": "한동근",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/194/14447194_20260813162807_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791781"
-    },
-    {
-      "title": "Dreams Come True",
-      "artist": "영파씨 (YOUNG POSSE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/927/14449927_20260814151105_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602800136"
-    },
-    {
-      "title": "Call me crazy",
-      "artist": "김승민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/50/220/14450220_20260814164258_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602801908"
-    },
-    {
-      "title": "Prince of the Seas",
-      "artist": "남유정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/607/14449607_20260814115615_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798989"
-    },
-    {
-      "title": "Don’t You Open Up",
-      "artist": "Sweet The Kid",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/612/14449612_20260814121318_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798996"
-    },
-    {
-      "title": "FREQUENCY",
-      "artist": "TRYTHAT",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/804/14447804_20260813184244_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602793543"
-    },
-    {
-      "title": "It's unbelievable",
-      "artist": "Shane",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/558/14446558_20260813111840_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602789777"
-    },
-    {
-      "title": "TANGERINE",
-      "artist": "MIO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/483/14449483_20260814104701_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798418"
-    },
-    {
-      "title": "Youth",
-      "artist": "Cosmonott(코스모너트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/43/950/14443950_20260812173052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602782867"
-    },
-    {
-      "title": "Who said let's go hiking?",
-      "artist": "임지원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/905/14449905_20260814150753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602799996"
-    },
-    {
-      "title": "Blurred Sleep (feat. Mingginyu)",
-      "artist": "결 (KYUL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/475/14449475_20260814104347_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798404"
-    },
-    {
-      "title": "All I Need is You",
-      "artist": "siso(시소)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/50/159/14450159_20260814154401_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602801545"
-    },
-    {
-      "title": "Forced Memories",
-      "artist": "임가영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/877/14446877_20260813135719_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790898"
-    },
-    {
-      "title": "ROMEO",
-      "artist": "위지수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/191/14447191_20260813162431_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602791766"
-    },
-    {
-      "title": "Cruel (feat. Minsu)",
-      "artist": "Gila (길라)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/614/14449614_20260814121328_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798998"
     }
   ]
 }
