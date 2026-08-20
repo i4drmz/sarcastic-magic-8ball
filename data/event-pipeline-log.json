@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-20T12:26:19.942Z",
+  "ranAt": "2026-08-20T18:23:08.279Z",
   "success": false,
-  "apiRequests": 19,
+  "apiRequests": 20,
   "providersRegistered": [
     "rss"
   ],
@@ -40,8 +40,8 @@
       "extracted": 3,
       "discarded": 55,
       "discardReasons": {
-        "no_event_signal": 33,
-        "not_event_announcement": 22
+        "no_event_signal": 32,
+        "not_event_announcement": 23
       }
     },
     {
@@ -55,8 +55,8 @@
       "extracted": 2,
       "discarded": 38,
       "discardReasons": {
-        "no_event_signal": 29,
-        "not_event_announcement": 9
+        "not_event_announcement": 9,
+        "no_event_signal": 29
       }
     },
     {
@@ -84,7 +84,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 10
+        "no_event_signal": 8,
+        "not_event_announcement": 2
       }
     },
     {
@@ -98,8 +99,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 8,
+        "not_event_announcement": 2
       }
     },
     {
@@ -113,8 +114,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 1,
-        "no_event_signal": 9
+        "no_event_signal": 6,
+        "not_event_announcement": 4
       }
     },
     {
@@ -166,14 +167,15 @@
       "id": "hellokpop",
       "label": "helloKpop",
       "url": "https://hellokpop.com/feed/",
-      "ok": false,
-      "httpStatus": 0,
-      "items": 0,
-      "eventRelated": 0,
-      "extracted": 0,
-      "discarded": 0,
-      "discardReasons": {},
-      "error": "fetch failed"
+      "ok": true,
+      "httpStatus": 200,
+      "items": 3,
+      "eventRelated": 1,
+      "extracted": 1,
+      "discarded": 2,
+      "discardReasons": {
+        "no_event_signal": 2
+      }
     },
     {
       "id": "biaslist",
@@ -186,21 +188,21 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 1,
-        "not_event_announcement": 9
+        "no_event_signal": 2,
+        "not_event_announcement": 8
       }
     }
   ],
-  "rawEvents": 7,
-  "afterDedupe": 7,
-  "afterUpcomingFilter": 7,
-  "totalItems": 240,
-  "totalEventRelated": 9,
-  "totalExtracted": 7,
-  "totalDiscarded": 231,
-  "extractionAccuracyPct": 77.8,
-  "previousCount": 8,
-  "writtenCount": 7,
+  "rawEvents": 8,
+  "afterDedupe": 8,
+  "afterUpcomingFilter": 8,
+  "totalItems": 243,
+  "totalEventRelated": 10,
+  "totalExtracted": 8,
+  "totalDiscarded": 233,
+  "extractionAccuracyPct": 80,
+  "previousCount": 7,
+  "writtenCount": 8,
   "changed": true,
   "published": false,
   "notes": [
@@ -214,9 +216,8 @@
     "rss:nme-music: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:hellokpop: fetch failed",
-    "rss:hellokpop: items=0 related=0 extracted=0 discarded=0",
+    "rss:hellokpop: items=3 related=1 extracted=1 discarded=2",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=5/7"
+    "rss:images resolved from articles=6/8"
   ]
 }
