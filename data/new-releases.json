@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-08-20T07:14:04.922Z",
+  "generatedAt": "2026-08-20T13:24:16.398Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Manphasickzuck",
+      "artist": "실리카겔",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/227/14464227_20260819160425_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602843618"
+    },
+    {
+      "title": "Bish Bash Bosh",
+      "artist": "미미 (오마이걸)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/074/14464074_20260819151847_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602842923"
+    },
+    {
+      "title": "Let Me Love You",
+      "artist": "Tiger JK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/239/14464239_20260819160940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602843650"
+    },
+    {
+      "title": "Tonight",
+      "artist": "김재중",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/155/14464155_20260819153051_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602843191"
+    },
+    {
+      "title": "Edge of Calm",
+      "artist": "Tiffany Young",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/457/14463457_20260819105102_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840523"
+    },
+    {
+      "title": "It's a bong.",
+      "artist": "홍성윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/091/14464091_20260819152152_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602842949"
+    },
+    {
+      "title": "bgf",
+      "artist": "죠지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/141/70/680/14170680_20260819173001_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602830224"
+    },
+    {
+      "title": "Lil Quiett",
+      "artist": "Gist",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/459/14463459_20260819105353_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840531"
+    },
+    {
+      "title": "Feat. sokodomo",
+      "artist": "지셀 (Jiselle)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/530/14447530_20260813175629_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792838"
+    },
+    {
+      "title": "TAKE THE RAIN",
+      "artist": "뱅크",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/460/14463460_20260819105458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840540"
+    },
+    {
+      "title": "2km",
+      "artist": "안다영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/450/14463450_20260819104718_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840489"
+    },
+    {
+      "title": "I'm still parting ways",
+      "artist": "카진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/078/14464078_20260819152009_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602842934"
+    },
+    {
+      "title": "feat. NC.A",
+      "artist": "NieN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/454/14463454_20260819104843_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840506"
+    },
+    {
+      "title": "clOwn",
+      "artist": "Mischiefers",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/252/14461252_20260818183021_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602834091"
+    },
+    {
+      "title": "Get Up",
+      "artist": "Seiren 8",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/289/14461289_20260818183447_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602834392"
+    },
+    {
+      "title": "∞LIGHTSYNC",
+      "artist": "ioona",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/529/14463529_20260819111829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840862"
+    },
+    {
+      "title": "Animal Divers x ODUCHU",
+      "artist": "Animal Divers",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/297/14447297_20260813170601_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602792212"
+    },
+    {
+      "title": "Lovin′ Smooth",
+      "artist": "TRENDZ (트렌드지)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/456/14463456_20260819105044_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602840515"
+    },
     {
       "title": "Wave (Feat. Juheon (Monsta X))",
       "artist": "Baby Shark Boy (베이비샤크보이)",
@@ -193,114 +301,6 @@
       "artist": "AtHeart (앳하트)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/606/14459606_20260818105924_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602827746"
-    },
-    {
-      "title": "Red Socks",
-      "artist": "유영현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/868/14459868_20260818143859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828719"
-    },
-    {
-      "title": "With tears, with tears",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/858/14459858_20260818143240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828705"
-    },
-    {
-      "title": "Ethics and Ideology",
-      "artist": "박소은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/855/14459855_20260818143140_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828701"
-    },
-    {
-      "title": "Halo (Feat. Dobby Bee, Bird Light)",
-      "artist": "Miiro (미로)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/980/14459980_20260818153528_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602829128"
-    },
-    {
-      "title": "Programmed Life",
-      "artist": "015B",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/844/14459844_20260818141401_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828680"
-    },
-    {
-      "title": "Sorry",
-      "artist": "웨이브 콜",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/50/224/14450224_20260814164551_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602801923"
-    },
-    {
-      "title": "sure? (feat. Sanhee)",
-      "artist": "Q the trumpet",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/849/14459849_20260818141803_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828689"
-    },
-    {
-      "title": "Y.O.U.",
-      "artist": "븨븨에스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/762/14459762_20260818133810_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828283"
-    },
-    {
-      "title": "Summer Carol",
-      "artist": "이범준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/847/14459847_20260818141542_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828685"
-    },
-    {
-      "title": "LIFE",
-      "artist": "미노이 (meenoi)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/541/14459541_20260818103033_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602827551"
-    },
-    {
-      "title": "Blue Reef",
-      "artist": "이수현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/46/905/14446905_20260813151449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602790969"
-    },
-    {
-      "title": "Godspeed!",
-      "artist": "혁오 (HYUKOH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/44/090/14444090_20260812182722_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602783105"
-    },
-    {
-      "title": "It's a start",
-      "artist": "밴드기린(BandKirin)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/177/14460177_20260818160405_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602829668"
-    },
-    {
-      "title": "winter melts away",
-      "artist": "벤자민 (Benzamin)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/857/14459857_20260818143239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828703"
-    },
-    {
-      "title": "Feat. Chan, Chilloop",
-      "artist": "반에스틴 (BAN ESTIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/44/096/14444096_20260812183021_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602783119"
-    },
-    {
-      "title": "Prod By THE HUB",
-      "artist": "연준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/869/14449869_20260814145229_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602799950"
-    },
-    {
-      "title": "Then Anaña",
-      "artist": "추화정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/949/14449949_20260814151345_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602800330"
-    },
-    {
-      "title": "submissive & breedable",
-      "artist": "xiihu (시후)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/852/14459852_20260818143100_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828695"
     }
   ]
 }
