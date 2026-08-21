@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-08-21T06:28:24.562Z",
+  "ranAt": "2026-08-21T12:25:15.080Z",
   "success": false,
   "apiRequests": 21,
   "providersRegistered": [
@@ -25,8 +25,8 @@
       "extracted": 3,
       "discarded": 57,
       "discardReasons": {
-        "no_event_signal": 46,
-        "not_event_announcement": 11
+        "no_event_signal": 47,
+        "not_event_announcement": 10
       }
     },
     {
@@ -40,8 +40,8 @@
       "extracted": 3,
       "discarded": 55,
       "discardReasons": {
-        "not_event_announcement": 24,
-        "no_event_signal": 31
+        "no_event_signal": 33,
+        "not_event_announcement": 22
       }
     },
     {
@@ -55,8 +55,8 @@
       "extracted": 2,
       "discarded": 38,
       "discardReasons": {
-        "not_event_announcement": 8,
-        "no_event_signal": 30
+        "no_event_signal": 29,
+        "not_event_announcement": 9
       }
     },
     {
@@ -84,8 +84,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -99,8 +98,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -144,8 +142,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -201,7 +198,7 @@
   "totalExtracted": 9,
   "totalDiscarded": 232,
   "extractionAccuracyPct": 81.8,
-  "previousCount": 8,
+  "previousCount": 9,
   "writtenCount": 9,
   "changed": true,
   "published": false,

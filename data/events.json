@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T06:28:24.562Z",
-  "lastUpdated": "2026-08-21T06:28:24.562Z",
+  "generatedAt": "2026-08-21T12:25:15.080Z",
+  "lastUpdated": "2026-08-21T12:25:15.080Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -8,6 +8,26 @@
     "hellokpop"
   ],
   "events": [
+    {
+      "id": "evt-796f633ac56e1669",
+      "type": "Concert",
+      "title": "Concert “O! NEW E!volution VI”",
+      "artist": "ONEWE",
+      "group": "ONEWE",
+      "date": "2026-08-21",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "ONEWE CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/onewe-to-hold-sixth-live-concert-o-new-evolution-vi-in-september",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
+    },
     {
       "id": "evt-f9ae190682c17fa4",
       "type": "Fan Meeting",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864535wpp/hwang-minhyun-announces-2026-fan-meeting-peach-blossom",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     },
     {
       "id": "evt-578ae0757442a174",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/yves-announces-second-asia-and-australia-tour-for-november",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -66,27 +86,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
-    },
-    {
-      "id": "evt-089600e8d6c70272",
-      "type": "Concert",
-      "title": "EXO to hold encore concerts at KSPO DOME in November",
-      "artist": "EXO",
-      "group": "EXO",
-      "date": "2026-08-20",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "EXO fans can look forward to a major event this fall as the group prepares to wrap up their latest world tour with a series of encore concerts. On August 20, SM Entertainment that EXO will host 'EXO PLANET #6 - EXhOrizon [dot] -' at the…",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/exo-to-hold-encore-concerts-at-kspo-dome-in-november",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -106,7 +106,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -126,7 +126,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     },
     {
       "id": "evt-1d95ffbfd87c2e2a",
@@ -146,7 +146,7 @@
       "sourceUrl": "https://www.hellokpop.com/news/hello82-unveils-full-lineup-for-82world-la-a-two-day-fan-built-festival-arriving-this-october/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -166,7 +166,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -186,7 +186,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-21T06:28:24.562Z"
+      "lastUpdated": "2026-08-21T12:25:15.080Z"
     }
   ]
 }
