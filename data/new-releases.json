@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:14:22.565Z",
+  "generatedAt": "2026-08-21T13:23:58.402Z",
   "count": 50,
   "songs": [
     {
@@ -9,16 +9,70 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602858445"
     },
     {
+      "title": "Youth Diary!",
+      "artist": "김민석 (멜로망스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/651/14466651_20260820123919_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850984"
+    },
+    {
+      "title": "Feat. SATOH",
+      "artist": "시온",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/647/14466647_20260820123718_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850978"
+    },
+    {
+      "title": "JADED",
+      "artist": "비더후드(B THE HOOD)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/879/14460879_20260818173222_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602832216"
+    },
+    {
+      "title": "Today is different from then",
+      "artist": "V.O.S",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/934/14466934_20260820160229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602852427"
+    },
+    {
+      "title": "Rather good",
+      "artist": "커피소년",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/657/14464657_20260819182459_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602844811"
+    },
+    {
+      "title": "Rack",
+      "artist": "MASON HOME",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/171/14464171_20260819153952_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602843282"
+    },
+    {
+      "title": "i don't think I love you.",
+      "artist": "니브 (NIve)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/450/14466450_20260820105930_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850496"
+    },
+    {
+      "title": "Pummist",
+      "artist": "헤일로 (h.a.l.o)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/456/14466456_20260820110139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850516"
+    },
+    {
+      "title": "One of Your Boys",
+      "artist": "Eddie and the Bricks",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/927/14460927_20260818174350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602832502"
+    },
+    {
+      "title": "Piece of My Life",
+      "artist": "우수 (Woosoo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/458/14466458_20260820110248_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850532"
+    },
+    {
       "title": "Rabbits and turtles",
       "artist": "김중연",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/150/14467150_20260820172236_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602853146"
-    },
-    {
-      "title": "I'll make love",
-      "artist": "홍성윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/649/14466649_20260820123819_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850981"
     },
     {
       "title": "The Bat",
@@ -247,60 +301,6 @@
       "artist": "BIGBANG (빅뱅)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/127/14463127_20260819092848_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602839323"
-    },
-    {
-      "title": "General Crowd",
-      "artist": "더 보울스 (The Bowls)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/49/491/14449491_20260814104935_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602798450"
-    },
-    {
-      "title": "SERENADE",
-      "artist": "KOREANGROOVE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/441/14463441_20260819103738_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840467"
-    },
-    {
-      "title": "If it's a toxic day,",
-      "artist": "ONDA(온다)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/116/14464116_20260819152358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602843020"
-    },
-    {
-      "title": "Sad Rain",
-      "artist": "성리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/286/14461286_20260818183349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602834369"
-    },
-    {
-      "title": "Scenario",
-      "artist": "ONEWE(원위)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/770/14460770_20260818171318_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602831710"
-    },
-    {
-      "title": "SQUEEZY",
-      "artist": "OURBIRTHDAY (아워벌스데이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/138/30/913/13830913_20260818162502_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602828930"
-    },
-    {
-      "title": "Supernova and Dying Ants",
-      "artist": "도비비(Dovlvl)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/429/14463429_20260819102949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840448"
-    },
-    {
-      "title": "Out of Time",
-      "artist": "수윤 (Sooyoon)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/447/14463447_20260819104141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840483"
-    },
-    {
-      "title": "I guess this is love",
-      "artist": "장은지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/161/14464161_20260819153206_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602843234"
     }
   ]
 }
