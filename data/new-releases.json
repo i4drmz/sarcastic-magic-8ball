@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-08-21T19:04:00.389Z",
+  "generatedAt": "2026-08-22T01:55:50.263Z",
   "count": 50,
   "songs": [
-    {
-      "title": "Bloody Paradise",
-      "artist": "엔하이픈 (ENHYPEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/048/14469048_20260821094619_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602858445"
-    },
     {
       "title": "Youth Diary!",
       "artist": "김민석 (멜로망스)",
@@ -43,6 +37,12 @@
       "artist": "MASON HOME",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/171/14464171_20260819153952_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602843282"
+    },
+    {
+      "title": "Bloody Paradise",
+      "artist": "엔하이픈 (ENHYPEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/048/14469048_20260821094619_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602858445"
     },
     {
       "title": "i don't think I love you.",
