@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-22T06:22:02.807Z",
+  "ranAt": "2026-08-22T18:15:15.421Z",
   "success": false,
-  "apiRequests": 20,
+  "apiRequests": 18,
   "providersRegistered": [
     "rss"
   ],
@@ -25,8 +25,8 @@
       "extracted": 3,
       "discarded": 57,
       "discardReasons": {
-        "not_event_announcement": 12,
-        "no_event_signal": 45
+        "not_event_announcement": 13,
+        "no_event_signal": 44
       }
     },
     {
@@ -40,8 +40,8 @@
       "extracted": 3,
       "discarded": 55,
       "discardReasons": {
-        "not_event_announcement": 23,
-        "no_event_signal": 32
+        "not_event_announcement": 24,
+        "no_event_signal": 31
       }
     },
     {
@@ -51,12 +51,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 40,
-      "eventRelated": 1,
-      "extracted": 1,
-      "discarded": 39,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 40,
       "discardReasons": {
-        "no_event_signal": 31,
-        "not_event_announcement": 8
+        "no_event_signal": 33,
+        "not_event_announcement": 7
       }
     },
     {
@@ -70,7 +70,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 10
+        "no_event_signal": 8,
+        "not_event_announcement": 2
       }
     },
     {
@@ -84,8 +85,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 1,
-        "no_event_signal": 9
+        "not_event_announcement": 2,
+        "no_event_signal": 8
       }
     },
     {
@@ -123,13 +124,11 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 1,
+      "eventRelated": 0,
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 1,
-        "not_kpop": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -143,8 +142,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -166,15 +164,14 @@
       "id": "hellokpop",
       "label": "helloKpop",
       "url": "https://hellokpop.com/feed/",
-      "ok": true,
-      "httpStatus": 200,
-      "items": 3,
-      "eventRelated": 1,
-      "extracted": 1,
-      "discarded": 2,
-      "discardReasons": {
-        "no_event_signal": 2
-      }
+      "ok": false,
+      "httpStatus": 202,
+      "items": 0,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 0,
+      "discardReasons": {},
+      "error": "response is not RSS/Atom XML"
     },
     {
       "id": "biaslist",
@@ -187,36 +184,36 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 7,
-        "no_event_signal": 3
+        "no_event_signal": 5,
+        "not_event_announcement": 5
       }
     }
   ],
-  "rawEvents": 8,
-  "afterDedupe": 8,
-  "afterUpcomingFilter": 8,
-  "totalItems": 243,
-  "totalEventRelated": 11,
-  "totalExtracted": 8,
-  "totalDiscarded": 233,
-  "extractionAccuracyPct": 72.7,
-  "previousCount": 9,
-  "writtenCount": 8,
+  "rawEvents": 6,
+  "afterDedupe": 6,
+  "afterUpcomingFilter": 6,
+  "totalItems": 240,
+  "totalEventRelated": 8,
+  "totalExtracted": 6,
+  "totalDiscarded": 232,
+  "extractionAccuracyPct": 75,
+  "previousCount": 8,
+  "writtenCount": 6,
   "changed": true,
   "published": false,
   "notes": [
     "rss:soompi: items=60 related=3 extracted=3 discarded=57",
     "rss:soompi-music: items=60 related=5 extracted=3 discarded=55",
-    "rss:allkpop: items=40 related=1 extracted=1 discarded=39",
+    "rss:allkpop: items=40 related=0 extracted=0 discarded=40",
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
     "rss:nme: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme-music: items=10 related=1 extracted=0 discarded=10",
+    "rss:nme-music: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:hellokpop: items=3 related=1 extracted=1 discarded=2",
+    "rss:hellokpop: not RSS/Atom",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=7/8"
+    "rss:images resolved from articles=6/6"
   ]
 }
