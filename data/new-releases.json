@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-22T01:55:50.263Z",
+  "generatedAt": "2026-08-22T07:06:35.856Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Together",
+      "artist": "이석훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/005/14467005_20260820162609_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602852633"
+    },
+    {
+      "title": "Burning",
+      "artist": "조빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/406/14467406_20260820184227_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602854412"
+    },
+    {
+      "title": "Yearling Man",
+      "artist": "김용빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/652/14466652_20260820123931_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850987"
+    },
+    {
+      "title": "Love always moves by itself",
+      "artist": "지세희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/646/14464646_20260819181836_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602844762"
+    },
+    {
+      "title": "May it be you",
+      "artist": "hills",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/400/14466400_20260820103638_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850296"
+    },
+    {
+      "title": "Thou shalt not die",
+      "artist": "강백수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/280/14469280_20260821115154_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859214"
+    },
     {
       "title": "Youth Diary!",
       "artist": "김민석 (멜로망스)",
@@ -15,10 +51,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602850978"
     },
     {
+      "title": "my only love",
+      "artist": "온재은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/281/14469281_20260821115252_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859215"
+    },
+    {
+      "title": "Goodnight, My Jjokko",
+      "artist": "OHDH (오드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/619/14469619_20260821145240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860323"
+    },
+    {
+      "title": "REAL TACO",
+      "artist": "NEWRULES",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/620/14469620_20260821145348_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860324"
+    },
+    {
+      "title": "Island",
+      "artist": "본하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/576/14469576_20260821142333_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860060"
+    },
+    {
+      "title": "You look stunning",
+      "artist": "꼰야 (kkonya)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/618/14469618_20260821145130_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860313"
+    },
+    {
+      "title": "Can't",
+      "artist": "로맨틱문 (Romantic Moon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/937/14466937_20260820160340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602852434"
+    },
+    {
+      "title": "I think I like you",
+      "artist": "리디아 (Lydia)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/581/14469581_20260821142946_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860093"
+    },
+    {
+      "title": "Allergy",
+      "artist": "임유현 (LIM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/574/14469574_20260821142202_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860057"
+    },
+    {
       "title": "JADED",
       "artist": "비더후드(B THE HOOD)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/879/14460879_20260818173222_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602832216"
+    },
+    {
+      "title": "BEAST",
+      "artist": "LOO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/364/14469364_20260821121228_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859323"
+    },
+    {
+      "title": "Night Sea (feat. Dunkini)",
+      "artist": "아이브라운",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/417/14469417_20260821122923_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859513"
+    },
+    {
+      "title": "Last Night (Feat. Kim Jun-beom)",
+      "artist": "김토라 (Tora)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/589/14469589_20260821143642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860143"
     },
     {
       "title": "Today is different from then",
@@ -199,108 +301,6 @@
       "artist": "Gist",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/459/14463459_20260819105353_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602840531"
-    },
-    {
-      "title": "Feat. sokodomo",
-      "artist": "지셀 (Jiselle)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/530/14447530_20260813175629_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792838"
-    },
-    {
-      "title": "TAKE THE RAIN",
-      "artist": "뱅크",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/460/14463460_20260819105458_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840540"
-    },
-    {
-      "title": "2km",
-      "artist": "안다영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/450/14463450_20260819104718_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840489"
-    },
-    {
-      "title": "I'm still parting ways",
-      "artist": "카진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/078/14464078_20260819152009_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602842934"
-    },
-    {
-      "title": "feat. NC.A",
-      "artist": "NieN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/454/14463454_20260819104843_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840506"
-    },
-    {
-      "title": "clOwn",
-      "artist": "Mischiefers",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/252/14461252_20260818183021_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602834091"
-    },
-    {
-      "title": "Get Up",
-      "artist": "Seiren 8",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/289/14461289_20260818183447_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602834392"
-    },
-    {
-      "title": "∞LIGHTSYNC",
-      "artist": "ioona",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/529/14463529_20260819111829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840862"
-    },
-    {
-      "title": "Animal Divers x ODUCHU",
-      "artist": "Animal Divers",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/297/14447297_20260813170601_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602792212"
-    },
-    {
-      "title": "Lovin′ Smooth",
-      "artist": "TRENDZ (트렌드지)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/456/14463456_20260819105044_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840515"
-    },
-    {
-      "title": "Wave (Feat. Juheon (Monsta X))",
-      "artist": "Baby Shark Boy (베이비샤크보이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/081/14464081_20260819152040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602842938"
-    },
-    {
-      "title": "In the Sky",
-      "artist": "장윤정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/436/14463436_20260819103230_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840455"
-    },
-    {
-      "title": "To The Next Page",
-      "artist": "BOY.D (보이.디 of 9와 숫자들)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/42/717/14442717_20260812093641_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602778045"
-    },
-    {
-      "title": "Feat. Junji",
-      "artist": "HEALER",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/097/14464097_20260819152242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602842975"
-    },
-    {
-      "title": "Feat. Huiii",
-      "artist": "S2AM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/59/627/14459627_20260818110725_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602827805"
-    },
-    {
-      "title": "promise made.",
-      "artist": "Aden (에이든)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/61/061/14461061_20260818180824_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602833195"
-    },
-    {
-      "title": "BiiiG",
-      "artist": "BIGBANG (빅뱅)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/127/14463127_20260819092848_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602839323"
     }
   ]
 }
