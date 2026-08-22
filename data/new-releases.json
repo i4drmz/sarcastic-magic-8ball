@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-22T07:06:35.856Z",
+  "generatedAt": "2026-08-22T13:06:42.397Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Checkmate",
+      "artist": "Seori",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/622/14469622_20260821145541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860337"
+    },
+    {
+      "title": "I am happy",
+      "artist": "H1-KEY (하이키)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/151/14467151_20260821101658_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602853162"
+    },
+    {
+      "title": "Invitation (Feat. Huta)",
+      "artist": "남유정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/160/14469160_20260821104556_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602858722"
+    },
+    {
+      "title": "Marguerite",
+      "artist": "Sondia",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/624/14469624_20260821145641_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860340"
+    },
+    {
+      "title": "feat. SUVIN",
+      "artist": "달수빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/70/084/14470084_20260821155841_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602861708"
+    },
+    {
+      "title": "Keep your first mindset",
+      "artist": "손태진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/349/14469349_20260821121045_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859306"
+    },
     {
       "title": "Together",
       "artist": "이석훈",
@@ -13,6 +49,18 @@
       "artist": "조빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/406/14467406_20260820184227_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602854412"
+    },
+    {
+      "title": "Midday (Feat. Jeong Woo)",
+      "artist": "송남현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/621/14469621_20260821145432_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860326"
+    },
+    {
+      "title": "Swing Booth",
+      "artist": "스윙부스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/903/14463903_20260819134340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602842483"
     },
     {
       "title": "Yearling Man",
@@ -253,54 +301,6 @@
       "artist": "김재중",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/155/14464155_20260819153051_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602843191"
-    },
-    {
-      "title": "Said I love you",
-      "artist": "신재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/558/14466558_20260820112444_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850769"
-    },
-    {
-      "title": "Muktji-Papa",
-      "artist": "소다미",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/540/14466540_20260820111849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850739"
-    },
-    {
-      "title": "Radio-active",
-      "artist": "Motel Saikō",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/249/14464249_20260819162130_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602843698"
-    },
-    {
-      "title": "Signal",
-      "artist": "To More Raw (투모로우)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/563/14466563_20260820112709_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850780"
-    },
-    {
-      "title": "Edge of Calm",
-      "artist": "Tiffany Young",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/457/14463457_20260819105102_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840523"
-    },
-    {
-      "title": "It's a bong.",
-      "artist": "홍성윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/091/14464091_20260819152152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602842949"
-    },
-    {
-      "title": "bgf",
-      "artist": "죠지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/141/70/680/14170680_20260819173001_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602830224"
-    },
-    {
-      "title": "Lil Quiett",
-      "artist": "Gist",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/459/14463459_20260819105353_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602840531"
     }
   ]
 }
