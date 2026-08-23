@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-08-23T00:41:23.520Z",
-  "lastUpdated": "2026-08-23T00:41:23.520Z",
+  "generatedAt": "2026-08-23T12:18:52.559Z",
+  "lastUpdated": "2026-08-23T12:18:52.559Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "hellokpop"
+    "soompi-music"
   ],
   "events": [
     {
@@ -25,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864535wpp/hwang-minhyun-announces-2026-fan-meeting-peach-blossom",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-23T00:41:23.520Z"
+      "lastUpdated": "2026-08-23T12:18:52.559Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -45,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-23T00:41:23.520Z"
+      "lastUpdated": "2026-08-23T12:18:52.559Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -65,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-23T00:41:23.520Z"
+      "lastUpdated": "2026-08-23T12:18:52.559Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -85,27 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-23T00:41:23.520Z"
-    },
-    {
-      "id": "evt-1d95ffbfd87c2e2a",
-      "type": "Festival",
-      "title": "Festival",
-      "artist": "Hello82",
-      "group": "Hello82",
-      "date": "2026-08-17",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/HPpPMDVa4AA5QNg-400x242.jpg",
-      "shortDescription": "HELLO82 FESTIVAL COMING UP",
-      "sourceUrl": "https://www.hellokpop.com/news/hello82-unveils-full-lineup-for-82world-la-a-two-day-fan-built-festival-arriving-this-october/",
-      "ticketUrl": null,
-      "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-23T00:41:23.520Z"
+      "lastUpdated": "2026-08-23T12:18:52.559Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -125,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-23T00:41:23.520Z"
+      "lastUpdated": "2026-08-23T12:18:52.559Z"
     },
     {
       "id": "evt-1df548c8e151f9eb",
@@ -145,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1861488wpp/pentagon-announces-stops-for-10th-anniversary-tour-101010",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-23T00:41:23.520Z"
+      "lastUpdated": "2026-08-23T12:18:52.559Z"
     }
   ]
 }
