@@ -1,18 +1,84 @@
 {
-  "generatedAt": "2026-08-23T07:08:34.493Z",
+  "generatedAt": "2026-08-23T13:07:23.153Z",
   "count": 50,
   "songs": [
     {
-      "title": "I feel like I'm becoming a bad person (With Moon Hee-won)",
+      "title": "feat. Tray B, MilliMax, WZN",
+      "artist": "Polodared",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/945/14469945_20260821154254_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602861317"
+    },
+    {
+      "title": "Nae Anui Geudae",
+      "artist": "정효빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/629/14469629_20260821150138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860359"
+    },
+    {
+      "title": "Bomeun Jarago Inne",
+      "artist": "승희 (오마이걸)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/70/231/14470231_20260821171200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602862032"
+    },
+    {
+      "title": "Gido",
+      "artist": "투앤비 (2NB)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/264/14469264_20260821113417_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859182"
+    },
+    {
+      "title": "Andoelkkayo",
+      "artist": "겸 (GYE0M)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/630/14469630_20260821150219_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860361"
+    },
+    {
+      "title": "Uri Seulpeumi Majuchil Ttaemyeon",
+      "artist": "제이세라",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/661/14469661_20260821151651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860486"
+    },
+    {
+      "title": "Yeoreum, Neoya",
+      "artist": "이을 (E.ul)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/907/14463907_20260819134642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602842496"
+    },
+    {
+      "title": "Deogibaunseu",
+      "artist": "Encode Mafia",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/427/14469427_20260821123139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859541"
+    },
+    {
+      "title": "Naneun Jeomjeom Byeolloin Sarami Doeneun Geot Gata (With Munhuiwon)",
       "artist": "새봄 (saevom)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/195/14467195_20260820173720_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602853357"
     },
     {
-      "title": "Do not go",
+      "title": "Gajima",
       "artist": "현서 (HYUN SEO)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/793/14464793_20260819194758_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602845668"
+    },
+    {
+      "title": "Neomani Nal Garimyeon",
+      "artist": "Haeroiki (해로이키)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/222/14467222_20260820174247_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602853416"
+    },
+    {
+      "title": "Eonniga Nae Ramyeon Meogeosseo?",
+      "artist": "서새봄냥(SEBOM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/389/14469389_20260821121759_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859389"
+    },
+    {
+      "title": "I'm so fine",
+      "artist": "지언 (JIUN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/940/14466940_20260820160538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602852451"
     },
     {
       "title": "Live Your Life",
@@ -21,7 +87,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602859228"
     },
     {
-      "title": "Parachute (Feat. Statement of Merit (CLASSy))",
+      "title": "Parachute (Feat. Myeonghyeongseo Of (CLASSy))",
       "artist": "Opius",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/626/14469626_20260821145850_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860347"
@@ -33,7 +99,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602859181"
     },
     {
-      "title": "everywhere",
+      "title": "Eodideunji",
       "artist": "Yooin(유인)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/138/01/144/13801144_20260821151034_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860123"
@@ -45,13 +111,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602860337"
     },
     {
-      "title": "I am happy",
+      "title": "Haengbokamnida",
       "artist": "H1-KEY (하이키)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/151/14467151_20260821101658_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602853162"
     },
     {
-      "title": "Beyond the Long Night",
+      "title": "Gin Bam Neomeo",
       "artist": "치아크",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/239/14469239_20260821112034_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602859100"
@@ -63,13 +129,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602860348"
     },
     {
-      "title": "What do you like about a guy like me?",
+      "title": "Na Gateun Ajeossiga Mwoga Jotago",
       "artist": "음유시인(吟遊詩人)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/628/14469628_20260821150031_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860350"
     },
     {
-      "title": "Invitation (Feat. Huta)",
+      "title": "Chodae (Feat. Iminhyeok (HUTA))",
       "artist": "남유정",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/160/14469160_20260821104556_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602858722"
@@ -87,7 +153,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602860110"
     },
     {
-      "title": "Is it the tropical night?",
+      "title": "Yeoldaeya Ttaemunnilkka",
       "artist": "셀린 (Celine)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/379/14469379_20260821121448_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602859375"
@@ -111,13 +177,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602861708"
     },
     {
-      "title": "Keep your first mindset",
+      "title": "Cheot Maeum Geudaero",
       "artist": "손태진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/349/14469349_20260821121045_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602859306"
     },
     {
-      "title": "Together",
+      "title": "Gachi",
       "artist": "이석훈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/005/14467005_20260820162609_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602852633"
@@ -129,7 +195,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602854412"
     },
     {
-      "title": "Midday (Feat. Jeong Woo)",
+      "title": "Midday (Feat. Jeongu)",
       "artist": "송남현",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/621/14469621_20260821145432_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860326"
@@ -141,31 +207,31 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602842483"
     },
     {
-      "title": "Yearling Man",
+      "title": "Yeonhaui Namja",
       "artist": "김용빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/652/14466652_20260820123931_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602850987"
     },
     {
-      "title": "Love always moves by itself",
+      "title": "Sarangeun Eonjena Honja Umjikgyeo",
       "artist": "지세희",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/646/14464646_20260819181836_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602844762"
     },
     {
-      "title": "May it be you",
+      "title": "Neoigireul",
       "artist": "hills",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/400/14466400_20260820103638_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602850296"
     },
     {
-      "title": "Thou shalt not die",
+      "title": "Jukji Malla",
       "artist": "강백수",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/280/14469280_20260821115154_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602859214"
     },
     {
-      "title": "Youth Diary!",
+      "title": "Cheongchunnilgi!",
       "artist": "김민석 (멜로망스)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/651/14466651_20260820123919_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602850984"
@@ -177,7 +243,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602850978"
     },
     {
-      "title": "my only love",
+      "title": "Nae Sarang",
       "artist": "온재은",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/281/14469281_20260821115252_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602859215"
@@ -195,7 +261,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602860324"
     },
     {
-      "title": "Island",
+      "title": "Seom",
       "artist": "본하",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/576/14469576_20260821142333_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860060"
@@ -213,7 +279,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602852434"
     },
     {
-      "title": "I think I like you",
+      "title": "Neol Joahaneun Geot Gata",
       "artist": "리디아 (Lydia)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/581/14469581_20260821142946_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860093"
@@ -235,72 +301,6 @@
       "artist": "LOO",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/364/14469364_20260821121228_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602859323"
-    },
-    {
-      "title": "Night Sea (feat. Dunkini)",
-      "artist": "아이브라운",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/417/14469417_20260821122923_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859513"
-    },
-    {
-      "title": "Last Night (Feat. Kim Jun-beom)",
-      "artist": "김토라 (Tora)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/589/14469589_20260821143642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860143"
-    },
-    {
-      "title": "Today is different from then",
-      "artist": "V.O.S",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/934/14466934_20260820160229_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602852427"
-    },
-    {
-      "title": "Rather good",
-      "artist": "커피소년",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/657/14464657_20260819182459_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602844811"
-    },
-    {
-      "title": "Rack",
-      "artist": "MASON HOME",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/171/14464171_20260819153952_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602843282"
-    },
-    {
-      "title": "Bloody Paradise",
-      "artist": "엔하이픈 (ENHYPEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/048/14469048_20260821094619_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602858445"
-    },
-    {
-      "title": "i don't think I love you.",
-      "artist": "니브 (NIve)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/450/14466450_20260820105930_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850496"
-    },
-    {
-      "title": "Pummist",
-      "artist": "헤일로 (h.a.l.o)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/456/14466456_20260820110139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850516"
-    },
-    {
-      "title": "One of Your Boys",
-      "artist": "Eddie and the Bricks",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/927/14460927_20260818174350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602832502"
-    },
-    {
-      "title": "Piece of My Life",
-      "artist": "우수 (Woosoo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/458/14466458_20260820110248_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850532"
-    },
-    {
-      "title": "Rabbits and turtles",
-      "artist": "김중연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/150/14467150_20260820172236_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602853146"
     }
   ]
 }
