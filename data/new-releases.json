@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-23T02:06:31.020Z",
+  "generatedAt": "2026-08-23T07:08:34.493Z",
   "count": 50,
   "songs": [
+    {
+      "title": "I feel like I'm becoming a bad person (With Moon Hee-won)",
+      "artist": "새봄 (saevom)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/195/14467195_20260820173720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602853357"
+    },
+    {
+      "title": "Do not go",
+      "artist": "현서 (HYUN SEO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/793/14464793_20260819194758_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602845668"
+    },
+    {
+      "title": "Live Your Life",
+      "artist": "Whiteusedsocks",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/284/14469284_20260821115720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859228"
+    },
+    {
+      "title": "Parachute (Feat. Statement of Merit (CLASSy))",
+      "artist": "Opius",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/626/14469626_20260821145850_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860347"
+    },
+    {
+      "title": "7:32 PM",
+      "artist": "TOVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/263/14469263_20260821113355_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859181"
+    },
+    {
+      "title": "everywhere",
+      "artist": "Yooin(유인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/138/01/144/13801144_20260821151034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860123"
+    },
     {
       "title": "Checkmate",
       "artist": "Seori",
@@ -15,6 +51,24 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602853162"
     },
     {
+      "title": "Beyond the Long Night",
+      "artist": "치아크",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/239/14469239_20260821112034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859100"
+    },
+    {
+      "title": "Destroy Me",
+      "artist": "prettylittleiris",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/627/14469627_20260821145918_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860348"
+    },
+    {
+      "title": "What do you like about a guy like me?",
+      "artist": "음유시인(吟遊詩人)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/628/14469628_20260821150031_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860350"
+    },
+    {
       "title": "Invitation (Feat. Huta)",
       "artist": "남유정",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/160/14469160_20260821104556_500.jpg",
@@ -25,6 +79,30 @@
       "artist": "Sondia",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/624/14469624_20260821145641_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860340"
+    },
+    {
+      "title": "Will You Take Me To The Moon",
+      "artist": "아웃오브캠퍼스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/584/14469584_20260821143247_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860110"
+    },
+    {
+      "title": "Is it the tropical night?",
+      "artist": "셀린 (Celine)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/379/14469379_20260821121448_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859375"
+    },
+    {
+      "title": "Summertime",
+      "artist": "The Joyfools (조이풀스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/577/14469577_20260821142428_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860062"
+    },
+    {
+      "title": "Feat. veanii, sc4f",
+      "artist": "wurii (우리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/404/14469404_20260821122614_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859473"
     },
     {
       "title": "feat. SUVIN",
@@ -223,84 +301,6 @@
       "artist": "김중연",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/150/14467150_20260820172236_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602853146"
-    },
-    {
-      "title": "The Bat",
-      "artist": "허클베리핀 (Huckleberryfinn)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/054/14467054_20260820163818_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602852745"
-    },
-    {
-      "title": "Merseyside",
-      "artist": "산보",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/434/14466434_20260820105450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850409"
-    },
-    {
-      "title": "With. B JYUN., huka",
-      "artist": "Minbroskii",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/441/14466441_20260820105851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850436"
-    },
-    {
-      "title": "Manphasickzuck",
-      "artist": "실리카겔",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/227/14464227_20260819160425_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602843618"
-    },
-    {
-      "title": "Bish Bash Bosh",
-      "artist": "미미 (오마이걸)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/074/14464074_20260819151847_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602842923"
-    },
-    {
-      "title": "feat.homezone",
-      "artist": "moonpil",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/874/14460874_20260818173142_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602832205"
-    },
-    {
-      "title": "Farewell Season",
-      "artist": "임가영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/439/14466439_20260820105651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850433"
-    },
-    {
-      "title": "space you left",
-      "artist": "DANY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/645/14464645_20260819181642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602844761"
-    },
-    {
-      "title": "I shouldn't have confessed",
-      "artist": "양하진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/935/14466935_20260820160239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602852429"
-    },
-    {
-      "title": "It hurts and hurts",
-      "artist": "허진호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/653/14464653_20260819182359_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602844786"
-    },
-    {
-      "title": "Beach volleyball",
-      "artist": "Toru",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/437/14466437_20260820105526_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850431"
-    },
-    {
-      "title": "Let Me Love You",
-      "artist": "Tiger JK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/239/14464239_20260819160940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602843650"
-    },
-    {
-      "title": "Tonight",
-      "artist": "김재중",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/155/14464155_20260819153051_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602843191"
     }
   ]
 }
