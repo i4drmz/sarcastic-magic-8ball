@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-08-24T07:34:26.246Z",
+  "generatedAt": "2026-08-24T13:27:53.743Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Blingy",
+      "artist": "NCT 127",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/40/766/14440766_20260824143814_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602771593"
+    },
+    {
+      "title": "BORN DIRE",
+      "artist": "ALPHA DRIVE ONE (알파드라이브원)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/136/24/538/13624538_20260824132802_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602871969"
+    },
+    {
+      "title": "SUN KISS",
+      "artist": "TUIDE (튜이드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/644/14473644_20260824114752_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602872568"
+    },
+    {
+      "title": "SAUCIN’",
+      "artist": "NEXZ (넥스지)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/715/14469715_20260821152501_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602860633"
+    },
+    {
+      "title": "Feat. punchnello",
+      "artist": "한빈 (템페스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/933/14466933_20260820155948_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602852425"
+    },
+    {
+      "title": "Nationwide Faldo",
+      "artist": "은가은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/446/14473446_20260824093341_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602871842"
+    },
+    {
+      "title": "Someday we",
+      "artist": "김재민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/448/14473448_20260824093600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602871859"
+    },
+    {
+      "title": "ON DND",
+      "artist": "임영민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/641/14466641_20260820123048_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602850960"
+    },
     {
       "title": "Nevertheless, our name is",
       "artist": "달담",
@@ -13,6 +61,12 @@
       "artist": "노브레인 (NoBrain)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/656/14469656_20260821151400_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860474"
+    },
+    {
+      "title": "Redbull (Feat. Choi Blue)",
+      "artist": "TEAM도곡",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/446/14469446_20260821123802_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602859587"
     },
     {
       "title": "City Radio",
@@ -247,60 +301,6 @@
       "artist": "셀린 (Celine)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/379/14469379_20260821121448_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602859375"
-    },
-    {
-      "title": "Summertime",
-      "artist": "The Joyfools (조이풀스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/577/14469577_20260821142428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860062"
-    },
-    {
-      "title": "Feat. veanii, sc4f",
-      "artist": "wurii (우리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/404/14469404_20260821122614_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859473"
-    },
-    {
-      "title": "feat. SUVIN",
-      "artist": "달수빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/70/084/14470084_20260821155841_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602861708"
-    },
-    {
-      "title": "Keep your first mindset",
-      "artist": "손태진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/349/14469349_20260821121045_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859306"
-    },
-    {
-      "title": "Together",
-      "artist": "이석훈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/005/14467005_20260820162609_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602852633"
-    },
-    {
-      "title": "Burning",
-      "artist": "조빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/406/14467406_20260820184227_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602854412"
-    },
-    {
-      "title": "Midday (Feat. Jeong Woo)",
-      "artist": "송남현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/621/14469621_20260821145432_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860326"
-    },
-    {
-      "title": "Swing Booth",
-      "artist": "스윙부스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/903/14463903_20260819134340_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602842483"
-    },
-    {
-      "title": "Yearling Man",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/652/14466652_20260820123931_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850987"
     }
   ]
 }
