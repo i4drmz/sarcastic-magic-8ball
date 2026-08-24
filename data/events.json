@@ -1,13 +1,34 @@
 {
-  "generatedAt": "2026-08-24T06:36:36.732Z",
-  "lastUpdated": "2026-08-24T06:36:36.732Z",
+  "generatedAt": "2026-08-24T12:26:19.824Z",
+  "lastUpdated": "2026-08-24T12:26:19.824Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "billboard",
+    "nme-music",
     "hellokpop"
   ],
   "events": [
+    {
+      "id": "evt-de79ef971ac2a522",
+      "type": "Concert",
+      "title": "European Tour",
+      "artist": "BLACKPINK",
+      "group": "BLACKPINK",
+      "date": "2026-08-24",
+      "time": null,
+      "venue": "TBA",
+      "city": "London",
+      "country": "GB",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2026/08/live-kevin-parker.jpg",
+      "shortDescription": "BLACKPINK EUROPEAN TOUR COMING UP",
+      "sourceUrl": "https://www.nme.com/news/music/tame-impala-announces-2027-uk-and-european-tour-with-wet-leg-3964287?utm_source=rss&utm_medium=rss&utm_campaign=tame-impala-announces-2027-uk-and-european-tour-with-wet-leg",
+      "ticketUrl": null,
+      "source": "rss:nme-music",
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
+    },
     {
       "id": "evt-39a4be96a6287d44",
       "type": "Concert",
@@ -26,7 +47,7 @@
       "sourceUrl": "https://www.billboard.com/music/concerts/the-wallflowers-australian-tour-1236322645/",
       "ticketUrl": null,
       "source": "rss:billboard",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -46,7 +67,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     },
     {
       "id": "evt-f9ae190682c17fa4",
@@ -66,7 +87,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864535wpp/hwang-minhyun-announces-2026-fan-meeting-peach-blossom",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -86,7 +107,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -106,7 +127,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -126,7 +147,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     },
     {
       "id": "evt-1d95ffbfd87c2e2a",
@@ -146,7 +167,7 @@
       "sourceUrl": "https://www.hellokpop.com/news/hello82-unveils-full-lineup-for-82world-la-a-two-day-fan-built-festival-arriving-this-october/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     },
     {
       "id": "evt-1cb327712456269e",
@@ -166,7 +187,7 @@
       "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-24T06:36:36.732Z"
+      "lastUpdated": "2026-08-24T12:26:19.824Z"
     }
   ]
 }
