@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-08-25T07:15:49.961Z",
+  "generatedAt": "2026-08-25T13:25:30.977Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Another Love (Prod. Yoon Jong-shin)",
+      "artist": "이창섭",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/257/14474257_20260824154238_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602874841"
+    },
+    {
+      "title": "8",
+      "artist": "PATEKO (파테코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/204/14474204_20260824153728_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602874614"
+    },
+    {
+      "title": "HOP",
+      "artist": "ALL(H)OURS(올아워즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/245/14474245_20260824154153_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602874769"
+    },
+    {
+      "title": "010-Department to Youth",
+      "artist": "김뮤지엄 (KIMMUSEUM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/499/14473499_20260824104338_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602871999"
+    },
+    {
+      "title": "Spear",
+      "artist": "포레스텔라(Forestella)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/47/806/14447806_20260813184648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602793545"
+    },
+    {
+      "title": "Because the only thing I can do is break up",
+      "artist": "정이한 (더 넛츠)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/180/14474180_20260824153519_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602874447"
+    },
+    {
+      "title": "Feat. shaltt",
+      "artist": "entoy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/738/14473738_20260824122210_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602873025"
+    },
+    {
+      "title": "Buddy",
+      "artist": "유다연 (YOU DAYEON)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/173/14469173_20260821104951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602858754"
+    },
+    {
+      "title": "Girls' Night",
+      "artist": "MW:MEU (뮤)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/501/14473501_20260824104439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602872002"
+    },
+    {
+      "title": "Feat. Yung Blesh",
+      "artist": "YF",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/900/14473900_20260824142154_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602873506"
+    },
+    {
+      "title": "Don't get along without me",
+      "artist": "민하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/275/14474275_20260824154438_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602874959"
+    },
+    {
+      "title": "Spirits once",
+      "artist": "이재희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/657/14473657_20260824115525_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602872603"
+    },
+    {
+      "title": "You have to.",
+      "artist": "Northfacegawd",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/323/14474323_20260824154732_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602875039"
+    },
+    {
+      "title": "Clumsy Sailing Journal",
+      "artist": "MY:RAKL (미라클)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/502/14473502_20260824104618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602872003"
+    },
     {
       "title": "YORU CRUISING",
       "artist": "디핵 (D-Hack)",
@@ -217,90 +301,6 @@
       "artist": "정효빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/629/14469629_20260821150138_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860359"
-    },
-    {
-      "title": "People you want to spend the rest of your life",
-      "artist": "리디아 (Lydia)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/67/223/14467223_20260820174349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602853445"
-    },
-    {
-      "title": "One way (Feat. Sujin)",
-      "artist": "JAMIN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/957/14466957_20260820160659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602852511"
-    },
-    {
-      "title": "If only I'd been a little more honest that day",
-      "artist": "대건",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/279/14469279_20260821115052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859207"
-    },
-    {
-      "title": "Gold and silver bars",
-      "artist": "27RING",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/396/14469396_20260821122311_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859426"
-    },
-    {
-      "title": "feat. PiLO",
-      "artist": "Stupinuts",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/411/14469411_20260821122731_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859492"
-    },
-    {
-      "title": "Bloodstained Serenade",
-      "artist": "Monday Feeling",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/236/14469236_20260821111832_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859090"
-    },
-    {
-      "title": "Spring is growing.",
-      "artist": "승희 (오마이걸)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/70/231/14470231_20260821171200_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602862032"
-    },
-    {
-      "title": "Why I Met You",
-      "artist": "모닝커피 (Morning Coffee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/253/14469253_20260821112652_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859136"
-    },
-    {
-      "title": "The Summer Gap",
-      "artist": "eJe",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/659/14469659_20260821151500_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860484"
-    },
-    {
-      "title": "PRAYER",
-      "artist": "투앤비 (2NB)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/264/14469264_20260821113417_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859182"
-    },
-    {
-      "title": "Can't we?",
-      "artist": "겸 (GYE0M)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/630/14469630_20260821150219_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860361"
-    },
-    {
-      "title": "When our sorrows meet,",
-      "artist": "제이세라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/661/14469661_20260821151651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860486"
-    },
-    {
-      "title": "Summer, it's you",
-      "artist": "이을 (E.ul)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/63/907/14463907_20260819134642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602842496"
-    },
-    {
-      "title": "Duggy Bounce",
-      "artist": "Encode Mafia",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/427/14469427_20260821123139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859541"
     }
   ]
 }
