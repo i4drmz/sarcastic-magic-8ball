@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-08-25T06:28:10.739Z",
-  "lastUpdated": "2026-08-25T06:28:10.739Z",
+  "generatedAt": "2026-08-25T12:27:01.838Z",
+  "lastUpdated": "2026-08-25T12:27:01.838Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "nme"
   ],
   "events": [
+    {
+      "id": "evt-df9e1f7e1e26ce32",
+      "type": "Festival",
+      "title": "2026 Busan International Film Festival Announces 3 New Korean Dramas To Premiere At Event",
+      "artist": null,
+      "group": null,
+      "date": "2026-08-25",
+      "time": null,
+      "venue": "TBA",
+      "city": "Busan",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/25004159/biff-02.jpg",
+      "shortDescription": "The 31st Busan International Film Festival (BIFF) has three highly anticipated Korean drama series that will premiere at this year’s festival! On August 25, BIFF that its “On Screen” section will showcase Lee Jae Wook and Go Min Si’s Net…",
+      "sourceUrl": "https://www.soompi.com/article/1865531wpp/2026-busan-international-film-festival-announces-3-new-korean-dramas-to-premiere-at-event",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
+    },
     {
       "id": "evt-0c189eac0e27d31c",
       "type": "Exhibition",
@@ -25,7 +46,47 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/nct-127-unveil-title-track-blingy-at-comeback-live-party",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-25T06:28:10.739Z"
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
+    },
+    {
+      "id": "evt-8256b09418e76ad0",
+      "type": "Pop-up Store",
+      "title": "Pop-up",
+      "artist": "2PM",
+      "group": "2PM",
+      "date": "2026-08-25",
+      "time": null,
+      "venue": "TBA",
+      "city": "London",
+      "country": "GB",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2025/06/NMEAR_NME-GLASTO-2025_Pulp_Pyramid_AFord-624394.jpg",
+      "shortDescription": "2PM POP-UP COMING UP",
+      "sourceUrl": "https://www.nme.com/news/music/pulp-announce-manchester-pop-up-pub-ahead-of-massive-wythenshawe-park-show-3964606?utm_source=rss&utm_medium=rss&utm_campaign=pulp-announce-manchester-pop-up-pub-ahead-of-massive-wythenshawe-park-show",
+      "ticketUrl": null,
+      "source": "rss:nme",
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
+    },
+    {
+      "id": "evt-86ce62d6bc5279cd",
+      "type": "Concert",
+      "title": "World Tour “FULL MOON”",
+      "artist": "ONEUS",
+      "group": "ONEUS",
+      "date": "2026-08-25",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/25045704/oneus-5.jpg",
+      "shortDescription": "ONEUS WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -45,7 +106,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-25T06:28:10.739Z"
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -65,7 +126,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-25T06:28:10.739Z"
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -85,7 +146,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-25T06:28:10.739Z"
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -105,27 +166,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-25T06:28:10.739Z"
-    },
-    {
-      "id": "evt-1cb327712456269e",
-      "type": "Concert",
-      "title": "Solo Concert",
-      "artist": "Zico",
-      "group": "Zico",
-      "date": "2026-08-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "Hong Kong",
-      "country": "HK",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/12001421/zico-2026-1.jpg",
-      "shortDescription": "ZICO SOLO CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1862360wpp/zico-announces-cancellation-of-solo-concert-in-hong-kong",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-25T06:28:10.739Z"
+      "lastUpdated": "2026-08-25T12:27:01.838Z"
     }
   ]
 }
