@@ -1,12 +1,52 @@
 {
-  "generatedAt": "2026-08-26T00:40:12.304Z",
-  "lastUpdated": "2026-08-26T00:40:12.304Z",
+  "generatedAt": "2026-08-26T06:29:57.198Z",
+  "lastUpdated": "2026-08-26T06:29:57.198Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-c149905a18995de7",
+      "type": "Exhibition",
+      "title": "Exhibition “s Jang Wonyoung And An Yujin To Hold”",
+      "artist": "IVE",
+      "group": "IVE",
+      "date": "2026-08-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "IVE EXHIBITION COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/ives-jang-wonyoung-and-an-yujin-to-hold-an-young-in-seoul-exhibition",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
+    },
+    {
+      "id": "evt-a47923ffd0f5b31c",
+      "type": "Concert",
+      "title": "Solo Concert “SUMMER SCENE”",
+      "artist": "JUNIEL",
+      "group": "JUNIEL",
+      "date": "2026-08-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "JUNIEL SOLO CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/juniel-to-hold-solo-concert-summer-scene-on-september-19",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
+    },
     {
       "id": "evt-df9e1f7e1e26ce32",
       "type": "Festival",
@@ -25,27 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865531wpp/2026-busan-international-film-festival-announces-3-new-korean-dramas-to-premiere-at-event",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T00:40:12.304Z"
-    },
-    {
-      "id": "evt-0c189eac0e27d31c",
-      "type": "Exhibition",
-      "title": "Concert “Blingy”",
-      "artist": "NCT 127",
-      "group": "NCT 127",
-      "date": "2026-08-25",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "NCT 127 CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/nct-127-unveil-title-track-blingy-at-comeback-live-party",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-26T00:40:12.304Z"
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -65,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T00:40:12.304Z"
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -84,8 +104,8 @@
       "shortDescription": "BIGBANG is celebrating their 20th anniversary with a bang! From August 21 to 23, BIGBANG kicked off their 2026-2027 world tour “XX : COSMOS” at Goyang Stadium. The Goyang concert began with a thunderous start as they pulled out the big g…",
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T00:40:12.304Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -105,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T00:40:12.304Z"
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -125,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T00:40:12.304Z"
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -145,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T00:40:12.304Z"
+      "lastUpdated": "2026-08-26T06:29:57.198Z"
     }
   ]
 }
