@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T06:29:57.198Z",
-  "lastUpdated": "2026-08-26T06:29:57.198Z",
+  "generatedAt": "2026-08-26T19:30:05.031Z",
+  "lastUpdated": "2026-08-26T19:30:05.031Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/ives-jang-wonyoung-and-an-yujin-to-hold-an-young-in-seoul-exhibition",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     },
     {
       "id": "evt-a47923ffd0f5b31c",
@@ -45,7 +45,27 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/juniel-to-hold-solo-concert-summer-scene-on-september-19",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
+    },
+    {
+      "id": "evt-cf3faa61f2e0e63c",
+      "type": "Concert",
+      "title": "World Tour “STEAL THE WIND”",
+      "artist": "TXT",
+      "group": "TXT",
+      "date": "2026-08-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/08/26081044/TXT_de739b.jpeg",
+      "shortDescription": "TXT WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     },
     {
       "id": "evt-df9e1f7e1e26ce32",
@@ -65,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865531wpp/2026-busan-international-film-festival-announces-3-new-korean-dramas-to-premiere-at-event",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -85,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -105,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -125,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -145,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -165,7 +185,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T06:29:57.198Z"
+      "lastUpdated": "2026-08-26T19:30:05.031Z"
     }
   ]
 }
