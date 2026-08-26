@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-08-26T02:05:27.230Z",
+  "generatedAt": "2026-08-26T07:15:28.274Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Monday is back",
+      "artist": "소각소각",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/499/14478499_20260825143341_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602887094"
+    },
+    {
+      "title": "BABO",
+      "artist": "Rohann",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/836/14474836_20260824171109_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602876430"
+    },
+    {
+      "title": "Choo-Choo",
+      "artist": "다브다 (Dabda)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/934/14474934_20260824173841_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602876642"
+    },
+    {
+      "title": "Issues",
+      "artist": "ROSESIA (로즈시아)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/502/14478502_20260825143444_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602887100"
+    },
+    {
+      "title": "Anticipation",
+      "artist": "김나경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/535/14478535_20260825144134_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602887212"
+    },
+    {
+      "title": "Barabab (Prod.by Geun-tae Park)",
+      "artist": "이예성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/77/906/14477906_20260825161017_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602885313"
+    },
+    {
+      "title": "Feat. Luísa Sonza",
+      "artist": "엔하이픈 (ENHYPEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/691/14480691_20260825185203_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602895712"
+    },
     {
       "title": "Another Love (Prod. Yoon Jong-shin)",
       "artist": "이창섭",
@@ -15,6 +57,18 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602874614"
     },
     {
+      "title": "Autumn bossa nova",
+      "artist": "한림(Hanlim)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/532/14478532_20260825144034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602887197"
+    },
+    {
+      "title": "Complicate",
+      "artist": "UNXL(언오피셜)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/450/14474450_20260824161947_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602875686"
+    },
+    {
       "title": "HOP",
       "artist": "ALL(H)OURS(올아워즈)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/245/14474245_20260824154153_500.jpg",
@@ -25,6 +79,36 @@
       "artist": "김뮤지엄 (KIMMUSEUM)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/499/14473499_20260824104338_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602871999"
+    },
+    {
+      "title": "Confetti",
+      "artist": "이영인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/469/14478469_20260825142743_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602886960"
+    },
+    {
+      "title": "No World Day",
+      "artist": "김건",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/457/14474457_20260824162247_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602875714"
+    },
+    {
+      "title": "feat. HWI",
+      "artist": "LOBOTOME",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/455/14478455_20260825142517_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602886924"
+    },
+    {
+      "title": "Light Cluster",
+      "artist": "난파란",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/293/14478293_20260825135947_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602886397"
+    },
+    {
+      "title": "Today (Feat. Jiyoung Lee)",
+      "artist": "주나영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/432/14474432_20260824161738_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602875563"
     },
     {
       "title": "Spear",
@@ -217,90 +301,6 @@
       "artist": "NEXZ (넥스지)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/715/14469715_20260821152501_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602860633"
-    },
-    {
-      "title": "Feat. punchnello",
-      "artist": "한빈 (템페스트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/933/14466933_20260820155948_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602852425"
-    },
-    {
-      "title": "Nationwide Faldo",
-      "artist": "은가은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/446/14473446_20260824093341_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602871842"
-    },
-    {
-      "title": "Someday we",
-      "artist": "김재민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/448/14473448_20260824093600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602871859"
-    },
-    {
-      "title": "ON DND",
-      "artist": "임영민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/641/14466641_20260820123048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602850960"
-    },
-    {
-      "title": "Nevertheless, our name is",
-      "artist": "달담",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/392/14469392_20260821122200_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859415"
-    },
-    {
-      "title": "Americano",
-      "artist": "노브레인 (NoBrain)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/656/14469656_20260821151400_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860474"
-    },
-    {
-      "title": "Redbull (Feat. Choi Blue)",
-      "artist": "TEAM도곡",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/446/14469446_20260821123802_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602859587"
-    },
-    {
-      "title": "City Radio",
-      "artist": "희규",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/635/14469635_20260821150958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860394"
-    },
-    {
-      "title": "Incontinence",
-      "artist": "박연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/640/14469640_20260821151052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860415"
-    },
-    {
-      "title": "JUNGWON Ver.",
-      "artist": "엔하이픈 (ENHYPEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/410/14473410_20260824091147_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602871717"
-    },
-    {
-      "title": "Modena",
-      "artist": "두번째달",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/70/162/14470162_20260821161741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602861835"
-    },
-    {
-      "title": "FYREWRKS",
-      "artist": "정준혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/66/921/14466921_20260820155319_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602852314"
-    },
-    {
-      "title": "feat. Tray B, MilliMax, WZN",
-      "artist": "Polodared",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/945/14469945_20260821154254_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602861317"
-    },
-    {
-      "title": "You in me",
-      "artist": "정효빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/629/14469629_20260821150138_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602860359"
     }
   ]
 }
