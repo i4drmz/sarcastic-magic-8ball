@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-08-25T18:23:58.806Z",
-  "lastUpdated": "2026-08-25T18:23:58.806Z",
+  "generatedAt": "2026-08-26T00:40:12.304Z",
+  "lastUpdated": "2026-08-26T00:40:12.304Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop",
-    "nme-music"
+    "allkpop"
   ],
   "events": [
     {
@@ -26,7 +25,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865531wpp/2026-busan-international-film-festival-announces-3-new-korean-dramas-to-premiere-at-event",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
+      "lastUpdated": "2026-08-26T00:40:12.304Z"
     },
     {
       "id": "evt-0c189eac0e27d31c",
@@ -46,27 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/nct-127-unveil-title-track-blingy-at-comeback-live-party",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
-    },
-    {
-      "id": "evt-8256b09418e76ad0",
-      "type": "Pop-up Store",
-      "title": "Pop-up",
-      "artist": "2PM",
-      "group": "2PM",
-      "date": "2026-08-25",
-      "time": null,
-      "venue": "TBA",
-      "city": "London",
-      "country": "GB",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.nme.com/wp-content/uploads/2025/06/NMEAR_NME-GLASTO-2025_Pulp_Pyramid_AFord-624394.jpg",
-      "shortDescription": "2PM POP-UP COMING UP",
-      "sourceUrl": "https://www.nme.com/news/music/pulp-announce-manchester-pop-up-pub-ahead-of-massive-wythenshawe-park-show-3964606?utm_source=rss&utm_medium=rss&utm_campaign=pulp-announce-manchester-pop-up-pub-ahead-of-massive-wythenshawe-park-show",
-      "ticketUrl": null,
-      "source": "rss:nme-music",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
+      "lastUpdated": "2026-08-26T00:40:12.304Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -86,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
+      "lastUpdated": "2026-08-26T00:40:12.304Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -106,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
+      "lastUpdated": "2026-08-26T00:40:12.304Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -126,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
+      "lastUpdated": "2026-08-26T00:40:12.304Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -146,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
+      "lastUpdated": "2026-08-26T00:40:12.304Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -166,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-25T18:23:58.806Z"
+      "lastUpdated": "2026-08-26T00:40:12.304Z"
     }
   ]
 }
