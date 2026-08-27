@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T19:30:05.031Z",
-  "lastUpdated": "2026-08-26T19:30:05.031Z",
+  "generatedAt": "2026-08-27T17:04:18.663Z",
+  "lastUpdated": "2026-08-27T17:04:18.663Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -8,44 +8,44 @@
   ],
   "events": [
     {
-      "id": "evt-c149905a18995de7",
-      "type": "Exhibition",
-      "title": "Exhibition “s Jang Wonyoung And An Yujin To Hold”",
-      "artist": "IVE",
-      "group": "IVE",
-      "date": "2026-08-26",
+      "id": "evt-18c71f3a675c77df",
+      "type": "Festival",
+      "title": "Festival “Grand Mint Festival”",
+      "artist": "Lee Sora",
+      "group": "Lee Sora",
+      "date": "2026-08-27",
       "time": null,
       "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
+      "city": "TBA",
+      "country": "XX",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "IVE EXHIBITION COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/ives-jang-wonyoung-and-an-yujin-to-hold-an-young-in-seoul-exhibition",
+      "shortDescription": "LEE SORA FESTIVAL COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/lee-sora-returns-to-grand-mint-festival-after-12-years",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     },
     {
-      "id": "evt-a47923ffd0f5b31c",
+      "id": "evt-220f894a9942d437",
       "type": "Concert",
-      "title": "Solo Concert “SUMMER SCENE”",
-      "artist": "JUNIEL",
-      "group": "JUNIEL",
-      "date": "2026-08-26",
+      "title": "World Tour “Steal the Wind”",
+      "artist": "TXT",
+      "group": "TXT",
+      "date": "2026-08-27",
       "time": null,
       "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
+      "city": "TBA",
+      "country": "XX",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "JUNIEL SOLO CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/juniel-to-hold-solo-concert-summer-scene-on-september-19",
+      "shortDescription": "TXT WORLD TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/txt-announce-fifth-world-tour-steal-the-wind-starting-november-13",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -65,27 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
-    },
-    {
-      "id": "evt-df9e1f7e1e26ce32",
-      "type": "Festival",
-      "title": "2026 Busan International Film Festival Announces 3 New Korean Dramas To Premiere At Event",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-25",
-      "time": null,
-      "venue": "TBA",
-      "city": "Busan",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/25004159/biff-02.jpg",
-      "shortDescription": "The 31st Busan International Film Festival (BIFF) has three highly anticipated Korean drama series that will premiere at this year’s festival! On August 25, BIFF that its “On Screen” section will showcase Lee Jae Wook and Go Min Si’s Net…",
-      "sourceUrl": "https://www.soompi.com/article/1865531wpp/2026-busan-international-film-festival-announces-3-new-korean-dramas-to-premiere-at-event",
-      "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -105,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -125,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -145,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -165,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -185,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-26T19:30:05.031Z"
+      "lastUpdated": "2026-08-27T17:04:18.663Z"
     }
   ]
 }
