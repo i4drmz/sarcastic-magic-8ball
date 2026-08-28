@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-08-27T22:27:03.053Z",
+  "generatedAt": "2026-08-28T11:33:49.190Z",
   "count": 50,
   "songs": [
+    {
+      "title": "FALLEN ANGEL",
+      "artist": "제니 (JENNIE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/504/14491504_20260827170648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930028"
+    },
+    {
+      "title": "109",
+      "artist": "이석훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/900/14486900_20260826113951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602915612"
+    },
+    {
+      "title": "CAN′T STOP",
+      "artist": "M1NU",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/928/14490928_20260827105940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928144"
+    },
+    {
+      "title": "feat. dj wegun",
+      "artist": "수퍼비 (SUPERBEE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/458/14491458_20260827164851_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929921"
+    },
+    {
+      "title": "Behind the Breakup",
+      "artist": "FIL (필)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/914/14490914_20260827105835_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928101"
+    },
+    {
+      "title": "SWAG",
+      "artist": "WAYF BOYS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/646/14491646_20260827174912_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930690"
+    },
+    {
+      "title": "Remedy",
+      "artist": "Kik5o",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/389/14491389_20260827154353_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929584"
+    },
+    {
+      "title": "Same Book",
+      "artist": "알틴비(Artin B)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/900/14490900_20260827105728_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928049"
+    },
+    {
+      "title": "WaiT",
+      "artist": "iii(아이아이아이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/676/14491676_20260827175932_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930759"
+    },
+    {
+      "title": "Boing!",
+      "artist": "빈세진(BINSEJIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/503/14473503_20260824110149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602872006"
+    },
+    {
+      "title": "Original Version",
+      "artist": "김창열",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/972/14490972_20260827111617_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928253"
+    },
+    {
+      "title": "feat. MILLI",
+      "artist": "0WAVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/017/14491017_20260827114651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928447"
+    },
+    {
+      "title": "Black Rose",
+      "artist": "LIPSTICKERZ",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/569/14491569_20260827171942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930293"
+    },
+    {
+      "title": "All I Need (Feat. Yooin (lure)",
+      "artist": "노르웨이 숲",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/134/00/145/13400145_20260825111320_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602876526"
+    },
+    {
+      "title": "my celine",
+      "artist": "담예 (DAMYE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/883/14490883_20260827104542_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602927957"
+    },
+    {
+      "title": "PADO",
+      "artist": "취향상점 (Tasty Shop)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/577/14491577_20260827172546_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930331"
+    },
+    {
+      "title": "Flamingosis Remix",
+      "artist": "Red Velvet (레드벨벳)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/460/14491460_20260827165122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929929"
+    },
+    {
+      "title": "Shoring",
+      "artist": "이소나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/451/14491451_20260827164439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929898"
+    },
+    {
+      "title": "Let me groove",
+      "artist": "NiceKatchy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/940/14490940_20260827110549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928170"
+    },
+    {
+      "title": "Tropical",
+      "artist": "굿굿",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/885/14490885_20260827104928_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602927962"
+    },
     {
       "title": "I should have told you it was okay.",
       "artist": "소수빈",
@@ -15,10 +135,58 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602915948"
     },
     {
+      "title": "Hypocritical Dancer",
+      "artist": "DENY(디나이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/400/14491400_20260827155129_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929623"
+    },
+    {
+      "title": "What's Going On?",
+      "artist": "준성 (JunSung)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/77/143/14477143_20260825092538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602882833"
+    },
+    {
       "title": "KoK",
       "artist": "혁오 (HYUKOH)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/418/14480418_20260825175601_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602894455"
+    },
+    {
+      "title": "YOURS NOT YOURS",
+      "artist": "Shinjae Kang (강신재)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/035/14491035_20260827120021_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928499"
+    },
+    {
+      "title": "Above the Blue Sea",
+      "artist": "INDOW",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/967/14490967_20260827111520_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928246"
+    },
+    {
+      "title": "Blood Game",
+      "artist": "안시우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/938/14486938_20260826114826_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602915696"
+    },
+    {
+      "title": "A kind heart resembles light.",
+      "artist": "유호 (YOO HO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/884/14490884_20260827104659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602927960"
+    },
+    {
+      "title": "walk this street",
+      "artist": "란 (RAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/580/14491580_20260827172659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930340"
+    },
+    {
+      "title": "Movement of the sphere",
+      "artist": "지베뉴 (Zivenew)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/176/14491176_20260827134839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602928890"
     },
     {
       "title": "Noensel",
@@ -133,174 +301,6 @@
       "artist": "24 Flakko",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/720/14487720_20260826143802_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602917997"
-    },
-    {
-      "title": "Fly Away",
-      "artist": "윤혜미",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/013/14487013_20260826120713_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602915937"
-    },
-    {
-      "title": "Fool",
-      "artist": "스트레이 (The Stray)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/789/14478789_20260825152941_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602888183"
-    },
-    {
-      "title": "Sign",
-      "artist": "Brick (브릭)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/79/411/14479411_20260825162014_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602890535"
-    },
-    {
-      "title": "If you call it",
-      "artist": "휴이 (Huie)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/79/449/14479449_20260825162406_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602890651"
-    },
-    {
-      "title": "Dead Ahead",
-      "artist": "Vassline",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/040/14487040_20260826121031_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602916061"
-    },
-    {
-      "title": "After losing you,",
-      "artist": "노아주다 (noahjooda)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/747/14487747_20260826144719_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918054"
-    },
-    {
-      "title": "Shuttle bus (Feat. Rumgirl of Deadchant)",
-      "artist": "그린베이지 (greenbeige)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/742/14487742_20260826144148_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918044"
-    },
-    {
-      "title": "Even if you know that love is over",
-      "artist": "비비안 (BBAHN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/741/14487741_20260826144047_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918042"
-    },
-    {
-      "title": "Hello, my summer.",
-      "artist": "프리멜로",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/825/14474825_20260824170433_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602876406"
-    },
-    {
-      "title": "Rock 'n' roll twine",
-      "artist": "서울부인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/79/477/14479477_20260825162713_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602890770"
-    },
-    {
-      "title": "Prod by Tmlm",
-      "artist": "HWAN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/748/14487748_20260826144830_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918056"
-    },
-    {
-      "title": "Without Wings",
-      "artist": "SF9",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/665/14480665_20260825184552_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602895632"
-    },
-    {
-      "title": "I'M more < 3",
-      "artist": "차우 (Chawoo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/926/14474926_20260824173223_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602876602"
-    },
-    {
-      "title": "feat. Leellamarz",
-      "artist": "Hukky Shibaseki",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/77/727/14477727_20260825120817_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602884699"
-    },
-    {
-      "title": "bad problem",
-      "artist": "나플라 (nafla)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/326/14439326_20260825133326_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602885223"
-    },
-    {
-      "title": "hush chocolate",
-      "artist": "Kimmy gone",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/660/14480660_20260825184533_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602895615"
-    },
-    {
-      "title": "Wooden bag (Story by Lee Yeon-bok)",
-      "artist": "김기태",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/546/14478546_20260825144352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602887253"
-    },
-    {
-      "title": "a e s t h e t i c",
-      "artist": "ZIN CHOI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/544/14478544_20260825144250_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602887249"
-    },
-    {
-      "title": "feat. LIMBO",
-      "artist": "허성현 (rosy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/300/14478300_20260825140036_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602886416"
-    },
-    {
-      "title": "Pumpkin Tree",
-      "artist": "린지 (Leenzy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/60/159/14460159_20260818155901_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602829628"
-    },
-    {
-      "title": "You're the Only One (feat. In Chang-yong)",
-      "artist": "유해준의 스토리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/459/14474459_20260824162439_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602875726"
-    },
-    {
-      "title": "Barricade",
-      "artist": "이세준(유리상자)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/630/14474630_20260824164710_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602876006"
-    },
-    {
-      "title": "Monday is back",
-      "artist": "소각소각",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/499/14478499_20260825143341_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602887094"
-    },
-    {
-      "title": "BABO",
-      "artist": "Rohann",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/836/14474836_20260824171109_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602876430"
-    },
-    {
-      "title": "Choo-Choo",
-      "artist": "다브다 (Dabda)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/934/14474934_20260824173841_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602876642"
-    },
-    {
-      "title": "Issues",
-      "artist": "ROSESIA (로즈시아)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/502/14478502_20260825143444_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602887100"
-    },
-    {
-      "title": "Anticipation",
-      "artist": "김나경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/535/14478535_20260825144134_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602887212"
-    },
-    {
-      "title": "Barabab (Prod.by Geun-tae Park)",
-      "artist": "이예성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/77/906/14477906_20260825161017_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602885313"
     }
   ]
 }
