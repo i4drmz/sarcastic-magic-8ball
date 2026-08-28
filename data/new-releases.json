@@ -1,13 +1,7 @@
 {
-  "generatedAt": "2026-08-28T11:33:49.190Z",
+  "generatedAt": "2026-08-28T22:29:35.101Z",
   "count": 50,
   "songs": [
-    {
-      "title": "FALLEN ANGEL",
-      "artist": "제니 (JENNIE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/504/14491504_20260827170648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602930028"
-    },
     {
       "title": "109",
       "artist": "이석훈",
@@ -43,6 +37,12 @@
       "artist": "Kik5o",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/389/14491389_20260827154353_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602929584"
+    },
+    {
+      "title": "FALLEN ANGEL",
+      "artist": "제니 (JENNIE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/504/14491504_20260827170648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930028"
     },
     {
       "title": "Same Book",
