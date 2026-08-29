@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-08-29T07:12:40.841Z",
+  "generatedAt": "2026-08-29T16:49:07.730Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Sing",
+      "artist": "김연지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/829/14493829_20260828122114_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938193"
+    },
+    {
+      "title": "I loved you like a movie",
+      "artist": "투앤비 (2NB)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/843/14491843_20260827184308_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931525"
+    },
+    {
+      "title": "JOTTHATDOWN",
+      "artist": "ELLY X 정화(EXID)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/854/14491854_20260827184630_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931538"
+    },
+    {
+      "title": "The flowers of my life have bloomed",
+      "artist": "마이진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/252/14494252_20260828142749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939645"
+    },
+    {
+      "title": "Youth",
+      "artist": "MC몽",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/013/14494013_20260828125054_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938535"
+    },
+    {
+      "title": "Last day of the year",
+      "artist": "도시",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/270/14494270_20260828143609_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939710"
+    },
+    {
+      "title": "When the rain falls",
+      "artist": "신진주 (JIN JU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/875/14493875_20260828123652_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938285"
+    },
+    {
+      "title": "Chuck",
+      "artist": "진솔",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/88/484/14488484_20260826182201_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602920929"
+    },
     {
       "title": "Tianjin",
       "artist": "까데호",
@@ -13,6 +61,18 @@
       "artist": "Jichoomy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/552/14491552_20260827171417_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602930202"
+    },
+    {
+      "title": "THTH",
+      "artist": "스티피 (STEEPY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/764/14491764_20260827182457_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931151"
+    },
+    {
+      "title": "BUFF BUFF",
+      "artist": "Dragon Traveler",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/392/14491392_20260827154524_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929589"
     },
     {
       "title": "A girl's love story",
@@ -241,66 +301,6 @@
       "artist": "소수빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/976/14487976_20260826155936_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602919270"
-    },
-    {
-      "title": "The pace of summer",
-      "artist": "윈터 (WINTER)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/021/14487021_20260826120815_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602915948"
-    },
-    {
-      "title": "Hypocritical Dancer",
-      "artist": "DENY(디나이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/400/14491400_20260827155129_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929623"
-    },
-    {
-      "title": "What's Going On?",
-      "artist": "준성 (JunSung)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/77/143/14477143_20260825092538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602882833"
-    },
-    {
-      "title": "KoK",
-      "artist": "혁오 (HYUKOH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/418/14480418_20260825175601_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602894455"
-    },
-    {
-      "title": "YOURS NOT YOURS",
-      "artist": "Shinjae Kang (강신재)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/035/14491035_20260827120021_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928499"
-    },
-    {
-      "title": "Above the Blue Sea",
-      "artist": "INDOW",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/967/14490967_20260827111520_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928246"
-    },
-    {
-      "title": "Blood Game",
-      "artist": "안시우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/938/14486938_20260826114826_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602915696"
-    },
-    {
-      "title": "A kind heart resembles light.",
-      "artist": "유호 (YOO HO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/884/14490884_20260827104659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602927960"
-    },
-    {
-      "title": "walk this street",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/580/14491580_20260827172659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602930340"
-    },
-    {
-      "title": "Movement of the sphere",
-      "artist": "지베뉴 (Zivenew)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/176/14491176_20260827134839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928890"
     }
   ]
 }
