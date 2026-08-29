@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-28T17:52:34.505Z",
+  "ranAt": "2026-08-29T01:18:20.285Z",
   "success": false,
-  "apiRequests": 20,
+  "apiRequests": 19,
   "providersRegistered": [
     "rss"
   ],
@@ -51,12 +51,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 40,
-      "eventRelated": 2,
-      "extracted": 2,
-      "discarded": 38,
+      "eventRelated": 1,
+      "extracted": 1,
+      "discarded": 39,
       "discardReasons": {
-        "not_event_announcement": 9,
-        "no_event_signal": 29
+        "no_event_signal": 29,
+        "not_event_announcement": 10
       }
     },
     {
@@ -100,8 +100,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "not_event_announcement": 1,
+        "no_event_signal": 9
       }
     },
     {
@@ -159,8 +159,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -192,22 +191,22 @@
       }
     }
   ],
-  "rawEvents": 8,
-  "afterDedupe": 8,
-  "afterUpcomingFilter": 8,
+  "rawEvents": 7,
+  "afterDedupe": 7,
+  "afterUpcomingFilter": 7,
   "totalItems": 240,
-  "totalEventRelated": 9,
-  "totalExtracted": 8,
-  "totalDiscarded": 231,
-  "extractionAccuracyPct": 88.9,
-  "previousCount": 9,
-  "writtenCount": 8,
+  "totalEventRelated": 8,
+  "totalExtracted": 7,
+  "totalDiscarded": 232,
+  "extractionAccuracyPct": 87.5,
+  "previousCount": 8,
+  "writtenCount": 7,
   "changed": true,
   "published": false,
   "notes": [
     "rss:soompi: items=60 related=1 extracted=1 discarded=59",
     "rss:soompi-music: items=60 related=6 extracted=5 discarded=54",
-    "rss:allkpop: items=40 related=2 extracted=2 discarded=38",
+    "rss:allkpop: items=40 related=1 extracted=1 discarded=39",
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
@@ -217,6 +216,6 @@
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
     "rss:hellokpop: not RSS/Atom",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=6/8"
+    "rss:images resolved from articles=6/7"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T17:52:34.505Z",
-  "lastUpdated": "2026-08-28T17:52:34.505Z",
+  "generatedAt": "2026-08-29T01:18:20.285Z",
+  "lastUpdated": "2026-08-29T01:18:20.285Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,27 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/stray-kids-to-hold-first-solo-concert-by-overseas-male-artist-at-tokyo-national-stadium",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
-    },
-    {
-      "id": "evt-220f894a9942d437",
-      "type": "Concert",
-      "title": "World Tour “Steal the Wind”",
-      "artist": "TXT",
-      "group": "TXT",
-      "date": "2026-08-27",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TXT WORLD TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/08/txt-announce-fifth-world-tour-steal-the-wind-starting-november-13",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
+      "lastUpdated": "2026-08-29T01:18:20.285Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -65,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
+      "lastUpdated": "2026-08-29T01:18:20.285Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -85,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
+      "lastUpdated": "2026-08-29T01:18:20.285Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -105,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
+      "lastUpdated": "2026-08-29T01:18:20.285Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -125,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
+      "lastUpdated": "2026-08-29T01:18:20.285Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -145,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
+      "lastUpdated": "2026-08-29T01:18:20.285Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -165,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-28T17:52:34.505Z"
+      "lastUpdated": "2026-08-29T01:18:20.285Z"
     }
   ]
 }
