@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-28T22:29:35.101Z",
+  "generatedAt": "2026-08-29T07:12:40.841Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Tianjin",
+      "artist": "까데호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/770/14491770_20260827182600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931192"
+    },
+    {
+      "title": "Feat. ZENE THE ZILLA",
+      "artist": "Jichoomy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/552/14491552_20260827171417_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930202"
+    },
+    {
+      "title": "A girl's love story",
+      "artist": "손빈아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/831/14493831_20260828122203_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938196"
+    },
+    {
+      "title": "Between Day and Day",
+      "artist": "천지원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/836/14493836_20260828122404_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938206"
+    },
+    {
+      "title": "Love always comes after a breakup",
+      "artist": "헌책방",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/795/14493795_20260828120723_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938028"
+    },
+    {
+      "title": "WoogaWooga",
+      "artist": "bendersea",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/739/14491739_20260827182059_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931059"
+    },
     {
       "title": "109",
       "artist": "이석훈",
@@ -15,16 +51,94 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602928144"
     },
     {
+      "title": "under404",
+      "artist": "GHOSTAG (고스태그)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/064/14486064_20260826095854_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602912497"
+    },
+    {
+      "title": "I'll tell you now, I love you",
+      "artist": "란 (RAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/390/14491390_20260827154450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929586"
+    },
+    {
+      "title": "Rainy Fairy Love",
+      "artist": "이승아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/806/14491806_20260827183428_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931351"
+    },
+    {
+      "title": "Endangered Kangaroos (Art. Endangered Kangaroos)",
+      "artist": "Anonymous Artists(어나니머스 아티스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/863/14493863_20260828123538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938273"
+    },
+    {
       "title": "feat. dj wegun",
       "artist": "수퍼비 (SUPERBEE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/458/14491458_20260827164851_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602929921"
     },
     {
+      "title": "Your Warmth (feat. Imsom)",
+      "artist": "IMOC(이모씨)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/803/14491803_20260827183329_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931348"
+    },
+    {
+      "title": "T",
+      "artist": "마션 (Martian)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/752/14491752_20260827182256_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931108"
+    },
+    {
       "title": "Behind the Breakup",
       "artist": "FIL (필)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/914/14490914_20260827105835_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602928101"
+    },
+    {
+      "title": "A",
+      "artist": "Drain K (드레인케이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/777/14491777_20260827182704_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931223"
+    },
+    {
+      "title": "Us",
+      "artist": "모허",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/957/14493957_20260828124517_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938435"
+    },
+    {
+      "title": "Chasing the Stars",
+      "artist": "ASH AHN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/793/14491793_20260827183027_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931322"
+    },
+    {
+      "title": "Walking alone under the moonlight",
+      "artist": "블랙홀 (Black Hole)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/848/14493848_20260828123122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938242"
+    },
+    {
+      "title": "The song stays longer than you",
+      "artist": "그네",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/280/14494280_20260828145209_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939775"
+    },
+    {
+      "title": "How could that be anything?",
+      "artist": "피비 (PiiBii)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/878/14491878_20260827185540_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931608"
+    },
+    {
+      "title": "Loaded in the waves",
+      "artist": "싱나예",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/829/14491829_20260827183852_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931485"
     },
     {
       "title": "SWAG",
@@ -187,120 +301,6 @@
       "artist": "지베뉴 (Zivenew)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/176/14491176_20260827134839_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602928890"
-    },
-    {
-      "title": "Noensel",
-      "artist": "안예은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/88/093/14488093_20260826162852_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602919706"
-    },
-    {
-      "title": "Gulliver!",
-      "artist": "HITGS(힛지스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/971/14487971_20260826155736_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602919229"
-    },
-    {
-      "title": "Die Another Day",
-      "artist": "TNX",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/707/14487707_20260826143528_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602917974"
-    },
-    {
-      "title": "Hate Summer",
-      "artist": "이지카이트 (Izykite)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/847/14487847_20260826152452_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918407"
-    },
-    {
-      "title": "2026 ver.",
-      "artist": "송하예",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/749/14487749_20260827093037_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918057"
-    },
-    {
-      "title": "Feat. JUNNY",
-      "artist": "예빛",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/709/14487709_20260826143628_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602917976"
-    },
-    {
-      "title": "If you can't sleep at dawn,",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/053/14486053_20260826095817_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602912471"
-    },
-    {
-      "title": "Summer Magic",
-      "artist": "팔칠댄스 (87dance)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/69/887/14469887_20260821153640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602861096"
-    },
-    {
-      "title": "Feat. Toshi",
-      "artist": "16",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/77/141/14477141_20260825092348_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602882798"
-    },
-    {
-      "title": "Self Control",
-      "artist": "Cloudybay (클라우디베이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/897/14486897_20260826113850_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602915603"
-    },
-    {
-      "title": "dance",
-      "artist": "비오 (B.O.)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/746/14487746_20260826144649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918051"
-    },
-    {
-      "title": "ㄴㄴ",
-      "artist": "SEUNGHOO (승후)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/77/137/14477137_20260825091932_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602882788"
-    },
-    {
-      "title": "We can't love now",
-      "artist": "듀 (DEW)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/978/14473978_20260824143835_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602873849"
-    },
-    {
-      "title": "White Noise",
-      "artist": "리하츠 (Re:Hearts)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/734/14487734_20260826144005_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918030"
-    },
-    {
-      "title": "Youth (Feat. Five Talents)",
-      "artist": "헤이 달리 (Hey Dali)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/743/14487743_20260826144238_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918045"
-    },
-    {
-      "title": "Zero gravity walk",
-      "artist": "규리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/79/455/14479455_20260825162437_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602890664"
-    },
-    {
-      "title": "I'll break down those walls",
-      "artist": "g0nny (거니)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/78/558/14478558_20260825144432_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602887281"
-    },
-    {
-      "title": "Dead Channel",
-      "artist": "Zior Park",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/631/14480631_20260825184137_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602895522"
-    },
-    {
-      "title": "benz on benz",
-      "artist": "24 Flakko",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/720/14487720_20260826143802_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602917997"
     }
   ]
 }
