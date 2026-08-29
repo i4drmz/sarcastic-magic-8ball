@@ -1,32 +1,11 @@
 {
-  "generatedAt": "2026-08-29T16:04:22.250Z",
-  "lastUpdated": "2026-08-29T16:04:22.250Z",
+  "generatedAt": "2026-08-29T20:09:24.169Z",
+  "lastUpdated": "2026-08-29T20:09:24.169Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "hellokpop"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-ee8ccb0b82755fd6",
-      "type": "Concert",
-      "title": "World Tour “STEAL THE WIND”",
-      "artist": "TOMORROW X TOGETHER",
-      "group": "TOMORROW X TOGETHER",
-      "date": "2026-08-28",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
-      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
-      "ticketUrl": null,
-      "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-29T16:04:22.250Z"
-    },
     {
       "id": "evt-cf3faa61f2e0e63c",
       "type": "Concert",
@@ -45,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-08-29T16:04:22.250Z"
+      "lastUpdated": "2026-08-29T20:09:24.169Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -65,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-29T16:04:22.250Z"
+      "lastUpdated": "2026-08-29T20:09:24.169Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -85,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-29T16:04:22.250Z"
+      "lastUpdated": "2026-08-29T20:09:24.169Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -105,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-29T16:04:22.250Z"
+      "lastUpdated": "2026-08-29T20:09:24.169Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -125,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-29T16:04:22.250Z"
+      "lastUpdated": "2026-08-29T20:09:24.169Z"
     },
     {
       "id": "evt-04518f0a905aec8b",
@@ -145,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-29T16:04:22.250Z"
+      "lastUpdated": "2026-08-29T20:09:24.169Z"
     }
   ]
 }
