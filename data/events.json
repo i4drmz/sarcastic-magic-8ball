@@ -1,8 +1,7 @@
 {
-  "generatedAt": "2026-08-30T02:22:17.890Z",
-  "lastUpdated": "2026-08-30T02:22:17.890Z",
+  "generatedAt": "2026-08-30T10:54:08.988Z",
+  "lastUpdated": "2026-08-30T10:54:08.988Z",
   "sourceSummary": [
-    "soompi",
     "soompi-music",
     "hellokpop"
   ],
@@ -25,7 +24,7 @@
       "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-30T02:22:17.890Z"
+      "lastUpdated": "2026-08-30T10:54:08.988Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -44,8 +43,8 @@
       "shortDescription": "TXT WORLD TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-08-30T02:22:17.890Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-08-30T10:54:08.988Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -65,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T02:22:17.890Z"
+      "lastUpdated": "2026-08-30T10:54:08.988Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -85,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T02:22:17.890Z"
+      "lastUpdated": "2026-08-30T10:54:08.988Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -105,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T02:22:17.890Z"
+      "lastUpdated": "2026-08-30T10:54:08.988Z"
     },
     {
       "id": "evt-8aa212d2511aa6c8",
@@ -125,27 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T02:22:17.890Z"
-    },
-    {
-      "id": "evt-04518f0a905aec8b",
-      "type": "Concert",
-      "title": "Concert “EPISODE 1: ZERO FRONTIER”",
-      "artist": "NMIXX",
-      "group": "NMIXX",
-      "date": "2026-08-17",
-      "time": null,
-      "venue": "TBA",
-      "city": "Incheon",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/16212302/nmixx-jul-26.jpg",
-      "shortDescription": "NMIXX CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1863380wpp/nmixx-announces-episode-1-zero-frontier-finale-concert-in-incheon",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T02:22:17.890Z"
+      "lastUpdated": "2026-08-30T10:54:08.988Z"
     }
   ]
 }
