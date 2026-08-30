@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-29T21:01:45.220Z",
+  "generatedAt": "2026-08-30T05:34:11.096Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Why my car is standing in front of me",
+      "artist": "Austn (오스틴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/88/482/14488482_20260826182152_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602920921"
+    },
+    {
+      "title": "refuge",
+      "artist": "김결",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/501/14493501_20260828094922_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602937085"
+    },
+    {
+      "title": "After all, it's you (Vocal. ex.)",
+      "artist": "그믐달",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/500/14493500_20260828094920_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602937083"
+    },
+    {
+      "title": "Season on paper",
+      "artist": "여운",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/879/14493879_20260828123746_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938290"
+    },
+    {
+      "title": "Swimming",
+      "artist": "야자수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/750/14491750_20260827182200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931077"
+    },
+    {
+      "title": "Apocalypse",
+      "artist": "ORORA (오로라)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/497/14493497_20260828094818_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602937072"
+    },
     {
       "title": "Sing",
       "artist": "김연지",
@@ -15,10 +51,34 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602931525"
     },
     {
+      "title": "Say Bye (Feat. Chan Hyun)",
+      "artist": "HIP-ON",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/396/14491396_20260827154909_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929613"
+    },
+    {
+      "title": "Feat.Gwelli",
+      "artist": "바부르즈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/816/14493816_20260828121643_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938120"
+    },
+    {
       "title": "JOTTHATDOWN",
       "artist": "ELLY X 정화(EXID)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/854/14491854_20260827184630_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602931538"
+    },
+    {
+      "title": "Cobalt Blue",
+      "artist": "노블레스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/807/14491807_20260827183428_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602931352"
+    },
+    {
+      "title": "KLEIN BOTTLE",
+      "artist": "OORO (우로)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/961/14493961_20260828124523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938445"
     },
     {
       "title": "The flowers of my life have bloomed",
@@ -37,6 +97,12 @@
       "artist": "도시",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/270/14494270_20260828143609_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602939710"
+    },
+    {
+      "title": "I didn't know I had lost you,",
+      "artist": "수플",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/136/14494136_20260828133148_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938977"
     },
     {
       "title": "When the rain falls",
@@ -235,72 +301,6 @@
       "artist": "빈세진(BINSEJIN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/73/503/14473503_20260824110149_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602872006"
-    },
-    {
-      "title": "Original Version",
-      "artist": "김창열",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/972/14490972_20260827111617_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928253"
-    },
-    {
-      "title": "feat. MILLI",
-      "artist": "0WAVE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/017/14491017_20260827114651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928447"
-    },
-    {
-      "title": "Black Rose",
-      "artist": "LIPSTICKERZ",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/569/14491569_20260827171942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602930293"
-    },
-    {
-      "title": "All I Need (Feat. Yooin (lure)",
-      "artist": "노르웨이 숲",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/134/00/145/13400145_20260825111320_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602876526"
-    },
-    {
-      "title": "my celine",
-      "artist": "담예 (DAMYE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/883/14490883_20260827104542_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602927957"
-    },
-    {
-      "title": "PADO",
-      "artist": "취향상점 (Tasty Shop)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/577/14491577_20260827172546_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602930331"
-    },
-    {
-      "title": "Flamingosis Remix",
-      "artist": "Red Velvet (레드벨벳)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/460/14491460_20260827165122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929929"
-    },
-    {
-      "title": "Shoring",
-      "artist": "이소나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/451/14491451_20260827164439_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929898"
-    },
-    {
-      "title": "Let me groove",
-      "artist": "NiceKatchy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/940/14490940_20260827110549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928170"
-    },
-    {
-      "title": "Tropical",
-      "artist": "굿굿",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/885/14490885_20260827104928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602927962"
-    },
-    {
-      "title": "I should have told you it was okay.",
-      "artist": "소수빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/976/14487976_20260826155936_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602919270"
     }
   ]
 }
