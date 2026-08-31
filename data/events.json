@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T20:17:04.151Z",
-  "lastUpdated": "2026-08-30T20:17:04.151Z",
+  "generatedAt": "2026-08-31T12:07:57.804Z",
+  "lastUpdated": "2026-08-31T12:07:57.804Z",
   "sourceSummary": [
     "soompi-music",
     "hellokpop"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-30T20:17:04.151Z"
+      "lastUpdated": "2026-08-31T12:07:57.804Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -44,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T20:17:04.151Z"
+      "lastUpdated": "2026-08-31T12:07:57.804Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T20:17:04.151Z"
+      "lastUpdated": "2026-08-31T12:07:57.804Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T20:17:04.151Z"
+      "lastUpdated": "2026-08-31T12:07:57.804Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -104,27 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T20:17:04.151Z"
-    },
-    {
-      "id": "evt-8aa212d2511aa6c8",
-      "type": "Concert",
-      "title": "Asia Tour “SUMMER, I”",
-      "artist": "Apink",
-      "group": "Apink",
-      "date": "2026-08-19",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/19025427/jeong-eun-ji-2.jpg",
-      "shortDescription": "APINK ASIA TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1864009wpp/apinks-jeong-eun-ji-announces-dates-and-stops-for-solo-asia-tour-summer-i",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-30T20:17:04.151Z"
+      "lastUpdated": "2026-08-31T12:07:57.804Z"
     }
   ]
 }
