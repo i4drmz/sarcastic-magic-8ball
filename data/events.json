@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-08-31T12:07:57.804Z",
-  "lastUpdated": "2026-08-31T12:07:57.804Z",
+  "generatedAt": "2026-08-31T22:10:54.208Z",
+  "lastUpdated": "2026-08-31T22:10:54.208Z",
   "sourceSummary": [
     "soompi-music",
+    "billboard-music",
     "hellokpop"
   ],
   "events": [
+    {
+      "id": "evt-ec2506a6c0340a84",
+      "type": "Concert",
+      "title": "Tour",
+      "artist": "Rainbow",
+      "group": "Rainbow",
+      "date": "2026-08-31",
+      "time": null,
+      "venue": "TBA",
+      "city": "Los Angeles",
+      "country": "US",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.billboard.com/wp-content/uploads/2026/02/roa-credit-jose-carlos-press-billboard-1800-.jpg?w=237&h=147&crop=1",
+      "shortDescription": "RAINBOW TOUR COMING UP",
+      "sourceUrl": "https://www.billboard.com/music/latin/roa-us-tour-dates-2026-exclusive-1236328977/",
+      "ticketUrl": null,
+      "source": "rss:billboard-music",
+      "lastUpdated": "2026-08-31T22:10:54.208Z"
+    },
     {
       "id": "evt-ee8ccb0b82755fd6",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-08-31T12:07:57.804Z"
+      "lastUpdated": "2026-08-31T22:10:54.208Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-31T12:07:57.804Z"
+      "lastUpdated": "2026-08-31T22:10:54.208Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-31T12:07:57.804Z"
+      "lastUpdated": "2026-08-31T22:10:54.208Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-31T12:07:57.804Z"
+      "lastUpdated": "2026-08-31T22:10:54.208Z"
     },
     {
       "id": "evt-cda935dea55092ce",
@@ -104,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-08-31T12:07:57.804Z"
+      "lastUpdated": "2026-08-31T22:10:54.208Z"
     }
   ]
 }
