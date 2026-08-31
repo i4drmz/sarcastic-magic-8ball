@@ -1,12 +1,78 @@
 {
-  "generatedAt": "2026-08-31T05:49:24.247Z",
+  "generatedAt": "2026-08-31T14:10:38.540Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Skibidi",
+      "artist": "소녀시대-효리수 (Girls' Generation-HRS)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/370/14494370_20260828152343_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602940179"
+    },
+    {
+      "title": "FLOAT",
+      "artist": "태민 (TAEMIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/528/14493528_20260828100129_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602937189"
+    },
+    {
+      "title": "Nostalgia",
+      "artist": "BIG Naughty (서동현)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/275/14494275_20260828144050_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939768"
+    },
+    {
+      "title": "If it were you,",
+      "artist": "Paul Blanco",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/805/14493805_20260828120828_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938068"
+    },
+    {
+      "title": "feat. BewhY",
+      "artist": "범키",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/561/14491561_20260827171721_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930235"
+    },
+    {
+      "title": "Beach memories",
+      "artist": "윤종신",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/276/14494276_20260828144144_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939770"
+    },
+    {
+      "title": "Meaning",
+      "artist": "Chilloop (칠룹)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/548/14480548_20260825182514_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602895036"
+    },
     {
       "title": "Low anyway",
       "artist": "장범준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/274/14494274_20260828143943_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602939766"
+    },
+    {
+      "title": "SOMANG",
+      "artist": "W24",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/803/14493803_20260828120825_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938059"
+    },
+    {
+      "title": "Giuseppe",
+      "artist": "고히 (Gohi)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/791/14493791_20260828120722_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938022"
+    },
+    {
+      "title": "Crying in the Club",
+      "artist": "Jeremy Que$t",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/817/14493817_20260828121652_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938125"
+    },
+    {
+      "title": "Human odor",
+      "artist": "홍단비",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/019/14494019_20260828125149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938557"
     },
     {
       "title": "Run to me..",
@@ -235,72 +301,6 @@
       "artist": "바부르즈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/816/14493816_20260828121643_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602938120"
-    },
-    {
-      "title": "JOTTHATDOWN",
-      "artist": "ELLY X 정화(EXID)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/854/14491854_20260827184630_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931538"
-    },
-    {
-      "title": "Cobalt Blue",
-      "artist": "노블레스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/807/14491807_20260827183428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931352"
-    },
-    {
-      "title": "KLEIN BOTTLE",
-      "artist": "OORO (우로)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/961/14493961_20260828124523_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938445"
-    },
-    {
-      "title": "The flowers of my life have bloomed",
-      "artist": "마이진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/252/14494252_20260828142749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602939645"
-    },
-    {
-      "title": "Youth Day (Feat. Chancellor)",
-      "artist": "MC몽",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/013/14494013_20260828125054_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938535"
-    },
-    {
-      "title": "Last day of the year",
-      "artist": "도시",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/270/14494270_20260828143609_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602939710"
-    },
-    {
-      "title": "I didn't know I had lost you,",
-      "artist": "수플",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/136/14494136_20260828133148_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938977"
-    },
-    {
-      "title": "When the rain falls",
-      "artist": "신진주 (JIN JU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/875/14493875_20260828123652_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938285"
-    },
-    {
-      "title": "Chuck",
-      "artist": "진솔",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/88/484/14488484_20260826182201_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602920929"
-    },
-    {
-      "title": "Tianjin",
-      "artist": "까데호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/770/14491770_20260827182600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931192"
-    },
-    {
-      "title": "Feat. ZENE THE ZILLA",
-      "artist": "Jichoomy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/552/14491552_20260827171417_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602930202"
     }
   ]
 }
