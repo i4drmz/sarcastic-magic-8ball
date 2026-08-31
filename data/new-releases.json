@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-30T21:16:48.577Z",
+  "generatedAt": "2026-08-31T05:49:24.247Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Low anyway",
+      "artist": "장범준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/274/14494274_20260828143943_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939766"
+    },
+    {
+      "title": "Run to me..",
+      "artist": "Odd95",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/873/14490873_20260827103547_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602927917"
+    },
+    {
+      "title": "Life 404",
+      "artist": "heyden",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/819/14493819_20260828121911_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938134"
+    },
+    {
+      "title": "Our seasons",
+      "artist": "인피니트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/272/14494272_20260828143848_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939762"
+    },
+    {
+      "title": "To. Blue",
+      "artist": "이병찬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/814/14493814_20260828121450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938112"
+    },
+    {
+      "title": "ROAD",
+      "artist": "KIK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/279/14494279_20260828144928_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939773"
+    },
     {
       "title": "Through the moon",
       "artist": "정승환",
@@ -15,10 +51,88 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602938208"
     },
     {
+      "title": "Your Summer",
+      "artist": "신의진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/811/14493811_20260828121240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938092"
+    },
+    {
+      "title": "feat. Shane",
+      "artist": "oftn (오픈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/856/14493856_20260828123337_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938261"
+    },
+    {
+      "title": "Monster of Solitude (Feat. Beast)",
+      "artist": "쏘망 (50mang)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/661/14494661_20260828164629_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602941028"
+    },
+    {
+      "title": "173",
+      "artist": "탁(배치기)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/417/14491417_20260827155640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929713"
+    },
+    {
+      "title": "Tattoo",
+      "artist": "Brody (브로디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/678/14494678_20260828170853_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602941085"
+    },
+    {
+      "title": "Like ♡",
+      "artist": "블랙체리클럽",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/815/14493815_20260828121539_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938118"
+    },
+    {
+      "title": "Thank you",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/020/14494020_20260828125210_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938560"
+    },
+    {
       "title": "When I draw you in that universe,",
       "artist": "정동원",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/889/14493889_20260828123851_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602938313"
+    },
+    {
+      "title": "The Wall Song",
+      "artist": "루빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/139/14494139_20260828133450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938983"
+    },
+    {
+      "title": "REMEMBER",
+      "artist": "JISU PARK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/846/14493846_20260828123120_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938232"
+    },
+    {
+      "title": "Sunshine",
+      "artist": "태윤 (TAEYOON)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/962/14493962_20260828124524_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938446"
+    },
+    {
+      "title": "Round",
+      "artist": "싸비 (XAVII)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/888/14493888_20260828123850_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938312"
+    },
+    {
+      "title": "your hundsome",
+      "artist": "소밍",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/297/14494297_20260828145958_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939851"
+    },
+    {
+      "title": "Feat. Rredrain, G-UHONG",
+      "artist": "FDR (에프디알)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/784/14493784_20260828120618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602937986"
     },
     {
       "title": "Korean Ver.",
@@ -147,7 +261,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602939645"
     },
     {
-      "title": "Youth",
+      "title": "Youth Day (Feat. Chancellor)",
       "artist": "MC몽",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/013/14494013_20260828125054_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602938535"
@@ -187,120 +301,6 @@
       "artist": "Jichoomy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/552/14491552_20260827171417_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602930202"
-    },
-    {
-      "title": "THTH",
-      "artist": "스티피 (STEEPY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/764/14491764_20260827182457_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931151"
-    },
-    {
-      "title": "BUFF BUFF",
-      "artist": "Dragon Traveler",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/392/14491392_20260827154524_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929589"
-    },
-    {
-      "title": "A girl's love story",
-      "artist": "손빈아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/831/14493831_20260828122203_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938196"
-    },
-    {
-      "title": "Between Day and Day",
-      "artist": "천지원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/836/14493836_20260828122404_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938206"
-    },
-    {
-      "title": "Love always comes after a breakup",
-      "artist": "헌책방",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/795/14493795_20260828120723_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938028"
-    },
-    {
-      "title": "WoogaWooga",
-      "artist": "bendersea",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/739/14491739_20260827182059_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931059"
-    },
-    {
-      "title": "109",
-      "artist": "이석훈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/900/14486900_20260826113951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602915612"
-    },
-    {
-      "title": "CAN′T STOP",
-      "artist": "M1NU",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/928/14490928_20260827105940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928144"
-    },
-    {
-      "title": "under404",
-      "artist": "GHOSTAG (고스태그)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/86/064/14486064_20260826095854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602912497"
-    },
-    {
-      "title": "I'll tell you now, I love you",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/390/14491390_20260827154450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929586"
-    },
-    {
-      "title": "Rainy Fairy Love",
-      "artist": "이승아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/806/14491806_20260827183428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931351"
-    },
-    {
-      "title": "Endangered Kangaroos (Art. Endangered Kangaroos)",
-      "artist": "Anonymous Artists(어나니머스 아티스트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/863/14493863_20260828123538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938273"
-    },
-    {
-      "title": "feat. dj wegun",
-      "artist": "수퍼비 (SUPERBEE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/458/14491458_20260827164851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929921"
-    },
-    {
-      "title": "Your Warmth (feat. Imsom)",
-      "artist": "IMOC(이모씨)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/803/14491803_20260827183329_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931348"
-    },
-    {
-      "title": "T",
-      "artist": "마션 (Martian)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/752/14491752_20260827182256_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931108"
-    },
-    {
-      "title": "Behind the Breakup",
-      "artist": "FIL (필)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/914/14490914_20260827105835_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602928101"
-    },
-    {
-      "title": "A",
-      "artist": "Drain K (드레인케이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/777/14491777_20260827182704_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931223"
-    },
-    {
-      "title": "Us",
-      "artist": "모허",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/957/14493957_20260828124517_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938435"
-    },
-    {
-      "title": "Chasing the Stars",
-      "artist": "ASH AHN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/793/14491793_20260827183027_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931322"
     }
   ]
 }
