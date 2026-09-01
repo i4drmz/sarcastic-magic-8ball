@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-09-01T05:22:22.564Z",
+  "generatedAt": "2026-09-01T11:50:16.737Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Slow It Down",
+      "artist": "필릭스 (Stray Kids)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/146/14497146_20260831114916_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948910"
+    },
+    {
+      "title": "Like Fire",
+      "artist": "82MAJOR(82메이저)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/292/14498292_20260831165234_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602952011"
+    },
+    {
+      "title": "México",
+      "artist": "청하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/286/14498286_20260831165153_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602952002"
+    },
+    {
+      "title": "Home",
+      "artist": "연준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/743/14497743_20260831134753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949879"
+    },
+    {
+      "title": "feat. Zior Park",
+      "artist": "Rad Museum",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/818/14493818_20260828121741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602938133"
+    },
+    {
+      "title": "Since last call",
+      "artist": "이우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/133/14497133_20260831114451_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948835"
+    },
+    {
+      "title": "At that time, we",
+      "artist": "지진석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/732/14497732_20260831134633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949868"
+    },
+    {
+      "title": "Time Sleep",
+      "artist": "WhOLLiN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/028/14497028_20260831110249_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948516"
+    },
+    {
+      "title": "Why! Am I taking care of you? (Feat. Sunwoo)",
+      "artist": "마야",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/029/14497029_20260831110328_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948517"
+    },
+    {
+      "title": "feat. TRADE L",
+      "artist": "리트릴라 (LiTrilla)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/550/14491550_20260827171415_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602930192"
+    },
+    {
+      "title": "bare. foot",
+      "artist": "jambino",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/756/14497756_20260831134929_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949895"
+    },
+    {
+      "title": "Shine Again",
+      "artist": "심은진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/031/14497031_20260831110450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948520"
+    },
     {
       "title": "Digital Killer",
       "artist": "이루리",
@@ -229,78 +301,6 @@
       "artist": "탁(배치기)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/417/14491417_20260827155640_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602929713"
-    },
-    {
-      "title": "Tattoo",
-      "artist": "Brody (브로디)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/678/14494678_20260828170853_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602941085"
-    },
-    {
-      "title": "Like ♡",
-      "artist": "블랙체리클럽",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/815/14493815_20260828121539_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938118"
-    },
-    {
-      "title": "Thank you",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/020/14494020_20260828125210_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938560"
-    },
-    {
-      "title": "When I draw you in that universe,",
-      "artist": "정동원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/889/14493889_20260828123851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938313"
-    },
-    {
-      "title": "The Wall Song",
-      "artist": "루빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/139/14494139_20260828133450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938983"
-    },
-    {
-      "title": "REMEMBER",
-      "artist": "JISU PARK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/846/14493846_20260828123120_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938232"
-    },
-    {
-      "title": "Sunshine",
-      "artist": "태윤 (TAEYOON)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/962/14493962_20260828124524_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938446"
-    },
-    {
-      "title": "Round",
-      "artist": "싸비 (XAVII)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/888/14493888_20260828123850_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938312"
-    },
-    {
-      "title": "your hundsome",
-      "artist": "소밍",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/297/14494297_20260828145958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602939851"
-    },
-    {
-      "title": "Feat. Rredrain, G-UHONG",
-      "artist": "FDR (에프디알)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/784/14493784_20260828120618_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602937986"
-    },
-    {
-      "title": "Korean Ver.",
-      "artist": "니나 (NINA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/839/14493839_20260828122830_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938216"
-    },
-    {
-      "title": "Oh, I see. It's Sunae.",
-      "artist": "처리 (Churry)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/88/486/14488486_20260826182255_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602920934"
     }
   ]
 }
