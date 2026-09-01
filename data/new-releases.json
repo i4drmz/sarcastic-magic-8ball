@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-31T22:56:58.301Z",
+  "generatedAt": "2026-09-01T05:22:22.564Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Digital Killer",
+      "artist": "이루리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/794/14497794_20260831135432_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949999"
+    },
+    {
+      "title": "To My Stars",
+      "artist": "전유진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/272/14498272_20260831164944_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602951946"
+    },
+    {
+      "title": "over time",
+      "artist": "경제환",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/771/14497771_20260831135044_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949923"
+    },
+    {
+      "title": "Let go",
+      "artist": "homezone",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/802/14497802_20260831140001_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602950072"
+    },
+    {
+      "title": "Astrology",
+      "artist": "다양성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/798/14497798_20260831135704_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602950026"
+    },
+    {
+      "title": "Blue Medicine",
+      "artist": "pshine (피샤인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/334/14494334_20260828150900_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602939960"
+    },
     {
       "title": "Skibidi",
       "artist": "소녀시대-효리수 (Girls' Generation-HRS)",
@@ -15,10 +51,52 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602937189"
     },
     {
+      "title": "To Park",
+      "artist": "이날(YNR)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/418/14491418_20260827155640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602929714"
+    },
+    {
+      "title": "If I were Lucky",
+      "artist": "kenessi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/185/14497185_20260831121228_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949101"
+    },
+    {
       "title": "Nostalgia",
       "artist": "BIG Naughty (서동현)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/275/14494275_20260828144050_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602939768"
+    },
+    {
+      "title": "Saesam-rae (Webtoon Bunker's Day OST X Star)",
+      "artist": "별은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/496/14493496_20260828094749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602937070"
+    },
+    {
+      "title": "If you walk, it's a flower road.",
+      "artist": "이도진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/024/14497024_20260831110041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948512"
+    },
+    {
+      "title": "NO.517",
+      "artist": "Masterclass",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/020/14497020_20260831105639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948507"
+    },
+    {
+      "title": "SHATTER",
+      "artist": "PITA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/146/14498146_20260831160141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602951422"
+    },
+    {
+      "title": "RUBY POINT",
+      "artist": "인더룸(INTHEROOM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/940/14497940_20260831145027_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602950630"
     },
     {
       "title": "If it were you,",
@@ -31,6 +109,18 @@
       "artist": "범키",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/561/14491561_20260827171721_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602930235"
+    },
+    {
+      "title": "Romantic Delusion",
+      "artist": "일상의 효정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/722/14497722_20260831134531_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949855"
+    },
+    {
+      "title": "At that time..",
+      "artist": "유현국",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/731/14497731_20260831134633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602949867"
     },
     {
       "title": "Beach memories",
@@ -211,96 +301,6 @@
       "artist": "처리 (Churry)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/88/486/14488486_20260826182255_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602920934"
-    },
-    {
-      "title": "Great breakup, easy breakup",
-      "artist": "차가을",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/504/14493504_20260828095053_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602937095"
-    },
-    {
-      "title": "Tiki Talk",
-      "artist": "neu(노이/ノイ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/398/14491398_20260827155011_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929617"
-    },
-    {
-      "title": "Let's go south",
-      "artist": "서린다인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/809/14493809_20260828121127_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938089"
-    },
-    {
-      "title": "Starlight of Love",
-      "artist": "이수연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/842/14493842_20260828123020_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938227"
-    },
-    {
-      "title": "Belief",
-      "artist": "SIVAA (시바)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/854/14493854_20260828123322_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938251"
-    },
-    {
-      "title": "Why my car is standing in front of me",
-      "artist": "Austn (오스틴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/88/482/14488482_20260826182152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602920921"
-    },
-    {
-      "title": "refuge",
-      "artist": "김결",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/501/14493501_20260828094922_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602937085"
-    },
-    {
-      "title": "After all, it's you (Vocal. ex.)",
-      "artist": "그믐달",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/500/14493500_20260828094920_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602937083"
-    },
-    {
-      "title": "Season on paper",
-      "artist": "여운",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/879/14493879_20260828123746_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938290"
-    },
-    {
-      "title": "Swimming",
-      "artist": "야자수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/750/14491750_20260827182200_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931077"
-    },
-    {
-      "title": "Apocalypse",
-      "artist": "ORORA (오로라)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/497/14493497_20260828094818_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602937072"
-    },
-    {
-      "title": "Sing",
-      "artist": "김연지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/829/14493829_20260828122114_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938193"
-    },
-    {
-      "title": "I loved you like a movie",
-      "artist": "투앤비 (2NB)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/843/14491843_20260827184308_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602931525"
-    },
-    {
-      "title": "Say Bye (Feat. Chan Hyun)",
-      "artist": "HIP-ON",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/396/14491396_20260827154909_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929613"
-    },
-    {
-      "title": "Feat.Gwelli",
-      "artist": "바부르즈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/816/14493816_20260828121643_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938120"
     }
   ]
 }
