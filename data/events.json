@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T15:45:00.777Z",
-  "lastUpdated": "2026-09-01T15:45:00.777Z",
+  "generatedAt": "2026-09-02T01:56:40.124Z",
+  "lastUpdated": "2026-09-02T01:56:40.124Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/kim-ji-won-to-hold-solo-fan-meeting-wonederland-after-two-years",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-01T15:45:00.777Z"
+      "lastUpdated": "2026-09-02T01:56:40.124Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -44,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-01T15:45:00.777Z"
+      "lastUpdated": "2026-09-02T01:56:40.124Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-01T15:45:00.777Z"
+      "lastUpdated": "2026-09-02T01:56:40.124Z"
     },
     {
       "id": "evt-c4bbfe5b5d5672a2",
@@ -84,27 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-01T15:45:00.777Z"
-    },
-    {
-      "id": "evt-cda935dea55092ce",
-      "type": "Concert",
-      "title": "Concert “EXhOrizon [dot]”",
-      "artist": "EXO",
-      "group": "EXO",
-      "date": "2026-08-20",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/19224458/exo-planet.jpeg",
-      "shortDescription": "EXO CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1864228wpp/exo-announces-dates-for-encore-concert-exo-planet-6-exhorizon-dot",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-01T15:45:00.777Z"
+      "lastUpdated": "2026-09-02T01:56:40.124Z"
     }
   ]
 }
