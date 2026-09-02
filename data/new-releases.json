@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-01T21:10:00.750Z",
+  "generatedAt": "2026-09-02T04:48:21.093Z",
   "count": 50,
   "songs": [
+    {
+      "title": "foot",
+      "artist": "O.O.O (오오오)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/10/968/14510968_20260901142327_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602970021"
+    },
+    {
+      "title": "Eye to Eye",
+      "artist": "kwacamolee",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/158/14498158_20260831161544_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602951457"
+    },
+    {
+      "title": "P.S. (Feat. Contemporaneous)",
+      "artist": "TSLW",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/304/14508304_20260901104314_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602965342"
+    },
+    {
+      "title": "Heaven",
+      "artist": "웨이브 콜",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/321/14511321_20260901152055_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602970548"
+    },
+    {
+      "title": "Preview",
+      "artist": "문종민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/221/14512221_20260901171731_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602973084"
+    },
+    {
+      "title": "Sensation",
+      "artist": "pastcurfew",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/258/14508258_20260901104135_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602965286"
+    },
     {
       "title": "Slow It Down",
       "artist": "필릭스 (Stray Kids)",
@@ -15,6 +51,18 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602952011"
     },
     {
+      "title": "feat. MilliMax",
+      "artist": "은우주 (WZN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/109/14508109_20260901103512_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602965060"
+    },
+    {
+      "title": "I thought it was Fluting.",
+      "artist": "푸른만월",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/366/14508366_20260901104539_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602965419"
+    },
+    {
       "title": "México",
       "artist": "청하",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/286/14498286_20260831165153_500.jpg",
@@ -25,6 +73,54 @@
       "artist": "연준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/743/14497743_20260831134753_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602949879"
+    },
+    {
+      "title": "Can I say happiness like that?",
+      "artist": "미즈이로 (Mizuiro)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/09/248/14509248_20260901115523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602967110"
+    },
+    {
+      "title": "Midnight Vibe",
+      "artist": "키젤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/191/14498191_20260831163853_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602951666"
+    },
+    {
+      "title": "Onatrip",
+      "artist": "PEEPPEEP",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/906/14497906_20260831144327_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602950543"
+    },
+    {
+      "title": "Tell me who you are",
+      "artist": "조이어클락 (Joy o'clock)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/927/14497927_20260831144625_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602950603"
+    },
+    {
+      "title": "Feat. Dimpler",
+      "artist": "이지보이 (Eizzyboy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/287/14508287_20260901104241_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602965323"
+    },
+    {
+      "title": "Swallow Han",
+      "artist": "김빡",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/10/937/14510937_20260901142143_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602969988"
+    },
+    {
+      "title": "Begin Again",
+      "artist": "Switcbak",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/151/14511151_20260901150340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602970329"
+    },
+    {
+      "title": "There are people who love you",
+      "artist": "주현민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/993/14508993_20260901113903_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602966799"
     },
     {
       "title": "feat. Zior Park",
@@ -205,102 +301,6 @@
       "artist": "Chilloop (칠룹)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/548/14480548_20260825182514_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602895036"
-    },
-    {
-      "title": "Low anyway",
-      "artist": "장범준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/274/14494274_20260828143943_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602939766"
-    },
-    {
-      "title": "SOMANG",
-      "artist": "W24",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/803/14493803_20260828120825_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938059"
-    },
-    {
-      "title": "Giuseppe",
-      "artist": "고히 (Gohi)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/791/14493791_20260828120722_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938022"
-    },
-    {
-      "title": "Crying in the Club",
-      "artist": "Jeremy Que$t",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/817/14493817_20260828121652_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938125"
-    },
-    {
-      "title": "Human odor",
-      "artist": "홍단비",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/019/14494019_20260828125149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938557"
-    },
-    {
-      "title": "Run to me..",
-      "artist": "Odd95",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/90/873/14490873_20260827103547_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602927917"
-    },
-    {
-      "title": "Life 404",
-      "artist": "heyden",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/819/14493819_20260828121911_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938134"
-    },
-    {
-      "title": "Our seasons",
-      "artist": "인피니트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/272/14494272_20260828143848_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602939762"
-    },
-    {
-      "title": "To. Blue",
-      "artist": "이병찬",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/814/14493814_20260828121450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938112"
-    },
-    {
-      "title": "ROAD",
-      "artist": "KIK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/279/14494279_20260828144928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602939773"
-    },
-    {
-      "title": "Through the moon",
-      "artist": "정승환",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/505/14493505_20260828095153_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602937096"
-    },
-    {
-      "title": "When a star falls",
-      "artist": "경서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/837/14493837_20260828122517_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938208"
-    },
-    {
-      "title": "Your Summer",
-      "artist": "신의진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/811/14493811_20260828121240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938092"
-    },
-    {
-      "title": "feat. Shane",
-      "artist": "oftn (오픈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/856/14493856_20260828123337_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938261"
-    },
-    {
-      "title": "Monster of Solitude (Feat. Beast)",
-      "artist": "쏘망 (50mang)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/661/14494661_20260828164629_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602941028"
-    },
-    {
-      "title": "173",
-      "artist": "탁(배치기)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/417/14491417_20260827155640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929713"
     }
   ]
 }
