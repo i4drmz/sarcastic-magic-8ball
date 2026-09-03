@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-09-03T15:27:32.287Z",
+  "ranAt": "2026-09-03T20:16:57.586Z",
   "success": false,
-  "apiRequests": 19,
+  "apiRequests": 18,
   "providersRegistered": [
     "rss"
   ],
@@ -40,8 +40,8 @@
       "extracted": 3,
       "discarded": 56,
       "discardReasons": {
-        "not_event_announcement": 25,
-        "no_event_signal": 31
+        "not_event_announcement": 24,
+        "no_event_signal": 32
       }
     },
     {
@@ -55,8 +55,8 @@
       "extracted": 1,
       "discarded": 39,
       "discardReasons": {
-        "not_event_announcement": 11,
-        "no_event_signal": 28
+        "no_event_signal": 33,
+        "not_event_announcement": 6
       }
     },
     {
@@ -70,8 +70,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 3,
-        "no_event_signal": 7
+        "no_event_signal": 9,
+        "not_event_announcement": 1
       }
     },
     {
@@ -85,8 +85,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 2
+        "no_event_signal": 10
       }
     },
     {
@@ -100,8 +99,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 2
+        "no_event_signal": 10
       }
     },
     {
@@ -111,13 +109,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 1,
+      "eventRelated": 0,
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 3,
-        "no_event_signal": 6,
-        "not_kpop": 1
+        "not_event_announcement": 5,
+        "no_event_signal": 5
       }
     },
     {
@@ -131,8 +128,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 1,
-        "no_event_signal": 8,
+        "not_event_announcement": 2,
+        "no_event_signal": 7,
         "not_kpop": 1
       }
     },
@@ -168,16 +165,14 @@
       "id": "hellokpop",
       "label": "helloKpop",
       "url": "https://hellokpop.com/feed/",
-      "ok": true,
-      "httpStatus": 200,
-      "items": 3,
-      "eventRelated": 1,
-      "extracted": 1,
-      "discarded": 2,
-      "discardReasons": {
-        "not_event_announcement": 1,
-        "no_event_signal": 1
-      }
+      "ok": false,
+      "httpStatus": 0,
+      "items": 0,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 0,
+      "discardReasons": {},
+      "error": "fetch failed"
     },
     {
       "id": "biaslist",
@@ -195,16 +190,16 @@
       }
     }
   ],
-  "rawEvents": 7,
-  "afterDedupe": 7,
-  "afterUpcomingFilter": 7,
-  "totalItems": 243,
-  "totalEventRelated": 10,
-  "totalExtracted": 7,
-  "totalDiscarded": 235,
-  "extractionAccuracyPct": 70,
-  "previousCount": 6,
-  "writtenCount": 7,
+  "rawEvents": 6,
+  "afterDedupe": 6,
+  "afterUpcomingFilter": 6,
+  "totalItems": 240,
+  "totalEventRelated": 8,
+  "totalExtracted": 6,
+  "totalDiscarded": 233,
+  "extractionAccuracyPct": 75,
+  "previousCount": 7,
+  "writtenCount": 6,
   "changed": true,
   "published": false,
   "notes": [
@@ -214,12 +209,13 @@
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme: items=10 related=1 extracted=0 discarded=10",
+    "rss:nme: items=10 related=0 extracted=0 discarded=10",
     "rss:nme-music: items=10 related=1 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:hellokpop: items=3 related=1 extracted=1 discarded=2",
+    "rss:hellokpop: fetch failed",
+    "rss:hellokpop: items=0 related=0 extracted=0 discarded=0",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=6/7"
+    "rss:images resolved from articles=5/6"
   ]
 }
