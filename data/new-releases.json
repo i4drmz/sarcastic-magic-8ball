@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-02T21:10:08.039Z",
+  "generatedAt": "2026-09-03T04:45:07.246Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Crying Cyborg Manifesto",
+      "artist": "한희정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/500/14514500_20260902105530_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980889"
+    },
+    {
+      "title": "Radiohead",
+      "artist": "off the menu (오프더메뉴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/093/14497093_20260831113517_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602948666"
+    },
+    {
+      "title": "HEX",
+      "artist": "CIFIKA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/556/14514556_20260902111717_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602981093"
+    },
+    {
+      "title": "Wonderland",
+      "artist": "필름사운드",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/210/14517210_20260903095750_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602990065"
+    },
+    {
+      "title": "Dogme 95",
+      "artist": "알레프 (ALEPH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/053/14515053_20260902162358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602983111"
+    },
+    {
+      "title": "HAPPY LUCKY",
+      "artist": "김시원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/517/14514517_20260902110205_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980962"
+    },
     {
       "title": "I swallowed the piece of death",
       "artist": "주시크 (Joosiq)",
@@ -15,16 +51,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602970268"
     },
     {
+      "title": "Hide Away",
+      "artist": "최동혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/033/14515033_20260902155613_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602983053"
+    },
+    {
+      "title": "Rush day",
+      "artist": "김병철",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/475/14514475_20260902103505_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980780"
+    },
+    {
+      "title": "I can't help it",
+      "artist": "임지연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/513/14514513_20260902105911_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980933"
+    },
+    {
+      "title": "Saliva",
+      "artist": "황우림",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/501/14514501_20260902105532_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980899"
+    },
+    {
+      "title": "Cool In Summer",
+      "artist": "이츠허밍",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/518/14514518_20260902110226_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980963"
+    },
+    {
+      "title": "STARDEW VALLEY",
+      "artist": "레토",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/566/14514566_20260902112535_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602981115"
+    },
+    {
       "title": "BLUE MODE",
       "artist": "TUNEXX (튜넥스)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/290/14511290_20260901151914_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602970515"
     },
     {
+      "title": "American Ping Pong",
+      "artist": "올드 잉글리쉬 쉽독",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/814/14508814_20260901113122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602966454"
+    },
+    {
+      "title": "Thump Thump",
+      "artist": "권도연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/119/14515119_20260902164839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602983336"
+    },
+    {
       "title": "FREECHILD",
       "artist": "Kevin Moon",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/09/324/14509324_20260901120001_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602967230"
+    },
+    {
+      "title": "It's going to be a tree.",
+      "artist": "Dante",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/961/14508961_20260901113639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602966763"
+    },
+    {
+      "title": "YOU3 (ㅠㅠㅠ)",
+      "artist": "Nua",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/521/14514521_20260902110358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980988"
     },
     {
       "title": "Sunflowers",
@@ -205,102 +301,6 @@
       "artist": "Rad Museum",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/818/14493818_20260828121741_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602938133"
-    },
-    {
-      "title": "Since last call",
-      "artist": "이우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/133/14497133_20260831114451_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602948835"
-    },
-    {
-      "title": "At that time, we",
-      "artist": "지진석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/732/14497732_20260831134633_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602949868"
-    },
-    {
-      "title": "Time Sleep",
-      "artist": "WhOLLiN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/028/14497028_20260831110249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602948516"
-    },
-    {
-      "title": "Why! Am I taking care of you? (Feat. Sunwoo)",
-      "artist": "마야",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/029/14497029_20260831110328_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602948517"
-    },
-    {
-      "title": "feat. TRADE L",
-      "artist": "리트릴라 (LiTrilla)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/550/14491550_20260827171415_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602930192"
-    },
-    {
-      "title": "bare. foot",
-      "artist": "jambino",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/756/14497756_20260831134929_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602949895"
-    },
-    {
-      "title": "Shine Again",
-      "artist": "심은진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/031/14497031_20260831110450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602948520"
-    },
-    {
-      "title": "Digital Killer",
-      "artist": "이루리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/794/14497794_20260831135432_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602949999"
-    },
-    {
-      "title": "To My Stars",
-      "artist": "전유진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/272/14498272_20260831164944_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602951946"
-    },
-    {
-      "title": "over time",
-      "artist": "경제환",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/771/14497771_20260831135044_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602949923"
-    },
-    {
-      "title": "Let go",
-      "artist": "homezone",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/802/14497802_20260831140001_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602950072"
-    },
-    {
-      "title": "Astrology",
-      "artist": "다양성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/798/14497798_20260831135704_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602950026"
-    },
-    {
-      "title": "Blue Medicine",
-      "artist": "pshine (피샤인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/334/14494334_20260828150900_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602939960"
-    },
-    {
-      "title": "Skibidi",
-      "artist": "소녀시대-효리수 (Girls' Generation-HRS)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/94/370/14494370_20260828152343_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602940179"
-    },
-    {
-      "title": "FLOAT",
-      "artist": "태민 (TAEMIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/528/14493528_20260828100129_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602937189"
-    },
-    {
-      "title": "To Park",
-      "artist": "이날(YNR)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/91/418/14491418_20260827155640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602929714"
     }
   ]
 }
