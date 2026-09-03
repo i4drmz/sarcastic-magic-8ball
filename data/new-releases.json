@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-09-03T04:45:07.246Z",
+  "generatedAt": "2026-09-03T11:27:47.752Z",
   "count": 50,
   "songs": [
+    {
+      "title": "DEJAVU",
+      "artist": "권은비",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/891/14514891_20260902151518_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982516"
+    },
+    {
+      "title": "Love is forgotten for a different love",
+      "artist": "김나영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/010/14515010_20260902154420_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982952"
+    },
+    {
+      "title": "Baby (Feat. Moonshanel of Fifty-Fifty)",
+      "artist": "동해 (DONGHAE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/480/14514480_20260902103637_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980786"
+    },
+    {
+      "title": "I'll talk to you",
+      "artist": "박종민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/007/14515007_20260902154153_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982948"
+    },
+    {
+      "title": "U",
+      "artist": "식케이 (Sik-K)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/890/14514890_20260902151438_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982515"
+    },
+    {
+      "title": "with TRADE L",
+      "artist": "MilliMax (밀리맥스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/547/14514547_20260902111043_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602981071"
+    },
+    {
+      "title": "Chrome",
+      "artist": "IVNIT (이브닛)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/169/14515169_20260902165523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602983461"
+    },
+    {
+      "title": "We will meet again",
+      "artist": "스웨덴세탁소",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/017/14515017_20260902154912_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982978"
+    },
+    {
+      "title": "Turning around behind you",
+      "artist": "제이세라",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/499/14514499_20260902105512_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602980887"
+    },
+    {
+      "title": "Fight again",
+      "artist": "HD BL4CK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/680/14514680_20260902114604_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602981691"
+    },
+    {
+      "title": "REQUIEM",
+      "artist": "ChRocktikal (크록티칼)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/185/14511185_20260901151303_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602970399"
+    },
+    {
+      "title": "Maiden Flight",
+      "artist": "W3WAY(위웨이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/528/14514528_20260902110703_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602981037"
+    },
     {
       "title": "Crying Cyborg Manifesto",
       "artist": "한희정",
@@ -229,78 +301,6 @@
       "artist": "은우주 (WZN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/109/14508109_20260901103512_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602965060"
-    },
-    {
-      "title": "I thought it was Fluting.",
-      "artist": "푸른만월",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/366/14508366_20260901104539_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602965419"
-    },
-    {
-      "title": "México",
-      "artist": "청하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/286/14498286_20260831165153_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602952002"
-    },
-    {
-      "title": "Home",
-      "artist": "연준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/743/14497743_20260831134753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602949879"
-    },
-    {
-      "title": "Can I say happiness like that?",
-      "artist": "미즈이로 (Mizuiro)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/09/248/14509248_20260901115523_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602967110"
-    },
-    {
-      "title": "Midnight Vibe",
-      "artist": "키젤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/191/14498191_20260831163853_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602951666"
-    },
-    {
-      "title": "Onatrip",
-      "artist": "PEEPPEEP",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/906/14497906_20260831144327_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602950543"
-    },
-    {
-      "title": "Tell me who you are",
-      "artist": "조이어클락 (Joy o'clock)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/927/14497927_20260831144625_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602950603"
-    },
-    {
-      "title": "Feat. Dimpler",
-      "artist": "이지보이 (Eizzyboy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/287/14508287_20260901104241_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602965323"
-    },
-    {
-      "title": "Swallow Han",
-      "artist": "김빡",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/10/937/14510937_20260901142143_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602969988"
-    },
-    {
-      "title": "Begin Again",
-      "artist": "Switcbak",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/151/14511151_20260901150340_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970329"
-    },
-    {
-      "title": "There are people who love you",
-      "artist": "주현민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/993/14508993_20260901113903_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602966799"
-    },
-    {
-      "title": "feat. Zior Park",
-      "artist": "Rad Museum",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/93/818/14493818_20260828121741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602938133"
     }
   ]
 }
