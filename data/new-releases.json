@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T04:49:30.012Z",
+  "generatedAt": "2026-09-04T11:37:39.392Z",
   "count": 50,
   "songs": [
     {
@@ -15,10 +15,88 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602993117"
     },
     {
+      "title": "Prod. by GroovyRoom, Crush, 3RACHA of Stray Kids",
+      "artist": "DJ TUKUTZ",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/986/14517986_20260903155852_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993901"
+    },
+    {
+      "title": "DREAMS COME TRUE",
+      "artist": "박은빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/879/14517879_20260903152847_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993605"
+    },
+    {
       "title": "OUTWEST",
       "artist": "텐 (TEN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/626/14517626_20260903130249_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602992595"
+    },
+    {
+      "title": "Love: sea",
+      "artist": "뉴(NEW)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/590/14517590_20260903124113_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992399"
+    },
+    {
+      "title": "feat. Raf Sandou",
+      "artist": "DIMO REX",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/652/14517652_20260903134101_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992651"
+    },
+    {
+      "title": "2026",
+      "artist": "전건호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/462/14517462_20260903121229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602991976"
+    },
+    {
+      "title": "If l Die Tomorrow",
+      "artist": "어센트(ASC2NT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/740/14464740_20260819192823_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602845481"
+    },
+    {
+      "title": "Fxxkin' Rockstar",
+      "artist": "can’t be blue",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/713/14517713_20260903173741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993110"
+    },
+    {
+      "title": "The day you spent",
+      "artist": "주대건",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/869/14517869_20260903151554_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993555"
+    },
+    {
+      "title": "JEY Remix",
+      "artist": "구피 (Goopy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/306/14512306_20260901174546_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602973362"
+    },
+    {
+      "title": "If you were my end,",
+      "artist": "재연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/990/14517990_20260903160123_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993909"
+    },
+    {
+      "title": "2026 Duet.",
+      "artist": "김유안",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/989/14517989_20260903160109_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993907"
+    },
+    {
+      "title": "I'm not okay",
+      "artist": "오아랜 (or&)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/991/14517991_20260903160239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993911"
+    },
+    {
+      "title": "Four Pyeong Maze",
+      "artist": "강민정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/979/14517979_20260903155719_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993891"
     },
     {
       "title": "Youth Train",
@@ -31,12 +109,6 @@
       "artist": "사공 (Sagong)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/505/14439505_20260811115221_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602765373"
-    },
-    {
-      "title": "Fxxkin' Rockstar",
-      "artist": "can’t be blue",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/713/14517713_20260903173741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993110"
     },
     {
       "title": "H.O.W's Delight",
@@ -229,78 +301,6 @@
       "artist": "필름사운드",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/210/14517210_20260903095750_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602990065"
-    },
-    {
-      "title": "Dogme 95",
-      "artist": "알레프 (ALEPH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/053/14515053_20260902162358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602983111"
-    },
-    {
-      "title": "HAPPY LUCKY",
-      "artist": "김시원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/517/14514517_20260902110205_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980962"
-    },
-    {
-      "title": "I swallowed the piece of death",
-      "artist": "주시크 (Joosiq)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/770/14508770_20260901112815_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602966230"
-    },
-    {
-      "title": "Cover letter",
-      "artist": "남유정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/137/14511137_20260901143548_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970268"
-    },
-    {
-      "title": "Hide Away",
-      "artist": "최동혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/033/14515033_20260902155613_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602983053"
-    },
-    {
-      "title": "Rush day",
-      "artist": "김병철",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/475/14514475_20260902103505_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980780"
-    },
-    {
-      "title": "I can't help it",
-      "artist": "임지연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/513/14514513_20260902105911_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980933"
-    },
-    {
-      "title": "Saliva",
-      "artist": "황우림",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/501/14514501_20260902105532_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980899"
-    },
-    {
-      "title": "Cool In Summer",
-      "artist": "이츠허밍",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/518/14514518_20260902110226_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980963"
-    },
-    {
-      "title": "STARDEW VALLEY",
-      "artist": "레토",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/566/14514566_20260902112535_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602981115"
-    },
-    {
-      "title": "BLUE MODE",
-      "artist": "TUNEXX (튜넥스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/290/14511290_20260901151914_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970515"
-    },
-    {
-      "title": "American Ping Pong",
-      "artist": "올드 잉글리쉬 쉽독",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/814/14508814_20260901113122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602966454"
     }
   ]
 }
