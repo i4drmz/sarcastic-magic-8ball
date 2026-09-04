@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-03T21:14:33.986Z",
+  "generatedAt": "2026-09-04T04:49:30.012Z",
   "count": 50,
   "songs": [
+    {
+      "title": "MAGIC",
+      "artist": "몬스타엑스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/878/14517878_20260903152750_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993599"
+    },
+    {
+      "title": "CLICK",
+      "artist": "지수 (JISOO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/717/14517717_20260903140753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993117"
+    },
+    {
+      "title": "OUTWEST",
+      "artist": "텐 (TEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/626/14517626_20260903130249_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992595"
+    },
+    {
+      "title": "Youth Train",
+      "artist": "허찬미",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/875/14517875_20260903152449_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993578"
+    },
+    {
+      "title": "What do you think? (Feat. Chaul)",
+      "artist": "사공 (Sagong)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/505/14439505_20260811115221_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602765373"
+    },
+    {
+      "title": "Fxxkin' Rockstar",
+      "artist": "can’t be blue",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/713/14517713_20260903173741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993110"
+    },
+    {
+      "title": "H.O.W's Delight",
+      "artist": "HEART OF WOMAN (하트오브우먼)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/874/14517874_20260903152343_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993577"
+    },
+    {
+      "title": "2026",
+      "artist": "아샤트리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/980/14517980_20260903155720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993894"
+    },
+    {
+      "title": "What's my name?",
+      "artist": "황세현 (h3hyeon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/956/14517956_20260903155328_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993840"
+    },
+    {
+      "title": "feat. sido",
+      "artist": "수우 (soowoo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/485/14512485_20260901182822_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602973774"
+    },
     {
       "title": "DEJAVU",
       "artist": "권은비",
@@ -15,10 +75,82 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602982952"
     },
     {
+      "title": "When I think of you,",
+      "artist": "에스프레소",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/939/14517939_20260903154920_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993790"
+    },
+    {
+      "title": "Art. songseoul",
+      "artist": "Anonymous Artists(어나니머스 아티스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/463/14517463_20260903121329_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602991978"
+    },
+    {
+      "title": "Feat. Jay Chang",
+      "artist": "RAPH4EL",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/655/14517655_20260903134234_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992663"
+    },
+    {
+      "title": "I still love you.",
+      "artist": "진엘 (브라더스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/660/14517660_20260903134810_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992672"
+    },
+    {
+      "title": "Yeosu Saranga",
+      "artist": "김다현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/587/14517587_20260903124012_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992395"
+    },
+    {
+      "title": "Howlinsomewhere",
+      "artist": "Howlin",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/861/14517861_20260903151445_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993542"
+    },
+    {
+      "title": "No (feat. Soojin)",
+      "artist": "종이달",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/843/14514843_20260902144459_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982381"
+    },
+    {
       "title": "Baby (Feat. Moonshanel of Fifty-Fifty)",
       "artist": "동해 (DONGHAE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/480/14514480_20260902103637_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602980786"
+    },
+    {
+      "title": "two sides",
+      "artist": "LOWELL STRAIGHT",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/658/14517658_20260903134655_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992670"
+    },
+    {
+      "title": "Black Saffron",
+      "artist": "kaenavi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/966/14517966_20260903155601_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993862"
+    },
+    {
+      "title": "Feat. LOBO",
+      "artist": "서준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/954/14517954_20260903155257_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993836"
+    },
+    {
+      "title": "It's okay to leave",
+      "artist": "김민울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/267/14517267_20260903103102_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602990163"
+    },
+    {
+      "title": "Mirage",
+      "artist": "Phase Shifter",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/846/14514846_20260902145618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982393"
     },
     {
       "title": "I'll talk to you",
@@ -169,138 +301,6 @@
       "artist": "올드 잉글리쉬 쉽독",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/814/14508814_20260901113122_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602966454"
-    },
-    {
-      "title": "Thump Thump",
-      "artist": "권도연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/119/14515119_20260902164839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602983336"
-    },
-    {
-      "title": "FREECHILD",
-      "artist": "Kevin Moon",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/09/324/14509324_20260901120001_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602967230"
-    },
-    {
-      "title": "It's going to be a tree.",
-      "artist": "Dante",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/961/14508961_20260901113639_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602966763"
-    },
-    {
-      "title": "YOU3 (ㅠㅠㅠ)",
-      "artist": "Nua",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/521/14514521_20260902110358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980988"
-    },
-    {
-      "title": "Sunflowers",
-      "artist": "Heon Seo (헌서)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/032/14497032_20260831110500_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602948524"
-    },
-    {
-      "title": "RUSH!",
-      "artist": "펀치넬로 (punchnello)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/942/14497942_20260831145031_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602950632"
-    },
-    {
-      "title": "ge sekki",
-      "artist": "Jeffrey White",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/138/14511138_20260901143840_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970272"
-    },
-    {
-      "title": "Look At Me!",
-      "artist": "ICHILLIN' J",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/246/14511246_20260901151651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970469"
-    },
-    {
-      "title": "Take it away",
-      "artist": "윤딴딴",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/402/14508402_20260901104719_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602965460"
-    },
-    {
-      "title": "I loved you,",
-      "artist": "윤석원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/87/839/14487839_20260826152033_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602918363"
-    },
-    {
-      "title": "Between Heart and Heart",
-      "artist": "셀린 (Celine)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/219/14512219_20260901171730_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602973082"
-    },
-    {
-      "title": "Super Star",
-      "artist": "신원호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/427/14508427_20260901104827_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602965507"
-    },
-    {
-      "title": "MY BLISS",
-      "artist": "KOZ (코즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/001/14511001_20260901142445_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970055"
-    },
-    {
-      "title": "foot",
-      "artist": "O.O.O (오오오)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/10/968/14510968_20260901142327_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970021"
-    },
-    {
-      "title": "Eye to Eye",
-      "artist": "kwacamolee",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/158/14498158_20260831161544_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602951457"
-    },
-    {
-      "title": "P.S. (Feat. Contemporaneous)",
-      "artist": "TSLW",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/304/14508304_20260901104314_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602965342"
-    },
-    {
-      "title": "Heaven",
-      "artist": "웨이브 콜",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/321/14511321_20260901152055_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970548"
-    },
-    {
-      "title": "Preview",
-      "artist": "문종민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/221/14512221_20260901171731_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602973084"
-    },
-    {
-      "title": "Sensation",
-      "artist": "pastcurfew",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/258/14508258_20260901104135_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602965286"
-    },
-    {
-      "title": "Slow It Down",
-      "artist": "필릭스 (Stray Kids)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/146/14497146_20260831114916_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602948910"
-    },
-    {
-      "title": "Like Fire",
-      "artist": "82MAJOR(82메이저)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/292/14498292_20260831165234_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602952011"
-    },
-    {
-      "title": "feat. MilliMax",
-      "artist": "은우주 (WZN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/109/14508109_20260901103512_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602965060"
     }
   ]
 }
