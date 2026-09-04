@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T20:16:57.586Z",
-  "lastUpdated": "2026-09-03T20:16:57.586Z",
+  "generatedAt": "2026-09-04T10:09:41.303Z",
+  "lastUpdated": "2026-09-04T10:09:41.303Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop"
+    "hellokpop"
   ],
   "events": [
     {
@@ -25,27 +25,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867806wpp/so-ji-sub-announces-dates-and-cities-for-2026-asia-fan-meeting-tour-soulmate-the-timeless",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-03T20:16:57.586Z"
-    },
-    {
-      "id": "evt-4f6adb72b91417c0",
-      "type": "Concert",
-      "title": "First Fan Concert",
-      "artist": "MODYSSEY",
-      "group": "MODYSSEY",
-      "date": "2026-09-03",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "MODYSSEY FIRST FAN CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/modyssey-announce-first-fan-concert-tour-with-october-dates-in-osaka-yokohama-seoul-and-macau",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-09-03T20:16:57.586Z"
+      "lastUpdated": "2026-09-04T10:09:41.303Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -65,7 +45,27 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-03T20:16:57.586Z"
+      "lastUpdated": "2026-09-04T10:09:41.303Z"
+    },
+    {
+      "id": "evt-ee8ccb0b82755fd6",
+      "type": "Concert",
+      "title": "World Tour “STEAL THE WIND”",
+      "artist": "TOMORROW X TOGETHER",
+      "group": "TOMORROW X TOGETHER",
+      "date": "2026-08-28",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
+      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
+      "ticketUrl": null,
+      "source": "rss:hellokpop",
+      "lastUpdated": "2026-09-04T10:09:41.303Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-03T20:16:57.586Z"
+      "lastUpdated": "2026-09-04T10:09:41.303Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -105,27 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-03T20:16:57.586Z"
-    },
-    {
-      "id": "evt-c4bbfe5b5d5672a2",
-      "type": "Concert",
-      "title": "BIGBANG Makes Legendary Return To Celebrate 20th Anniversary At “XX : COSMOS” World Tour In Goyang",
-      "artist": null,
-      "group": null,
-      "date": "2026-08-23",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/23070946/17.jpg",
-      "shortDescription": "BIGBANG is celebrating their 20th anniversary with a bang! From August 21 to 23, BIGBANG kicked off their 2026-2027 world tour “XX : COSMOS” at Goyang Stadium. The Goyang concert began with a thunderous start as they pulled out the big g…",
-      "sourceUrl": "https://www.soompi.com/article/1864857wpp/exclusive-bigbang-makes-legendary-return-to-celebrate-20th-anniversary-at-xx-cosmos-world-tour-in-goyang",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-03T20:16:57.586Z"
+      "lastUpdated": "2026-09-04T10:09:41.303Z"
     }
   ]
 }
