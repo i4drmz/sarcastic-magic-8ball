@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-05T04:41:59.206Z",
+  "generatedAt": "2026-09-05T10:46:37.479Z",
   "count": 50,
   "songs": [
+    {
+      "title": "The Light She Once Lost",
+      "artist": "일레인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/278/14521278_20260904124956_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004244"
+    },
+    {
+      "title": "You can't love again",
+      "artist": "솔지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/100/14521100_20260904112141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003501"
+    },
+    {
+      "title": "If it's you",
+      "artist": "범진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/099/14521099_20260904112141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003500"
+    },
+    {
+      "title": "The whole world became a dream",
+      "artist": "경서예지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/124/14521124_20260904112454_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003593"
+    },
+    {
+      "title": "I'll be there for you",
+      "artist": "윤원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/267/14521267_20260904124349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004182"
+    },
+    {
+      "title": "No Rational",
+      "artist": "aiiyh",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/284/14512284_20260901173425_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602973296"
+    },
     {
       "title": "Tears",
       "artist": "김선재",
@@ -13,6 +49,18 @@
       "artist": "문현아",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/268/14521268_20260904124402_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603004184"
+    },
+    {
+      "title": "25",
+      "artist": "Placebo Junkies",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/826/14521826_20260904145002_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603005273"
+    },
+    {
+      "title": "RAIN MAN",
+      "artist": "NARIN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/282/14521282_20260904125311_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004251"
     },
     {
       "title": "Samogok",
@@ -253,54 +301,6 @@
       "artist": "RAPH4EL",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/655/14517655_20260903134234_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602992663"
-    },
-    {
-      "title": "I still love you.",
-      "artist": "진엘 (브라더스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/660/14517660_20260903134810_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992672"
-    },
-    {
-      "title": "Yeosu Saranga",
-      "artist": "김다현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/587/14517587_20260903124012_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992395"
-    },
-    {
-      "title": "Howlinsomewhere",
-      "artist": "Howlin",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/861/14517861_20260903151445_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993542"
-    },
-    {
-      "title": "No (feat. Soojin)",
-      "artist": "종이달",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/843/14514843_20260902144459_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982381"
-    },
-    {
-      "title": "Baby (Feat. Moonshanel of Fifty-Fifty)",
-      "artist": "동해 (DONGHAE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/480/14514480_20260902103637_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980786"
-    },
-    {
-      "title": "two sides",
-      "artist": "LOWELL STRAIGHT",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/658/14517658_20260903134655_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992670"
-    },
-    {
-      "title": "Black Saffron",
-      "artist": "kaenavi",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/966/14517966_20260903155601_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993862"
-    },
-    {
-      "title": "Feat. LOBO",
-      "artist": "서준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/954/14517954_20260903155257_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993836"
     }
   ]
 }
