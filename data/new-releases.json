@@ -1,18 +1,42 @@
 {
-  "generatedAt": "2026-09-04T20:52:41.771Z",
+  "generatedAt": "2026-09-05T04:41:59.206Z",
   "count": 50,
   "songs": [
     {
-      "title": "MAGIC",
-      "artist": "몬스타엑스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/878/14517878_20260903152750_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993599"
+      "title": "Tears",
+      "artist": "김선재",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/263/14521263_20260904124200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004174"
     },
     {
-      "title": "CLICK",
-      "artist": "지수 (JISOO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/717/14517717_20260903140753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993117"
+      "title": "Smudge",
+      "artist": "문현아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/268/14521268_20260904124402_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004184"
+    },
+    {
+      "title": "Samogok",
+      "artist": "김용빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/127/14521127_20260904112556_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003607"
+    },
+    {
+      "title": "BOO",
+      "artist": "LEY (래이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/719/14517719_20260903140920_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993119"
+    },
+    {
+      "title": "Why are you so",
+      "artist": "yawn",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/273/14521273_20260904124618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004217"
+    },
+    {
+      "title": "feat. 104",
+      "artist": "타미즈 (Tamiz)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/793/14521793_20260904143939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603005153"
     },
     {
       "title": "Prod. by GroovyRoom, Crush, 3RACHA of Stray Kids",
@@ -27,10 +51,28 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602993605"
     },
     {
-      "title": "OUTWEST",
-      "artist": "텐 (TEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/626/14517626_20260903130249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992595"
+      "title": "Autumn must be here",
+      "artist": "리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/025/14521025_20260904104147_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003240"
+    },
+    {
+      "title": "Don't cross that river",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/273/14512273_20260901173318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602973269"
+    },
+    {
+      "title": "memory",
+      "artist": "황지언 (hwangjieon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/182/14521182_20260904115929_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003807"
+    },
+    {
+      "title": "Ice Lake",
+      "artist": "김소년 (BoyKim)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/097/14521097_20260904111944_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003495"
     },
     {
       "title": "Love: sea",
@@ -45,6 +87,36 @@
       "link": "https://www.melon.com/song/detail.htm?songId=602992651"
     },
     {
+      "title": "The 30s are cute.",
+      "artist": "핀아 (Pin-A)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/663/14518663_20260903181035_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602996309"
+    },
+    {
+      "title": "Dream",
+      "artist": "안효주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/265/14521265_20260904124301_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004177"
+    },
+    {
+      "title": "No destination",
+      "artist": "승후",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/275/14521275_20260904124819_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004228"
+    },
+    {
+      "title": "Courtship",
+      "artist": "최세윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/896/14517896_20260903153211_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993655"
+    },
+    {
+      "title": "First Love",
+      "artist": "그려준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/277/14521277_20260904124854_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004241"
+    },
+    {
       "title": "2026",
       "artist": "전건호",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/462/14517462_20260903121229_500.jpg",
@@ -55,6 +127,24 @@
       "artist": "어센트(ASC2NT)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/740/14464740_20260819192823_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602845481"
+    },
+    {
+      "title": "MAGIC",
+      "artist": "몬스타엑스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/878/14517878_20260903152750_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993599"
+    },
+    {
+      "title": "CLICK",
+      "artist": "지수 (JISOO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/717/14517717_20260903140753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993117"
+    },
+    {
+      "title": "OUTWEST",
+      "artist": "텐 (TEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/626/14517626_20260903130249_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992595"
     },
     {
       "title": "Fxxkin' Rockstar",
@@ -211,96 +301,6 @@
       "artist": "서준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/954/14517954_20260903155257_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602993836"
-    },
-    {
-      "title": "It's okay to leave",
-      "artist": "김민울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/267/14517267_20260903103102_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602990163"
-    },
-    {
-      "title": "Mirage",
-      "artist": "Phase Shifter",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/846/14514846_20260902145618_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982393"
-    },
-    {
-      "title": "I'll talk to you",
-      "artist": "박종민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/007/14515007_20260902154153_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982948"
-    },
-    {
-      "title": "U",
-      "artist": "식케이 (Sik-K)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/890/14514890_20260902151438_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982515"
-    },
-    {
-      "title": "with TRADE L",
-      "artist": "MilliMax (밀리맥스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/547/14514547_20260902111043_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602981071"
-    },
-    {
-      "title": "Chrome",
-      "artist": "IVNIT (이브닛)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/169/14515169_20260902165523_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602983461"
-    },
-    {
-      "title": "We will meet again",
-      "artist": "스웨덴세탁소",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/017/14515017_20260902154912_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982978"
-    },
-    {
-      "title": "Turning around behind you",
-      "artist": "제이세라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/499/14514499_20260902105512_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980887"
-    },
-    {
-      "title": "Fight again",
-      "artist": "HD BL4CK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/680/14514680_20260902114604_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602981691"
-    },
-    {
-      "title": "REQUIEM",
-      "artist": "ChRocktikal (크록티칼)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/185/14511185_20260901151303_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602970399"
-    },
-    {
-      "title": "Maiden Flight",
-      "artist": "W3WAY(위웨이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/528/14514528_20260902110703_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602981037"
-    },
-    {
-      "title": "Crying Cyborg Manifesto",
-      "artist": "한희정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/500/14514500_20260902105530_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602980889"
-    },
-    {
-      "title": "Radiohead",
-      "artist": "off the menu (오프더메뉴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/97/093/14497093_20260831113517_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602948666"
-    },
-    {
-      "title": "HEX",
-      "artist": "CIFIKA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/556/14514556_20260902111717_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602981093"
-    },
-    {
-      "title": "Wonderland",
-      "artist": "필름사운드",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/210/14517210_20260903095750_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602990065"
     }
   ]
 }
