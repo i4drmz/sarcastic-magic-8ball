@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-04T20:01:26.802Z",
-  "lastUpdated": "2026-09-04T20:01:26.802Z",
+  "generatedAt": "2026-09-05T09:38:33.534Z",
+  "lastUpdated": "2026-09-05T09:38:33.534Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "hellokpop"
+    "soompi-music"
   ],
   "events": [
     {
@@ -25,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867806wpp/so-ji-sub-announces-dates-and-cities-for-2026-asia-fan-meeting-tour-soulmate-the-timeless",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-04T20:01:26.802Z"
+      "lastUpdated": "2026-09-05T09:38:33.534Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -44,28 +43,8 @@
       "shortDescription": "MODYSSEY FAN CONCERT COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-09-04T20:01:26.802Z"
-    },
-    {
-      "id": "evt-ee8ccb0b82755fd6",
-      "type": "Concert",
-      "title": "World Tour “STEAL THE WIND”",
-      "artist": "TOMORROW X TOGETHER",
-      "group": "TOMORROW X TOGETHER",
-      "date": "2026-08-28",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
-      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
-      "ticketUrl": null,
-      "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-04T20:01:26.802Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-09-05T09:38:33.534Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -85,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-04T20:01:26.802Z"
+      "lastUpdated": "2026-09-05T09:38:33.534Z"
     },
     {
       "id": "evt-86ce62d6bc5279cd",
@@ -105,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-04T20:01:26.802Z"
+      "lastUpdated": "2026-09-05T09:38:33.534Z"
     }
   ]
 }
