@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-06T04:51:23.899Z",
+  "generatedAt": "2026-09-06T11:08:42.242Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Know you, Feel you",
+      "artist": "소수빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/302/14521302_20260904130331_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004317"
+    },
+    {
+      "title": "Oasis",
+      "artist": "정동하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/262/14521262_20260904124137_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004167"
+    },
+    {
+      "title": "That's Our Love Part.1",
+      "artist": "남규리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/264/14521264_20260904124236_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004175"
+    },
+    {
+      "title": "don't forget about me",
+      "artist": "신예영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/183/14521183_20260904120138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003808"
+    },
+    {
+      "title": "I have to sleep.",
+      "artist": "Chan (찬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/726/14517726_20260903141042_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993128"
+    },
+    {
+      "title": "Where are we going now?",
+      "artist": "김결",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/102/14521102_20260904112142_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003505"
+    },
+    {
+      "title": "Feat. BOBBY",
+      "artist": "BE'O (비오)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/261/14521261_20260904124135_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004166"
+    },
+    {
+      "title": "Second Farewell",
+      "artist": "가엘(에코비)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/681/14517681_20260903135443_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992786"
+    },
+    {
+      "title": "What a day",
+      "artist": "아이보리 (Ivory)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/798/14521798_20260904144144_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603005186"
+    },
+    {
+      "title": "Another time",
+      "artist": "이민정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/299/14521299_20260904130240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004313"
+    },
     {
       "title": "Adult Dreams",
       "artist": "김혜림",
@@ -241,66 +301,6 @@
       "artist": "어센트(ASC2NT)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/740/14464740_20260819192823_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602845481"
-    },
-    {
-      "title": "MAGIC",
-      "artist": "몬스타엑스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/878/14517878_20260903152750_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993599"
-    },
-    {
-      "title": "CLICK",
-      "artist": "지수 (JISOO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/717/14517717_20260903140753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993117"
-    },
-    {
-      "title": "OUTWEST",
-      "artist": "텐 (TEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/626/14517626_20260903130249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992595"
-    },
-    {
-      "title": "Fxxkin' Rockstar",
-      "artist": "can’t be blue",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/713/14517713_20260903173741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993110"
-    },
-    {
-      "title": "The day you spent",
-      "artist": "주대건",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/869/14517869_20260903151554_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993555"
-    },
-    {
-      "title": "JEY Remix",
-      "artist": "구피 (Goopy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/306/14512306_20260901174546_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602973362"
-    },
-    {
-      "title": "If you were my end,",
-      "artist": "재연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/990/14517990_20260903160123_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993909"
-    },
-    {
-      "title": "2026 Duet.",
-      "artist": "김유안",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/989/14517989_20260903160109_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993907"
-    },
-    {
-      "title": "I'm not okay",
-      "artist": "오아랜 (or&)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/991/14517991_20260903160239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993911"
-    },
-    {
-      "title": "Four Pyeong Maze",
-      "artist": "강민정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/979/14517979_20260903155719_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993891"
     }
   ]
 }
