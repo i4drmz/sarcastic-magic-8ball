@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-05T20:31:24.264Z",
+  "generatedAt": "2026-09-06T04:51:23.899Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Adult Dreams",
+      "artist": "김혜림",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/295/14521295_20260904125814_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004282"
+    },
+    {
+      "title": "I wrote down your name,",
+      "artist": "박연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/725/14517725_20260903140952_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993126"
+    },
+    {
+      "title": "Idol",
+      "artist": "tomikyo",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/674/14517674_20260903135241_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602992765"
+    },
+    {
+      "title": "Me on that day",
+      "artist": "마루리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/096/14521096_20260904111727_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003486"
+    },
+    {
+      "title": "Summer Fool",
+      "artist": "Jaded (제이디드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/837/14521837_20260904145359_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603005320"
+    },
+    {
+      "title": "bosom",
+      "artist": "이고요",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/669/14518669_20260903181240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602996323"
+    },
     {
       "title": "The Light She Once Lost",
       "artist": "일레인",
@@ -37,6 +73,36 @@
       "artist": "aiiyh",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/284/14512284_20260901173425_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602973296"
+    },
+    {
+      "title": "Sillage",
+      "artist": "Yohan.D (요한디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/104/14521104_20260904112143_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003508"
+    },
+    {
+      "title": "Baby Swing",
+      "artist": "러니 (RUNY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/569/14521569_20260904140639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004689"
+    },
+    {
+      "title": "NO LIMIT",
+      "artist": "Milli Oshyun (밀리오션)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/291/14521291_20260904125513_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004266"
+    },
+    {
+      "title": "KIN KIN PARK キンキン広場 09:15 am",
+      "artist": "Off-Earth Pirate Radio Station",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/916/14517916_20260903153650_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993688"
+    },
+    {
+      "title": "Savage",
+      "artist": "muhpy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/172/14515172_20260902165526_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602983468"
     },
     {
       "title": "Tears",
@@ -235,72 +301,6 @@
       "artist": "강민정",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/979/14517979_20260903155719_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602993891"
-    },
-    {
-      "title": "Youth Train",
-      "artist": "허찬미",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/875/14517875_20260903152449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993578"
-    },
-    {
-      "title": "What do you think? (Feat. Chaul)",
-      "artist": "사공 (Sagong)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/39/505/14439505_20260811115221_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602765373"
-    },
-    {
-      "title": "H.O.W's Delight",
-      "artist": "HEART OF WOMAN (하트오브우먼)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/874/14517874_20260903152343_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993577"
-    },
-    {
-      "title": "2026",
-      "artist": "아샤트리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/980/14517980_20260903155720_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993894"
-    },
-    {
-      "title": "What's my name?",
-      "artist": "황세현 (h3hyeon)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/956/14517956_20260903155328_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993840"
-    },
-    {
-      "title": "feat. sido",
-      "artist": "수우 (soowoo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/485/14512485_20260901182822_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602973774"
-    },
-    {
-      "title": "DEJAVU",
-      "artist": "권은비",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/891/14514891_20260902151518_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982516"
-    },
-    {
-      "title": "Love is forgotten for a different love",
-      "artist": "김나영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/010/14515010_20260902154420_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982952"
-    },
-    {
-      "title": "When I think of you,",
-      "artist": "에스프레소",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/939/14517939_20260903154920_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993790"
-    },
-    {
-      "title": "Art. songseoul",
-      "artist": "Anonymous Artists(어나니머스 아티스트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/463/14517463_20260903121329_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602991978"
-    },
-    {
-      "title": "Feat. Jay Chang",
-      "artist": "RAPH4EL",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/655/14517655_20260903134234_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992663"
     }
   ]
 }
