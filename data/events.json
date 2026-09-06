@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-09-06T14:36:03.425Z",
-  "lastUpdated": "2026-09-06T14:36:03.425Z",
+  "generatedAt": "2026-09-06T19:44:40.919Z",
+  "lastUpdated": "2026-09-06T19:44:40.919Z",
   "sourceSummary": [
+    "soompi",
     "soompi-music",
     "hellokpop"
   ],
   "events": [
+    {
+      "id": "evt-8fd701804b555711",
+      "type": "Concert",
+      "title": "Watch: KickFlip Announces Comeback Schedule + Plans For 1st Tour “ROCK OFF THE WALL”",
+      "artist": null,
+      "group": null,
+      "date": "2026-09-06",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/06083207/KickFlip.jpeg",
+      "shortDescription": "Get ready: KickFlip is going on tour for the very first time! On September 7 at midnight KST, KickFlip released the schedule for their upcoming comeback with their fifth mini album “KICK OFF THE WALL Pt. 1” and its two title tracks. Firs…",
+      "sourceUrl": "https://www.soompi.com/article/1868426wpp/watch-kickflip-announces-comeback-schedule-plans-for-1st-tour-rock-off-the-wall",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-09-06T19:44:40.919Z"
+    },
     {
       "id": "evt-639da08bc5f8c068",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-06T14:36:03.425Z"
+      "lastUpdated": "2026-09-06T19:44:40.919Z"
     },
     {
       "id": "evt-ee8ccb0b82755fd6",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-06T14:36:03.425Z"
+      "lastUpdated": "2026-09-06T19:44:40.919Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -64,27 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-06T14:36:03.425Z"
-    },
-    {
-      "id": "evt-86ce62d6bc5279cd",
-      "type": "Concert",
-      "title": "World Tour “FULL MOON”",
-      "artist": "ONEUS",
-      "group": "ONEUS",
-      "date": "2026-08-25",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/25045704/oneus-5.jpg",
-      "shortDescription": "ONEUS WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1865602wpp/oneus-announces-dates-and-cities-for-2026-world-tour-full-moon",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-06T14:36:03.425Z"
+      "lastUpdated": "2026-09-06T19:44:40.919Z"
     }
   ]
 }
