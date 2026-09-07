@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-09-06T20:33:25.084Z",
+  "generatedAt": "2026-09-07T04:57:38.157Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Dive",
+      "artist": "성영주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/016/14521016_20260904104020_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003215"
+    },
+    {
+      "title": "Keep Talkin'",
+      "artist": "Rovv",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/010/14521010_20260904103949_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003205"
+    },
+    {
+      "title": "It's because it's pretty",
+      "artist": "안재우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/061/14522061_20260904154440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603006374"
+    },
+    {
+      "title": "so crazy!",
+      "artist": "harry kim (해리킴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/063/14522063_20260904154548_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603006377"
+    },
+    {
+      "title": "I was able to hold out because it was you.",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/628/14518628_20260903175710_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602996110"
+    },
+    {
+      "title": "fire outside",
+      "artist": "디멜로(D'Melo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/613/14521613_20260904140953_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004738"
+    },
+    {
+      "title": "H.ONE Remix",
+      "artist": "몬스타엑스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/893/14521893_20260904150958_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603005669"
+    },
     {
       "title": "Know you, Feel you",
       "artist": "소수빈",
@@ -13,6 +55,36 @@
       "artist": "정동하",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/262/14521262_20260904124137_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603004167"
+    },
+    {
+      "title": "Light in the Mist",
+      "artist": "mill",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/727/14517727_20260903141049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602993129"
+    },
+    {
+      "title": "The Flowers",
+      "artist": "아거 (AGER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/219/14521219_20260904121638_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004001"
+    },
+    {
+      "title": "Fall In Love",
+      "artist": "SEI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/054/14522054_20260904153934_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603006283"
+    },
+    {
+      "title": "Feat. DaNTe', hamo",
+      "artist": "Sad Diminish",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/198/14521198_20260904120615_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003829"
+    },
+    {
+      "title": "Stories",
+      "artist": "Labäda Bu (라바다부)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/047/14522047_20260904153650_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603006227"
     },
     {
       "title": "That's Our Love Part.1",
@@ -43,6 +115,18 @@
       "artist": "BE'O (비오)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/261/14521261_20260904124135_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603004166"
+    },
+    {
+      "title": "Sleepless nights",
+      "artist": "우이경 (Woo Yi Kyung)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/719/14518719_20260903181654_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602996379"
+    },
+    {
+      "title": "Let's go see the stars",
+      "artist": "사운드힐즈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/064/14522064_20260904154636_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603006378"
     },
     {
       "title": "Second Farewell",
@@ -217,90 +301,6 @@
       "artist": "DJ TUKUTZ",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/986/14517986_20260903155852_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602993901"
-    },
-    {
-      "title": "DREAMS COME TRUE",
-      "artist": "박은빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/879/14517879_20260903152847_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993605"
-    },
-    {
-      "title": "Autumn must be here",
-      "artist": "리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/025/14521025_20260904104147_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003240"
-    },
-    {
-      "title": "Don't cross that river",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/273/14512273_20260901173318_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602973269"
-    },
-    {
-      "title": "memory",
-      "artist": "황지언 (hwangjieon)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/182/14521182_20260904115929_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003807"
-    },
-    {
-      "title": "Ice Lake",
-      "artist": "김소년 (BoyKim)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/097/14521097_20260904111944_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003495"
-    },
-    {
-      "title": "Love: sea",
-      "artist": "뉴(NEW)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/590/14517590_20260903124113_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992399"
-    },
-    {
-      "title": "feat. Raf Sandou",
-      "artist": "DIMO REX",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/652/14517652_20260903134101_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992651"
-    },
-    {
-      "title": "The 30s are cute.",
-      "artist": "핀아 (Pin-A)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/663/14518663_20260903181035_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602996309"
-    },
-    {
-      "title": "Dream",
-      "artist": "안효주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/265/14521265_20260904124301_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004177"
-    },
-    {
-      "title": "No destination",
-      "artist": "승후",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/275/14521275_20260904124819_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004228"
-    },
-    {
-      "title": "Courtship",
-      "artist": "최세윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/896/14517896_20260903153211_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993655"
-    },
-    {
-      "title": "First Love",
-      "artist": "그려준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/277/14521277_20260904124854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004241"
-    },
-    {
-      "title": "2026",
-      "artist": "전건호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/462/14517462_20260903121229_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602991976"
-    },
-    {
-      "title": "If l Die Tomorrow",
-      "artist": "어센트(ASC2NT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/64/740/14464740_20260819192823_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602845481"
     }
   ]
 }
