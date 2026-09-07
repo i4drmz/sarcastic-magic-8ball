@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:48:41.545Z",
+  "generatedAt": "2026-09-07T21:37:24.364Z",
   "count": 50,
   "songs": [
     {
@@ -43,6 +43,12 @@
       "artist": "김희재",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/065/14522065_20260904154750_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603006381"
+    },
+    {
+      "title": "MISMATCH",
+      "artist": "이지수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/943/14480943_20260825193751_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602896466"
     },
     {
       "title": "Trangpupo",
@@ -295,12 +301,6 @@
       "artist": "Yohan.D (요한디)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/104/14521104_20260904112143_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603003508"
-    },
-    {
-      "title": "Baby Swing",
-      "artist": "러니 (RUNY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/569/14521569_20260904140639_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004689"
     }
   ]
 }
