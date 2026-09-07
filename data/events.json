@@ -1,13 +1,34 @@
 {
-  "generatedAt": "2026-09-07T11:01:11.665Z",
-  "lastUpdated": "2026-09-07T11:01:11.665Z",
+  "generatedAt": "2026-09-07T16:50:26.306Z",
+  "lastUpdated": "2026-09-07T16:50:26.306Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
+    "allkpop",
     "billboard",
     "hellokpop"
   ],
   "events": [
+    {
+      "id": "evt-684f62cd8b82fc18",
+      "type": "Fan Meeting",
+      "title": "Fan Meeting",
+      "artist": "DAY6",
+      "group": "DAY6",
+      "date": "2026-09-07",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "DAY6 FAN MEETING COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/day6-to-hold-a-three-day-fan-meeting-in-october-on-their-11th-debut-anniversary",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-07T16:50:26.306Z"
+    },
     {
       "id": "evt-75b7b2b34cc920f0",
       "type": "Fan Meeting",
@@ -26,7 +47,7 @@
       "sourceUrl": "https://www.soompi.com/article/1868479wpp/kim-ji-won-announces-stops-for-2026-fan-meeting-tour-wonederland",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-07T11:01:11.665Z"
+      "lastUpdated": "2026-09-07T16:50:26.306Z"
     },
     {
       "id": "evt-e058df81cdd82581",
@@ -46,27 +67,7 @@
       "sourceUrl": "https://www.billboard.com/music/music-news/radiohead-announce-australia-tour-2027-1236335276/",
       "ticketUrl": null,
       "source": "rss:billboard",
-      "lastUpdated": "2026-09-07T11:01:11.665Z"
-    },
-    {
-      "id": "evt-8fd701804b555711",
-      "type": "Concert",
-      "title": "Watch: KickFlip Announces Comeback Schedule + Plans For 1st Tour “ROCK OFF THE WALL”",
-      "artist": null,
-      "group": null,
-      "date": "2026-09-06",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/06083207/KickFlip.jpeg",
-      "shortDescription": "Get ready: KickFlip is going on tour for the very first time! On September 7 at midnight KST, KickFlip released the schedule for their upcoming comeback with their fifth mini album “KICK OFF THE WALL Pt. 1” and its two title tracks. Firs…",
-      "sourceUrl": "https://www.soompi.com/article/1868426wpp/watch-kickflip-announces-comeback-schedule-plans-for-1st-tour-rock-off-the-wall",
-      "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-09-07T11:01:11.665Z"
+      "lastUpdated": "2026-09-07T16:50:26.306Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -86,7 +87,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-07T11:01:11.665Z"
+      "lastUpdated": "2026-09-07T16:50:26.306Z"
     },
     {
       "id": "evt-ee8ccb0b82755fd6",
@@ -106,7 +107,7 @@
       "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-07T11:01:11.665Z"
+      "lastUpdated": "2026-09-07T16:50:26.306Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -126,7 +127,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-07T11:01:11.665Z"
+      "lastUpdated": "2026-09-07T16:50:26.306Z"
     }
   ]
 }
