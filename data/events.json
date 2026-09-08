@@ -1,20 +1,18 @@
 {
-  "generatedAt": "2026-09-07T16:50:26.306Z",
-  "lastUpdated": "2026-09-07T16:50:26.306Z",
+  "generatedAt": "2026-09-08T10:16:18.921Z",
+  "lastUpdated": "2026-09-08T10:16:18.921Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop",
-    "billboard",
-    "hellokpop"
+    "allkpop"
   ],
   "events": [
     {
       "id": "evt-684f62cd8b82fc18",
       "type": "Fan Meeting",
       "title": "Fan Meeting",
-      "artist": "DAY6",
-      "group": "DAY6",
+      "artist": "Day6",
+      "group": "Day6",
       "date": "2026-09-07",
       "time": null,
       "venue": "TBA",
@@ -27,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/day6-to-hold-a-three-day-fan-meeting-in-october-on-their-11th-debut-anniversary",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-07T16:50:26.306Z"
+      "lastUpdated": "2026-09-08T10:16:18.921Z"
     },
     {
       "id": "evt-75b7b2b34cc920f0",
@@ -47,27 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1868479wpp/kim-ji-won-announces-stops-for-2026-fan-meeting-tour-wonederland",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-07T16:50:26.306Z"
-    },
-    {
-      "id": "evt-e058df81cdd82581",
-      "type": "Concert",
-      "title": "Tour",
-      "artist": "Rainbow",
-      "group": "Rainbow",
-      "date": "2026-09-07",
-      "time": null,
-      "venue": "TBA",
-      "city": "Sydney",
-      "country": "AU",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.billboard.com/wp-content/uploads/2025/08/radiohead-pr-2025-credit-Tom-Sheehan-billboard-1800.jpg?w=1024",
-      "shortDescription": "RAINBOW TOUR COMING UP",
-      "sourceUrl": "https://www.billboard.com/music/music-news/radiohead-announce-australia-tour-2027-1236335276/",
-      "ticketUrl": null,
-      "source": "rss:billboard",
-      "lastUpdated": "2026-09-07T16:50:26.306Z"
+      "lastUpdated": "2026-09-08T10:16:18.921Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -87,27 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-07T16:50:26.306Z"
-    },
-    {
-      "id": "evt-ee8ccb0b82755fd6",
-      "type": "Concert",
-      "title": "World Tour “STEAL THE WIND”",
-      "artist": "TOMORROW X TOGETHER",
-      "group": "TOMORROW X TOGETHER",
-      "date": "2026-08-28",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
-      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
-      "ticketUrl": null,
-      "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-07T16:50:26.306Z"
+      "lastUpdated": "2026-09-08T10:16:18.921Z"
     },
     {
       "id": "evt-cf3faa61f2e0e63c",
@@ -127,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-07T16:50:26.306Z"
+      "lastUpdated": "2026-09-08T10:16:18.921Z"
     }
   ]
 }
