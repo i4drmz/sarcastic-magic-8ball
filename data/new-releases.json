@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-09-07T21:37:24.364Z",
+  "generatedAt": "2026-09-08T04:58:25.885Z",
   "count": 50,
   "songs": [
     {
-      "title": "I will leave (Narr. Draft 84)",
+      "title": "MISMATCH",
+      "artist": "이지수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/943/14480943_20260825193751_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602896466"
+    },
+    {
+      "title": "Narang Gachi Georeullae",
+      "artist": "오연하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/773/14526773_20260907143449_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603022186"
+    },
+    {
+      "title": "Eoneu Jongmal",
+      "artist": "evenif",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/678/14526678_20260907140828_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603020548"
+    },
+    {
+      "title": "Haneulttang Byeolttang",
+      "artist": "UNIS(유니스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/373/14527373_20260907155607_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603024680"
+    },
+    {
+      "title": "Dallyeo",
+      "artist": "바비핀스 (Bobby Pins)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/884/14526884_20260907145053_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603022535"
+    },
+    {
+      "title": "Paper Moon Letters (weptun Beongkeoui Nat OST X Jogon)",
+      "artist": "조곤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/858/14514858_20260902150433_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602982425"
+    },
+    {
+      "title": "Toesahalgeyeo (Narr. Gian84)",
       "artist": "소연 (SOYEON)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/70/302/14470302_20260907113632_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602862199"
@@ -15,16 +51,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603007742"
     },
     {
+      "title": "You",
+      "artist": "D.N.X",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/785/14526785_20260907143748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603022205"
+    },
+    {
+      "title": "Just U (feat. V.et, Robei(Lobay))",
+      "artist": "Cillian",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/394/14526394_20260907104048_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603019494"
+    },
+    {
+      "title": "Boiji Anneun Bamui Kkeuteuro",
+      "artist": "재경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/111/14521111_20260904112248_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003531"
+    },
+    {
+      "title": "feat. Se.A",
+      "artist": "no2zcat",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/711/14521711_20260904142324_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004884"
+    },
+    {
       "title": "Make it hot",
       "artist": "민호 (MINHO)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/894/14521894_20260904151110_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603005670"
     },
     {
+      "title": "Eoreum Mani Juseyo",
+      "artist": "IRO(아이로)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/800/14526800_20260907144038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603022254"
+    },
+    {
+      "title": "Naneun Oneulman Sanda",
+      "artist": "안치환",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/840/14526840_20260907144309_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603022333"
+    },
+    {
+      "title": "Lat-Ta",
+      "artist": "구(GOO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/183/14527183_20260907153829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603024004"
+    },
+    {
       "title": "4real",
       "artist": "원슈타인",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/036/14521036_20260904104232_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603003266"
+    },
+    {
+      "title": "Fireworks",
+      "artist": "Hon'z (혼즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/923/14526923_20260907145644_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603022665"
+    },
+    {
+      "title": "Ilgeumpyosi",
+      "artist": "라온필",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/158/14521158_20260904115255_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003727"
+    },
+    {
+      "title": "Bichi Namneun Jjok",
+      "artist": "노네(none)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/811/14527811_20260907173737_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603027403"
     },
     {
       "title": "DADDY",
@@ -39,33 +135,27 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603004059"
     },
     {
-      "title": "I really don't like goodbye",
+      "title": "Annyeongeun Jeongmal Sireo",
       "artist": "김희재",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/065/14522065_20260904154750_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603006381"
     },
     {
-      "title": "MISMATCH",
-      "artist": "이지수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/943/14480943_20260825193751_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602896466"
-    },
-    {
-      "title": "Trangpupo",
+      "title": "Jjangkkaemppo",
       "artist": "104 (백사)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/806/14521806_20260904144321_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603005205"
     },
     {
-      "title": "Pretty Girl Flower",
+      "title": "Ippeuni Kkotbuni",
       "artist": "류지광",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/728/14517728_20260903141152_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602993131"
     },
     {
-      "title": "To Your Tomorrow",
+      "title": "Neoui Naeillo",
       "artist": "희재(SEVENUS)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/058/14521058_20260904105943_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/058/14521058_20260908123455_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603003390"
     },
     {
@@ -75,7 +165,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603006390"
     },
     {
-      "title": "Why are you leaving?",
+      "title": "Wae Neoneun Tteonagago",
       "artist": "디케이소울",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/199/14521199_20260904120714_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603003830"
@@ -93,7 +183,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603003205"
     },
     {
-      "title": "It's because it's pretty",
+      "title": "Yeppeoseo Geurae",
       "artist": "안재우",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/061/14522061_20260904154440_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603006374"
@@ -105,13 +195,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603006377"
     },
     {
-      "title": "I was able to hold out because it was you.",
+      "title": "Neoraseo Beotil Su Isseosseo",
       "artist": "여은",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/628/14518628_20260903175710_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602996110"
     },
     {
-      "title": "fire outside",
+      "title": "Modakbul",
       "artist": "디멜로(D'Melo)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/613/14521613_20260904140953_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603004738"
@@ -129,7 +219,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603004317"
     },
     {
-      "title": "Oasis",
+      "title": "Oasiseu",
       "artist": "정동하",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/262/14521262_20260904124137_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603004167"
@@ -165,25 +255,25 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603006227"
     },
     {
-      "title": "That's Our Love Part.1",
+      "title": "Uri Sarang Geureon Geo Haeyo Part.1",
       "artist": "남규리",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/264/14521264_20260904124236_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603004175"
     },
     {
-      "title": "don't forget about me",
+      "title": "Nareul Itji Marayo",
       "artist": "신예영",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/183/14521183_20260904120138_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603003808"
     },
     {
-      "title": "I have to sleep.",
+      "title": "Jayadoeneunde",
       "artist": "Chan (찬)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/726/14517726_20260903141042_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602993128"
     },
     {
-      "title": "Where are we going now?",
+      "title": "Uri Ije Eodiro Ganeun Geolkka",
       "artist": "김결",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/102/14521102_20260904112142_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603003505"
@@ -195,7 +285,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603004166"
     },
     {
-      "title": "Sleepless nights",
+      "title": "Jami An Oneun Bam",
       "artist": "우이경 (Woo Yi Kyung)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/719/14518719_20260903181654_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602996379"
@@ -207,100 +297,10 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603006378"
     },
     {
-      "title": "Second Farewell",
+      "title": "Du Beonjjae Ibyeol",
       "artist": "가엘(에코비)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/681/14517681_20260903135443_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602992786"
-    },
-    {
-      "title": "What a day",
-      "artist": "아이보리 (Ivory)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/798/14521798_20260904144144_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603005186"
-    },
-    {
-      "title": "Another time",
-      "artist": "이민정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/299/14521299_20260904130240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004313"
-    },
-    {
-      "title": "Adult Dreams",
-      "artist": "김혜림",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/295/14521295_20260904125814_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004282"
-    },
-    {
-      "title": "I wrote down your name,",
-      "artist": "박연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/725/14517725_20260903140952_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993126"
-    },
-    {
-      "title": "Idol",
-      "artist": "tomikyo",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/674/14517674_20260903135241_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602992765"
-    },
-    {
-      "title": "Me on that day",
-      "artist": "마루리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/096/14521096_20260904111727_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003486"
-    },
-    {
-      "title": "Summer Fool",
-      "artist": "Jaded (제이디드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/837/14521837_20260904145359_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603005320"
-    },
-    {
-      "title": "bosom",
-      "artist": "이고요",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/669/14518669_20260903181240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602996323"
-    },
-    {
-      "title": "The Light She Once Lost",
-      "artist": "일레인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/278/14521278_20260904124956_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004244"
-    },
-    {
-      "title": "You can't love again",
-      "artist": "솔지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/100/14521100_20260904112141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003501"
-    },
-    {
-      "title": "If it's you",
-      "artist": "범진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/099/14521099_20260904112141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003500"
-    },
-    {
-      "title": "The whole world became a dream",
-      "artist": "경서예지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/124/14521124_20260904112454_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003593"
-    },
-    {
-      "title": "I'll be there for you",
-      "artist": "윤원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/267/14521267_20260904124349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004182"
-    },
-    {
-      "title": "No Rational",
-      "artist": "aiiyh",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/12/284/14512284_20260901173425_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602973296"
-    },
-    {
-      "title": "Sillage",
-      "artist": "Yohan.D (요한디)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/104/14521104_20260904112143_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003508"
     }
   ]
 }
