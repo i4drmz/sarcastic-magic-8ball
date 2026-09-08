@@ -1,12 +1,74 @@
 {
-  "generatedAt": "2026-09-08T10:16:18.921Z",
-  "lastUpdated": "2026-09-08T10:16:18.921Z",
+  "generatedAt": "2026-09-08T15:38:40.049Z",
+  "lastUpdated": "2026-09-08T15:38:40.049Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "billboard",
+    "hellokpop"
   ],
   "events": [
+    {
+      "id": "evt-30adb6f8d5d5c125",
+      "type": "Concert",
+      "title": "Asia Tour “SAUCIN”",
+      "artist": "NEXZ",
+      "group": "NEXZ",
+      "date": "2026-09-08",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/08062228/NEXZ.jpeg",
+      "shortDescription": "NEXZ ASIA TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-09-08T15:38:40.049Z"
+    },
+    {
+      "id": "evt-7fff47f536324cc6",
+      "type": "Concert",
+      "title": "Tour",
+      "artist": "EVNNE",
+      "group": "EVNNE",
+      "date": "2026-09-08",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/08042829/evnne.jpg",
+      "shortDescription": "EVNNE TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-09-08T15:38:40.049Z"
+    },
+    {
+      "id": "evt-b7d07380482f96d3",
+      "type": "Concert",
+      "title": "Tour",
+      "artist": "DIA",
+      "group": "DIA",
+      "date": "2026-09-08",
+      "time": null,
+      "venue": "TBA",
+      "city": "New York",
+      "country": "US",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.billboard.com/wp-content/uploads/2026/09/Yuridia-cr-Luis-de-la-Luz-billboard-1800.jpg?w=237&h=147&crop=1",
+      "shortDescription": "DIA TOUR COMING UP",
+      "sourceUrl": "https://www.billboard.com/music/latin/yuridia-las-cartas-sobre-la-mesa-tour-2027-us-dates-1236335455/",
+      "ticketUrl": null,
+      "source": "rss:billboard",
+      "lastUpdated": "2026-09-08T15:38:40.049Z"
+    },
     {
       "id": "evt-684f62cd8b82fc18",
       "type": "Fan Meeting",
@@ -25,7 +87,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/day6-to-hold-a-three-day-fan-meeting-in-october-on-their-11th-debut-anniversary",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-08T10:16:18.921Z"
+      "lastUpdated": "2026-09-08T15:38:40.049Z"
     },
     {
       "id": "evt-75b7b2b34cc920f0",
@@ -45,7 +107,7 @@
       "sourceUrl": "https://www.soompi.com/article/1868479wpp/kim-ji-won-announces-stops-for-2026-fan-meeting-tour-wonederland",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-08T10:16:18.921Z"
+      "lastUpdated": "2026-09-08T15:38:40.049Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -65,27 +127,27 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-08T10:16:18.921Z"
+      "lastUpdated": "2026-09-08T15:38:40.049Z"
     },
     {
-      "id": "evt-cf3faa61f2e0e63c",
+      "id": "evt-ee8ccb0b82755fd6",
       "type": "Concert",
       "title": "World Tour “STEAL THE WIND”",
-      "artist": "TXT",
-      "group": "TXT",
-      "date": "2026-08-26",
+      "artist": "TOMORROW X TOGETHER",
+      "group": "TOMORROW X TOGETHER",
+      "date": "2026-08-28",
       "time": null,
       "venue": "TBA",
       "city": "Seoul",
       "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/08/26081044/TXT_de739b.jpeg",
-      "shortDescription": "TXT WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1865936wpp/txt-announces-dates-and-cities-for-2026-2027-world-tour-steal-the-wind",
+      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
+      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
       "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-08T10:16:18.921Z"
+      "source": "rss:hellokpop",
+      "lastUpdated": "2026-09-08T15:38:40.049Z"
     }
   ]
 }
