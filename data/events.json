@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-08T15:38:40.049Z",
-  "lastUpdated": "2026-09-08T15:38:40.049Z",
+  "generatedAt": "2026-09-08T20:28:24.474Z",
+  "lastUpdated": "2026-09-08T20:28:24.474Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop",
-    "billboard",
     "hellokpop"
   ],
   "events": [
@@ -27,7 +25,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-08T15:38:40.049Z"
+      "lastUpdated": "2026-09-08T20:28:24.474Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -47,47 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-08T15:38:40.049Z"
-    },
-    {
-      "id": "evt-b7d07380482f96d3",
-      "type": "Concert",
-      "title": "Tour",
-      "artist": "DIA",
-      "group": "DIA",
-      "date": "2026-09-08",
-      "time": null,
-      "venue": "TBA",
-      "city": "New York",
-      "country": "US",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.billboard.com/wp-content/uploads/2026/09/Yuridia-cr-Luis-de-la-Luz-billboard-1800.jpg?w=237&h=147&crop=1",
-      "shortDescription": "DIA TOUR COMING UP",
-      "sourceUrl": "https://www.billboard.com/music/latin/yuridia-las-cartas-sobre-la-mesa-tour-2027-us-dates-1236335455/",
-      "ticketUrl": null,
-      "source": "rss:billboard",
-      "lastUpdated": "2026-09-08T15:38:40.049Z"
-    },
-    {
-      "id": "evt-684f62cd8b82fc18",
-      "type": "Fan Meeting",
-      "title": "Fan Meeting",
-      "artist": "Day6",
-      "group": "Day6",
-      "date": "2026-09-07",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "DAY6 FAN MEETING COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/day6-to-hold-a-three-day-fan-meeting-in-october-on-their-11th-debut-anniversary",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-09-08T15:38:40.049Z"
+      "lastUpdated": "2026-09-08T20:28:24.474Z"
     },
     {
       "id": "evt-75b7b2b34cc920f0",
@@ -107,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1868479wpp/kim-ji-won-announces-stops-for-2026-fan-meeting-tour-wonederland",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-08T15:38:40.049Z"
+      "lastUpdated": "2026-09-08T20:28:24.474Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -127,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-08T15:38:40.049Z"
+      "lastUpdated": "2026-09-08T20:28:24.474Z"
     },
     {
       "id": "evt-ee8ccb0b82755fd6",
@@ -147,7 +105,7 @@
       "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
       "ticketUrl": null,
       "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-08T15:38:40.049Z"
+      "lastUpdated": "2026-09-08T20:28:24.474Z"
     }
   ]
 }
