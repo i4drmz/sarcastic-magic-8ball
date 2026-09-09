@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T02:06:37.836Z",
-  "lastUpdated": "2026-09-09T02:06:37.836Z",
+  "generatedAt": "2026-09-09T10:22:13.825Z",
+  "lastUpdated": "2026-09-09T10:22:13.825Z",
   "sourceSummary": [
     "soompi",
     "soompi-music"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-09T02:06:37.836Z"
+      "lastUpdated": "2026-09-09T10:22:13.825Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -44,27 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-09T02:06:37.836Z"
-    },
-    {
-      "id": "evt-75b7b2b34cc920f0",
-      "type": "Fan Meeting",
-      "title": "Fan Meeting “WONEDERLAND”",
-      "artist": "Kim Ji Won",
-      "group": "Kim Ji Won",
-      "date": "2026-09-07",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/06183210/kim-ji-won-1-1.jpeg",
-      "shortDescription": "KIM JI WON FAN MEETING COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1868479wpp/kim-ji-won-announces-stops-for-2026-fan-meeting-tour-wonederland",
-      "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-09-09T02:06:37.836Z"
+      "lastUpdated": "2026-09-09T10:22:13.825Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -84,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-09T02:06:37.836Z"
+      "lastUpdated": "2026-09-09T10:22:13.825Z"
     }
   ]
 }
