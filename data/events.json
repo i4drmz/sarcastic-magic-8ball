@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-08T20:28:24.474Z",
-  "lastUpdated": "2026-09-08T20:28:24.474Z",
+  "generatedAt": "2026-09-09T02:06:37.836Z",
+  "lastUpdated": "2026-09-09T02:06:37.836Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "hellokpop"
+    "soompi-music"
   ],
   "events": [
     {
@@ -25,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-08T20:28:24.474Z"
+      "lastUpdated": "2026-09-09T02:06:37.836Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -45,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-08T20:28:24.474Z"
+      "lastUpdated": "2026-09-09T02:06:37.836Z"
     },
     {
       "id": "evt-75b7b2b34cc920f0",
@@ -65,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1868479wpp/kim-ji-won-announces-stops-for-2026-fan-meeting-tour-wonederland",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-08T20:28:24.474Z"
+      "lastUpdated": "2026-09-09T02:06:37.836Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -85,27 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-08T20:28:24.474Z"
-    },
-    {
-      "id": "evt-ee8ccb0b82755fd6",
-      "type": "Concert",
-      "title": "World Tour “STEAL THE WIND”",
-      "artist": "TOMORROW X TOGETHER",
-      "group": "TOMORROW X TOGETHER",
-      "date": "2026-08-28",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
-      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
-      "ticketUrl": null,
-      "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-08T20:28:24.474Z"
+      "lastUpdated": "2026-09-09T02:06:37.836Z"
     }
   ]
 }
