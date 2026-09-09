@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-08T21:16:53.560Z",
+  "generatedAt": "2026-09-09T04:55:14.683Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Love Sign",
+      "artist": "Big Ocean",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/373/14530373_20260908105448_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603035742"
+    },
+    {
+      "title": "AWA",
+      "artist": "H//PE Princess (하입프린세스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/693/14527693_20260907172243_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603027050"
+    },
+    {
+      "title": "KNOW",
+      "artist": "주윤하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/683/14527683_20260907172131_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603026962"
+    },
+    {
+      "title": "Missing you",
+      "artist": "브라더스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/619/14530619_20260908134629_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603036698"
+    },
+    {
+      "title": "Yaya",
+      "artist": "문웅주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/673/14530673_20260908141356_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603036901"
+    },
+    {
+      "title": "Feat. Oh Yun",
+      "artist": "뎁트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/31/223/14531223_20260908163018_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603038435"
+    },
     {
       "title": "Again",
       "artist": "임영웅",
@@ -15,10 +51,70 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603019497"
     },
     {
+      "title": "Peter Pan",
+      "artist": "다다다 (DADADA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/235/14530235_20260908101231_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603034841"
+    },
+    {
+      "title": "Our timing",
+      "artist": "태립",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/807/14530807_20260908143558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603037446"
+    },
+    {
       "title": "Mark on Me",
       "artist": "&TEAM",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/136/14530136_20260908092412_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603034102"
+    },
+    {
+      "title": "It feels good to be with you",
+      "artist": "이보람",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/259/14521259_20260904124035_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004163"
+    },
+    {
+      "title": "I Like Mountains",
+      "artist": "Electric Planet Five",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/685/14527685_20260907172213_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603027028"
+    },
+    {
+      "title": "with you",
+      "artist": "정승수 밴드",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/394/14530394_20260908110242_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603035832"
+    },
+    {
+      "title": "Like that shining star",
+      "artist": "Elly (엘리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/784/14526784_20260907143734_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603022203"
+    },
+    {
+      "title": "Somebody",
+      "artist": "Skelly",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/626/14526626_20260907123028_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603020386"
+    },
+    {
+      "title": "solo ver.",
+      "artist": "정재헌",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/380/14530380_20260908105830_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603035762"
+    },
+    {
+      "title": "Why I Loved You",
+      "artist": "아이드(I'd)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/173/14521173_20260904115633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603003775"
+    },
+    {
+      "title": "Even if you don't have that",
+      "artist": "에리즈 (Aries)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/437/14530437_20260908112753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603036032"
     },
     {
       "title": "Prod By !llmind",
@@ -65,7 +161,7 @@
     {
       "title": "Practice forgetting you",
       "artist": "김도희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/849/14526849_20260907144359_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/849/14526849_20260909102928_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603022356"
     },
     {
@@ -205,102 +301,6 @@
       "artist": "노네(none)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/811/14527811_20260907173737_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603027403"
-    },
-    {
-      "title": "DADDY",
-      "artist": "박재범",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/266/14521266_20260904124348_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004181"
-    },
-    {
-      "title": "Don't Panic!",
-      "artist": "VERIVERY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/244/14521244_20260904122514_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004059"
-    },
-    {
-      "title": "I really don't like goodbye",
-      "artist": "김희재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/065/14522065_20260904154750_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603006381"
-    },
-    {
-      "title": "Trangpupo",
-      "artist": "104 (백사)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/806/14521806_20260904144321_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603005205"
-    },
-    {
-      "title": "Pretty Girl Flower",
-      "artist": "류지광",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/728/14517728_20260903141152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602993131"
-    },
-    {
-      "title": "To Your Tomorrow",
-      "artist": "희재(SEVENUS)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/058/14521058_20260908123455_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003390"
-    },
-    {
-      "title": "Blue Crush",
-      "artist": "에스투잇",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/066/14522066_20260904154822_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603006390"
-    },
-    {
-      "title": "Why are you leaving?",
-      "artist": "디케이소울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/199/14521199_20260904120714_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003830"
-    },
-    {
-      "title": "Dive",
-      "artist": "성영주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/016/14521016_20260904104020_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003215"
-    },
-    {
-      "title": "Keep Talkin'",
-      "artist": "Rovv",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/010/14521010_20260904103949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603003205"
-    },
-    {
-      "title": "It's because it's pretty",
-      "artist": "안재우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/061/14522061_20260904154440_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603006374"
-    },
-    {
-      "title": "so crazy!",
-      "artist": "harry kim (해리킴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/063/14522063_20260904154548_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603006377"
-    },
-    {
-      "title": "I was able to hold out because it was you.",
-      "artist": "여은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/628/14518628_20260903175710_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602996110"
-    },
-    {
-      "title": "fire outside",
-      "artist": "디멜로(D'Melo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/613/14521613_20260904140953_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004738"
-    },
-    {
-      "title": "H.ONE Remix",
-      "artist": "몬스타엑스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/893/14521893_20260904150958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603005669"
-    },
-    {
-      "title": "Know you, Feel you",
-      "artist": "소수빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/302/14521302_20260904130331_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004317"
     }
   ]
 }
