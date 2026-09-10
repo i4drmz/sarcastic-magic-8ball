@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-09-10T15:28:22.288Z",
-  "lastUpdated": "2026-09-10T15:28:22.288Z",
+  "generatedAt": "2026-09-10T20:13:10.152Z",
+  "lastUpdated": "2026-09-10T20:13:10.152Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "nme",
+    "hellokpop"
   ],
   "events": [
+    {
+      "id": "evt-4a14de013850d0ce",
+      "type": "Concert",
+      "title": "Concert “The Black Parade”",
+      "artist": "MAMA",
+      "group": "MAMA",
+      "date": "2026-09-10",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2026/09/my-chemical-romance@2000x1270.jpg",
+      "shortDescription": "MAMA CONCERT COMING UP",
+      "sourceUrl": "https://www.nme.com/news/music/my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks-3968126?utm_source=rss&utm_medium=rss&utm_campaign=my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks",
+      "ticketUrl": null,
+      "source": "rss:nme",
+      "lastUpdated": "2026-09-10T20:13:10.152Z"
+    },
     {
       "id": "evt-30adb6f8d5d5c125",
       "type": "Concert",
@@ -24,7 +46,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-10T15:28:22.288Z"
+      "lastUpdated": "2026-09-10T20:13:10.152Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -44,7 +66,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-10T15:28:22.288Z"
+      "lastUpdated": "2026-09-10T20:13:10.152Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -64,7 +86,27 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-10T15:28:22.288Z"
+      "lastUpdated": "2026-09-10T20:13:10.152Z"
+    },
+    {
+      "id": "evt-ee8ccb0b82755fd6",
+      "type": "Concert",
+      "title": "World Tour “STEAL THE WIND”",
+      "artist": "TOMORROW X TOGETHER",
+      "group": "TOMORROW X TOGETHER",
+      "date": "2026-08-28",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
+      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
+      "ticketUrl": null,
+      "source": "rss:hellokpop",
+      "lastUpdated": "2026-09-10T20:13:10.152Z"
     }
   ]
 }
