@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-09-09T21:01:40.172Z",
+  "generatedAt": "2026-09-10T04:57:01.557Z",
   "count": 50,
   "songs": [
+    {
+      "title": "My Friend",
+      "artist": "Mark Lee (마크리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/064/14515064_20260902164138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602983154"
+    },
+    {
+      "title": "They're just close friends.",
+      "artist": "로키드 (Lokid)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/720/14527720_20260907172533_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603027109"
+    },
+    {
+      "title": "Huts",
+      "artist": "이제",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/931/14534931_20260909103843_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049388"
+    },
+    {
+      "title": "Heavy snow or astigmatism",
+      "artist": "단편선 순간들",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/31/453/14531453_20260908164558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603038973"
+    },
+    {
+      "title": "The blues of reading gaol",
+      "artist": "웅산",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/815/14530815_20260908144328_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603037455"
+    },
+    {
+      "title": "3Piece4Business (feat. Wonjae Woo)",
+      "artist": "PAXXWORD",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/636/14530636_20260908135252_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603036773"
+    },
+    {
+      "title": "November 11",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/933/14534933_20260909103941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049391"
+    },
+    {
+      "title": "Highway",
+      "artist": "SEMIN (세민)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/014/14535014_20260909112543_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049620"
+    },
     {
       "title": "Alive (Feat. Eucharist of RIIZE)",
       "artist": "hrtz.wav (하츠웨이브)",
@@ -15,6 +63,36 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603020498"
     },
     {
+      "title": "feat. drewboi",
+      "artist": "Rockett",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/884/14527884_20260907175749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603027706"
+    },
+    {
+      "title": "McMurphy",
+      "artist": "DEONTE (디온테)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/004/14535004_20260909112340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049608"
+    },
+    {
+      "title": "I like the back seat",
+      "artist": "굿굿",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/995/14534995_20260909112033_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049559"
+    },
+    {
+      "title": "Simply Beautiful",
+      "artist": "김규종",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/458/14530458_20260908113724_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603036100"
+    },
+    {
+      "title": "Happy Days",
+      "artist": "후추스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/895/14530895_20260908152829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603037721"
+    },
+    {
       "title": "Moonride",
       "artist": "Hearts2Hearts (하츠투하츠)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/31/063/14531063_20260908161255_500.jpg",
@@ -25,6 +103,36 @@
       "artist": "이서연 (Y:SY)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/835/14527835_20260907174059_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603027460"
+    },
+    {
+      "title": "Life (feat. Waterproof Beauty)",
+      "artist": "블랙홀 (Black Hole)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/451/14535451_20260909144318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603051212"
+    },
+    {
+      "title": "To live and to die",
+      "artist": "박수호 (엠씨더잡스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/888/14530888_20260908151749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603037704"
+    },
+    {
+      "title": "Occasionally",
+      "artist": "조항조",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/073/14535073_20260909113941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049906"
+    },
+    {
+      "title": "NEW ISSUE",
+      "artist": "L.수정 (엘수정)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/964/14534964_20260909110428_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049474"
+    },
+    {
+      "title": "One-sided door",
+      "artist": "레코드벨 (RECORDBELL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/012/14535012_20260909112540_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049618"
     },
     {
       "title": "It’s That",
@@ -113,7 +221,7 @@
     {
       "title": "Again",
       "artist": "임영웅",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/154/14498154_20260831161140_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/154/14498154_20260910102107_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=602951446"
     },
     {
@@ -193,114 +301,6 @@
       "artist": "윤미래",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/881/14526881_20260907144709_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603022514"
-    },
-    {
-      "title": "Why love?",
-      "artist": "백아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/839/14526839_20260907144305_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603022326"
-    },
-    {
-      "title": "Please.",
-      "artist": "듀에토(DUETTO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/378/14527378_20260907155743_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603024731"
-    },
-    {
-      "title": "feat. Mad Clown",
-      "artist": "효린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/010/14527010_20260907151226_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603023063"
-    },
-    {
-      "title": "Afterglow",
-      "artist": "하슬 (ARTMS)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/374/14527374_20260907155638_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603024682"
-    },
-    {
-      "title": "Give me",
-      "artist": "한올",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/128/85/474/12885474_20260904151911_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603005599"
-    },
-    {
-      "title": "Sonar oil",
-      "artist": "랑코",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/18/944/14518944_20260903193052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602997105"
-    },
-    {
-      "title": "Practice forgetting you",
-      "artist": "김도희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/849/14526849_20260909102928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603022356"
-    },
-    {
-      "title": "Firework",
-      "artist": "Rude John",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/17/206/14517206_20260903095439_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602990051"
-    },
-    {
-      "title": "Witchcraft (feat. Normal Water Blasta)",
-      "artist": "야수 (YASU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/856/14526856_20260907144404_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603022373"
-    },
-    {
-      "title": "MISMATCH",
-      "artist": "이지수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/80/943/14480943_20260825193751_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602896466"
-    },
-    {
-      "title": "I'd like to walk with you",
-      "artist": "오연하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/773/14526773_20260907143449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603022186"
-    },
-    {
-      "title": "One Apocalypse",
-      "artist": "evenif",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/678/14526678_20260907140828_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603020548"
-    },
-    {
-      "title": "Heaven and Earth",
-      "artist": "UNIS(유니스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/373/14527373_20260907155607_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603024680"
-    },
-    {
-      "title": "Run",
-      "artist": "바비핀스 (Bobby Pins)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/884/14526884_20260907145053_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603022535"
-    },
-    {
-      "title": "Paper Moon Letters (Webtoon Bunker Day OST X Jogon)",
-      "artist": "조곤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/14/858/14514858_20260902150433_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602982425"
-    },
-    {
-      "title": "I will leave (Narr. Draft 84)",
-      "artist": "소연 (SOYEON)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/70/302/14470302_20260907113632_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602862199"
-    },
-    {
-      "title": "Death of Me",
-      "artist": "에반(EVAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/361/14522361_20260904180939_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603007742"
-    },
-    {
-      "title": "You",
-      "artist": "D.N.X",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/785/14526785_20260907143748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603022205"
     }
   ]
 }
