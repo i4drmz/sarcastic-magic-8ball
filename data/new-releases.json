@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:54:04.190Z",
+  "generatedAt": "2026-09-11T11:35:56.967Z",
   "count": 50,
   "songs": [
     {
@@ -7,6 +7,66 @@
       "artist": "LE SSERAFIM (르세라핌)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/586/14538586_20260910103529_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603060251"
+    },
+    {
+      "title": "What Is Love",
+      "artist": "노브레인 (NoBrain)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/924/14538924_20260910141039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061678"
+    },
+    {
+      "title": "Sparkle",
+      "artist": "로이킴",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/008/14539008_20260910151851_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603062003"
+    },
+    {
+      "title": "Cowardice",
+      "artist": "펜타곤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/009/14539009_20260910151934_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603062005"
+    },
+    {
+      "title": "Diamond",
+      "artist": "류수정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/437/14535437_20260909142039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603051150"
+    },
+    {
+      "title": "NO LIMIT",
+      "artist": "Yang Kyle (양카일)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/916/14538916_20260910140823_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061670"
+    },
+    {
+      "title": "Feat. khaki",
+      "artist": "hayawn (하얀)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/927/14538927_20260910141242_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061681"
+    },
+    {
+      "title": "Something miraculous has to be touched in the sky",
+      "artist": "여동생",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/585/14538585_20260910103528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603060249"
+    },
+    {
+      "title": "Turn Over",
+      "artist": "NEKIRU",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/366/14530366_20260908104759_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603035722"
+    },
+    {
+      "title": "The person who was always by my side",
+      "artist": "서현준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/994/14538994_20260910150649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061954"
+    },
+    {
+      "title": "L.O.V.E",
+      "artist": "로맨틱펀치 (Romantic Punch)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/455/14530455_20260908113719_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603036091"
     },
     {
       "title": "prod. NotJake",
@@ -201,7 +261,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603049531"
     },
     {
-      "title": "They're just close friends.",
+      "title": "Geujeo Chinhan Chinguil Ppunijiman",
       "artist": "로키드 (Lokid)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/720/14527720_20260907172533_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603027109"
@@ -241,66 +301,6 @@
       "artist": "SEMIN (세민)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/014/14535014_20260909112543_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603049620"
-    },
-    {
-      "title": "Alive (Feat. Eucharist of RIIZE)",
-      "artist": "hrtz.wav (하츠웨이브)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/908/14530908_20260908153249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603037754"
-    },
-    {
-      "title": "You and Nana",
-      "artist": "장기하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/674/14526674_20260907133355_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603020498"
-    },
-    {
-      "title": "feat. drewboi",
-      "artist": "Rockett",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/884/14527884_20260907175749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603027706"
-    },
-    {
-      "title": "McMurphy",
-      "artist": "DEONTE (디온테)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/004/14535004_20260909112340_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049608"
-    },
-    {
-      "title": "I like the back seat",
-      "artist": "굿굿",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/995/14534995_20260909112033_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049559"
-    },
-    {
-      "title": "Simply Beautiful",
-      "artist": "김규종",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/458/14530458_20260908113724_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603036100"
-    },
-    {
-      "title": "Happy Days",
-      "artist": "후추스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/895/14530895_20260908152829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603037721"
-    },
-    {
-      "title": "Moonride",
-      "artist": "Hearts2Hearts (하츠투하츠)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/31/063/14531063_20260908161255_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603038071"
-    },
-    {
-      "title": "ENERGY",
-      "artist": "이서연 (Y:SY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/835/14527835_20260907174059_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603027460"
-    },
-    {
-      "title": "Life (feat. Waterproof Beauty)",
-      "artist": "블랙홀 (Black Hole)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/451/14535451_20260909144318_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603051212"
     }
   ]
 }
