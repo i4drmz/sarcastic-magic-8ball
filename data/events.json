@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-11T10:12:16.785Z",
-  "lastUpdated": "2026-09-11T10:12:16.785Z",
+  "generatedAt": "2026-09-11T15:30:18.214Z",
+  "lastUpdated": "2026-09-11T15:30:18.214Z",
   "sourceSummary": [
     "soompi-music",
-    "allkpop",
-    "nme-music"
+    "allkpop"
   ],
   "events": [
     {
@@ -25,7 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/hearts2hearts-to-hold-special-concert-as-spotify-closers-first-artist",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-11T10:12:16.785Z"
+      "lastUpdated": "2026-09-11T15:30:18.214Z"
     },
     {
       "id": "evt-78e81c8043382cc1",
@@ -45,7 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/cnblues-kang-minhyuk-to-hold-october-fan-meeting-if-i-were-in-taipei",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-11T10:12:16.785Z"
+      "lastUpdated": "2026-09-11T15:30:18.214Z"
     },
     {
       "id": "evt-3dea7aa76499b025",
@@ -65,27 +64,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/crush-to-hold-his-first-fan-meeting-in-a-year-and-a-half-with-crush-farm",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-11T10:12:16.785Z"
-    },
-    {
-      "id": "evt-4a14de013850d0ce",
-      "type": "Concert",
-      "title": "Concert “The Black Parade”",
-      "artist": "MAMA",
-      "group": "MAMA",
-      "date": "2026-09-10",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.nme.com/wp-content/uploads/2026/09/my-chemical-romance@2000x1270.jpg",
-      "shortDescription": "MAMA CONCERT COMING UP",
-      "sourceUrl": "https://www.nme.com/news/music/my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks-3968126?utm_source=rss&utm_medium=rss&utm_campaign=my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks",
-      "ticketUrl": null,
-      "source": "rss:nme-music",
-      "lastUpdated": "2026-09-11T10:12:16.785Z"
+      "lastUpdated": "2026-09-11T15:30:18.214Z"
     },
     {
       "id": "evt-30adb6f8d5d5c125",
@@ -105,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-11T10:12:16.785Z"
+      "lastUpdated": "2026-09-11T15:30:18.214Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -125,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-11T10:12:16.785Z"
+      "lastUpdated": "2026-09-11T15:30:18.214Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -145,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-11T10:12:16.785Z"
+      "lastUpdated": "2026-09-11T15:30:18.214Z"
     }
   ]
 }
