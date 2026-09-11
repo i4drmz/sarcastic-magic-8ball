@@ -1,13 +1,72 @@
 {
-  "generatedAt": "2026-09-10T20:13:10.152Z",
-  "lastUpdated": "2026-09-10T20:13:10.152Z",
+  "generatedAt": "2026-09-11T10:12:16.785Z",
+  "lastUpdated": "2026-09-11T10:12:16.785Z",
   "sourceSummary": [
-    "soompi",
     "soompi-music",
-    "nme",
-    "hellokpop"
+    "allkpop",
+    "nme-music"
   ],
   "events": [
+    {
+      "id": "evt-56cd49747c537bea",
+      "type": "Concert",
+      "title": "Concert",
+      "artist": "Hearts2Hearts",
+      "group": "Hearts2Hearts",
+      "date": "2026-09-11",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "HEARTS2HEARTS CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/hearts2hearts-to-hold-special-concert-as-spotify-closers-first-artist",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-11T10:12:16.785Z"
+    },
+    {
+      "id": "evt-78e81c8043382cc1",
+      "type": "Fan Meeting",
+      "title": "Fan Meeting “If I Were…”",
+      "artist": "CNBLUE",
+      "group": "CNBLUE",
+      "date": "2026-09-11",
+      "time": null,
+      "venue": "TBA",
+      "city": "Taipei",
+      "country": "TW",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "CNBLUE FAN MEETING COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/cnblues-kang-minhyuk-to-hold-october-fan-meeting-if-i-were-in-taipei",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-11T10:12:16.785Z"
+    },
+    {
+      "id": "evt-3dea7aa76499b025",
+      "type": "Fan Meeting",
+      "title": "First Fan Meeting “CRUSH FARM”",
+      "artist": "Crush",
+      "group": "Crush",
+      "date": "2026-09-11",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "CRUSH FIRST FAN MEETING COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/crush-to-hold-his-first-fan-meeting-in-a-year-and-a-half-with-crush-farm",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-11T10:12:16.785Z"
+    },
     {
       "id": "evt-4a14de013850d0ce",
       "type": "Concert",
@@ -25,8 +84,8 @@
       "shortDescription": "MAMA CONCERT COMING UP",
       "sourceUrl": "https://www.nme.com/news/music/my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks-3968126?utm_source=rss&utm_medium=rss&utm_campaign=my-chemical-romance-expanded-20th-anniversary-black-parade-reissue-bonus-tracks",
       "ticketUrl": null,
-      "source": "rss:nme",
-      "lastUpdated": "2026-09-10T20:13:10.152Z"
+      "source": "rss:nme-music",
+      "lastUpdated": "2026-09-11T10:12:16.785Z"
     },
     {
       "id": "evt-30adb6f8d5d5c125",
@@ -45,8 +104,8 @@
       "shortDescription": "NEXZ ASIA TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-09-10T20:13:10.152Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-09-11T10:12:16.785Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -65,8 +124,8 @@
       "shortDescription": "EVNNE TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-09-10T20:13:10.152Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-09-11T10:12:16.785Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -86,27 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-10T20:13:10.152Z"
-    },
-    {
-      "id": "evt-ee8ccb0b82755fd6",
-      "type": "Concert",
-      "title": "World Tour “STEAL THE WIND”",
-      "artist": "TOMORROW X TOGETHER",
-      "group": "TOMORROW X TOGETHER",
-      "date": "2026-08-28",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
-      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
-      "ticketUrl": null,
-      "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-10T20:13:10.152Z"
+      "lastUpdated": "2026-09-11T10:12:16.785Z"
     }
   ]
 }
