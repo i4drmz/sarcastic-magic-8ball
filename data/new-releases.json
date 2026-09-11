@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-09-10T21:00:34.527Z",
+  "generatedAt": "2026-09-11T04:54:04.190Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Made My Night",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/586/14538586_20260910103529_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603060251"
+    },
+    {
+      "title": "prod. NotJake",
+      "artist": "제이켠 (J'Kyun)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/906/14538906_20260910140334_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061633"
+    },
+    {
+      "title": "WAY UP",
+      "artist": "Alt (알트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/901/14538901_20260910140243_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061605"
+    },
+    {
+      "title": "Old lover",
+      "artist": "이소나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/997/14538997_20260910151459_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061972"
+    },
+    {
+      "title": "SHADY",
+      "artist": "미티 (Mitty)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/912/14538912_20260910140651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061664"
+    },
+    {
+      "title": "feat. INO",
+      "artist": "Heii",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/926/14538926_20260910141209_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061680"
+    },
+    {
+      "title": "May your plies capture this song",
+      "artist": "Blin (블린)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/767/14535767_20260909154051_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603052342"
+    },
     {
       "title": "From this star",
       "artist": "아이유",
@@ -9,16 +51,82 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603052339"
     },
     {
-      "title": "My Friend",
-      "artist": "Mark Lee (마크리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/064/14515064_20260902164138_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602983154"
-    },
-    {
       "title": "DANG DANG",
       "artist": "ALL(H)OURS(올아워즈)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/245/14474245_20260824154153_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603060315"
+    },
+    {
+      "title": "Lotus ()",
+      "artist": "리슨 (LYSON)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/895/14538895_20260910140041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061541"
+    },
+    {
+      "title": "As it was that day",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/456/14530456_20260908113720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603036093"
+    },
+    {
+      "title": "feat. Urban Fisher",
+      "artist": "립나인 (LIPNINE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/080/14539080_20260910155941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603062307"
+    },
+    {
+      "title": "The season that contains you",
+      "artist": "정오월",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/890/14538890_20260910135855_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061514"
+    },
+    {
+      "title": "Alone at Dawn",
+      "artist": "이태후",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/590/14538590_20260910104428_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603060296"
+    },
+    {
+      "title": "Ice Star",
+      "artist": "옛그리움 (Old Yearning)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/063/14539063_20260910154507_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603062247"
+    },
+    {
+      "title": "Nabiran",
+      "artist": "김모레 (kimmore)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/040/14539040_20260910153837_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603062180"
+    },
+    {
+      "title": "Birthday girl (prod. Jung Yoon)",
+      "artist": "승민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/223/14521223_20260904121950_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603004016"
+    },
+    {
+      "title": "Sometimes I miss it.",
+      "artist": "리디아 (Lydia)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/891/14538891_20260910135856_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061515"
+    },
+    {
+      "title": "The night you came to pick me up,",
+      "artist": "그네",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/893/14538893_20260910135934_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061536"
+    },
+    {
+      "title": "It's Your Solitary Night",
+      "artist": "박종훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/799/14538799_20260910123821_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061166"
+    },
+    {
+      "title": "Always with you",
+      "artist": "혜진 (HEZIIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/31/494/14531494_20260908164843_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603039091"
     },
     {
       "title": "Our Summer",
@@ -43,6 +151,12 @@
       "artist": "The Quiett",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/987/14534987_20260909111831_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603049535"
+    },
+    {
+      "title": "My Friend",
+      "artist": "Mark Lee (마크리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/064/14515064_20260902164138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=602983154"
     },
     {
       "title": "feat. NATO, Royal 44",
@@ -187,120 +301,6 @@
       "artist": "블랙홀 (Black Hole)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/451/14535451_20260909144318_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603051212"
-    },
-    {
-      "title": "To live and to die",
-      "artist": "박수호 (엠씨더잡스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/888/14530888_20260908151749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603037704"
-    },
-    {
-      "title": "Occasionally",
-      "artist": "조항조",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/073/14535073_20260909113941_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049906"
-    },
-    {
-      "title": "NEW ISSUE",
-      "artist": "L.수정 (엘수정)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/964/14534964_20260909110428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049474"
-    },
-    {
-      "title": "One-sided door",
-      "artist": "레코드벨 (RECORDBELL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/012/14535012_20260909112540_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049618"
-    },
-    {
-      "title": "It’s That",
-      "artist": "김심야",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/463/14527463_20260907161349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603025886"
-    },
-    {
-      "title": "The whole season is full of you",
-      "artist": "홍대광",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/412/14530412_20260908110644_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603035942"
-    },
-    {
-      "title": "Midnight",
-      "artist": "IN A MINUTE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/10/891/14510891_20260901141818_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602969934"
-    },
-    {
-      "title": "Back to Me",
-      "artist": "로시 (Rothy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/889/14530889_20260908151818_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603037706"
-    },
-    {
-      "title": "Night Drive",
-      "artist": "세리 (달샤벳)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/229/14530229_20260908101159_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603034822"
-    },
-    {
-      "title": "LIGHTNING",
-      "artist": "아넌딜라이트(Anandelight)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/702/14530702_20260908141641_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603037037"
-    },
-    {
-      "title": "When the city falls asleep,",
-      "artist": "임세준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/480/14530480_20260908114711_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603036238"
-    },
-    {
-      "title": "Ouch EOI_KU",
-      "artist": "이스트샤인 (EASTSHINE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/717/14527717_20260907172449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603027101"
-    },
-    {
-      "title": "Love Sign",
-      "artist": "Big Ocean",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/373/14530373_20260908105448_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603035742"
-    },
-    {
-      "title": "AWA",
-      "artist": "H//PE Princess (하입프린세스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/693/14527693_20260907172243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603027050"
-    },
-    {
-      "title": "KNOW",
-      "artist": "주윤하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/683/14527683_20260907172131_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603026962"
-    },
-    {
-      "title": "Missing you",
-      "artist": "브라더스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/619/14530619_20260908134629_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603036698"
-    },
-    {
-      "title": "Yaya",
-      "artist": "문웅주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/673/14530673_20260908141356_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603036901"
-    },
-    {
-      "title": "Feat. Oh Yun",
-      "artist": "뎁트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/31/223/14531223_20260908163018_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603038435"
-    },
-    {
-      "title": "Again",
-      "artist": "임영웅",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/98/154/14498154_20260910102107_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602951446"
     }
   ]
 }
