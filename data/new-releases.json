@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-12T04:46:17.453Z",
+  "generatedAt": "2026-09-12T10:59:21.253Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Feat. Gist",
+      "artist": "JAEHA (재하)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/392/14539392_20260910173932_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063568"
+    },
+    {
+      "title": "Just as the wind makes the trees sing",
+      "artist": "이민혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/391/14539391_20260910173830_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063567"
+    },
+    {
+      "title": "I Miss You (Sampling By)",
+      "artist": "주은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/999/14538999_20260910151649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061982"
+    },
+    {
+      "title": "I am my own",
+      "artist": "린아 (LINA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/998/14538998_20260910151602_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061977"
+    },
+    {
+      "title": "LET THEM",
+      "artist": "지셀 (Jiselle)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/909/14538909_20260910140415_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061646"
+    },
+    {
+      "title": "Read Our Time",
+      "artist": "황가람",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/072/14535072_20260909113729_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049903"
+    },
+    {
+      "title": "Tokyo Drift",
+      "artist": "아스터 (ASTER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/929/14538929_20260910141459_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061683"
+    },
+    {
+      "title": "Brilliant",
+      "artist": "구본암",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/592/14538592_20260910104558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603060299"
+    },
+    {
+      "title": "Oops!",
+      "artist": "하윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/208/14539208_20260910162633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603062808"
+    },
+    {
+      "title": "Echo (feat. Yeong, Sungkuk, Seongjun Woo)",
+      "artist": "전진혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/389/14539389_20260910173053_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063564"
+    },
     {
       "title": "Adore You",
       "artist": "Jimmy Brown",
@@ -241,66 +301,6 @@
       "artist": "그네",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/893/14538893_20260910135934_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603061536"
-    },
-    {
-      "title": "It's Your Solitary Night",
-      "artist": "박종훈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/799/14538799_20260910123821_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061166"
-    },
-    {
-      "title": "Always with you",
-      "artist": "혜진 (HEZIIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/31/494/14531494_20260908164843_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603039091"
-    },
-    {
-      "title": "Our Summer",
-      "artist": "규빈(GYUBIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/27/002/14527002_20260907151054_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603023048"
-    },
-    {
-      "title": "Next to You",
-      "artist": "조민규 (포레스텔라)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/970/14534970_20260909110651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049486"
-    },
-    {
-      "title": "The Day We Sep 10 (feat. Linu)",
-      "artist": "정창룡",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/589/14535589_20260909151205_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603051649"
-    },
-    {
-      "title": "RED ALERT",
-      "artist": "The Quiett",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/987/14534987_20260909111831_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049535"
-    },
-    {
-      "title": "My Friend",
-      "artist": "Mark Lee (마크리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/15/064/14515064_20260902164138_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=602983154"
-    },
-    {
-      "title": "feat. NATO, Royal 44",
-      "artist": "Yung Blesh",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/775/14535775_20260909155349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603052408"
-    },
-    {
-      "title": "Devil Youth Club",
-      "artist": "MCND",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/22/217/14522217_20260904163952_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603007053"
-    },
-    {
-      "title": "Girl's Diary",
-      "artist": "리플리 (RIPLEY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/26/535/14526535_20260907120611_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603020151"
     }
   ]
 }
