@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-12T20:42:25.227Z",
+  "generatedAt": "2026-09-13T05:01:16.252Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Because it's you",
+      "artist": "네이비쿼카 (NavyQuokka)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/946/14534946_20260909105208_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049430"
+    },
+    {
+      "title": "Live Your Life",
+      "artist": "Whiteusedsocks",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/107/14539107_20260910160225_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603062392"
+    },
+    {
+      "title": "Were we love?",
+      "artist": "음유시인(吟遊詩人)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/467/14539467_20260910175534_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063780"
+    },
+    {
+      "title": "Like a Fall Night Star",
+      "artist": "달빛연인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/781/14538781_20260910122558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061101"
+    },
+    {
+      "title": "Holding the stars in your arms",
+      "artist": "WESTOF (웨스트오브)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/459/14539459_20260910175308_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063723"
+    },
+    {
+      "title": "Art. Tmlm",
+      "artist": "Anonymous Artists(어나니머스 아티스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/594/14538594_20260910104659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603060304"
+    },
     {
       "title": "Feat. Gist",
       "artist": "JAEHA (재하)",
@@ -13,6 +49,48 @@
       "artist": "이민혁",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/391/14539391_20260910173830_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603063567"
+    },
+    {
+      "title": "Laughing, I say,",
+      "artist": "위즈(WIZ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/465/14539465_20260910175531_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063774"
+    },
+    {
+      "title": "Sour grapes",
+      "artist": "미지 (Miji)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/455/14539455_20260910175211_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063700"
+    },
+    {
+      "title": "Towards",
+      "artist": "TIMIR (티미르)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/959/14534959_20260909110244_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049461"
+    },
+    {
+      "title": "My place.",
+      "artist": "홈메이드레코딩",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/667/14541667_20260911102229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603072889"
+    },
+    {
+      "title": "I'll be your tree",
+      "artist": "디케이소울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/212/14535212_20260909122835_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603050431"
+    },
+    {
+      "title": "I am ready",
+      "artist": "이진영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/453/14539453_20260910175204_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603063688"
+    },
+    {
+      "title": "Feat. JENNA SUHL",
+      "artist": "Yonko (욘코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/677/14541677_20260911102647_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603072911"
     },
     {
       "title": "I Miss You (Sampling By)",
@@ -223,84 +301,6 @@
       "artist": "Heii",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/926/14538926_20260910141209_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603061680"
-    },
-    {
-      "title": "May your plies capture this song",
-      "artist": "Blin (블린)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/767/14535767_20260909154051_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603052342"
-    },
-    {
-      "title": "From this star",
-      "artist": "아이유",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/765/14535765_20260909154035_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603052339"
-    },
-    {
-      "title": "DANG DANG",
-      "artist": "ALL(H)OURS(올아워즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/245/14474245_20260824154153_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603060315"
-    },
-    {
-      "title": "Lotus ()",
-      "artist": "리슨 (LYSON)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/895/14538895_20260910140041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061541"
-    },
-    {
-      "title": "As it was that day",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/456/14530456_20260908113720_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603036093"
-    },
-    {
-      "title": "feat. Urban Fisher",
-      "artist": "립나인 (LIPNINE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/080/14539080_20260910155941_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062307"
-    },
-    {
-      "title": "The season that contains you",
-      "artist": "정오월",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/890/14538890_20260910135855_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061514"
-    },
-    {
-      "title": "Alone at Dawn",
-      "artist": "이태후",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/590/14538590_20260910104428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603060296"
-    },
-    {
-      "title": "Ice Star",
-      "artist": "옛그리움 (Old Yearning)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/063/14539063_20260910154507_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062247"
-    },
-    {
-      "title": "Nabiran",
-      "artist": "김모레 (kimmore)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/040/14539040_20260910153837_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062180"
-    },
-    {
-      "title": "Birthday girl (prod. Jung Yoon)",
-      "artist": "승민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/21/223/14521223_20260904121950_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603004016"
-    },
-    {
-      "title": "Sometimes I miss it.",
-      "artist": "리디아 (Lydia)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/891/14538891_20260910135856_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061515"
-    },
-    {
-      "title": "The night you came to pick me up,",
-      "artist": "그네",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/893/14538893_20260910135934_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061536"
     }
   ]
 }
