@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-09-14T05:11:02.235Z",
+  "generatedAt": "2026-09-14T13:05:21.661Z",
   "count": 50,
   "songs": [
     {
-      "title": "So well",
+      "title": "WINTER Solo",
+      "artist": "aespa",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/755/14541755_20260911115202_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073162"
+    },
+    {
+      "title": "\"RBF\"",
+      "artist": "The Volunteers (더 발룬티어스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/46/770/14546770_20260914095426_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603089117"
+    },
+    {
+      "title": "Bend it",
+      "artist": "영탁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/751/14541751_20260911115002_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073144"
+    },
+    {
+      "title": "feat. JUSTHIS",
+      "artist": "머쉬베놈 (MUSHVENOM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/897/14538897_20260910140141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061571"
+    },
+    {
+      "title": "Feat. zai.ro",
+      "artist": "소향",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/657/14541657_20260911101920_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603072877"
+    },
+    {
+      "title": "BESAME",
+      "artist": "8TURN (에잇턴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/929/14541929_20260911130343_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073969"
+    },
+    {
+      "title": "Feat. ZENE THE ZILLA",
+      "artist": "키츠요지 (kitsyojii)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/922/14541922_20260911130312_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073951"
+    },
+    {
+      "title": "FOR FANS",
       "artist": "나나(NANA)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/747/14541747_20260911114659_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603073127"
@@ -19,6 +61,18 @@
       "artist": "까치산",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/791/14541791_20260911121228_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603073249"
+    },
+    {
+      "title": "I know you can't go back,",
+      "artist": "이동윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/978/14535978_20260909171016_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603053098"
+    },
+    {
+      "title": "4U",
+      "artist": "MY.st (마이스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/916/14541916_20260911130058_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073913"
     },
     {
       "title": "It was so.",
@@ -247,60 +301,6 @@
       "artist": "Yonko (욘코)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/677/14541677_20260911102647_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603072911"
-    },
-    {
-      "title": "I Miss You (Sampling By)",
-      "artist": "주은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/999/14538999_20260910151649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061982"
-    },
-    {
-      "title": "I am my own",
-      "artist": "린아 (LINA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/998/14538998_20260910151602_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061977"
-    },
-    {
-      "title": "LET THEM",
-      "artist": "지셀 (Jiselle)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/909/14538909_20260910140415_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061646"
-    },
-    {
-      "title": "Read Our Time",
-      "artist": "황가람",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/072/14535072_20260909113729_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049903"
-    },
-    {
-      "title": "Tokyo Drift",
-      "artist": "아스터 (ASTER)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/929/14538929_20260910141459_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061683"
-    },
-    {
-      "title": "Brilliant",
-      "artist": "구본암",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/592/14538592_20260910104558_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603060299"
-    },
-    {
-      "title": "Oops!",
-      "artist": "하윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/208/14539208_20260910162633_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062808"
-    },
-    {
-      "title": "Echo (feat. Yeong, Sungkuk, Seongjun Woo)",
-      "artist": "전진혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/389/14539389_20260910173053_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063564"
-    },
-    {
-      "title": "Adore You",
-      "artist": "Jimmy Brown",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/083/14539083_20260910155950_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062312"
     }
   ]
 }
