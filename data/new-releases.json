@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-09-13T20:58:14.520Z",
+  "generatedAt": "2026-09-14T05:11:02.235Z",
   "count": 50,
   "songs": [
+    {
+      "title": "So well",
+      "artist": "나나(NANA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/747/14541747_20260911114659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073127"
+    },
+    {
+      "title": "DRIVE",
+      "artist": "김지웅 (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/908/14541908_20260911125540_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073898"
+    },
+    {
+      "title": "about a thousand years ago",
+      "artist": "까치산",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/791/14541791_20260911121228_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073249"
+    },
+    {
+      "title": "It was so.",
+      "artist": "문연주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/748/14541748_20260911114800_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073128"
+    },
+    {
+      "title": "You can do it",
+      "artist": "류(Ryu)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/894/14538894_20260910140027_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061537"
+    },
+    {
+      "title": "Useless",
+      "artist": "닙아카이브 (nib.archive)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/754/14541754_20260911115104_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073160"
+    },
+    {
+      "title": "Dear",
+      "artist": "DOKO (도코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/752/14541752_20260911115011_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073153"
+    },
+    {
+      "title": "Angel",
+      "artist": "찬민 (CHANMIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/669/14541669_20260911102231_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603072892"
+    },
     {
       "title": "NANSEN",
       "artist": "송소희",
@@ -15,6 +63,48 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603062000"
     },
     {
+      "title": "I love you so much",
+      "artist": "란 (RAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/963/14534963_20260909110409_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603049472"
+    },
+    {
+      "title": "We Right",
+      "artist": "Wooks",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/901/14541901_20260911125138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073889"
+    },
+    {
+      "title": "All who will eventually disappear",
+      "artist": "RAINBOW99",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/930/14541930_20260911130348_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073972"
+    },
+    {
+      "title": "You Are the Star (Prod.by Geun-tae Park)",
+      "artist": "나유(NAYU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/757/14541757_20260911115723_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073172"
+    },
+    {
+      "title": "feat. HAEMOO",
+      "artist": "디브퍼 (DIVPER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/725/14541725_20260911112430_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073045"
+    },
+    {
+      "title": "Han Ryeon-hwa",
+      "artist": "연우주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/983/14535983_20260909171018_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603053106"
+    },
+    {
+      "title": "Only until you hate",
+      "artist": "Hollow Young",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/678/14541678_20260911102702_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603072915"
+    },
+    {
       "title": "A strange day",
       "artist": "Sondia",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/002/14539002_20260910151719_500.jpg",
@@ -25,6 +115,24 @@
       "artist": "차가을",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/560/14539560_20260910180830_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603064181"
+    },
+    {
+      "title": "It's just hurting me.",
+      "artist": "라밋(Ramit)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/913/14541913_20260911125842_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073903"
+    },
+    {
+      "title": "Miracle",
+      "artist": "스모킹구스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/064/14547064_20260914110745_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603089895"
+    },
+    {
+      "title": "Pull up",
+      "artist": "MizuKey 1.0",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/350/14530350_20260908103350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603035631"
     },
     {
       "title": "Flow",
@@ -193,114 +301,6 @@
       "artist": "Jimmy Brown",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/083/14539083_20260910155950_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603062312"
-    },
-    {
-      "title": "Follow me.",
-      "artist": "mono sapa (모노사파)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/891/14530891_20260908152451_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603037708"
-    },
-    {
-      "title": "Now",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/010/14539010_20260910152053_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062006"
-    },
-    {
-      "title": "Thank you is not enough",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/958/14534958_20260909110152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049459"
-    },
-    {
-      "title": "Bookmark",
-      "artist": "윤은빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/587/14538587_20260910104249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603060253"
-    },
-    {
-      "title": "How close am I to you",
-      "artist": "모어(more)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/664/14541664_20260911102142_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603072885"
-    },
-    {
-      "title": "What Is Love",
-      "artist": "노브레인 (NoBrain)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/924/14538924_20260910141039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061678"
-    },
-    {
-      "title": "Sparkle",
-      "artist": "로이킴",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/008/14539008_20260910151851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062003"
-    },
-    {
-      "title": "Don't leave",
-      "artist": "사라 (SARA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/387/14539387_20260910172332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063562"
-    },
-    {
-      "title": "One step at a time",
-      "artist": "solE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/385/14539385_20260910171938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063559"
-    },
-    {
-      "title": "Cowardice",
-      "artist": "펜타곤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/009/14539009_20260910151934_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062005"
-    },
-    {
-      "title": "Diamond",
-      "artist": "류수정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/437/14535437_20260909142039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603051150"
-    },
-    {
-      "title": "NO LIMIT",
-      "artist": "Yang Kyle (양카일)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/916/14538916_20260910140823_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061670"
-    },
-    {
-      "title": "Feat. khaki",
-      "artist": "hayawn (하얀)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/927/14538927_20260910141242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061681"
-    },
-    {
-      "title": "Made My Night",
-      "artist": "LE SSERAFIM (르세라핌)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/586/14538586_20260910103529_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603060251"
-    },
-    {
-      "title": "Boarding Pass",
-      "artist": "PS영준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/068/14535068_20260909113623_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049892"
-    },
-    {
-      "title": "With you,",
-      "artist": "냥아치",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/771/14541771_20260911120410_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073201"
-    },
-    {
-      "title": "feat. Shane",
-      "artist": "Millennio",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/675/14541675_20260911102602_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603072909"
-    },
-    {
-      "title": "Something miraculous has to be touched in the sky",
-      "artist": "여동생",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/585/14538585_20260910103528_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603060249"
     }
   ]
 }
