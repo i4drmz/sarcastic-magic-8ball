@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-14T21:55:37.745Z",
+  "generatedAt": "2026-09-15T05:04:36.156Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Don't Mind",
+      "artist": "정아로",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/547/14542547_20260911175724_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603076455"
+    },
+    {
+      "title": "With U",
+      "artist": "MW:MEU (뮤)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/163/14547163_20260914112420_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603090825"
+    },
+    {
+      "title": "Between The Lines (Webtoon Bunker's DaylightOST X Bernard Park)",
+      "artist": "버나드 박",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/078/14542078_20260911144602_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603074491"
+    },
+    {
+      "title": "Asian boy",
+      "artist": "Jio",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/028/14548028_20260914151959_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603094161"
+    },
+    {
+      "title": "Feat. uzin",
+      "artist": "PLAT9 (플랏나인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/250/14547250_20260914113955_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091661"
+    },
+    {
+      "title": "Sing",
+      "artist": "변하은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/427/14548427_20260914163423_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095327"
+    },
     {
       "title": "WINTER Solo",
       "artist": "aespa",
@@ -15,10 +51,94 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603089117"
     },
     {
+      "title": "DEC",
+      "artist": "시인을 위하여",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/268/14547268_20260914115122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091769"
+    },
+    {
+      "title": "Thou that passeth by me",
+      "artist": "손효규",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/544/14542544_20260911175623_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603076447"
+    },
+    {
+      "title": "Limbo",
+      "artist": "한정인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/143/14547143_20260914112106_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603090675"
+    },
+    {
       "title": "Bend it",
       "artist": "영탁",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/751/14541751_20260911115002_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603073144"
+    },
+    {
+      "title": "All the things you said to me..",
+      "artist": "에코비",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/660/14541660_20260911102042_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603072881"
+    },
+    {
+      "title": "suede",
+      "artist": "A-1000",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/317/14547317_20260914121332_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091946"
+    },
+    {
+      "title": "My love is",
+      "artist": "SOTK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/239/14547239_20260914113634_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091533"
+    },
+    {
+      "title": "On the Han River",
+      "artist": "천다성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/328/14547328_20260914121738_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091973"
+    },
+    {
+      "title": "Where are your dreams?",
+      "artist": "경계",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/275/14547275_20260914115326_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091810"
+    },
+    {
+      "title": "What love is",
+      "artist": "문원 (MoonOne)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/546/14542546_20260911175638_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603076453"
+    },
+    {
+      "title": "My dear friend",
+      "artist": "재하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/316/14547316_20260914121330_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091944"
+    },
+    {
+      "title": "I guess it's love",
+      "artist": "케이플라워 (K. Flower)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/369/14530369_20260908105030_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603035728"
+    },
+    {
+      "title": "Honest day",
+      "artist": "Around (어라운드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/149/14547149_20260914112209_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603090715"
+    },
+    {
+      "title": "The person who became the reason for my life",
+      "artist": "모닝커피 (Morning Coffee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/799/14541799_20260911121534_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073302"
+    },
+    {
+      "title": "New Bucket",
+      "artist": "Ambid Jack",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/270/14547270_20260914115224_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091774"
     },
     {
       "title": "feat. JUSTHIS",
@@ -181,126 +301,6 @@
       "artist": "스모킹구스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/064/14547064_20260914110745_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603089895"
-    },
-    {
-      "title": "Pull up",
-      "artist": "MizuKey 1.0",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/350/14530350_20260908103350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603035631"
-    },
-    {
-      "title": "Flow",
-      "artist": "S2AM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/067/14535067_20260909113623_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049893"
-    },
-    {
-      "title": "Even for a Moment (Prod. Ohmyo)",
-      "artist": "임도혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/122/14539122_20260910160609_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062421"
-    },
-    {
-      "title": "Because it's you",
-      "artist": "네이비쿼카 (NavyQuokka)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/946/14534946_20260909105208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049430"
-    },
-    {
-      "title": "Live Your Life",
-      "artist": "Whiteusedsocks",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/107/14539107_20260910160225_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062392"
-    },
-    {
-      "title": "As much love as there is in the world",
-      "artist": "아이보리 (Ivory)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/211/14535211_20260909122830_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603050429"
-    },
-    {
-      "title": "Can't We Love Again? (Feat. Kim Si-won)",
-      "artist": "이새라 (leesaera)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/413/14542413_20260911165330_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603076037"
-    },
-    {
-      "title": "Were we love?",
-      "artist": "음유시인(吟遊詩人)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/467/14539467_20260910175534_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063780"
-    },
-    {
-      "title": "Like a Fall Night Star",
-      "artist": "달빛연인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/781/14538781_20260910122558_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061101"
-    },
-    {
-      "title": "Holding the stars in your arms",
-      "artist": "WESTOF (웨스트오브)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/459/14539459_20260910175308_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063723"
-    },
-    {
-      "title": "Art. Tmlm",
-      "artist": "Anonymous Artists(어나니머스 아티스트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/594/14538594_20260910104659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603060304"
-    },
-    {
-      "title": "Feat. Gist",
-      "artist": "JAEHA (재하)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/392/14539392_20260910173932_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063568"
-    },
-    {
-      "title": "Just as the wind makes the trees sing",
-      "artist": "이민혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/391/14539391_20260910173830_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063567"
-    },
-    {
-      "title": "Laughing, I say,",
-      "artist": "위즈(WIZ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/465/14539465_20260910175531_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063774"
-    },
-    {
-      "title": "Sour grapes",
-      "artist": "미지 (Miji)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/455/14539455_20260910175211_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063700"
-    },
-    {
-      "title": "Towards",
-      "artist": "TIMIR (티미르)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/959/14534959_20260909110244_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049461"
-    },
-    {
-      "title": "My place.",
-      "artist": "홈메이드레코딩",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/667/14541667_20260911102229_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603072889"
-    },
-    {
-      "title": "I'll be your tree",
-      "artist": "디케이소울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/212/14535212_20260909122835_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603050431"
-    },
-    {
-      "title": "I am ready",
-      "artist": "이진영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/453/14539453_20260910175204_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603063688"
-    },
-    {
-      "title": "Feat. JENNA SUHL",
-      "artist": "Yonko (욘코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/677/14541677_20260911102647_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603072911"
     }
   ]
 }
