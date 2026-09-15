@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-09-15T05:04:36.156Z",
+  "generatedAt": "2026-09-15T11:55:08.662Z",
   "count": 50,
   "songs": [
+    {
+      "title": "The Four Seasons, and You",
+      "artist": "이창섭",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/257/14474257_20260914185038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603097474"
+    },
+    {
+      "title": "GHOST",
+      "artist": "릴보이 (lIlBOI)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/706/14547706_20260914140351_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603092686"
+    },
+    {
+      "title": "Over limit",
+      "artist": "솔지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/170/14547170_20260914112618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603090892"
+    },
+    {
+      "title": "feat. GANGGA",
+      "artist": "문수진 (Moon Sujin)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/930/14538930_20260910141513_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061685"
+    },
+    {
+      "title": "Goodbye",
+      "artist": "범진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/253/14547253_20260914114058_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091686"
+    },
+    {
+      "title": "That would be great.",
+      "artist": "윤후",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/016/14548016_20260914151843_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603094148"
+    },
+    {
+      "title": "Missed you night",
+      "artist": "DOKO (도코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/264/14547264_20260914114506_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091756"
+    },
+    {
+      "title": "Diamonds",
+      "artist": "Osshun Gum",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/314/14547314_20260914121327_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091940"
+    },
+    {
+      "title": "0",
+      "artist": "우진영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/904/14538904_20260910140317_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603061617"
+    },
+    {
+      "title": "feat. PIRI",
+      "artist": "hu57la",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/266/14547266_20260914115021_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091759"
+    },
+    {
+      "title": "If we",
+      "artist": "Brody (브로디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/259/14547259_20260914114304_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603091749"
+    },
+    {
+      "title": "Bengrères",
+      "artist": "에리즈 (Aries)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/579/14542579_20260911181431_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603076565"
+    },
+    {
+      "title": "aROMa",
+      "artist": "Stun Ave",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/370/14530370_20260908105202_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603035729"
+    },
     {
       "title": "Don't Mind",
       "artist": "정아로",
@@ -203,7 +281,7 @@
     {
       "title": "You can do it",
       "artist": "류(Ryu)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/894/14538894_20260910140027_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/894/14538894_20260915144401_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603061537"
     },
     {
@@ -223,84 +301,6 @@
       "artist": "찬민 (CHANMIN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/669/14541669_20260911102231_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603072892"
-    },
-    {
-      "title": "NANSEN",
-      "artist": "송소희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/558/14539558_20260910180827_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603064165"
-    },
-    {
-      "title": "Last Scene",
-      "artist": "MJ (써니사이드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/006/14539006_20260910151834_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603062000"
-    },
-    {
-      "title": "I love you so much",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/34/963/14534963_20260909110409_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603049472"
-    },
-    {
-      "title": "We Right",
-      "artist": "Wooks",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/901/14541901_20260911125138_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073889"
-    },
-    {
-      "title": "All who will eventually disappear",
-      "artist": "RAINBOW99",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/930/14541930_20260911130348_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073972"
-    },
-    {
-      "title": "You Are the Star (Prod.by Geun-tae Park)",
-      "artist": "나유(NAYU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/757/14541757_20260911115723_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073172"
-    },
-    {
-      "title": "feat. HAEMOO",
-      "artist": "디브퍼 (DIVPER)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/725/14541725_20260911112430_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073045"
-    },
-    {
-      "title": "Han Ryeon-hwa",
-      "artist": "연우주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/35/983/14535983_20260909171018_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603053106"
-    },
-    {
-      "title": "Only until you hate",
-      "artist": "Hollow Young",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/678/14541678_20260911102702_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603072915"
-    },
-    {
-      "title": "A strange day",
-      "artist": "Sondia",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/002/14539002_20260910151719_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061995"
-    },
-    {
-      "title": "Let's break up before the end of the fall",
-      "artist": "차가을",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/39/560/14539560_20260910180830_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603064181"
-    },
-    {
-      "title": "It's just hurting me.",
-      "artist": "라밋(Ramit)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/913/14541913_20260911125842_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073903"
-    },
-    {
-      "title": "Miracle",
-      "artist": "스모킹구스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/064/14547064_20260914110745_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603089895"
     }
   ]
 }
