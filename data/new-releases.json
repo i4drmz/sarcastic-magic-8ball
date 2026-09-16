@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-09-16T05:00:06.821Z",
+  "generatedAt": "2026-09-16T11:51:26.660Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Ageha",
+      "artist": "리도어 (Redoor)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/417/14548417_20260914162600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095306"
+    },
+    {
+      "title": "Soju Bomb (Feat. Book Keeper, G.C Hammer)",
+      "artist": "마이티 마우스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/174/14552174_20260915152519_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106636"
+    },
+    {
+      "title": "Clear Knee Number",
+      "artist": "가비엔제이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/168/14552168_20260915152330_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106620"
+    },
+    {
+      "title": "Long Island",
+      "artist": "로시 (Rothy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/166/14552166_20260915151829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106617"
+    },
+    {
+      "title": "Feat. Akita",
+      "artist": "공기남",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/992/14551992_20260915143259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603105780"
+    },
+    {
+      "title": "Little bird! Little bird! Little bird!",
+      "artist": "이고도",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/415/14548415_20260914162439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095296"
+    },
+    {
+      "title": "Night flight",
+      "artist": "이츠",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/416/14548416_20260914162441_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095303"
+    },
+    {
+      "title": "Our Changhwa",
+      "artist": "타린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/517/14548517_20260914164843_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095655"
+    },
+    {
+      "title": "It’s Complete",
+      "artist": "영주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/726/14548726_20260914173122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603096150"
+    },
     {
       "title": "Although it hurts too much to let you go (Feat. E.ul)",
       "artist": "현서 (HYUN SEO)",
@@ -19,6 +73,18 @@
       "artist": "Ruru (루루)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/414/14548414_20260914162239_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603095280"
+    },
+    {
+      "title": "Caravan 23",
+      "artist": "$up! (수피)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/391/14551391_20260915093911_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603103653"
+    },
+    {
+      "title": "The beginning of love begins with confession.",
+      "artist": "서하우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/795/14551795_20260915122352_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603104921"
     },
     {
       "title": "GET A KISS",
@@ -101,7 +167,7 @@
     {
       "title": "Goodbye",
       "artist": "범진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/253/14547253_20260914114058_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/253/14547253_20260916173403_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603091686"
     },
     {
@@ -235,72 +301,6 @@
       "artist": "A-1000",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/317/14547317_20260914121332_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603091946"
-    },
-    {
-      "title": "My love is",
-      "artist": "SOTK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/239/14547239_20260914113634_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091533"
-    },
-    {
-      "title": "On the Han River",
-      "artist": "천다성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/328/14547328_20260914121738_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091973"
-    },
-    {
-      "title": "Where are your dreams?",
-      "artist": "경계",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/275/14547275_20260914115326_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091810"
-    },
-    {
-      "title": "What love is",
-      "artist": "문원 (MoonOne)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/546/14542546_20260911175638_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603076453"
-    },
-    {
-      "title": "My dear friend",
-      "artist": "재하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/316/14547316_20260914121330_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091944"
-    },
-    {
-      "title": "I guess it's love",
-      "artist": "케이플라워 (K. Flower)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/369/14530369_20260908105030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603035728"
-    },
-    {
-      "title": "Honest day",
-      "artist": "Around (어라운드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/149/14547149_20260914112209_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603090715"
-    },
-    {
-      "title": "The person who became the reason for my life",
-      "artist": "모닝커피 (Morning Coffee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/799/14541799_20260911121534_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073302"
-    },
-    {
-      "title": "New Bucket",
-      "artist": "Ambid Jack",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/270/14547270_20260914115224_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091774"
-    },
-    {
-      "title": "feat. JUSTHIS",
-      "artist": "머쉬베놈 (MUSHVENOM)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/897/14538897_20260910140141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603061571"
-    },
-    {
-      "title": "Feat. zai.ro",
-      "artist": "소향",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/657/14541657_20260911101920_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603072877"
     }
   ]
 }
