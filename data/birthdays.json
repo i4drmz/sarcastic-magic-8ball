@@ -122,7 +122,7 @@
   {
     "id": "q29876894",
     "name": "Arin",
-    "group": "Oh My Girl Banhana",
+    "group": "Oh My Girl",
     "birthday": "1999-06-18",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/arin-q29876894.webp",
     "wikidataId": "Q29876894"
@@ -434,7 +434,7 @@
   {
     "id": "q16171935",
     "name": "Byeong-Joo Yoon",
-    "group": "Noizegarden",
+    "group": "Lowdown 30",
     "birthday": "1971-02-03",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/byeong-joo-yoon-q16171935.webp",
     "wikidataId": "Q16171935"
@@ -468,7 +468,7 @@
     "name": "C.A.P.",
     "group": "Teen Top",
     "birthday": "1992-11-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/c-a-p-q12580794.webp",
     "wikidataId": "Q12580794"
   },
   {
@@ -618,7 +618,7 @@
   {
     "id": "q494816",
     "name": "Cho Kyuhyun",
-    "group": "Super Junior-K.R.Y.",
+    "group": "Super Junior",
     "birthday": "1988-02-03",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/cho-kyuhyun-q494816.webp",
     "wikidataId": "Q494816"
@@ -650,7 +650,7 @@
   {
     "id": "q120230463",
     "name": "Choe Chan-yi",
-    "group": "BOYS24",
+    "group": "THE MAN BLK",
     "birthday": "1995-06-14",
     "image": "",
     "wikidataId": "Q120230463"
@@ -724,7 +724,7 @@
     "name": "Choi Ji-ung",
     "group": "P1Harmony",
     "birthday": "2001-10-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/choi-ji-ung-q121579089.webp",
+    "image": "",
     "wikidataId": "Q121579089"
   },
   {
@@ -786,7 +786,7 @@
   {
     "id": "q153657",
     "name": "Choi Siwon",
-    "group": "Super Junior",
+    "group": "Super Junior-M",
     "birthday": "1986-04-07",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/choi-siwon-q153657.webp",
     "wikidataId": "Q153657"
@@ -908,7 +908,7 @@
     "name": "Chun Myung-hoon",
     "group": "NRG",
     "birthday": "1978-04-06",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/chun-myung-hoon-q12618867.webp",
+    "image": "",
     "wikidataId": "Q12618867"
   },
   {
@@ -994,7 +994,7 @@
   {
     "id": "q12582742",
     "name": "Dalpalan",
-    "group": "Pippi band",
+    "group": "Sinawe",
     "birthday": "1966-07-16",
     "image": "",
     "wikidataId": "Q12582742"
@@ -1080,20 +1080,20 @@
     "wikidataId": "Q12593778"
   },
   {
-    "id": "q85977615",
-    "name": "Dino",
-    "group": "HALO",
-    "birthday": "1990-12-25",
-    "image": "",
-    "wikidataId": "Q85977615"
-  },
-  {
     "id": "q20779386",
     "name": "Dino",
     "group": "Seventeen",
     "birthday": "1999-02-11",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/dino-q20779386.webp",
     "wikidataId": "Q20779386"
+  },
+  {
+    "id": "q85977615",
+    "name": "Dino",
+    "group": "HALO",
+    "birthday": "1990-12-25",
+    "image": "",
+    "wikidataId": "Q85977615"
   },
   {
     "id": "q18815429",
@@ -1274,7 +1274,7 @@
   {
     "id": "q21710247",
     "name": "Eunha",
-    "group": "Viviz",
+    "group": "GFriend",
     "birthday": "1997-05-30",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/eunha-q21710247.webp",
     "wikidataId": "Q21710247"
@@ -1282,7 +1282,7 @@
   {
     "id": "q483161",
     "name": "Eunhyuk",
-    "group": "Super Junior Donghae & Eunhyuk",
+    "group": "Super Junior-Happy",
     "birthday": "1986-04-04",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/eunhyuk-q483161.webp",
     "wikidataId": "Q483161"
@@ -1452,7 +1452,7 @@
     "name": "Go Na-eun",
     "group": "Papaya",
     "birthday": "1982-01-15",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/go-na-eun-q6657886.webp",
+    "image": "",
     "wikidataId": "Q6657886"
   },
   {
@@ -1676,7 +1676,7 @@
     "name": "Ham Seung-jin",
     "group": "A-Jax",
     "birthday": "1994-10-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/ham-seung-jin-q66629482.webp",
     "wikidataId": "Q66629482"
   },
   {
@@ -1714,7 +1714,7 @@
   {
     "id": "q16090299",
     "name": "Han Seo-in",
-    "group": "F-ve Dolls",
+    "group": "The SeeYa",
     "birthday": "1994-08-25",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/han-seo-in-q16090299.webp",
     "wikidataId": "Q16090299"
@@ -1740,7 +1740,7 @@
     "name": "Han Young",
     "group": "LPG",
     "birthday": "1981-12-16",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/han-young-q12624181.webp",
+    "image": "",
     "wikidataId": "Q12624181"
   },
   {
@@ -2420,7 +2420,7 @@
     "name": "Jay Park",
     "group": "2PM",
     "birthday": "1987-04-25",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/jay-park-q429046.webp",
+    "image": "",
     "wikidataId": "Q429046"
   },
   {
@@ -2516,7 +2516,7 @@
     "name": "Jeon Woong",
     "group": "AB6IX",
     "birthday": "1997-10-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/jeon-woong-q64684322.webp",
     "wikidataId": "Q64684322"
   },
   {
@@ -2570,7 +2570,7 @@
   {
     "id": "q61770150",
     "name": "Jeong Yoon-hye",
-    "group": "Flavor",
+    "group": "Fanatics",
     "birthday": "2001-10-04",
     "image": "",
     "wikidataId": "Q61770150"
@@ -2690,7 +2690,7 @@
   {
     "id": "q84324505",
     "name": "Jin Hyeon-ju",
-    "group": "Good Day",
+    "group": "Cignature",
     "birthday": "2001-11-03",
     "image": "",
     "wikidataId": "Q84324505"
@@ -2866,7 +2866,7 @@
   {
     "id": "q47690025",
     "name": "Johnny Suh",
-    "group": "NCT",
+    "group": "NCT 127",
     "birthday": "1995-02-09",
     "image": "",
     "wikidataId": "Q47690025"
@@ -3226,7 +3226,7 @@
   {
     "id": "q27953985",
     "name": "Kang Kyung-won",
-    "group": "Pristin",
+    "group": "HINAPIA",
     "birthday": "1997-11-05",
     "image": "",
     "wikidataId": "Q27953985"
@@ -3346,7 +3346,7 @@
   {
     "id": "q482847",
     "name": "Kangta",
-    "group": "Kangta & Vanness",
+    "group": "H.O.T.",
     "birthday": "1979-10-10",
     "image": "",
     "wikidataId": "Q482847"
@@ -3450,7 +3450,7 @@
   {
     "id": "q54553939",
     "name": "Kim A-in",
-    "group": "N.O.M",
+    "group": "TST",
     "birthday": "1994-02-15",
     "image": "",
     "wikidataId": "Q54553939"
@@ -3610,7 +3610,7 @@
   {
     "id": "q61770153",
     "name": "Kim Do-ah",
-    "group": "Flavor",
+    "group": "Fanatics",
     "birthday": "2003-12-04",
     "image": "",
     "wikidataId": "Q61770153"
@@ -3714,7 +3714,7 @@
   {
     "id": "q380123",
     "name": "Kim Hee-chul",
-    "group": "Universe Cowards",
+    "group": "Super Junior-T",
     "birthday": "1983-07-10",
     "image": "",
     "wikidataId": "Q380123"
@@ -3956,7 +3956,7 @@
     "name": "Kim joong-yeon",
     "group": "A6P",
     "birthday": "1992-07-22",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-joong-yeon-q97222639.webp",
+    "image": "",
     "wikidataId": "Q97222639"
   },
   {
@@ -4018,7 +4018,7 @@
   {
     "id": "q60831979",
     "name": "Kim Jungwoo",
-    "group": "NCT U",
+    "group": "NCT",
     "birthday": "1998-02-19",
     "image": "",
     "wikidataId": "Q60831979"
@@ -4050,7 +4050,7 @@
   {
     "id": "q66711922",
     "name": "Kim Kook-heon",
-    "group": "B.O.Y",
+    "group": "Myteen",
     "birthday": "1997-04-15",
     "image": "",
     "wikidataId": "Q66711922"
@@ -4244,7 +4244,7 @@
     "name": "Kim Se-heon",
     "group": "Eve",
     "birthday": "1971-06-02",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-se-heon-q12587811.webp",
+    "image": "",
     "wikidataId": "Q12587811"
   },
   {
@@ -4260,7 +4260,7 @@
     "name": "Kim Se-yong",
     "group": "Myname",
     "birthday": "1991-11-20",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-se-yong-q30196590.webp",
+    "image": "",
     "wikidataId": "Q30196590"
   },
   {
@@ -4268,7 +4268,7 @@
     "name": "Kim Seolhyun",
     "group": "AOA",
     "birthday": "1995-01-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-seolhyun-q16173210.webp",
+    "image": "",
     "wikidataId": "Q16173210"
   },
   {
@@ -4316,7 +4316,7 @@
     "name": "Kim Seung-yeon",
     "group": "S.I.S",
     "birthday": "2000-05-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-seung-yeon-q63226266.webp",
+    "image": "",
     "wikidataId": "Q63226266"
   },
   {
@@ -4324,7 +4324,7 @@
     "name": "Kim Shi-hyun",
     "group": "Longguo & Shihyun",
     "birthday": "1998-05-06",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-shi-hyun-q16067762.webp",
+    "image": "",
     "wikidataId": "Q16067762"
   },
   {
@@ -4340,7 +4340,7 @@
     "name": "Kim So-hee",
     "group": "Rocket Punch",
     "birthday": "2003-08-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-so-hee-q65920474.webp",
+    "image": "",
     "wikidataId": "Q65920474"
   },
   {
@@ -4348,7 +4348,7 @@
     "name": "Kim So-won",
     "group": "GFriend",
     "birthday": "1995-12-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-so-won-q26162651.webp",
+    "image": "",
     "wikidataId": "Q26162651"
   },
   {
@@ -4356,7 +4356,7 @@
     "name": "Kim Soo-chul",
     "group": "Little Big Man",
     "birthday": "1957-04-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-soo-chul-q6409396.webp",
+    "image": "",
     "wikidataId": "Q6409396"
   },
   {
@@ -4372,7 +4372,7 @@
     "name": "Kim Sun-woo",
     "group": "The Boyz",
     "birthday": "2000-04-12",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-sun-woo-q61750270.webp",
+    "image": "",
     "wikidataId": "Q61750270"
   },
   {
@@ -4380,7 +4380,7 @@
     "name": "Kim Sung Hyun",
     "group": "SKYE",
     "birthday": "1996-03-16",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-sung-hyun-q47668236.webp",
+    "image": "",
     "wikidataId": "Q47668236"
   },
   {
@@ -4404,7 +4404,7 @@
     "name": "Kim Tae-ha",
     "group": "Momoland",
     "birthday": "1998-06-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-tae-ha-q53316743.webp",
+    "image": "",
     "wikidataId": "Q53316743"
   },
   {
@@ -4428,7 +4428,7 @@
     "name": "Kim Tae-rae",
     "group": "Zerobaseone",
     "birthday": "2002-07-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-tae-rae-q117817675.webp",
+    "image": "",
     "wikidataId": "Q117817675"
   },
   {
@@ -4436,7 +4436,7 @@
     "name": "Kim Tae-won",
     "group": "Boohwal",
     "birthday": "1965-04-12",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-tae-won-q625977.webp",
+    "image": "",
     "wikidataId": "Q625977"
   },
   {
@@ -4444,7 +4444,7 @@
     "name": "Kim Won-sik",
     "group": "TMC",
     "birthday": "1989-07-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-won-sik-q134513122.webp",
+    "image": "",
     "wikidataId": "Q134513122"
   },
   {
@@ -4460,7 +4460,7 @@
     "name": "Kim Woo-jin",
     "group": "Stray Kids",
     "birthday": "1997-04-08",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-woo-jin-q61100680.webp",
+    "image": "",
     "wikidataId": "Q61100680"
   },
   {
@@ -4492,7 +4492,7 @@
     "name": "Kim Ye-joon",
     "group": "Buzz",
     "birthday": "1981-08-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-ye-joon-q12588128.webp",
+    "image": "",
     "wikidataId": "Q12588128"
   },
   {
@@ -4500,7 +4500,7 @@
     "name": "Kim Yeon-hee",
     "group": "Rocket Punch",
     "birthday": "2000-12-06",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-yeon-hee-q65920400.webp",
+    "image": "",
     "wikidataId": "Q65920400"
   },
   {
@@ -4516,7 +4516,7 @@
     "name": "Kim Yeon-woo",
     "group": "Toy",
     "birthday": "1971-07-22",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-yeon-woo-q6409608.webp",
+    "image": "",
     "wikidataId": "Q6409608"
   },
   {
@@ -4556,7 +4556,7 @@
     "name": "Kim Yoon-Dong",
     "group": "HALO",
     "birthday": "1995-02-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-yoon-dong-q88728843.webp",
+    "image": "",
     "wikidataId": "Q88728843"
   },
   {
@@ -4564,7 +4564,7 @@
     "name": "Kim Young Woo",
     "group": "Sweet Sorrow",
     "birthday": "1978-01-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-young-woo-q16080316.webp",
+    "image": "",
     "wikidataId": "Q16080316"
   },
   {
@@ -4578,9 +4578,9 @@
   {
     "id": "q17500887",
     "name": "Kim Yu-gyeom",
-    "group": "Got7",
+    "group": "Jus2",
     "birthday": "1997-11-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-yu-gyeom-q17500887.webp",
+    "image": "",
     "wikidataId": "Q17500887"
   },
   {
@@ -4588,7 +4588,7 @@
     "name": "Kim Yu-jeong",
     "group": "Laboum",
     "birthday": "1992-02-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-yu-jeong-q30944712.webp",
+    "image": "",
     "wikidataId": "Q30944712"
   },
   {
@@ -4604,7 +4604,7 @@
     "name": "Kim Yun-a",
     "group": "Jaurim",
     "birthday": "1974-03-11",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kim-yun-a-q10855868.webp",
+    "image": "",
     "wikidataId": "Q10855868"
   },
   {
@@ -4620,7 +4620,7 @@
     "name": "Ko Ho-jung",
     "group": "Hotshot",
     "birthday": "1994-10-20",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/ko-ho-jung-q55727455.webp",
+    "image": "",
     "wikidataId": "Q55727455"
   },
   {
@@ -4628,7 +4628,7 @@
     "name": "Ko Woo-rim",
     "group": "Forestella",
     "birthday": "1995-07-10",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/ko-woo-rim-q112021444.webp",
+    "image": "",
     "wikidataId": "Q112021444"
   },
   {
@@ -4636,7 +4636,7 @@
     "name": "Kogyeol",
     "group": "Up10tion",
     "birthday": "1996-05-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kogyeol-q67981192.webp",
+    "image": "",
     "wikidataId": "Q67981192"
   },
   {
@@ -4652,7 +4652,7 @@
     "name": "Koo Jun-hoe",
     "group": "iKon",
     "birthday": "1997-03-31",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/koo-jun-hoe-q21057648.webp",
+    "image": "",
     "wikidataId": "Q21057648"
   },
   {
@@ -4660,7 +4660,7 @@
     "name": "Koo Jun-yup",
     "group": "Clon",
     "birthday": "1969-09-11",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/koo-jun-yup-q6411575.webp",
+    "image": "",
     "wikidataId": "Q6411575"
   },
   {
@@ -4668,7 +4668,7 @@
     "name": "Krystal Jung",
     "group": "f(x)",
     "birthday": "1994-10-24",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/krystal-jung-q464623.webp",
+    "image": "",
     "wikidataId": "Q464623"
   },
   {
@@ -4684,7 +4684,7 @@
     "name": "Kuhn",
     "group": "Up10tion",
     "birthday": "1995-11-11",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kuhn-q67980868.webp",
+    "image": "",
     "wikidataId": "Q67980868"
   },
   {
@@ -4716,7 +4716,7 @@
     "name": "Kwon Hyun-bin",
     "group": "JBJ",
     "birthday": "1997-03-04",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kwon-hyun-bin-q36331297.webp",
+    "image": "",
     "wikidataId": "Q36331297"
   },
   {
@@ -4724,7 +4724,7 @@
     "name": "Kwon Jung-yeol",
     "group": "10cm",
     "birthday": "1983-03-01",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kwon-jung-yeol-q47541434.webp",
+    "image": "",
     "wikidataId": "Q47541434"
   },
   {
@@ -4740,7 +4740,7 @@
     "name": "Kwon Soon-il",
     "group": "Urban Zakapa",
     "birthday": "1988-10-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kwon-soon-il-q24859970.webp",
+    "image": "",
     "wikidataId": "Q24859970"
   },
   {
@@ -4748,15 +4748,15 @@
     "name": "Kwon Yong-hyeon",
     "group": "TST",
     "birthday": "1996-12-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kwon-yong-hyeon-q107109453.webp",
+    "image": "",
     "wikidataId": "Q107109453"
   },
   {
     "id": "q276158",
     "name": "Kwon Yu-ri",
-    "group": "Girls' Generation",
+    "group": "Girls' Generation-Oh!GG",
     "birthday": "1989-12-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kwon-yu-ri-q276158.webp",
+    "image": "",
     "wikidataId": "Q276158"
   },
   {
@@ -4772,7 +4772,7 @@
     "name": "Kyla",
     "group": "Pristin",
     "birthday": "2001-12-26",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/kyla-q28970744.webp",
+    "image": "",
     "wikidataId": "Q28970744"
   },
   {
@@ -4804,7 +4804,7 @@
     "name": "LE",
     "group": "EXID",
     "birthday": "1991-12-10",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/le-q16766702.webp",
+    "image": "",
     "wikidataId": "Q16766702"
   },
   {
@@ -4812,7 +4812,7 @@
     "name": "Lee Byounggon",
     "group": "CIX",
     "birthday": "1998-03-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-byounggon-q63791115.webp",
+    "image": "",
     "wikidataId": "Q63791115"
   },
   {
@@ -4828,7 +4828,7 @@
     "name": "Lee Chae-young",
     "group": "Fromis 9",
     "birthday": "2000-05-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-chae-young-q56660258.webp",
+    "image": "",
     "wikidataId": "Q56660258"
   },
   {
@@ -4836,7 +4836,7 @@
     "name": "Lee Chang-sub",
     "group": "BtoB",
     "birthday": "1991-02-26",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-chang-sub-q16183546.webp",
+    "image": "",
     "wikidataId": "Q16183546"
   },
   {
@@ -4860,7 +4860,7 @@
     "name": "Lee Dae-yeol",
     "group": "Golden Child",
     "birthday": "1993-02-11",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-dae-yeol-q19854876.webp",
+    "image": "",
     "wikidataId": "Q19854876"
   },
   {
@@ -4876,15 +4876,15 @@
     "name": "Lee Dawon",
     "group": "SF9",
     "birthday": "1995-07-24",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-dawon-q28790327.webp",
+    "image": "",
     "wikidataId": "Q28790327"
   },
   {
     "id": "q153638",
     "name": "Lee Dong-hae",
-    "group": "Super Junior Donghae & Eunhyuk",
+    "group": "Super Junior-M",
     "birthday": "1986-10-15",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-dong-hae-q153638.webp",
+    "image": "",
     "wikidataId": "Q153638"
   },
   {
@@ -4922,7 +4922,7 @@
   {
     "id": "q13646009",
     "name": "Lee Eun Joo",
-    "group": "SWi.T",
+    "group": "Moogadang",
     "birthday": "1981-03-09",
     "image": "",
     "wikidataId": "Q13646009"
@@ -4930,7 +4930,7 @@
   {
     "id": "q60668946",
     "name": "Lee Eun-ju",
-    "group": "WANNA.B",
+    "group": "Hot Place",
     "birthday": "1994-09-23",
     "image": "",
     "wikidataId": "Q60668946"
@@ -4940,7 +4940,7 @@
     "name": "Lee Eun-mi",
     "group": "Shinchon Blues",
     "birthday": "1966-05-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-eun-mi-q16181057.webp",
+    "image": "",
     "wikidataId": "Q16181057"
   },
   {
@@ -4972,7 +4972,7 @@
     "name": "Lee Ha-neul",
     "group": "DJ DOC",
     "birthday": "1971-05-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-ha-neul-q12613032.webp",
+    "image": "",
     "wikidataId": "Q12613032"
   },
   {
@@ -4980,7 +4980,7 @@
     "name": "Lee Hae-in",
     "group": "Gangkiz",
     "birthday": "1986-04-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hae-in-q12613091.webp",
+    "image": "",
     "wikidataId": "Q12613091"
   },
   {
@@ -4996,7 +4996,7 @@
     "name": "Lee Han-gyul",
     "group": "Polarix",
     "birthday": "1999-12-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-han-gyul-q65054605.webp",
+    "image": "",
     "wikidataId": "Q65054605"
   },
   {
@@ -5004,7 +5004,7 @@
     "name": "Lee Hi",
     "group": "Bom & Hi",
     "birthday": "1996-09-23",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hi-q24945.webp",
+    "image": "",
     "wikidataId": "Q24945"
   },
   {
@@ -5012,7 +5012,7 @@
     "name": "Lee Hong-bin",
     "group": "VIXX",
     "birthday": "1993-09-29",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hong-bin-q18551486.webp",
+    "image": "",
     "wikidataId": "Q18551486"
   },
   {
@@ -5020,7 +5020,7 @@
     "name": "Lee Hwa-kyum",
     "group": "Hello Venus",
     "birthday": "1995-01-23",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hwa-kyum-q15427708.webp",
+    "image": "",
     "wikidataId": "Q15427708"
   },
   {
@@ -5028,7 +5028,7 @@
     "name": "Lee Hye-bin",
     "group": "Momoland",
     "birthday": "1996-01-12",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hye-bin-q53316231.webp",
+    "image": "",
     "wikidataId": "Q53316231"
   },
   {
@@ -5036,7 +5036,7 @@
     "name": "Lee Hye-ri",
     "group": "Girl's Day",
     "birthday": "1994-06-09",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hye-ri-q11073341.webp",
+    "image": "",
     "wikidataId": "Q11073341"
   },
   {
@@ -5044,7 +5044,7 @@
     "name": "Lee Hyeop",
     "group": "Drippin",
     "birthday": "1999-08-13",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hyeop-q134569846.webp",
+    "image": "",
     "wikidataId": "Q134569846"
   },
   {
@@ -5052,7 +5052,7 @@
     "name": "Lee Hyun-ho",
     "group": "D-Crunch",
     "birthday": "1998-11-04",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-hyun-ho-q121605178.webp",
+    "image": "",
     "wikidataId": "Q121605178"
   },
   {
@@ -5092,7 +5092,7 @@
     "name": "Lee Jae-hoon",
     "group": "Cool",
     "birthday": "1974-07-30",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jae-hoon-q12612527.webp",
+    "image": "",
     "wikidataId": "Q12612527"
   },
   {
@@ -5100,7 +5100,7 @@
     "name": "Lee Jang-jun",
     "group": "Golden Child",
     "birthday": "1997-03-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jang-jun-q55737695.webp",
+    "image": "",
     "wikidataId": "Q55737695"
   },
   {
@@ -5116,7 +5116,7 @@
     "name": "Lee Je-no",
     "group": "NCT Dream",
     "birthday": "2000-04-23",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-je-no-q28741579.webp",
+    "image": "",
     "wikidataId": "Q28741579"
   },
   {
@@ -5124,7 +5124,7 @@
     "name": "Lee Ji-ham",
     "group": "A.C.E",
     "birthday": "1993-02-28",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-ji-ham-q134315862.webp",
+    "image": "",
     "wikidataId": "Q134315862"
   },
   {
@@ -5132,7 +5132,7 @@
     "name": "Lee Ji-hoon",
     "group": "S",
     "birthday": "1979-03-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-ji-hoon-q486084.webp",
+    "image": "",
     "wikidataId": "Q486084"
   },
   {
@@ -5140,7 +5140,7 @@
     "name": "Lee Ji-hye",
     "group": "Sharp",
     "birthday": "1980-01-11",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-ji-hye-q16091162.webp",
+    "image": "",
     "wikidataId": "Q16091162"
   },
   {
@@ -5156,7 +5156,7 @@
     "name": "Lee Jin-hyuk",
     "group": "Up10tion",
     "birthday": "1996-06-08",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jin-hyuk-q64796810.webp",
+    "image": "",
     "wikidataId": "Q64796810"
   },
   {
@@ -5164,7 +5164,7 @@
     "name": "Lee Jin-sung",
     "group": "Monday Kiz",
     "birthday": "1985-02-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jin-sung-q8985180.webp",
+    "image": "",
     "wikidataId": "Q8985180"
   },
   {
@@ -5196,7 +5196,7 @@
     "name": "Lee Jong-hyun",
     "group": "CNBLUE",
     "birthday": "1990-05-15",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jong-hyun-q488057.webp",
+    "image": "",
     "wikidataId": "Q488057"
   },
   {
@@ -5204,7 +5204,7 @@
     "name": "Lee Joon",
     "group": "MBLAQ",
     "birthday": "1988-02-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-joon-q496846.webp",
+    "image": "",
     "wikidataId": "Q496846"
   },
   {
@@ -5212,7 +5212,7 @@
     "name": "Lee Ju Yeon",
     "group": "The Boyz",
     "birthday": "1998-01-15",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-ju-yeon-q61863774.webp",
+    "image": "",
     "wikidataId": "Q61863774"
   },
   {
@@ -5220,7 +5220,7 @@
     "name": "Lee Ju-eun",
     "group": "DIA",
     "birthday": "1995-06-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-ju-eun-q65330332.webp",
+    "image": "",
     "wikidataId": "Q65330332"
   },
   {
@@ -5252,7 +5252,7 @@
     "name": "Lee Jung",
     "group": "7Dayz",
     "birthday": "1981-10-24",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jung-q625482.webp",
+    "image": "",
     "wikidataId": "Q625482"
   },
   {
@@ -5260,7 +5260,7 @@
     "name": "Lee Jung-hoon",
     "group": "TST",
     "birthday": "1996-10-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jung-hoon-q112020842.webp",
+    "image": "",
     "wikidataId": "Q112020842"
   },
   {
@@ -5268,7 +5268,7 @@
     "name": "Lee Jung-shin",
     "group": "CNBLUE",
     "birthday": "1991-09-15",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-jung-shin-q491902.webp",
+    "image": "",
     "wikidataId": "Q491902"
   },
   {
@@ -5284,7 +5284,7 @@
     "name": "Lee Keum-jo",
     "group": "Nine Muses",
     "birthday": "1992-12-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-keum-jo-q19657173.webp",
+    "image": "",
     "wikidataId": "Q19657173"
   },
   {
@@ -5308,7 +5308,7 @@
     "name": "Lee Know",
     "group": "Stray Kids",
     "birthday": "1998-10-25",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-know-q59260597.webp",
+    "image": "",
     "wikidataId": "Q59260597"
   },
   {
@@ -5324,7 +5324,7 @@
     "name": "Lee Min-hyuk",
     "group": "BtoB",
     "birthday": "1990-11-29",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-min-hyuk-q11266766.webp",
+    "image": "",
     "wikidataId": "Q11266766"
   },
   {
@@ -5340,7 +5340,7 @@
     "name": "Lee Min-woo",
     "group": "Shinhwa",
     "birthday": "1979-07-28",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-min-woo-q186601.webp",
+    "image": "",
     "wikidataId": "Q186601"
   },
   {
@@ -5348,7 +5348,7 @@
     "name": "Lee Min-yong",
     "group": "Led Apple",
     "birthday": "1989-09-01",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-min-yong-q16097208.webp",
+    "image": "",
     "wikidataId": "Q16097208"
   },
   {
@@ -5380,7 +5380,7 @@
     "name": "Lee Sang-mi",
     "group": "Ex",
     "birthday": "1983-03-26",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-sang-mi-q16631068.webp",
+    "image": "",
     "wikidataId": "Q16631068"
   },
   {
@@ -5388,7 +5388,7 @@
     "name": "Lee Sang-min",
     "group": "Roo'ra",
     "birthday": "1973-02-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-sang-min-q12611637.webp",
+    "image": "",
     "wikidataId": "Q12611637"
   },
   {
@@ -5404,7 +5404,7 @@
     "name": "Lee Se-bin",
     "group": "S.I.S",
     "birthday": "2001-07-02",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-se-bin-q63226267.webp",
+    "image": "",
     "wikidataId": "Q63226267"
   },
   {
@@ -5444,7 +5444,7 @@
     "name": "Lee Seok-hoon",
     "group": "SG Wannabe",
     "birthday": "1984-02-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-seok-hoon-q12611724.webp",
+    "image": "",
     "wikidataId": "Q12611724"
   },
   {
@@ -5452,7 +5452,7 @@
     "name": "Lee Seok-min",
     "group": "DK X Seungkwan",
     "birthday": "1997-02-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-seok-min-q21824862.webp",
+    "image": "",
     "wikidataId": "Q21824862"
   },
   {
@@ -5468,7 +5468,7 @@
     "name": "Lee Seung-chul",
     "group": "Boohwal",
     "birthday": "1966-12-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-seung-chul-q54351.webp",
+    "image": "",
     "wikidataId": "Q54351"
   },
   {
@@ -5516,7 +5516,7 @@
     "name": "Lee So-hee",
     "group": "Riize",
     "birthday": "2003-11-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-so-hee-q123528913.webp",
+    "image": "",
     "wikidataId": "Q123528913"
   },
   {
@@ -5524,7 +5524,7 @@
     "name": "Lee So-jung",
     "group": "Ladies' Code",
     "birthday": "1993-09-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-so-jung-q16083607.webp",
+    "image": "",
     "wikidataId": "Q16083607"
   },
   {
@@ -5532,7 +5532,7 @@
     "name": "Lee So-yul",
     "group": "DIA",
     "birthday": "1996-09-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-so-yul-q30923727.webp",
+    "image": "",
     "wikidataId": "Q30923727"
   },
   {
@@ -5548,7 +5548,7 @@
     "name": "Lee Soo-jin",
     "group": "Weeekly",
     "birthday": "2001-12-12",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-soo-jin-q93969535.webp",
+    "image": "",
     "wikidataId": "Q93969535"
   },
   {
@@ -5556,7 +5556,7 @@
     "name": "Lee Su-hyun",
     "group": "I.B.I",
     "birthday": "1996-09-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-su-hyun-q26710971.webp",
+    "image": "",
     "wikidataId": "Q26710971"
   },
   {
@@ -5564,7 +5564,7 @@
     "name": "Lee Su-ji",
     "group": "The Ark",
     "birthday": "1998-03-20",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-su-ji-q24857307.webp",
+    "image": "",
     "wikidataId": "Q24857307"
   },
   {
@@ -5572,7 +5572,7 @@
     "name": "Lee Sung-ho",
     "group": "OnlyOneOf",
     "birthday": "1996-11-06",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-sung-ho-q112966243.webp",
+    "image": "",
     "wikidataId": "Q112966243"
   },
   {
@@ -5588,7 +5588,7 @@
     "name": "Lee Sung-woo",
     "group": "No Brain",
     "birthday": "1976-12-08",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-sung-woo-q16097619.webp",
+    "image": "",
     "wikidataId": "Q16097619"
   },
   {
@@ -5596,7 +5596,7 @@
     "name": "Lee Sungmin",
     "group": "Super Junior",
     "birthday": "1986-01-01",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-sungmin-q494222.webp",
+    "image": "",
     "wikidataId": "Q494222"
   },
   {
@@ -5604,7 +5604,7 @@
     "name": "Lee Sungyeol",
     "group": "INFINITE",
     "birthday": "1991-08-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-sungyeol-q7846352.webp",
+    "image": "",
     "wikidataId": "Q7846352"
   },
   {
@@ -5620,7 +5620,7 @@
     "name": "Lee Tae-il",
     "group": "Block B",
     "birthday": "1990-09-24",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-tae-il-q31179676.webp",
+    "image": "",
     "wikidataId": "Q31179676"
   },
   {
@@ -5636,7 +5636,7 @@
     "name": "Lee Tae-yeob",
     "group": "OnlyOneOf",
     "birthday": "1997-05-29",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-tae-yeob-q111693070.webp",
+    "image": "",
     "wikidataId": "Q111693070"
   },
   {
@@ -5644,15 +5644,15 @@
     "name": "Lee Tae-yong",
     "group": "SuperM",
     "birthday": "1995-07-01",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-tae-yong-q26459163.webp",
+    "image": "",
     "wikidataId": "Q26459163"
   },
   {
     "id": "q153597",
     "name": "Lee Taemin",
-    "group": "SuperM",
+    "group": "SHINee",
     "birthday": "1993-07-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-taemin-q153597.webp",
+    "image": "",
     "wikidataId": "Q153597"
   },
   {
@@ -5684,7 +5684,7 @@
     "name": "Lee Yong-su",
     "group": "OnlyOneOf",
     "birthday": "1999-03-30",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-yong-su-q111693067.webp",
+    "image": "",
     "wikidataId": "Q111693067"
   },
   {
@@ -5692,7 +5692,7 @@
     "name": "Lee Young Hyun",
     "group": "Big Mama",
     "birthday": "1981-12-25",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lee-young-hyun-q16091016.webp",
+    "image": "",
     "wikidataId": "Q16091016"
   },
   {
@@ -5724,7 +5724,7 @@
     "name": "Leehan",
     "group": "",
     "birthday": "2004-10-20",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/leehan-q127427967.webp",
+    "image": "",
     "wikidataId": "Q127427967"
   },
   {
@@ -5764,7 +5764,7 @@
     "name": "Leo",
     "group": "Alpha Drive One",
     "birthday": "2002-08-22",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/leo-q126282778.webp",
+    "image": "",
     "wikidataId": "Q126282778"
   },
   {
@@ -5772,7 +5772,7 @@
     "name": "Leo",
     "group": "VIXX",
     "birthday": "1990-11-10",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/leo-q18550576.webp",
+    "image": "",
     "wikidataId": "Q18550576"
   },
   {
@@ -5780,7 +5780,7 @@
     "name": "LEW",
     "group": "Hyeongseop X Euiwoong",
     "birthday": "2001-04-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lew-q43089094.webp",
+    "image": "",
     "wikidataId": "Q43089094"
   },
   {
@@ -5788,7 +5788,7 @@
     "name": "Lil Boi",
     "group": "Geeks",
     "birthday": "1991-06-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lil-boi-q23927278.webp",
+    "image": "",
     "wikidataId": "Q23927278"
   },
   {
@@ -5796,7 +5796,7 @@
     "name": "Lily",
     "group": "Nmixx",
     "birthday": "2002-10-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lily-q26196972.webp",
+    "image": "",
     "wikidataId": "Q26196972"
   },
   {
@@ -5812,7 +5812,7 @@
     "name": "Lim Hyun-sik",
     "group": "BtoB",
     "birthday": "1992-03-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lim-hyun-sik-q10884727.webp",
+    "image": "",
     "wikidataId": "Q10884727"
   },
   {
@@ -5828,15 +5828,15 @@
     "name": "Lim Kim",
     "group": "Togeworl",
     "birthday": "1994-01-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lim-kim-q14779348.webp",
+    "image": "",
     "wikidataId": "Q14779348"
   },
   {
     "id": "q24832146",
     "name": "Lim Na-young",
-    "group": "Pristin V",
+    "group": "I.O.I",
     "birthday": "1995-12-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lim-na-young-q24832146.webp",
+    "image": "",
     "wikidataId": "Q24832146"
   },
   {
@@ -5844,7 +5844,7 @@
     "name": "Lim Se-jun",
     "group": "Victon",
     "birthday": "1996-05-04",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/lim-se-jun-q91176175.webp",
+    "image": "",
     "wikidataId": "Q91176175"
   },
   {
@@ -6034,7 +6034,7 @@
   {
     "id": "q12596184",
     "name": "Min Kyung-hoon",
-    "group": "Universe Cowards",
+    "group": "Buzz",
     "birthday": "1984-10-06",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/min-kyung-hoon-q12596184.webp",
     "wikidataId": "Q12596184"
@@ -6114,7 +6114,7 @@
   {
     "id": "q47673408",
     "name": "MJ",
-    "group": "Astro",
+    "group": "Super Five",
     "birthday": "1994-03-05",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/mj-q47673408.webp",
     "wikidataId": "Q47673408"
@@ -6218,7 +6218,7 @@
   {
     "id": "q16767981",
     "name": "Na Hae-ryung",
-    "group": "Bestie",
+    "group": "EXID",
     "birthday": "1994-11-11",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/na-hae-ryung-q16767981.webp",
     "wikidataId": "Q16767981"
@@ -6266,7 +6266,7 @@
   {
     "id": "q65926316",
     "name": "Nam Do-hyon",
-    "group": "BAE173",
+    "group": "X1",
     "birthday": "2004-11-10",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/nam-do-hyon-q65926316.webp",
     "wikidataId": "Q65926316"
@@ -6568,14 +6568,6 @@
     "wikidataId": "Q7137681"
   },
   {
-    "id": "q16092089",
-    "name": "Park Cho-a",
-    "group": "AOA",
-    "birthday": "1990-03-06",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/park-cho-a-q16092089.webp",
-    "wikidataId": "Q16092089"
-  },
-  {
     "id": "q492738",
     "name": "Park Cho-rong",
     "group": "Apink",
@@ -6740,7 +6732,7 @@
     "name": "Park Jung-min",
     "group": "SS501",
     "birthday": "1987-04-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/park-jung-min-q484843.webp",
+    "image": "",
     "wikidataId": "Q484843"
   },
   {
@@ -6914,7 +6906,7 @@
   {
     "id": "q73799496",
     "name": "Park Yu-rim",
-    "group": "Apple.B",
+    "group": "3YE",
     "birthday": "1998-04-13",
     "image": "",
     "wikidataId": "Q73799496"
@@ -6942,6 +6934,14 @@
     "birthday": "1983-01-23",
     "image": "",
     "wikidataId": "Q12622336"
+  },
+  {
+    "id": "q16092089",
+    "name": "Pu ti-nha",
+    "group": "AOA",
+    "birthday": "1990-03-06",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/pu-ti-nha-q16092089.webp",
+    "wikidataId": "Q16092089"
   },
   {
     "id": "q16092552",
@@ -7036,7 +7036,7 @@
     "name": "Riko",
     "group": "RANIA",
     "birthday": "1989-03-10",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/riko-q22973730.webp",
+    "image": "",
     "wikidataId": "Q22973730"
   },
   {
@@ -7140,7 +7140,7 @@
     "name": "Ryu Hyo-young",
     "group": "F-ve Dolls",
     "birthday": "1993-04-22",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/ryu-hyo-young-q486594.webp",
+    "image": "",
     "wikidataId": "Q486594"
   },
   {
@@ -7378,7 +7378,7 @@
   {
     "id": "q368852",
     "name": "Seo Taiji",
-    "group": "Sinawe",
+    "group": "Seo Taiji and Boys",
     "birthday": "1972-02-21",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/seo-taiji-q368852.webp",
     "wikidataId": "Q368852"
@@ -7410,7 +7410,7 @@
   {
     "id": "q107109810",
     "name": "Seo Yuan",
-    "group": "TST",
+    "group": "N.O.M",
     "birthday": "1991-05-06",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/seo-yuan-q107109810.webp",
     "wikidataId": "Q107109810"
@@ -7524,7 +7524,7 @@
     "name": "Shannon Bae",
     "group": "Pristin",
     "birthday": "1999-05-25",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shannon-bae-q27951936.webp",
     "wikidataId": "Q27951936"
   },
   {
@@ -7548,7 +7548,7 @@
     "name": "Shim Sang-il",
     "group": "Snuper",
     "birthday": "1993-05-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shim-sang-il-q67983947.webp",
     "wikidataId": "Q67983947"
   },
   {
@@ -7556,7 +7556,7 @@
     "name": "Shimmy Twice",
     "group": "Jazzyfact",
     "birthday": "1987-01-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shimmy-twice-q31179081.webp",
     "wikidataId": "Q31179081"
   },
   {
@@ -7580,7 +7580,7 @@
     "name": "Shin Gwang-il",
     "group": "Lucy (band)",
     "birthday": "1997-05-25",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shin-gwang-il-q112023483.webp",
     "wikidataId": "Q112023483"
   },
   {
@@ -7588,7 +7588,7 @@
     "name": "Shin Hye-jeong",
     "group": "AOA",
     "birthday": "1993-08-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shin-hye-jeong-q16183324.webp",
     "wikidataId": "Q16183324"
   },
   {
@@ -7612,7 +7612,7 @@
     "name": "Shin Ji-min",
     "group": "AOA",
     "birthday": "1991-01-08",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shin-ji-min-q16183093.webp",
     "wikidataId": "Q16183093"
   },
   {
@@ -7628,7 +7628,7 @@
     "name": "Shin Joon-ki",
     "group": "Buzz",
     "birthday": "1982-03-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shin-joon-ki-q12604580.webp",
     "wikidataId": "Q12604580"
   },
   {
@@ -7660,7 +7660,7 @@
     "name": "Shin Won-ho",
     "group": "Cross Gene",
     "birthday": "1991-10-23",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shin-won-ho-q7497232.webp",
     "wikidataId": "Q7497232"
   },
   {
@@ -7668,7 +7668,7 @@
     "name": "Shin Ye-chan",
     "group": "Lucy (band)",
     "birthday": "1992-06-13",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shin-ye-chan-q112023479.webp",
     "wikidataId": "Q112023479"
   },
   {
@@ -7690,9 +7690,9 @@
   {
     "id": "q483171",
     "name": "Shindong",
-    "group": "Super Junior",
+    "group": "Super Junior-L.S.S.",
     "birthday": "1985-09-28",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shindong-q483171.webp",
     "wikidataId": "Q483171"
   },
   {
@@ -7708,7 +7708,7 @@
     "name": "Shinwon",
     "group": "Pentagon",
     "birthday": "1995-12-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shinwon-q67987045.webp",
     "wikidataId": "Q67987045"
   },
   {
@@ -7716,7 +7716,7 @@
     "name": "Shorry J",
     "group": "Mighty Mouth",
     "birthday": "1982-10-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shorry-j-q12603088.webp",
     "wikidataId": "Q12603088"
   },
   {
@@ -7724,7 +7724,7 @@
     "name": "Shownu",
     "group": "Monsta X",
     "birthday": "1992-06-18",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/shownu-q24834621.webp",
     "wikidataId": "Q24834621"
   },
   {
@@ -7740,7 +7740,7 @@
     "name": "Simon Dominic",
     "group": "Supreme Team",
     "birthday": "1984-03-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/simon-dominic-q2756226.webp",
     "wikidataId": "Q2756226"
   },
   {
@@ -7756,7 +7756,7 @@
     "name": "SinB",
     "group": "GFriend",
     "birthday": "1998-06-03",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sinb-q21709909.webp",
     "wikidataId": "Q21709909"
   },
   {
@@ -7776,20 +7776,20 @@
     "wikidataId": "Q57600321"
   },
   {
-    "id": "q126202948",
-    "name": "Siyeon",
-    "group": "QWER",
-    "birthday": "2000-05-16",
-    "image": "",
-    "wikidataId": "Q126202948"
-  },
-  {
     "id": "q59313326",
     "name": "Siyeon",
     "group": "Dreamcatcher",
     "birthday": "1995-10-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/siyeon-q59313326.webp",
     "wikidataId": "Q59313326"
+  },
+  {
+    "id": "q126202948",
+    "name": "Siyeon",
+    "group": "QWER",
+    "birthday": "2000-05-16",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/siyeon-q126202948.webp",
+    "wikidataId": "Q126202948"
   },
   {
     "id": "q12603651",
@@ -7804,7 +7804,7 @@
     "name": "Sleepy",
     "group": "Untouchable",
     "birthday": "1984-02-21",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sleepy-q16767618.webp",
     "wikidataId": "Q16767618"
   },
   {
@@ -7812,7 +7812,7 @@
     "name": "So Jung-hwan",
     "group": "Treasure",
     "birthday": "2005-02-18",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/so-jung-hwan-q97352009.webp",
     "wikidataId": "Q97352009"
   },
   {
@@ -7820,7 +7820,7 @@
     "name": "So Yul",
     "group": "Crayon Pop",
     "birthday": "1991-05-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/so-yul-q16865202.webp",
     "wikidataId": "Q16865202"
   },
   {
@@ -7836,7 +7836,7 @@
     "name": "Son Dong-myeong",
     "group": "Onewe",
     "birthday": "2000-01-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/son-dong-myeong-q60991339.webp",
     "wikidataId": "Q60991339"
   },
   {
@@ -7844,7 +7844,7 @@
     "name": "Son Dong-woon",
     "group": "Highlight",
     "birthday": "1991-06-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/son-dong-woon-q487010.webp",
     "wikidataId": "Q487010"
   },
   {
@@ -7866,7 +7866,7 @@
   {
     "id": "q47973704",
     "name": "Son Yu-ji",
-    "group": "3YE",
+    "group": "Apple.B",
     "birthday": "1998-11-25",
     "image": "",
     "wikidataId": "Q47973704"
@@ -7884,7 +7884,7 @@
     "name": "Song Eun-i",
     "group": "Celeb Five",
     "birthday": "1973-01-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/song-eun-i-q6820702.webp",
     "wikidataId": "Q6820702"
   },
   {
@@ -7892,7 +7892,7 @@
     "name": "Song Han-gyeom",
     "group": "Seven O'Clock",
     "birthday": "1996-07-17",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/song-han-gyeom-q65054014.webp",
     "wikidataId": "Q65054014"
   },
   {
@@ -7908,7 +7908,7 @@
     "name": "Song Jae-won",
     "group": "Tempest",
     "birthday": "2001-04-23",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/song-jae-won-q125473671.webp",
     "wikidataId": "Q125473671"
   },
   {
@@ -7924,7 +7924,7 @@
     "name": "Song Sung-hyuk",
     "group": "TMC",
     "birthday": "1991-07-30",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/song-sung-hyuk-q134513249.webp",
     "wikidataId": "Q134513249"
   },
   {
@@ -7932,7 +7932,7 @@
     "name": "Song Yu-bin",
     "group": "Myteen",
     "birthday": "1998-04-28",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/song-yu-bin-q24855847.webp",
     "wikidataId": "Q24855847"
   },
   {
@@ -7940,7 +7940,7 @@
     "name": "Song Yun-hyeong",
     "group": "iKon",
     "birthday": "1995-02-08",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/song-yun-hyeong-q21058800.webp",
     "wikidataId": "Q21058800"
   },
   {
@@ -7956,7 +7956,7 @@
     "name": "Soobin",
     "group": "WJSN",
     "birthday": "1996-09-14",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/soobin-q60917505.webp",
     "wikidataId": "Q60917505"
   },
   {
@@ -7972,7 +7972,7 @@
     "name": "Sooyoung",
     "group": "Girls' Generation",
     "birthday": "1990-02-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sooyoung-q233385.webp",
     "wikidataId": "Q233385"
   },
   {
@@ -7980,7 +7980,7 @@
     "name": "SoRi",
     "group": "CocoSori",
     "birthday": "1990-07-21",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sori-q61612053.webp",
     "wikidataId": "Q61612053"
   },
   {
@@ -7988,7 +7988,7 @@
     "name": "Stephanie",
     "group": "The Grace",
     "birthday": "1987-10-16",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/stephanie-q1437672.webp",
     "wikidataId": "Q1437672"
   },
   {
@@ -7996,7 +7996,7 @@
     "name": "Su-bin",
     "group": "Victon",
     "birthday": "1999-04-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/su-bin-q68625274.webp",
     "wikidataId": "Q68625274"
   },
   {
@@ -8012,7 +8012,7 @@
     "name": "SuA",
     "group": "Dreamcatcher",
     "birthday": "1994-08-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sua-q59313270.webp",
     "wikidataId": "Q59313270"
   },
   {
@@ -8020,7 +8020,7 @@
     "name": "Subin",
     "group": "Dal Shabet",
     "birthday": "1994-02-12",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/subin-q17403471.webp",
     "wikidataId": "Q17403471"
   },
   {
@@ -8044,7 +8044,7 @@
     "name": "Sung Hoon",
     "group": "Brown Eyed Soul",
     "birthday": "1980-08-29",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sung-hoon-q27951755.webp",
     "wikidataId": "Q27951755"
   },
   {
@@ -8068,7 +8068,7 @@
     "name": "Sungje",
     "group": "Supernova",
     "birthday": "1986-11-17",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sungje-q493476.webp",
     "wikidataId": "Q493476"
   },
   {
@@ -8076,7 +8076,7 @@
     "name": "Sungmo",
     "group": "Supernova",
     "birthday": "1987-06-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sungmo-q493632.webp",
     "wikidataId": "Q493632"
   },
   {
@@ -8100,7 +8100,7 @@
     "name": "Sunny",
     "group": "Girls' Generation",
     "birthday": "1989-05-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sunny-q233894.webp",
     "wikidataId": "Q233894"
   },
   {
@@ -8108,7 +8108,7 @@
     "name": "Sunye",
     "group": "Wonder Girls",
     "birthday": "1989-08-12",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sunye-q483642.webp",
     "wikidataId": "Q483642"
   },
   {
@@ -8116,7 +8116,7 @@
     "name": "Sunyoul",
     "group": "Up10tion",
     "birthday": "1996-11-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/sunyoul-q28698248.webp",
     "wikidataId": "Q28698248"
   },
   {
@@ -8132,7 +8132,7 @@
     "name": "Swings",
     "group": "Overclass",
     "birthday": "1986-10-14",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/swings-q12603620.webp",
     "wikidataId": "Q12603620"
   },
   {
@@ -8140,7 +8140,7 @@
     "name": "T-ae",
     "group": "RANIA",
     "birthday": "1993-09-24",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/t-ae-q12621409.webp",
     "wikidataId": "Q12621409"
   },
   {
@@ -8148,7 +8148,7 @@
     "name": "T.O.P",
     "group": "BigBang",
     "birthday": "1987-11-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/t-o-p-q495571.webp",
     "wikidataId": "Q495571"
   },
   {
@@ -8156,7 +8156,7 @@
     "name": "Tablo",
     "group": "Eternal Morning",
     "birthday": "1980-07-22",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/tablo-q18800.webp",
     "wikidataId": "Q18800"
   },
   {
@@ -8164,7 +8164,7 @@
     "name": "Tae Hwan",
     "group": "Vanner",
     "birthday": "1994-01-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/tae-hwan-q133980195.webp",
     "wikidataId": "Q133980195"
   },
   {
@@ -8172,7 +8172,7 @@
     "name": "Taebin",
     "group": "1TYM",
     "birthday": "1980-05-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/taebin-q7674722.webp",
     "wikidataId": "Q7674722"
   },
   {
@@ -8180,7 +8180,7 @@
     "name": "Taehyun",
     "group": "Tomorrow X Together",
     "birthday": "2002-02-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/taehyun-q61715235.webp",
     "wikidataId": "Q61715235"
   },
   {
@@ -8196,7 +8196,7 @@
     "name": "Taeyeon",
     "group": "Got the Beat",
     "birthday": "1989-03-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/taeyeon-q233371.webp",
     "wikidataId": "Q233371"
   },
   {
@@ -8204,7 +8204,7 @@
     "name": "Tag",
     "group": "Golden Child",
     "birthday": "1998-04-13",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/tag-q43088647.webp",
     "wikidataId": "Q43088647"
   },
   {
@@ -8212,7 +8212,7 @@
     "name": "Taru",
     "group": "",
     "birthday": "1982-07-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/taru-q6861536.webp",
     "wikidataId": "Q6861536"
   },
   {
@@ -8228,7 +8228,7 @@
     "name": "The One",
     "group": "Space A",
     "birthday": "1974-04-19",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/the-one-q12592738.webp",
     "wikidataId": "Q12592738"
   },
   {
@@ -8236,7 +8236,7 @@
     "name": "Theo (South Korean singer)",
     "group": "P1Harmony",
     "birthday": "2001-07-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/theo-south-korean-singer-q121579075.webp",
     "wikidataId": "Q121579075"
   },
   {
@@ -8252,7 +8252,7 @@
     "name": "Thunder",
     "group": "MBLAQ",
     "birthday": "1990-10-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/thunder-q1195195.webp",
     "wikidataId": "Q1195195"
   },
   {
@@ -8260,7 +8260,7 @@
     "name": "Tia",
     "group": "Chocolat",
     "birthday": "1997-03-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/tia-q12621404.webp",
     "wikidataId": "Q12621404"
   },
   {
@@ -8268,7 +8268,7 @@
     "name": "Tina",
     "group": "Blady",
     "birthday": "1994-09-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/tina-q19941367.webp",
     "wikidataId": "Q19941367"
   },
   {
@@ -8276,7 +8276,7 @@
     "name": "Towa Tei",
     "group": "Deee-Lite",
     "birthday": "1964-09-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/towa-tei-q1193049.webp",
     "wikidataId": "Q1193049"
   },
   {
@@ -8284,7 +8284,7 @@
     "name": "Uhm Jeong-hwa",
     "group": "Refund Sisters",
     "birthday": "1969-08-17",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/uhm-jeong-hwa-q272329.webp",
     "wikidataId": "Q272329"
   },
   {
@@ -8300,7 +8300,7 @@
     "name": "Umji",
     "group": "Viviz",
     "birthday": "1998-08-19",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/umji-q24572927.webp",
     "wikidataId": "Q24572927"
   },
   {
@@ -8324,7 +8324,7 @@
     "name": "Verbal",
     "group": "m-flo",
     "birthday": "1975-08-21",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/verbal-q303805.webp",
     "wikidataId": "Q303805"
   },
   {
@@ -8332,7 +8332,7 @@
     "name": "Verbal Jint",
     "group": "Overclass",
     "birthday": "1980-12-19",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/verbal-jint-q11244337.webp",
     "wikidataId": "Q11244337"
   },
   {
@@ -8348,7 +8348,7 @@
     "name": "Vinci Malizon",
     "group": "Hori7on",
     "birthday": "2000-03-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/vinci-malizon-q116770882.webp",
     "wikidataId": "Q116770882"
   },
   {
@@ -8356,7 +8356,7 @@
     "name": "Way",
     "group": "Strawberry Milk",
     "birthday": "1990-07-12",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/way-q16767739.webp",
     "wikidataId": "Q16767739"
   },
   {
@@ -8364,7 +8364,7 @@
     "name": "Whale",
     "group": "W & Whale",
     "birthday": "1985-03-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/whale-q12609512.webp",
     "wikidataId": "Q12609512"
   },
   {
@@ -8372,7 +8372,7 @@
     "name": "Wheein",
     "group": "Mamamoo",
     "birthday": "1995-04-17",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/wheein-q19603930.webp",
     "wikidataId": "Q19603930"
   },
   {
@@ -8380,7 +8380,7 @@
     "name": "Winston Pineda",
     "group": "Hori7on",
     "birthday": "2005-02-02",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/winston-pineda-q120022190.webp",
     "wikidataId": "Q120022190"
   },
   {
@@ -8412,7 +8412,7 @@
     "name": "Wonstein",
     "group": "MSG Wannabe",
     "birthday": "1995-05-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/wonstein-q105706014.webp",
     "wikidataId": "Q105706014"
   },
   {
@@ -8428,7 +8428,7 @@
     "name": "Woo Chang-bum",
     "group": "100%",
     "birthday": "1993-10-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/woo-chang-bum-q134519562.webp",
     "wikidataId": "Q134519562"
   },
   {
@@ -8436,7 +8436,7 @@
     "name": "Woo Ji-hae",
     "group": "Girl's Day",
     "birthday": "1989-05-14",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/woo-ji-hae-q10321830.webp",
     "wikidataId": "Q10321830"
   },
   {
@@ -8468,7 +8468,7 @@
     "name": "Woohee",
     "group": "UNI.T",
     "birthday": "1991-11-21",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/woohee-q16090396.webp",
     "wikidataId": "Q16090396"
   },
   {
@@ -8476,7 +8476,7 @@
     "name": "Wow",
     "group": "A.C.E",
     "birthday": "1993-05-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/wow-q134315861.webp",
     "wikidataId": "Q134315861"
   },
   {
@@ -8500,7 +8500,7 @@
     "name": "Xiyeon",
     "group": "Pristin",
     "birthday": "2000-11-14",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/xiyeon-q27953988.webp",
     "wikidataId": "Q27953988"
   },
   {
@@ -8508,7 +8508,7 @@
     "name": "Y",
     "group": "Golden Child",
     "birthday": "1995-07-31",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/y-q43088656.webp",
     "wikidataId": "Q43088656"
   },
   {
@@ -8532,7 +8532,7 @@
     "name": "Yang Jung-won",
     "group": "Enhypen",
     "birthday": "2004-02-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yang-jung-won-q105717977.webp",
     "wikidataId": "Q105717977"
   },
   {
@@ -8548,7 +8548,7 @@
     "name": "Yang Ye-na",
     "group": "April",
     "birthday": "2000-05-22",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yang-ye-na-q27658442.webp",
     "wikidataId": "Q27658442"
   },
   {
@@ -8556,7 +8556,7 @@
     "name": "Ye-in",
     "group": "Melody Day",
     "birthday": "1995-05-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/ye-in-q85982827.webp",
     "wikidataId": "Q85982827"
   },
   {
@@ -8564,7 +8564,7 @@
     "name": "Yehana",
     "group": "Pristin",
     "birthday": "1999-02-22",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yehana-q48893617.webp",
     "wikidataId": "Q48893617"
   },
   {
@@ -8572,7 +8572,7 @@
     "name": "Yeo-eun",
     "group": "Melody Day",
     "birthday": "1990-01-25",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yeo-eun-q21059493.webp",
     "wikidataId": "Q21059493"
   },
   {
@@ -8580,7 +8580,7 @@
     "name": "Yeong Gwang",
     "group": "Vanner",
     "birthday": "1997-09-22",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yeong-gwang-q133980460.webp",
     "wikidataId": "Q133980460"
   },
   {
@@ -8604,7 +8604,7 @@
     "name": "Yeonji",
     "group": "Pocket Girls",
     "birthday": "1993-08-25",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yeonji-q16177614.webp",
     "wikidataId": "Q16177614"
   },
   {
@@ -8612,7 +8612,7 @@
     "name": "Yeonjun",
     "group": "Tomorrow X Together",
     "birthday": "1999-09-13",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yeonjun-q62396954.webp",
     "wikidataId": "Q62396954"
   },
   {
@@ -8628,7 +8628,7 @@
     "name": "Yeoreum",
     "group": "EL7Z UP",
     "birthday": "1999-01-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yeoreum-q28524707.webp",
     "wikidataId": "Q28524707"
   },
   {
@@ -8644,7 +8644,7 @@
     "name": "Yerin",
     "group": "GFriend",
     "birthday": "1996-08-19",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yerin-q19657363.webp",
     "wikidataId": "Q19657363"
   },
   {
@@ -8652,7 +8652,7 @@
     "name": "Yesung",
     "group": "Super Junior-K.R.Y.",
     "birthday": "1984-08-24",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yesung-q483158.webp",
     "wikidataId": "Q483158"
   },
   {
@@ -8660,7 +8660,7 @@
     "name": "Yezi",
     "group": "Fiestar",
     "birthday": "1994-08-26",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yezi-q22974522.webp",
     "wikidataId": "Q22974522"
   },
   {
@@ -8676,7 +8676,7 @@
     "name": "Yina",
     "group": "RANIA",
     "birthday": "1987-05-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yina-q60901144.webp",
     "wikidataId": "Q60901144"
   },
   {
@@ -8716,7 +8716,7 @@
     "name": "Yonnie",
     "group": "Weeekly",
     "birthday": "2002-03-02",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yonnie-q93969540.webp",
     "wikidataId": "Q93969540"
   },
   {
@@ -8756,7 +8756,7 @@
     "name": "Yoo Hye-joon",
     "group": "Nature",
     "birthday": "2002-05-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoo-hye-joon-q62603009.webp",
     "wikidataId": "Q62603009"
   },
   {
@@ -8772,7 +8772,7 @@
     "name": "Yoo Tae-yang",
     "group": "SF9",
     "birthday": "1997-02-28",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoo-tae-yang-q85881428.webp",
     "wikidataId": "Q85881428"
   },
   {
@@ -8780,7 +8780,7 @@
     "name": "Yoo Yong-ha",
     "group": "WEi",
     "birthday": "1999-01-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoo-yong-ha-q105717556.webp",
     "wikidataId": "Q105717556"
   },
   {
@@ -8804,7 +8804,7 @@
     "name": "Yoo-min",
     "group": "Melody Day",
     "birthday": "1993-08-29",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoo-min-q105706019.webp",
     "wikidataId": "Q105706019"
   },
   {
@@ -8812,7 +8812,7 @@
     "name": "Yoohyeon",
     "group": "Dreamcatcher",
     "birthday": "1997-01-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoohyeon-q59313479.webp",
     "wikidataId": "Q59313479"
   },
   {
@@ -8836,7 +8836,7 @@
     "name": "Yoon",
     "group": "STAYC",
     "birthday": "2004-04-14",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-q106518626.webp",
     "wikidataId": "Q106518626"
   },
   {
@@ -8844,7 +8844,7 @@
     "name": "Yoon Bo-mi",
     "group": "Apink",
     "birthday": "1993-08-13",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-bo-mi-q2495400.webp",
     "wikidataId": "Q2495400"
   },
   {
@@ -8852,7 +8852,7 @@
     "name": "Yoon Do-hyun",
     "group": "YB",
     "birthday": "1972-02-03",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-do-hyun-q12610212.webp",
     "wikidataId": "Q12610212"
   },
   {
@@ -8860,7 +8860,7 @@
     "name": "Yoon Doo-joon",
     "group": "Highlight",
     "birthday": "1989-07-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-doo-joon-q491364.webp",
     "wikidataId": "Q491364"
   },
   {
@@ -8868,13 +8868,13 @@
     "name": "Yoon Eun-hye",
     "group": "Baby V.O.X.",
     "birthday": "1984-10-03",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-eun-hye-q494725.webp",
     "wikidataId": "Q494725"
   },
   {
     "id": "q73800425",
     "name": "Yoon Ha-eun",
-    "group": "Apple.B",
+    "group": "3YE",
     "birthday": "1999-03-12",
     "image": "",
     "wikidataId": "Q73800425"
@@ -8900,7 +8900,7 @@
     "name": "Yoon Jae-Hyuk",
     "group": "Treasure",
     "birthday": "2001-07-23",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-jae-hyuk-q98136886.webp",
     "wikidataId": "Q98136886"
   },
   {
@@ -8908,7 +8908,7 @@
     "name": "Yoon Jeong-han",
     "group": "Seventeen",
     "birthday": "1995-10-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-jeong-han-q24566664.webp",
     "wikidataId": "Q24566664"
   },
   {
@@ -8916,7 +8916,7 @@
     "name": "Yoon Min-soo",
     "group": "4Men",
     "birthday": "1980-02-27",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-min-soo-q7402157.webp",
     "wikidataId": "Q7402157"
   },
   {
@@ -8924,7 +8924,7 @@
     "name": "Yoon Sang",
     "group": "OnePiece",
     "birthday": "1968-05-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-sang-q16096971.webp",
     "wikidataId": "Q16096971"
   },
   {
@@ -8932,7 +8932,7 @@
     "name": "Yoon Woo-hyun",
     "group": "Buzz",
     "birthday": "1981-11-02",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoon-woo-hyun-q12610383.webp",
     "wikidataId": "Q12610383"
   },
   {
@@ -8940,7 +8940,7 @@
     "name": "Yoonjo",
     "group": "Hello Venus",
     "birthday": "1992-12-14",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoonjo-q15865012.webp",
     "wikidataId": "Q15865012"
   },
   {
@@ -8948,7 +8948,7 @@
     "name": "Yoshi",
     "group": "Treasure",
     "birthday": "2000-05-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/yoshi-q98136892.webp",
     "wikidataId": "Q98136892"
   },
   {
@@ -8956,7 +8956,7 @@
     "name": "You Hee-Yeol",
     "group": "Toy",
     "birthday": "1971-04-19",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/you-hee-yeol-q8057299.webp",
     "wikidataId": "Q8057299"
   },
   {
@@ -8988,7 +8988,7 @@
     "name": "Younghoon",
     "group": "The Boyz",
     "birthday": "1997-08-08",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/younghoon-q61863509.webp",
     "wikidataId": "Q61863509"
   },
   {
@@ -9064,20 +9064,20 @@
     "wikidataId": "Q495352"
   },
   {
-    "id": "q130539361",
-    "name": "Yunmin",
-    "group": "Touched",
-    "birthday": "1996-09-13",
-    "image": "",
-    "wikidataId": "Q130539361"
-  },
-  {
     "id": "q121537762",
     "name": "Yunmin",
     "group": "Newkidd",
     "birthday": "2001-02-26",
     "image": "",
     "wikidataId": "Q121537762"
+  },
+  {
+    "id": "q130539361",
+    "name": "Yunmin",
+    "group": "Touched",
+    "birthday": "1996-09-13",
+    "image": "",
+    "wikidataId": "Q130539361"
   },
   {
     "id": "q12609731",
@@ -9094,14 +9094,6 @@
     "birthday": "1976-12-24",
     "image": "",
     "wikidataId": "Q485018"
-  },
-  {
-    "id": "q5358224",
-    "name": "Yuri Nakamura",
-    "group": "YURIMARI",
-    "birthday": "1982-03-15",
-    "image": "",
-    "wikidataId": "Q5358224"
   },
   {
     "id": "q120260925",
@@ -9186,7 +9178,7 @@
   {
     "id": "q24663999",
     "name": "강미나",
-    "group": "Gugudan 5959",
+    "group": "I.O.I",
     "birthday": "1999-12-04",
     "image": "",
     "wikidataId": "Q24663999"
@@ -9284,7 +9276,7 @@
     "name": "강은혜",
     "group": "Dal Shabet",
     "birthday": "1988-03-28",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16083143.webp",
     "wikidataId": "Q16083143"
   },
   {
@@ -9316,7 +9308,7 @@
     "name": "강지현",
     "group": "SISTAR",
     "birthday": "1992-02-12",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q5361514.webp",
     "wikidataId": "Q5361514"
   },
   {
@@ -9348,13 +9340,13 @@
     "name": "강형구",
     "group": "Pentagon",
     "birthday": "1998-01-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q61863841.webp",
+    "image": "",
     "wikidataId": "Q61863841"
   },
   {
     "id": "q16766832",
     "name": "강혜연",
-    "group": "Bestie",
+    "group": "EXID",
     "birthday": "1990-12-08",
     "image": "",
     "wikidataId": "Q16766832"
@@ -9452,7 +9444,7 @@
     "name": "곽하음",
     "group": "KiiiKiii",
     "birthday": "2006-11-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q133828177.webp",
+    "image": "",
     "wikidataId": "Q133828177"
   },
   {
@@ -9460,7 +9452,7 @@
     "name": "구정모",
     "group": "Cravity",
     "birthday": "2000-02-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q97301190.webp",
+    "image": "",
     "wikidataId": "Q97301190"
   },
   {
@@ -9476,7 +9468,7 @@
     "name": "권 은비",
     "group": "Iz*One",
     "birthday": "1995-09-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56505060.webp",
+    "image": "",
     "wikidataId": "Q56505060"
   },
   {
@@ -9492,7 +9484,7 @@
     "name": "권나라",
     "group": "Hello Venus",
     "birthday": "1991-03-13",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q14493927.webp",
+    "image": "",
     "wikidataId": "Q14493927"
   },
   {
@@ -9508,7 +9500,7 @@
     "name": "권민아",
     "group": "AOA",
     "birthday": "1993-09-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16171991.webp",
+    "image": "",
     "wikidataId": "Q16171991"
   },
   {
@@ -9532,7 +9524,7 @@
     "name": "권소현",
     "group": "4Minute",
     "birthday": "1994-08-30",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q485511.webp",
+    "image": "",
     "wikidataId": "Q485511"
   },
   {
@@ -9540,7 +9532,7 @@
     "name": "권은빈",
     "group": "CLC",
     "birthday": "2000-01-06",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q38572171.webp",
+    "image": "",
     "wikidataId": "Q38572171"
   },
   {
@@ -9556,7 +9548,7 @@
     "name": "권채원",
     "group": "DIA",
     "birthday": "1999-05-26",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q30921468.webp",
+    "image": "",
     "wikidataId": "Q30921468"
   },
   {
@@ -9628,7 +9620,7 @@
     "name": "김건학",
     "group": "Oneus",
     "birthday": "1997-07-26",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60529282.webp",
+    "image": "",
     "wikidataId": "Q60529282"
   },
   {
@@ -9674,7 +9666,7 @@
   {
     "id": "q28819523",
     "name": "김나영",
-    "group": "Gugudan SeMiNa",
+    "group": "Gugudan",
     "birthday": "1995-11-23",
     "image": "",
     "wikidataId": "Q28819523"
@@ -9698,7 +9690,7 @@
   {
     "id": "q26710973",
     "name": "김도연",
-    "group": "I.O.I",
+    "group": "WJMK",
     "birthday": "1999-12-04",
     "image": "",
     "wikidataId": "Q26710973"
@@ -9868,7 +9860,7 @@
     "name": "김석진",
     "group": "BTS",
     "birthday": "1992-12-04",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q24276424.webp",
+    "image": "",
     "wikidataId": "Q24276424"
   },
   {
@@ -9876,7 +9868,7 @@
     "name": "김선우",
     "group": "Enhypen",
     "birthday": "2003-06-24",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q105718407.webp",
     "wikidataId": "Q105718407"
   },
   {
@@ -9884,7 +9876,7 @@
     "name": "김성규",
     "group": "INFINITE",
     "birthday": "1989-04-28",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q6409458.webp",
+    "image": "",
     "wikidataId": "Q6409458"
   },
   {
@@ -9892,15 +9884,15 @@
     "name": "김성주",
     "group": "Uniq",
     "birthday": "1994-02-16",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q21040489.webp",
+    "image": "",
     "wikidataId": "Q21040489"
   },
   {
     "id": "q22911780",
     "name": "김세정",
-    "group": "Gugudan SeMiNa",
+    "group": "I.O.I",
     "birthday": "1996-08-28",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q22911780.webp",
+    "image": "",
     "wikidataId": "Q22911780"
   },
   {
@@ -9908,7 +9900,7 @@
     "name": "김소혜",
     "group": "I.O.I",
     "birthday": "1999-07-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q26214035.webp",
+    "image": "",
     "wikidataId": "Q26214035"
   },
   {
@@ -9916,15 +9908,15 @@
     "name": "김소희",
     "group": "Alice",
     "birthday": "1999-12-31",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q30337148.webp",
+    "image": "",
     "wikidataId": "Q30337148"
   },
   {
     "id": "q26260697",
     "name": "김소희",
-    "group": "C.I.V.A",
+    "group": "I.B.I",
     "birthday": "1995-01-20",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q26260697.webp",
+    "image": "",
     "wikidataId": "Q26260697"
   },
   {
@@ -9932,7 +9924,7 @@
     "name": "김수민",
     "group": "TripleS",
     "birthday": "2007-10-03",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q127042398.webp",
     "wikidataId": "Q127042398"
   },
   {
@@ -9940,7 +9932,7 @@
     "name": "김수윤",
     "group": "Rocket Punch",
     "birthday": "2001-03-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q65920408.webp",
+    "image": "",
     "wikidataId": "Q65920408"
   },
   {
@@ -9964,7 +9956,7 @@
     "name": "김시현",
     "group": "Everglow",
     "birthday": "1999-08-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q62919296.webp",
     "wikidataId": "Q62919296"
   },
   {
@@ -9980,7 +9972,7 @@
     "name": "김연지",
     "group": "SeeYa",
     "birthday": "1986-10-30",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q10855849.webp",
+    "image": "",
     "wikidataId": "Q10855849"
   },
   {
@@ -9996,7 +9988,7 @@
     "name": "김영빈",
     "group": "SF9",
     "birthday": "1993-11-23",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q65051951.webp",
+    "image": "",
     "wikidataId": "Q65051951"
   },
   {
@@ -10020,7 +10012,7 @@
     "name": "김예림",
     "group": "Red Velvet",
     "birthday": "1999-03-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q19940498.webp",
     "wikidataId": "Q19940498"
   },
   {
@@ -10028,7 +10020,7 @@
     "name": "김예원",
     "group": "Jewelry",
     "birthday": "1989-12-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q12588130.webp",
     "wikidataId": "Q12588130"
   },
   {
@@ -10044,7 +10036,7 @@
     "name": "김예찬",
     "group": "Pink Fantasy",
     "birthday": "1995-11-26",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q109818242.webp",
     "wikidataId": "Q109818242"
   },
   {
@@ -10052,7 +10044,7 @@
     "name": "김요한",
     "group": "WEi",
     "birthday": "1999-09-22",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q65832560.webp",
+    "image": "",
     "wikidataId": "Q65832560"
   },
   {
@@ -10060,7 +10052,7 @@
     "name": "김우석",
     "group": "Up10tion",
     "birthday": "1996-10-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q28698246.webp",
+    "image": "",
     "wikidataId": "Q28698246"
   },
   {
@@ -10068,7 +10060,7 @@
     "name": "김운학",
     "group": "",
     "birthday": "2006-11-29",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q123329024.webp",
     "wikidataId": "Q123329024"
   },
   {
@@ -10084,7 +10076,7 @@
     "name": "김원필",
     "group": "Day6",
     "birthday": "1994-04-28",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q67674869.webp",
+    "image": "",
     "wikidataId": "Q67674869"
   },
   {
@@ -10100,7 +10092,7 @@
     "name": "김유연",
     "group": "Acid Angel from Asia",
     "birthday": "2001-02-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q127042388.webp",
     "wikidataId": "Q127042388"
   },
   {
@@ -10114,9 +10106,9 @@
   {
     "id": "q489006",
     "name": "김유진",
-    "group": "After School",
+    "group": "A.S. Red & Blue",
     "birthday": "1988-04-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q489006.webp",
     "wikidataId": "Q489006"
   },
   {
@@ -10154,7 +10146,7 @@
   {
     "id": "q6408847",
     "name": "김재덕",
-    "group": "J-Walk",
+    "group": "Sechs Kies",
     "birthday": "1979-08-17",
     "image": "",
     "wikidataId": "Q6408847"
@@ -10170,7 +10162,7 @@
   {
     "id": "q169717",
     "name": "김재중",
-    "group": "JYJ",
+    "group": "TVXQ",
     "birthday": "1986-01-26",
     "image": "",
     "wikidataId": "Q169717"
@@ -10202,7 +10194,7 @@
   {
     "id": "q5249793",
     "name": "김정아",
-    "group": "After School",
+    "group": "A.S. Red & Blue",
     "birthday": "1983-08-02",
     "image": "",
     "wikidataId": "Q5249793"
@@ -10210,7 +10202,7 @@
   {
     "id": "q56816418",
     "name": "김정은",
-    "group": "ARTMS",
+    "group": "Loona",
     "birthday": "1999-02-10",
     "image": "",
     "wikidataId": "Q56816418"
@@ -10282,7 +10274,7 @@
   {
     "id": "q56816551",
     "name": "김지우",
-    "group": "Loona yyxy",
+    "group": "Loona",
     "birthday": "1999-10-20",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56816551.webp",
     "wikidataId": "Q56816551"
@@ -10298,7 +10290,7 @@
   {
     "id": "q84324500",
     "name": "김지원",
-    "group": "Good Day",
+    "group": "Latency",
     "birthday": "1999-04-01",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q84324500.webp",
     "wikidataId": "Q84324500"
@@ -10308,7 +10300,7 @@
     "name": "김지원",
     "group": "Ive",
     "birthday": "2004-11-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q109420139.webp",
+    "image": "",
     "wikidataId": "Q109420139"
   },
   {
@@ -10362,7 +10354,7 @@
   {
     "id": "q69696796",
     "name": "김채연",
-    "group": "TripleS",
+    "group": "Busters",
     "birthday": "2004-12-04",
     "image": "",
     "wikidataId": "Q69696796"
@@ -10396,7 +10388,7 @@
     "name": "김태린",
     "group": "Berry Good",
     "birthday": "1998-02-25",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q63967134.webp",
+    "image": "",
     "wikidataId": "Q63967134"
   },
   {
@@ -10404,7 +10396,7 @@
     "name": "김태영",
     "group": "Cravity",
     "birthday": "2003-01-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q97320161.webp",
+    "image": "",
     "wikidataId": "Q97320161"
   },
   {
@@ -10412,7 +10404,7 @@
     "name": "김태우",
     "group": "god",
     "birthday": "1981-05-12",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q484209.webp",
+    "image": "",
     "wikidataId": "Q484209"
   },
   {
@@ -10428,7 +10420,7 @@
     "name": "김태형",
     "group": "BTS",
     "birthday": "1995-12-30",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q18388296.webp",
     "wikidataId": "Q18388296"
   },
   {
@@ -10458,7 +10450,7 @@
   {
     "id": "q234066",
     "name": "김현아",
-    "group": "Wonder Girls",
+    "group": "Triple H",
     "birthday": "1992-06-06",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q234066.webp",
     "wikidataId": "Q234066"
@@ -10508,7 +10500,7 @@
     "name": "김혜림",
     "group": "Hello Venus",
     "birthday": "1993-01-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q19968737.webp",
+    "image": "",
     "wikidataId": "Q19968737"
   },
   {
@@ -10658,7 +10650,7 @@
   {
     "id": "q492767",
     "name": "노이영",
-    "group": "After School",
+    "group": "A.S. Red & Blue",
     "birthday": "1992-08-16",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q492767.webp",
     "wikidataId": "Q492767"
@@ -10740,7 +10732,7 @@
     "name": "동영배",
     "group": "BigBang",
     "birthday": "1988-05-18",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q482991.webp",
     "wikidataId": "Q482991"
   },
   {
@@ -10754,7 +10746,7 @@
   {
     "id": "q596923",
     "name": "레이나",
-    "group": "Orange Caramel",
+    "group": "A.S. Red & Blue",
     "birthday": "1989-05-07",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q596923.webp",
     "wikidataId": "Q596923"
@@ -10780,7 +10772,7 @@
     "name": "류진",
     "group": "Itzy",
     "birthday": "2001-04-17",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60870265.webp",
     "wikidataId": "Q60870265"
   },
   {
@@ -10796,7 +10788,7 @@
     "name": "리아",
     "group": "Itzy",
     "birthday": "2000-07-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60870266.webp",
+    "image": "",
     "wikidataId": "Q60870266"
   },
   {
@@ -10868,7 +10860,7 @@
     "name": "민윤기",
     "group": "BTS",
     "birthday": "1993-03-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q21075020.webp",
     "wikidataId": "Q21075020"
   },
   {
@@ -10882,7 +10874,7 @@
   {
     "id": "q488725",
     "name": "박가희",
-    "group": "After School",
+    "group": "A.S. Red & Blue",
     "birthday": "1980-12-25",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q488725.webp",
     "wikidataId": "Q488725"
@@ -11020,7 +11012,7 @@
     "name": "박성호",
     "group": "",
     "birthday": "2003-09-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q123329393.webp",
     "wikidataId": "Q123329393"
   },
   {
@@ -11074,7 +11066,7 @@
   {
     "id": "q486196",
     "name": "박수영",
-    "group": "Orange Caramel",
+    "group": "Chamsonyeo",
     "birthday": "1992-07-31",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q486196.webp",
     "wikidataId": "Q486196"
@@ -11092,7 +11084,7 @@
     "name": "박수진",
     "group": "Purple Kiss",
     "birthday": "2003-07-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q107559922.webp",
     "wikidataId": "Q107559922"
   },
   {
@@ -11106,7 +11098,7 @@
   {
     "id": "q482519",
     "name": "박유천",
-    "group": "JYJ",
+    "group": "TVXQ",
     "birthday": "1986-06-04",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q482519.webp",
     "wikidataId": "Q482519"
@@ -11146,9 +11138,9 @@
   {
     "id": "q489838",
     "name": "박정수",
-    "group": "Super Junior-L.S.S.",
+    "group": "Super Junior",
     "birthday": "1983-07-01",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q489838.webp",
+    "image": "",
     "wikidataId": "Q489838"
   },
   {
@@ -11212,7 +11204,7 @@
     "name": "박지우",
     "group": "KiiiKiii",
     "birthday": "2010-12-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q133828178.webp",
+    "image": "",
     "wikidataId": "Q133828178"
   },
   {
@@ -11244,7 +11236,7 @@
     "name": "박진경",
     "group": "Wooah",
     "birthday": "2003-02-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q111264396.webp",
     "wikidataId": "Q111264396"
   },
   {
@@ -11372,7 +11364,7 @@
     "name": "배수민",
     "group": "STAYC",
     "birthday": "2001-03-13",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q106518333.webp",
     "wikidataId": "Q106518333"
   },
   {
@@ -11412,7 +11404,7 @@
     "name": "백예빈",
     "group": "DIA",
     "birthday": "1997-07-13",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q30243794.webp",
     "wikidataId": "Q30243794"
   },
   {
@@ -11426,7 +11418,7 @@
   {
     "id": "q4688701",
     "name": "변백현",
-    "group": "SuperM",
+    "group": "EXO",
     "birthday": "1992-05-06",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q4688701.webp",
     "wikidataId": "Q4688701"
@@ -11492,7 +11484,7 @@
     "name": "서수진",
     "group": "I-dle",
     "birthday": "1998-03-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q61100297.webp",
     "wikidataId": "Q61100297"
   },
   {
@@ -11532,7 +11524,7 @@
     "name": "서지유",
     "group": "KiiiKiii",
     "birthday": "2006-05-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q133828174.webp",
+    "image": "",
     "wikidataId": "Q133828174"
   },
   {
@@ -11556,7 +11548,7 @@
     "name": "설윤아",
     "group": "Nmixx",
     "birthday": "2004-01-26",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q109307956.webp",
     "wikidataId": "Q109307956"
   },
   {
@@ -11572,7 +11564,7 @@
     "name": "성유리",
     "group": "Fin.K.L",
     "birthday": "1981-03-03",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q487560.webp",
     "wikidataId": "Q487560"
   },
   {
@@ -11596,7 +11588,7 @@
     "name": "성한빈",
     "group": "Zerobaseone",
     "birthday": "2001-06-13",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q117746200.webp",
     "wikidataId": "Q117746200"
   },
   {
@@ -11628,7 +11620,7 @@
     "name": "손나은",
     "group": "Apink",
     "birthday": "1994-02-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q492666.webp",
     "wikidataId": "Q492666"
   },
   {
@@ -11636,7 +11628,7 @@
     "name": "손동주",
     "group": "Oneus",
     "birthday": "2000-01-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60529407.webp",
     "wikidataId": "Q60529407"
   },
   {
@@ -11644,7 +11636,7 @@
     "name": "손동표",
     "group": "X1",
     "birthday": "2002-09-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q66737978.webp",
     "wikidataId": "Q66737978"
   },
   {
@@ -11652,7 +11644,7 @@
     "name": "손예원",
     "group": "Fifty Fifty",
     "birthday": "2005-03-18",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q129548065.webp",
     "wikidataId": "Q129548065"
   },
   {
@@ -11684,13 +11676,13 @@
     "name": "손채영",
     "group": "Twice",
     "birthday": "1999-04-23",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q24043625.webp",
     "wikidataId": "Q24043625"
   },
   {
     "id": "q58825825",
     "name": "손혜주",
-    "group": "Loona yyxy",
+    "group": "Loona",
     "birthday": "2001-11-13",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q58825825.webp",
     "wikidataId": "Q58825825"
@@ -11700,13 +11692,13 @@
     "name": "손호영",
     "group": "god",
     "birthday": "1980-03-26",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q489667.webp",
     "wikidataId": "Q489667"
   },
   {
     "id": "q16767600",
     "name": "솔지",
-    "group": "2NB",
+    "group": "EXID",
     "birthday": "1989-01-10",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16767600.webp",
     "wikidataId": "Q16767600"
@@ -11716,7 +11708,7 @@
     "name": "송다혜",
     "group": "Bestie",
     "birthday": "1993-06-12",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q20687781.webp",
     "wikidataId": "Q20687781"
   },
   {
@@ -11724,7 +11716,7 @@
     "name": "송민기",
     "group": "Ateez",
     "birthday": "1999-08-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q85878823.webp",
     "wikidataId": "Q85878823"
   },
   {
@@ -11732,7 +11724,7 @@
     "name": "송민호",
     "group": "Winner",
     "birthday": "1993-03-30",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q17682967.webp",
     "wikidataId": "Q17682967"
   },
   {
@@ -11740,7 +11732,7 @@
     "name": "송승현",
     "group": "F.T. Island",
     "birthday": "1992-08-21",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q6546789.webp",
     "wikidataId": "Q6546789"
   },
   {
@@ -11764,7 +11756,7 @@
     "name": "송은석",
     "group": "Riize",
     "birthday": "2001-03-19",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q123528880.webp",
     "wikidataId": "Q123528880"
   },
   {
@@ -11780,7 +11772,7 @@
     "name": "송지은",
     "group": "Secret",
     "birthday": "1990-05-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q498199.webp",
     "wikidataId": "Q498199"
   },
   {
@@ -11788,15 +11780,15 @@
     "name": "송하영",
     "group": "Fromis 9",
     "birthday": "1997-09-29",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q58816368.webp",
     "wikidataId": "Q58816368"
   },
   {
     "id": "q65058867",
     "name": "송형준",
-    "group": "X1",
+    "group": "Cravity",
     "birthday": "2002-11-30",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q65058867.webp",
     "wikidataId": "Q65058867"
   },
   {
@@ -11804,13 +11796,13 @@
     "name": "수호",
     "group": "EXO",
     "birthday": "1991-05-22",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q10822003.webp",
     "wikidataId": "Q10822003"
   },
   {
     "id": "q482783",
     "name": "시아준수",
-    "group": "JYJ",
+    "group": "TVXQ",
     "birthday": "1986-12-15",
     "image": "",
     "wikidataId": "Q482783"
@@ -11820,7 +11812,7 @@
     "name": "시우민",
     "group": "EXO",
     "birthday": "1990-03-26",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q10834841.webp",
     "wikidataId": "Q10834841"
   },
   {
@@ -11836,7 +11828,7 @@
     "name": "신동호",
     "group": "U-KISS",
     "birthday": "1994-06-29",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q493590.webp",
     "wikidataId": "Q493590"
   },
   {
@@ -11844,7 +11836,7 @@
     "name": "신보라",
     "group": "Gugudan",
     "birthday": "1993-04-30",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q27748793.webp",
     "wikidataId": "Q27748793"
   },
   {
@@ -11852,7 +11844,7 @@
     "name": "신수현",
     "group": "U-KISS",
     "birthday": "1989-03-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q7497227.webp",
     "wikidataId": "Q7497227"
   },
   {
@@ -11876,7 +11868,7 @@
     "name": "신정환",
     "group": "TWS",
     "birthday": "2003-11-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q132041926.webp",
     "wikidataId": "Q132041926"
   },
   {
@@ -11884,7 +11876,7 @@
     "name": "신준섭",
     "group": "Myteen",
     "birthday": "1998-02-04",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q85877738.webp",
     "wikidataId": "Q85877738"
   },
   {
@@ -11908,7 +11900,7 @@
     "name": "신혜성",
     "group": "Shinhwa",
     "birthday": "1979-11-27",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q484812.webp",
     "wikidataId": "Q484812"
   },
   {
@@ -11916,7 +11908,7 @@
     "name": "심은진",
     "group": "Baby V.O.X.",
     "birthday": "1981-02-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q625442.webp",
     "wikidataId": "Q625442"
   },
   {
@@ -11948,7 +11940,7 @@
     "name": "아유미",
     "group": "Sugar",
     "birthday": "1984-08-25",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q488034.webp",
+    "image": "",
     "wikidataId": "Q488034"
   },
   {
@@ -11972,7 +11964,7 @@
     "name": "안소희",
     "group": "Wonder Girls",
     "birthday": "1992-06-27",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q483633.webp",
     "wikidataId": "Q483633"
   },
   {
@@ -11986,9 +11978,9 @@
   {
     "id": "q450171",
     "name": "안승호",
-    "group": "H.O.T.",
+    "group": "jtL",
     "birthday": "1978-06-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q450171.webp",
     "wikidataId": "Q450171"
   },
   {
@@ -12052,7 +12044,7 @@
     "name": "양요섭",
     "group": "Highlight",
     "birthday": "1990-01-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q233717.webp",
     "wikidataId": "Q233717"
   },
   {
@@ -12068,7 +12060,7 @@
     "name": "양지원",
     "group": "Spica",
     "birthday": "1988-04-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q3207955.webp",
     "wikidataId": "Q3207955"
   },
   {
@@ -12076,7 +12068,7 @@
     "name": "양현석",
     "group": "Seo Taiji and Boys",
     "birthday": "1970-01-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q490938.webp",
     "wikidataId": "Q490938"
   },
   {
@@ -12156,7 +12148,7 @@
     "name": "여훈민",
     "group": "U-KISS",
     "birthday": "1991-08-16",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q8052399.webp",
     "wikidataId": "Q8052399"
   },
   {
@@ -12258,9 +12250,9 @@
   {
     "id": "q493526",
     "name": "용준형",
-    "group": "XING (band)",
+    "group": "Highlight",
     "birthday": "1989-12-19",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q493526.webp",
     "wikidataId": "Q493526"
   },
   {
@@ -12268,7 +12260,7 @@
     "name": "우지윤",
     "group": "Bolbbalgan4",
     "birthday": "1996-01-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q42705901.webp",
     "wikidataId": "Q42705901"
   },
   {
@@ -12276,7 +12268,7 @@
     "name": "우진영",
     "group": "D1CE",
     "birthday": "1997-05-31",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q55732454.webp",
     "wikidataId": "Q55732454"
   },
   {
@@ -12300,7 +12292,7 @@
     "name": "원호",
     "group": "Monsta X",
     "birthday": "1993-03-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q28549863.webp",
     "wikidataId": "Q28549863"
   },
   {
@@ -12316,7 +12308,7 @@
     "name": "유나",
     "group": "Itzy",
     "birthday": "2003-12-09",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60870263.webp",
     "wikidataId": "Q60870263"
   },
   {
@@ -12332,7 +12324,7 @@
     "name": "유세윤",
     "group": "UV",
     "birthday": "1980-09-12",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q8334187.webp",
     "wikidataId": "Q8334187"
   },
   {
@@ -12340,7 +12332,7 @@
     "name": "유소영",
     "group": "After School",
     "birthday": "1986-03-29",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q621380.webp",
     "wikidataId": "Q621380"
   },
   {
@@ -12348,7 +12340,7 @@
     "name": "유수영",
     "group": "S.E.S.",
     "birthday": "1981-10-23",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q626827.webp",
     "wikidataId": "Q626827"
   },
   {
@@ -12364,7 +12356,7 @@
     "name": "유시아",
     "group": "Oh My Girl",
     "birthday": "1995-09-17",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q21710217.webp",
     "wikidataId": "Q21710217"
   },
   {
@@ -12372,7 +12364,7 @@
     "name": "유아라",
     "group": "Hello Venus",
     "birthday": "1992-09-26",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q8055133.webp",
     "wikidataId": "Q8055133"
   },
   {
@@ -12380,7 +12372,7 @@
     "name": "유연정",
     "group": "WJSN",
     "birthday": "1999-08-03",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q26710986.webp",
     "wikidataId": "Q26710986"
   },
   {
@@ -12388,7 +12380,7 @@
     "name": "유영재",
     "group": "B.A.P",
     "birthday": "1994-01-24",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q8058611.webp",
     "wikidataId": "Q8058611"
   },
   {
@@ -12396,7 +12388,7 @@
     "name": "유정연",
     "group": "Twice",
     "birthday": "1996-11-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q25374501.webp",
     "wikidataId": "Q25374501"
   },
   {
@@ -12420,7 +12412,7 @@
     "name": "유지애",
     "group": "Lovelyz",
     "birthday": "1993-05-21",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q13428840.webp",
     "wikidataId": "Q13428840"
   },
   {
@@ -12444,7 +12436,7 @@
     "name": "유회승",
     "group": "N.Flying",
     "birthday": "1995-02-28",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60467873.webp",
     "wikidataId": "Q60467873"
   },
   {
@@ -12452,7 +12444,7 @@
     "name": "윤계상",
     "group": "god",
     "birthday": "1978-12-20",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q484850.webp",
     "wikidataId": "Q484850"
   },
   {
@@ -12460,7 +12452,7 @@
     "name": "윤도운",
     "group": "Day6",
     "birthday": "1995-08-25",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q67674200.webp",
     "wikidataId": "Q67674200"
   },
   {
@@ -12468,7 +12460,7 @@
     "name": "윤보라",
     "group": "SISTAR",
     "birthday": "1989-12-30",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q5363925.webp",
     "wikidataId": "Q5363925"
   },
   {
@@ -12484,7 +12476,7 @@
     "name": "윤산하",
     "group": "Moonbin&Sanha",
     "birthday": "2000-03-21",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56278318.webp",
     "wikidataId": "Q56278318"
   },
   {
@@ -12524,7 +12516,7 @@
     "name": "윤종신",
     "group": "015B",
     "birthday": "1969-10-15",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q54348.webp",
     "wikidataId": "Q54348"
   },
   {
@@ -12532,7 +12524,7 @@
     "name": "윤지성",
     "group": "Wanna One",
     "birthday": "1991-03-08",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q30311766.webp",
     "wikidataId": "Q30311766"
   },
   {
@@ -12554,9 +12546,9 @@
   {
     "id": "q24859531",
     "name": "윤채경",
-    "group": "Puretty",
+    "group": "April",
     "birthday": "1996-07-07",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q24859531.webp",
     "wikidataId": "Q24859531"
   },
   {
@@ -12612,7 +12604,7 @@
     "name": "이가은",
     "group": "After School",
     "birthday": "1994-08-20",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q492691.webp",
+    "image": "",
     "wikidataId": "Q492691"
   },
   {
@@ -12620,7 +12612,7 @@
     "name": "이건민",
     "group": "Oneus",
     "birthday": "1996-06-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60529366.webp",
+    "image": "",
     "wikidataId": "Q60529366"
   },
   {
@@ -12628,7 +12620,7 @@
     "name": "이건우",
     "group": "Myname",
     "birthday": "1989-01-30",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q43181375.webp",
+    "image": "",
     "wikidataId": "Q43181375"
   },
   {
@@ -12636,7 +12628,7 @@
     "name": "이건희",
     "group": "Oneus",
     "birthday": "1998-06-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q60529223.webp",
+    "image": "",
     "wikidataId": "Q60529223"
   },
   {
@@ -12644,7 +12636,7 @@
     "name": "이경민",
     "group": "TWS",
     "birthday": "2007-10-02",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q132041931.webp",
+    "image": "",
     "wikidataId": "Q132041931"
   },
   {
@@ -12652,7 +12644,7 @@
     "name": "이경윤",
     "group": "DKZ",
     "birthday": "2000-02-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q111693305.webp",
+    "image": "",
     "wikidataId": "Q111693305"
   },
   {
@@ -12660,7 +12652,7 @@
     "name": "이기광",
     "group": "Highlight",
     "birthday": "1990-03-30",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q10919869.webp",
+    "image": "",
     "wikidataId": "Q10919869"
   },
   {
@@ -12668,7 +12660,7 @@
     "name": "이기섭",
     "group": "U-KISS",
     "birthday": "1991-01-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q2591401.webp",
+    "image": "",
     "wikidataId": "Q2591401"
   },
   {
@@ -12684,7 +12676,7 @@
     "name": "이나경",
     "group": "Fromis 9",
     "birthday": "2000-06-01",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56660245.webp",
+    "image": "",
     "wikidataId": "Q56660245"
   },
   {
@@ -12692,7 +12684,7 @@
     "name": "이나은",
     "group": "April",
     "birthday": "1999-05-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q27658440.webp",
+    "image": "",
     "wikidataId": "Q27658440"
   },
   {
@@ -12708,7 +12700,7 @@
     "name": "이대휘",
     "group": "AB6IX",
     "birthday": "2001-01-29",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q30311778.webp",
+    "image": "",
     "wikidataId": "Q30311778"
   },
   {
@@ -12764,7 +12756,7 @@
     "name": "이보람",
     "group": "SeeYa",
     "birthday": "1987-02-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q11265912.webp",
+    "image": "",
     "wikidataId": "Q11265912"
   },
   {
@@ -12796,7 +12788,7 @@
     "name": "이새롬",
     "group": "Fromis 9",
     "birthday": "1997-01-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q54598370.webp",
+    "image": "",
     "wikidataId": "Q54598370"
   },
   {
@@ -12804,7 +12796,7 @@
     "name": "이서연",
     "group": "Fromis 9",
     "birthday": "2000-01-22",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56660256.webp",
+    "image": "",
     "wikidataId": "Q56660256"
   },
   {
@@ -12812,7 +12804,7 @@
     "name": "이서영",
     "group": "Hello Venus",
     "birthday": "1994-06-27",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q112020932.webp",
+    "image": "",
     "wikidataId": "Q112020932"
   },
   {
@@ -12860,7 +12852,7 @@
     "name": "이성종",
     "group": "INFINITE",
     "birthday": "1993-09-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q12602098.webp",
+    "image": "",
     "wikidataId": "Q12602098"
   },
   {
@@ -12868,15 +12860,15 @@
     "name": "이수담",
     "group": "Secret Number",
     "birthday": "1999-11-09",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q100794150.webp",
+    "image": "",
     "wikidataId": "Q100794150"
   },
   {
     "id": "q493676",
     "name": "이수미",
-    "group": "F-ve Dolls",
+    "group": "Coed School",
     "birthday": "1989-03-03",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q493676.webp",
+    "image": "",
     "wikidataId": "Q493676"
   },
   {
@@ -12884,7 +12876,7 @@
     "name": "이수민",
     "group": "KiiiKiii",
     "birthday": "2005-09-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q133828175.webp",
+    "image": "",
     "wikidataId": "Q133828175"
   },
   {
@@ -12892,7 +12884,7 @@
     "name": "이수빈",
     "group": "KiiiKiii",
     "birthday": "2006-04-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q133828176.webp",
     "wikidataId": "Q133828176"
   },
   {
@@ -12916,7 +12908,7 @@
     "name": "이수현",
     "group": "AKMU",
     "birthday": "1999-05-04",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q18697707.webp",
+    "image": "",
     "wikidataId": "Q18697707"
   },
   {
@@ -12932,7 +12924,7 @@
     "name": "이승아",
     "group": "Lovelyz",
     "birthday": "1994-09-23",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q21059878.webp",
+    "image": "",
     "wikidataId": "Q21059878"
   },
   {
@@ -12964,7 +12956,7 @@
     "name": "이승협",
     "group": "N.Flying",
     "birthday": "1992-10-31",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q18230780.webp",
+    "image": "",
     "wikidataId": "Q18230780"
   },
   {
@@ -12972,7 +12964,7 @@
     "name": "이승환",
     "group": "",
     "birthday": "1965-12-13",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q625471.webp",
+    "image": "",
     "wikidataId": "Q625471"
   },
   {
@@ -12980,7 +12972,7 @@
     "name": "이승훈",
     "group": "Winner",
     "birthday": "1992-01-11",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q15931598.webp",
+    "image": "",
     "wikidataId": "Q15931598"
   },
   {
@@ -13042,9 +13034,9 @@
   {
     "id": "q66368439",
     "name": "이은상",
-    "group": "Younite",
+    "group": "X1",
     "birthday": "2002-10-26",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q66368439.webp",
+    "image": "",
     "wikidataId": "Q66368439"
   },
   {
@@ -13058,9 +13050,9 @@
   {
     "id": "q51884158",
     "name": "이의진",
-    "group": "Bigflo",
+    "group": "UNB",
     "birthday": "1990-02-15",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q51884158.webp",
+    "image": "",
     "wikidataId": "Q51884158"
   },
   {
@@ -13068,7 +13060,7 @@
     "name": "이자람",
     "group": "Amado Lee Jaram Band",
     "birthday": "1979-08-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q17564685.webp",
+    "image": "",
     "wikidataId": "Q17564685"
   },
   {
@@ -13082,9 +13074,9 @@
   {
     "id": "q483991",
     "name": "이재원",
-    "group": "H.O.T.",
+    "group": "jtL",
     "birthday": "1980-04-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q483991.webp",
+    "image": "",
     "wikidataId": "Q483991"
   },
   {
@@ -13092,7 +13084,7 @@
     "name": "이재윤",
     "group": "SF9",
     "birthday": "1994-08-09",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q69916579.webp",
+    "image": "",
     "wikidataId": "Q69916579"
   },
   {
@@ -13100,7 +13092,7 @@
     "name": "이재진",
     "group": "F.T. Island",
     "birthday": "1991-12-17",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q624401.webp",
+    "image": "",
     "wikidataId": "Q624401"
   },
   {
@@ -13108,7 +13100,7 @@
     "name": "이재진",
     "group": "Sechs Kies",
     "birthday": "1979-07-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q626991.webp",
+    "image": "",
     "wikidataId": "Q626991"
   },
   {
@@ -13116,7 +13108,7 @@
     "name": "이재희",
     "group": "Weeekly",
     "birthday": "2004-03-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q93970112.webp",
+    "image": "",
     "wikidataId": "Q93970112"
   },
   {
@@ -13124,7 +13116,7 @@
     "name": "이적",
     "group": "Carnival",
     "birthday": "1974-02-28",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q6514229.webp",
+    "image": "",
     "wikidataId": "Q6514229"
   },
   {
@@ -13140,7 +13132,7 @@
     "name": "이주연",
     "group": "After School",
     "birthday": "1987-03-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q486942.webp",
+    "image": "",
     "wikidataId": "Q486942"
   },
   {
@@ -13164,7 +13156,7 @@
     "name": "이주헌",
     "group": "Monsta X",
     "birthday": "1994-10-06",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q23008017.webp",
+    "image": "",
     "wikidataId": "Q23008017"
   },
   {
@@ -13178,7 +13170,7 @@
   {
     "id": "q49580130",
     "name": "이준영",
-    "group": "U-KISS",
+    "group": "UNB",
     "birthday": "1997-01-22",
     "image": "",
     "wikidataId": "Q49580130"
@@ -13196,7 +13188,7 @@
     "name": "이준호",
     "group": "2PM",
     "birthday": "1990-01-25",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q488423.webp",
+    "image": "",
     "wikidataId": "Q488423"
   },
   {
@@ -13204,7 +13196,7 @@
     "name": "이지선",
     "group": "Koyote",
     "birthday": "1981-11-18",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q484040.webp",
     "wikidataId": "Q484040"
   },
   {
@@ -13220,7 +13212,7 @@
     "name": "이지연",
     "group": "The Grace",
     "birthday": "1984-02-18",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q541255.webp",
+    "image": "",
     "wikidataId": "Q541255"
   },
   {
@@ -13236,13 +13228,13 @@
     "name": "이지현",
     "group": "Jewelry",
     "birthday": "1983-10-12",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q498364.webp",
+    "image": "",
     "wikidataId": "Q498364"
   },
   {
     "id": "q487897",
     "name": "이지현",
-    "group": "QBS",
+    "group": "T-ara",
     "birthday": "1986-12-12",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q487897.webp",
     "wikidataId": "Q487897"
@@ -13252,7 +13244,7 @@
     "name": "이지훈",
     "group": "Seventeen",
     "birthday": "1996-11-22",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q21824990.webp",
     "wikidataId": "Q21824990"
   },
   {
@@ -13260,7 +13252,7 @@
     "name": "이진",
     "group": "Fin.K.L",
     "birthday": "1980-03-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q625121.webp",
+    "image": "",
     "wikidataId": "Q625121"
   },
   {
@@ -13268,7 +13260,7 @@
     "name": "이진경",
     "group": "JQT",
     "birthday": "1994-01-07",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q22974707.webp",
+    "image": "",
     "wikidataId": "Q22974707"
   },
   {
@@ -13276,7 +13268,7 @@
     "name": "이진솔",
     "group": "April",
     "birthday": "2001-12-04",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q25842431.webp",
+    "image": "",
     "wikidataId": "Q25842431"
   },
   {
@@ -13292,15 +13284,15 @@
     "name": "이찬혁",
     "group": "AKMU",
     "birthday": "1996-09-12",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16071030.webp",
+    "image": "",
     "wikidataId": "Q16071030"
   },
   {
     "id": "q6781593",
     "name": "이창민",
-    "group": "Homme",
+    "group": "2AM",
     "birthday": "1986-05-01",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q6781593.webp",
+    "image": "",
     "wikidataId": "Q6781593"
   },
   {
@@ -13324,7 +13316,7 @@
     "name": "이채원",
     "group": "AllDay Project",
     "birthday": "2002-09-27",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q135580628.webp",
     "wikidataId": "Q135580628"
   },
   {
@@ -13340,7 +13332,7 @@
     "name": "이하린",
     "group": "Sugar",
     "birthday": "1983-09-08",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16091255.webp",
+    "image": "",
     "wikidataId": "Q16091255"
   },
   {
@@ -13348,7 +13340,7 @@
     "name": "이해리",
     "group": "Davichi",
     "birthday": "1985-02-14",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q6781164.webp",
+    "image": "",
     "wikidataId": "Q6781164"
   },
   {
@@ -13356,7 +13348,7 @@
     "name": "이해인",
     "group": "I.B.I",
     "birthday": "1994-07-04",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q26710937.webp",
+    "image": "",
     "wikidataId": "Q26710937"
   },
   {
@@ -13364,7 +13356,7 @@
     "name": "이현",
     "group": "Homme",
     "birthday": "1983-11-08",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q485174.webp",
+    "image": "",
     "wikidataId": "Q485174"
   },
   {
@@ -13380,7 +13372,7 @@
     "name": "이현서",
     "group": "Ive",
     "birthday": "2007-02-21",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q109572155.webp",
+    "image": "",
     "wikidataId": "Q109572155"
   },
   {
@@ -13388,7 +13380,7 @@
     "name": "이현주",
     "group": "April",
     "birthday": "1998-02-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q27920084.webp",
+    "image": "",
     "wikidataId": "Q27920084"
   },
   {
@@ -13412,7 +13404,7 @@
     "name": "이홍기",
     "group": "F.T. Island",
     "birthday": "1990-03-02",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q484834.webp",
+    "image": "",
     "wikidataId": "Q484834"
   },
   {
@@ -13428,7 +13420,7 @@
     "name": "이효리",
     "group": "Fin.K.L",
     "birthday": "1979-02-19",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q232491.webp",
+    "image": "",
     "wikidataId": "Q232491"
   },
   {
@@ -13436,7 +13428,7 @@
     "name": "이휘민",
     "group": "GroovyRoom",
     "birthday": "1994-08-05",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q105706350.webp",
+    "image": "",
     "wikidataId": "Q105706350"
   },
   {
@@ -13460,7 +13452,7 @@
     "name": "이희진",
     "group": "Baby V.O.X.",
     "birthday": "1979-05-16",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q3079167.webp",
+    "image": "",
     "wikidataId": "Q3079167"
   },
   {
@@ -13492,7 +13484,7 @@
     "name": "임민지",
     "group": "Fiestar",
     "birthday": "1989-10-22",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q27951586.webp",
+    "image": "",
     "wikidataId": "Q27951586"
   },
   {
@@ -13516,7 +13508,7 @@
     "name": "임슬옹",
     "group": "2AM",
     "birthday": "1987-05-11",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q5244665.webp",
+    "image": "",
     "wikidataId": "Q5244665"
   },
   {
@@ -13524,21 +13516,21 @@
     "name": "임시완",
     "group": "ZE:A",
     "birthday": "1988-12-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q82788.webp",
     "wikidataId": "Q82788"
   },
   {
     "id": "q56824821",
     "name": "임여진",
-    "group": "Loossemble",
+    "group": "Loona",
     "birthday": "2002-11-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56824821.webp",
     "wikidataId": "Q56824821"
   },
   {
     "id": "q466975",
     "name": "임윤아",
-    "group": "Girls' Generation",
+    "group": "Girls' Generation-Oh!GG",
     "birthday": "1990-05-30",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q466975.webp",
     "wikidataId": "Q466975"
@@ -13546,7 +13538,7 @@
   {
     "id": "q491515",
     "name": "임진아",
-    "group": "Orange Caramel",
+    "group": "A.S. Red & Blue",
     "birthday": "1991-09-14",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q491515.webp",
     "wikidataId": "Q491515"
@@ -13564,7 +13556,7 @@
     "name": "장규진",
     "group": "Nmixx",
     "birthday": "2006-05-26",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q109308262.webp",
+    "image": "",
     "wikidataId": "Q109308262"
   },
   {
@@ -13642,7 +13634,7 @@
   {
     "id": "q497283",
     "name": "장우혁",
-    "group": "H.O.T.",
+    "group": "jtL",
     "birthday": "1978-05-08",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q497283.webp",
     "wikidataId": "Q497283"
@@ -13700,7 +13692,7 @@
     "name": "전지윤",
     "group": "4Minute",
     "birthday": "1990-10-15",
-    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q491612.webp",
+    "image": "",
     "wikidataId": "Q491612"
   },
   {
@@ -13714,7 +13706,7 @@
   {
     "id": "q56259179",
     "name": "전희진",
-    "group": "ARTMS",
+    "group": "Loona",
     "birthday": "2000-10-19",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56259179.webp",
     "wikidataId": "Q56259179"
@@ -13810,9 +13802,9 @@
   {
     "id": "q61863582",
     "name": "정우석",
-    "group": "Wooseok x Kuanlin",
+    "group": "Pentagon",
     "birthday": "1998-01-31",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q61863582.webp",
     "wikidataId": "Q61863582"
   },
   {
@@ -13828,13 +13820,13 @@
     "name": "정유지",
     "group": "EXID",
     "birthday": "1991-01-02",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q24855952.webp",
     "wikidataId": "Q24855952"
   },
   {
     "id": "q26267642",
     "name": "정윤오",
-    "group": "NCT",
+    "group": "NCT U",
     "birthday": "1997-02-14",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q26267642.webp",
     "wikidataId": "Q26267642"
@@ -13844,7 +13836,7 @@
     "name": "정윤채",
     "group": "Katseye",
     "birthday": "2007-12-06",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q124692801.webp",
     "wikidataId": "Q124692801"
   },
   {
@@ -13938,7 +13930,7 @@
   {
     "id": "q56825122",
     "name": "정진솔",
-    "group": "ARTMS",
+    "group": "Loona",
     "birthday": "1997-06-13",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q56825122.webp",
     "wikidataId": "Q56825122"
@@ -13970,7 +13962,7 @@
   {
     "id": "q24959134",
     "name": "정채연",
-    "group": "DIA",
+    "group": "I.O.I",
     "birthday": "1997-12-01",
     "image": "",
     "wikidataId": "Q24959134"
@@ -14010,7 +14002,7 @@
   {
     "id": "q12616349",
     "name": "제시카 현주 호",
-    "group": "Refund Sisters",
+    "group": "Lucky J",
     "birthday": "1988-12-17",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q12616349.webp",
     "wikidataId": "Q12616349"
@@ -14090,15 +14082,15 @@
   {
     "id": "q27953522",
     "name": "조승연",
-    "group": "Uniq",
+    "group": "X1",
     "birthday": "1996-08-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q27953522.webp",
     "wikidataId": "Q27953522"
   },
   {
     "id": "q16084047",
     "name": "조승희",
-    "group": "F-ve Dolls",
+    "group": "DIA",
     "birthday": "1991-06-03",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16084047.webp",
     "wikidataId": "Q16084047"
@@ -14154,7 +14146,7 @@
   {
     "id": "q57318729",
     "name": "조하슬",
-    "group": "ARTMS",
+    "group": "Loona",
     "birthday": "1997-08-18",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q57318729.webp",
     "wikidataId": "Q57318729"
@@ -14260,7 +14252,7 @@
     "name": "진보라",
     "group": "The Grace",
     "birthday": "1987-01-12",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q2366171.webp",
     "wikidataId": "Q2366171"
   },
   {
@@ -14314,7 +14306,7 @@
   {
     "id": "q16098027",
     "name": "첸",
-    "group": "SM the Ballad",
+    "group": "EXO",
     "birthday": "1992-09-21",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16098027.webp",
     "wikidataId": "Q16098027"
@@ -14404,7 +14396,7 @@
     "name": "최수빈",
     "group": "Tomorrow X Together",
     "birthday": "2000-12-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q62396828.webp",
     "wikidataId": "Q62396828"
   },
   {
@@ -14434,7 +14426,7 @@
   {
     "id": "q58224261",
     "name": "최예림",
-    "group": "ARTMS",
+    "group": "Loona",
     "birthday": "2001-06-04",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q58224261.webp",
     "wikidataId": "Q58224261"
@@ -14442,7 +14434,7 @@
   {
     "id": "q26710983",
     "name": "최유정",
-    "group": "I.O.I",
+    "group": "WJMK",
     "birthday": "1999-11-12",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q26710983.webp",
     "wikidataId": "Q26710983"
@@ -14548,7 +14540,7 @@
     "name": "최한솔",
     "group": "Seventeen",
     "birthday": "1998-02-18",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q21824912.webp",
     "wikidataId": "Q21824912"
   },
   {
@@ -14580,7 +14572,7 @@
     "name": "태하",
     "group": "Berry Good",
     "birthday": "1995-10-05",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q63922275.webp",
     "wikidataId": "Q63922275"
   },
   {
@@ -14602,7 +14594,7 @@
   {
     "id": "q58825704",
     "name": "하수영",
-    "group": "Loona yyxy",
+    "group": "Loona",
     "birthday": "1997-05-24",
     "image": "",
     "wikidataId": "Q58825704"
@@ -14636,7 +14628,7 @@
     "name": "한동민",
     "group": "",
     "birthday": "2004-08-10",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q125473767.webp",
     "wikidataId": "Q125473767"
   },
   {
@@ -14780,7 +14772,7 @@
     "name": "허정민",
     "group": "Moonchild",
     "birthday": "1982-11-11",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q17500062.webp",
     "wikidataId": "Q17500062"
   },
   {
@@ -14882,7 +14874,7 @@
   {
     "id": "q461117",
     "name": "홍성미",
-    "group": "Dana & Sunday",
+    "group": "The Grace",
     "birthday": "1986-07-17",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q461117.webp",
     "wikidataId": "Q461117"
@@ -14930,9 +14922,9 @@
   {
     "id": "q236355",
     "name": "황미영",
-    "group": "Girls' Generation",
+    "group": "SM Town",
     "birthday": "1989-08-01",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q236355.webp",
     "wikidataId": "Q236355"
   },
   {
@@ -15018,7 +15010,7 @@
   {
     "id": "q61098087",
     "name": "李悠汀",
-    "group": "API",
+    "group": "MyB",
     "birthday": "1997-02-26",
     "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q61098087.webp",
     "wikidataId": "Q61098087"
@@ -15060,7 +15052,7 @@
     "name": "陸星材",
     "group": "BtoB",
     "birthday": "1995-05-02",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/i4drmz/sarcastic-magic-8ball/main/data/images/artist-q16171180.webp",
     "wikidataId": "Q16171180"
   }
 ]
