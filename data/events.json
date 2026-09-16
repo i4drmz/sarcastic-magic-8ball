@@ -1,10 +1,31 @@
 {
-  "generatedAt": "2026-09-15T20:38:16.583Z",
-  "lastUpdated": "2026-09-15T20:38:16.583Z",
+  "generatedAt": "2026-09-16T15:45:23.831Z",
+  "lastUpdated": "2026-09-16T15:45:23.831Z",
   "sourceSummary": [
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-86df9601d49271e0",
+      "type": "Concert",
+      "title": "'2026 Korea Grand Music Awards' confirms Hulu Japan live broadcast for November 7 and 8",
+      "artist": null,
+      "group": null,
+      "date": "2026-09-16",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "The '2026 Korea Grand Music Awards' (KGMA) will stream live in Japan through Hulu Japan on November 7 and 8. On September 16, the KGMA organizing committee the Japanese broadcast, a report by Ilgan Sports. The two-day ceremony will take…",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/2026-korea-grand-music-awards-confirms-hulu-japan-live-broadcast-for-november-7-and-8",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-16T15:45:23.831Z"
+    },
     {
       "id": "evt-30adb6f8d5d5c125",
       "type": "Concert",
@@ -23,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-15T20:38:16.583Z"
+      "lastUpdated": "2026-09-16T15:45:23.831Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -43,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-15T20:38:16.583Z"
+      "lastUpdated": "2026-09-16T15:45:23.831Z"
     },
     {
       "id": "evt-639da08bc5f8c068",
@@ -63,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-15T20:38:16.583Z"
+      "lastUpdated": "2026-09-16T15:45:23.831Z"
     }
   ]
 }
