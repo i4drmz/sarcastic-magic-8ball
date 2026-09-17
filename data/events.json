@@ -1,12 +1,31 @@
 {
-  "generatedAt": "2026-09-16T20:37:24.245Z",
-  "lastUpdated": "2026-09-16T20:37:24.245Z",
+  "generatedAt": "2026-09-17T02:23:06.860Z",
+  "lastUpdated": "2026-09-17T02:23:06.860Z",
   "sourceSummary": [
     "soompi-music",
-    "allkpop",
-    "hellokpop"
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-f3f921fd058510fb",
+      "type": "Concert",
+      "title": "Yangpa announces two Seoul orchestra concerts for October 31 and November 1",
+      "artist": "Yangpa",
+      "group": "Yangpa",
+      "date": "2026-09-17",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "Yangpa will perform with an orchestra at two Seoul concerts on October 31 and November 1. the official NOL ticket listing, '2026 Yangpa Concert Accompany:Voice&Orchestra' will take place at Yonsei University's 100th Anniversary Memorial…",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/yangpa-announces-two-seoul-orchestra-concerts-for-october-31-and-november-1",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-17T02:23:06.860Z"
+    },
     {
       "id": "evt-86df9601d49271e0",
       "type": "Concert",
@@ -25,7 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/2026-korea-grand-music-awards-confirms-hulu-japan-live-broadcast-for-november-7-and-8",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-16T20:37:24.245Z"
+      "lastUpdated": "2026-09-17T02:23:06.860Z"
     },
     {
       "id": "evt-30adb6f8d5d5c125",
@@ -45,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-16T20:37:24.245Z"
+      "lastUpdated": "2026-09-17T02:23:06.860Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -65,47 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-16T20:37:24.245Z"
-    },
-    {
-      "id": "evt-639da08bc5f8c068",
-      "type": "Concert",
-      "title": "Fan Concert “HOW WE BLOOM”",
-      "artist": "MODYSSEY",
-      "group": "MODYSSEY",
-      "date": "2026-09-02",
-      "time": null,
-      "venue": "TBA",
-      "city": "Osaka",
-      "country": "JP",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/02030401/modyssey-1.jpg",
-      "shortDescription": "MODYSSEY FAN CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1867657wpp/modyssey-announces-first-ever-fan-concert-tour-how-we-bloom",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-16T20:37:24.245Z"
-    },
-    {
-      "id": "evt-ee8ccb0b82755fd6",
-      "type": "Concert",
-      "title": "World Tour “STEAL THE WIND”",
-      "artist": "TOMORROW X TOGETHER",
-      "group": "TOMORROW X TOGETHER",
-      "date": "2026-08-28",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.hellokpop.com/wp-content/uploads/2026/08/images-400x242.jpg",
-      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
-      "sourceUrl": "https://www.hellokpop.com/event/tomorrow-x-together-announce-fifth-world-tour-steal-the-wind/",
-      "ticketUrl": null,
-      "source": "rss:hellokpop",
-      "lastUpdated": "2026-09-16T20:37:24.245Z"
+      "lastUpdated": "2026-09-17T02:23:06.860Z"
     }
   ]
 }
