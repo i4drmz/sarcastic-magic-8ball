@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-16T21:28:16.199Z",
+  "generatedAt": "2026-09-17T05:02:52.752Z",
   "count": 50,
   "songs": [
+    {
+      "title": "It's about being destined.",
+      "artist": "택우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/697/14551697_20260915114750_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603104609"
+    },
+    {
+      "title": "I'm a Question Mark You're an Exclamation Point (feat. Kiwook (ONEWE)",
+      "artist": "Aden (에이든)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/921/14551921_20260915133548_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603105400"
+    },
+    {
+      "title": "feat.mono sapa",
+      "artist": "추서준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/954/14530954_20260908155859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603037848"
+    },
+    {
+      "title": "10 Reasons to Love Them",
+      "artist": "조성확(IHWAK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/176/14557176_20260916151712_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121831"
+    },
+    {
+      "title": "Just live like that",
+      "artist": "최정철",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/397/14548397_20260914161648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095185"
+    },
+    {
+      "title": "Treadmill",
+      "artist": "김뮤즈 (Kimmuse)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/248/14549248_20260914183102_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603097488"
+    },
     {
       "title": "Ageha",
       "artist": "리도어 (Redoor)",
@@ -9,10 +45,82 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603095306"
     },
     {
+      "title": "When will I be able to love?",
+      "artist": "정승제",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/520/14551520_20260915144236_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603104101"
+    },
+    {
+      "title": "liar",
+      "artist": "Agenda",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/600/14556600_20260916103949_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603119432"
+    },
+    {
+      "title": "I only remember you",
+      "artist": "다희 (dahee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/084/14557084_20260916142959_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121461"
+    },
+    {
+      "title": "Santiago",
+      "artist": "손혜은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/050/14557050_20260916134845_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121250"
+    },
+    {
+      "title": "Ivory Man",
+      "artist": "이병현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/409/14552409_20260915161949_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603107260"
+    },
+    {
       "title": "Soju Bomb (Feat. Book Keeper, G.C Hammer)",
       "artist": "마이티 마우스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/174/14552174_20260915152519_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603106636"
+    },
+    {
+      "title": "Give me bloom",
+      "artist": "LAVEEN (라빈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/787/14547787_20260914141452_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603093105"
+    },
+    {
+      "title": "chasing ghosts",
+      "artist": "yuenn (유넨)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/754/14556754_20260916113320_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603120255"
+    },
+    {
+      "title": "It's you again",
+      "artist": "리디아 (Lydia)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/078/14557078_20260916141430_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121441"
+    },
+    {
+      "title": "Foggia and the World to Be Swallowed",
+      "artist": "POLYAMORY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/361/14549361_20260914184920_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603098027"
+    },
+    {
+      "title": "Love must be coming",
+      "artist": "휴이 (Huie)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/655/14548655_20260914171429_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095960"
+    },
+    {
+      "title": "Summer in Night",
+      "artist": "민조이 (Meanjoy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/082/14557082_20260916142039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121447"
+    },
+    {
+      "title": "I'll call you love",
+      "artist": "김지구",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/075/14557075_20260916140959_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121435"
     },
     {
       "title": "Clear Knee Number",
@@ -29,7 +137,7 @@
     {
       "title": "Feat. Akita",
       "artist": "공기남",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/992/14551992_20260915143259_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/992/14551992_20260917101615_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603105780"
     },
     {
@@ -193,114 +301,6 @@
       "artist": "우진영",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/38/904/14538904_20260910140317_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603061617"
-    },
-    {
-      "title": "feat. PIRI",
-      "artist": "hu57la",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/266/14547266_20260914115021_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091759"
-    },
-    {
-      "title": "If we",
-      "artist": "Brody (브로디)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/259/14547259_20260914114304_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091749"
-    },
-    {
-      "title": "Bangr",
-      "artist": "에리즈 (Aries)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/579/14542579_20260911181431_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603076565"
-    },
-    {
-      "title": "aROMa",
-      "artist": "Stun Ave",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/30/370/14530370_20260908105202_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603035729"
-    },
-    {
-      "title": "Don't Mind",
-      "artist": "정아로",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/547/14542547_20260911175724_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603076455"
-    },
-    {
-      "title": "With U",
-      "artist": "MW:MEU (뮤)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/163/14547163_20260914112420_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603090825"
-    },
-    {
-      "title": "Between The Lines (Webtoon Bunker's DaylightOST X Bernard Park)",
-      "artist": "버나드 박",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/078/14542078_20260911144602_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603074491"
-    },
-    {
-      "title": "Asian boy",
-      "artist": "Jio",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/028/14548028_20260914151959_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603094161"
-    },
-    {
-      "title": "Feat. uzin",
-      "artist": "PLAT9 (플랏나인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/250/14547250_20260914113955_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091661"
-    },
-    {
-      "title": "Sing",
-      "artist": "변하은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/427/14548427_20260914163423_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095327"
-    },
-    {
-      "title": "WINTER Solo",
-      "artist": "aespa",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/755/14541755_20260911115202_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073162"
-    },
-    {
-      "title": "\"RBF\"",
-      "artist": "The Volunteers (더 발룬티어스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/46/770/14546770_20260914095426_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603089117"
-    },
-    {
-      "title": "DEC",
-      "artist": "시인을 위하여",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/268/14547268_20260914115122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091769"
-    },
-    {
-      "title": "Thou that passeth by me",
-      "artist": "손효규",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/544/14542544_20260911175623_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603076447"
-    },
-    {
-      "title": "Limbo",
-      "artist": "한정인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/143/14547143_20260914112106_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603090675"
-    },
-    {
-      "title": "Bend it",
-      "artist": "영탁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/751/14541751_20260911115002_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603073144"
-    },
-    {
-      "title": "All the things you said to me..",
-      "artist": "에코비",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/660/14541660_20260911102042_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603072881"
-    },
-    {
-      "title": "suede",
-      "artist": "A-1000",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/317/14547317_20260914121332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603091946"
     }
   ]
 }
