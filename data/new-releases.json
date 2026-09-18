@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-09-17T21:32:24.665Z",
+  "generatedAt": "2026-09-18T04:55:36.000Z",
   "count": 50,
   "songs": [
+    {
+      "title": "new trick",
+      "artist": "로제 (ROSÉ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/049/14560049_20260917101340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130359"
+    },
+    {
+      "title": "ENOuGH",
+      "artist": "홍중(ATEEZ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/044/14542044_20260911143034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603074260"
+    },
+    {
+      "title": "Trace",
+      "artist": "이소나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/180/14561180_20260917162939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134130"
+    },
+    {
+      "title": "Dance",
+      "artist": "조선힙합",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/650/14560650_20260917135334_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603131978"
+    },
+    {
+      "title": "Dalmuti",
+      "artist": "에이체스 (A-Chess)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/176/14560176_20260917104438_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130589"
+    },
+    {
+      "title": "Speak love silently",
+      "artist": "초승 (CHOSNG)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/435/14551435_20260915094939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603103809"
+    },
+    {
+      "title": "Japanese",
+      "artist": "웨더보트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/325/14560325_20260917114649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603131111"
+    },
     {
       "title": "feat. Crush",
       "artist": "에픽하이 (EPIK HIGH)",
@@ -15,16 +57,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603121826"
     },
     {
+      "title": "Time In Yeon () (feat. Yong Yong)",
+      "artist": "이글루베이 (igloobay)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/436/14552436_20260915162157_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603107309"
+    },
+    {
+      "title": "Love over-immersion",
+      "artist": "선진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/174/14560174_20260917104342_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130580"
+    },
+    {
+      "title": "Don't you have to understand me",
+      "artist": "장은지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/180/14560180_20260917104720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130600"
+    },
+    {
+      "title": "I got someone else",
+      "artist": "박티티 (T.T)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/785/14547785_20260914141351_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603093101"
+    },
+    {
+      "title": "stargazer",
+      "artist": "아타카 (attacca)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/112/14557112_20260916150232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121603"
+    },
+    {
       "title": "Loyalty (feat. Joyohan, Jaewon Noh, Ayaka Miyoshi)",
       "artist": "hyeminsong",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/138/14552138_20260915150618_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603106528"
     },
     {
+      "title": "with. llopitch",
+      "artist": "그냥준수 (of 미국거지)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/995/14551995_20260915143409_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603105785"
+    },
+    {
+      "title": "Will Be Fine!",
+      "artist": "서초은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/556/14548556_20260914165745_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095723"
+    },
+    {
+      "title": "Where only we know",
+      "artist": "kaenavi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/185/14560185_20260917105000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130607"
+    },
+    {
       "title": "FRIENDS",
       "artist": "김승민",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/261/14556261_20260916094556_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603118394"
+    },
+    {
+      "title": "Blue",
+      "artist": "이아직 (eeajik)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/172/14552172_20260915152451_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106631"
+    },
+    {
+      "title": "Take-off",
+      "artist": "마이노스 (MINOS)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/009/14548009_20260914151740_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603094091"
     },
     {
       "title": "I guess I'm the only one who thinks too hard.",
@@ -199,108 +301,6 @@
       "artist": "로시 (Rothy)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/166/14552166_20260915151829_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603106617"
-    },
-    {
-      "title": "Feat. Akita",
-      "artist": "공기남",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/992/14551992_20260917101615_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603105780"
-    },
-    {
-      "title": "Little bird! Little bird! Little bird!",
-      "artist": "이고도",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/415/14548415_20260914162439_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095296"
-    },
-    {
-      "title": "Night flight",
-      "artist": "이츠",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/416/14548416_20260914162441_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095303"
-    },
-    {
-      "title": "Our Changhwa",
-      "artist": "타린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/517/14548517_20260914164843_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095655"
-    },
-    {
-      "title": "It’s Complete",
-      "artist": "영주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/726/14548726_20260914173122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603096150"
-    },
-    {
-      "title": "Although it hurts too much to let you go (Feat. E.ul)",
-      "artist": "현서 (HYUN SEO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/700/14551700_20260915114758_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603104614"
-    },
-    {
-      "title": "The Best You",
-      "artist": "015B",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/581/14551581_20260915104551_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603104279"
-    },
-    {
-      "title": "Feat. CARAMEL CANDiD",
-      "artist": "Ruru (루루)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/414/14548414_20260914162239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095280"
-    },
-    {
-      "title": "Caravan 23",
-      "artist": "$up! (수피)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/391/14551391_20260915093911_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603103653"
-    },
-    {
-      "title": "The beginning of love begins with confession.",
-      "artist": "서하우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/795/14551795_20260915122352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603104921"
-    },
-    {
-      "title": "GET A KISS",
-      "artist": "아포네 (Ahfoné)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/176/14552176_20260915152621_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106641"
-    },
-    {
-      "title": "I'll shine on you like a star",
-      "artist": "정남도",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/093/14552093_20260915145909_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106396"
-    },
-    {
-      "title": "Be Famous (feat. Cha Ha-ryeong)",
-      "artist": "우주현 (Woo Juhyeon)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/399/14548399_20260914161709_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095189"
-    },
-    {
-      "title": "The Four Seasons, and You",
-      "artist": "이창섭",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/74/257/14474257_20260914185038_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603097474"
-    },
-    {
-      "title": "GHOST",
-      "artist": "릴보이 (lIlBOI)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/706/14547706_20260914140351_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603092686"
-    },
-    {
-      "title": "Blunt and Falling Moments",
-      "artist": "권순호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/193/14549193_20260914181515_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603097369"
-    },
-    {
-      "title": "MUMMI CONFETTI",
-      "artist": "도비비(Dovlvl)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/561/14548561_20260914170100_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095732"
     }
   ]
 }
