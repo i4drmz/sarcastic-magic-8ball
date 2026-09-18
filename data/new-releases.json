@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-09-18T04:55:36.000Z",
+  "generatedAt": "2026-09-18T11:30:48.453Z",
   "count": 50,
   "songs": [
+    {
+      "title": "ENOuGH",
+      "artist": "홍중(ATEEZ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/044/14542044_20260911143034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603074260"
+    },
+    {
+      "title": "Just before the breakup",
+      "artist": "소란 (SORAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/230/14561230_20260917165659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134295"
+    },
+    {
+      "title": "Called it Love",
+      "artist": "FIFTY FIFTY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/183/14560183_20260917104829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130604"
+    },
+    {
+      "title": "sauganb",
+      "artist": "Paul Blanco",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/251/14549251_20260914183159_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603097491"
+    },
+    {
+      "title": "Open Your Eyes",
+      "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/842/14556842_20260916115311_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603120511"
+    },
+    {
+      "title": "Standing on the street",
+      "artist": "강미희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/189/14561189_20260917163334_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134143"
+    },
+    {
+      "title": "LOVE ME",
+      "artist": "키드킹 (Kidd King)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/198/14561198_20260917164150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134159"
+    },
     {
       "title": "new trick",
       "artist": "로제 (ROSÉ)",
@@ -9,10 +51,64 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603130359"
     },
     {
-      "title": "ENOuGH",
-      "artist": "홍중(ATEEZ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/044/14542044_20260911143034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603074260"
+      "title": "chamiseul",
+      "artist": "0WAVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/679/14561679_20260917181958_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603135612"
+    },
+    {
+      "title": "A day when you don't like being alone",
+      "artist": "박창근",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/178/14560178_20260917104645_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130596"
+    },
+    {
+      "title": "Opposite side",
+      "artist": "니브 (NIve)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/177/14560177_20260917104558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130594"
+    },
+    {
+      "title": "Arribom: It'll pass",
+      "artist": "순순희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/761/14547761_20260914141109_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603092950"
+    },
+    {
+      "title": "feat. AIWA",
+      "artist": "KIRI (키리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/993/14551993_20260915143359_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603105782"
+    },
+    {
+      "title": "Graduation Album",
+      "artist": "용환(YONGHWAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/091/14557091_20260916143749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121480"
+    },
+    {
+      "title": "Park Hwa-young",
+      "artist": "하모 (hamo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/672/14556672_20260916111141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603119829"
+    },
+    {
+      "title": "It's YOU",
+      "artist": "이한올 (Hanol)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/557/14548557_20260914165841_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603095724"
+    },
+    {
+      "title": "Urrachacha",
+      "artist": "PENTACLE (펜타클)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/113/14557113_20260916150323_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603121604"
+    },
+    {
+      "title": "That it's not too late",
+      "artist": "권의빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/442/14551442_20260915095015_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603103854"
     },
     {
       "title": "Trace",
@@ -205,102 +301,6 @@
       "artist": "김뮤즈 (Kimmuse)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/248/14549248_20260914183102_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603097488"
-    },
-    {
-      "title": "Ageha",
-      "artist": "리도어 (Redoor)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/417/14548417_20260914162600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095306"
-    },
-    {
-      "title": "When will I be able to love?",
-      "artist": "정승제",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/520/14551520_20260915144236_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603104101"
-    },
-    {
-      "title": "liar",
-      "artist": "Agenda",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/600/14556600_20260916103949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603119432"
-    },
-    {
-      "title": "I only remember you",
-      "artist": "다희 (dahee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/084/14557084_20260916142959_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121461"
-    },
-    {
-      "title": "Santiago",
-      "artist": "손혜은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/050/14557050_20260916134845_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121250"
-    },
-    {
-      "title": "Ivory Man",
-      "artist": "이병현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/409/14552409_20260915161949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603107260"
-    },
-    {
-      "title": "Soju Bomb (Feat. Book Keeper, G.C Hammer)",
-      "artist": "마이티 마우스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/174/14552174_20260915152519_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106636"
-    },
-    {
-      "title": "Give me bloom",
-      "artist": "LAVEEN (라빈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/787/14547787_20260914141452_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603093105"
-    },
-    {
-      "title": "chasing ghosts",
-      "artist": "yuenn (유넨)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/754/14556754_20260916113320_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603120255"
-    },
-    {
-      "title": "It's you again",
-      "artist": "리디아 (Lydia)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/078/14557078_20260916141430_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121441"
-    },
-    {
-      "title": "Foggia and the World to Be Swallowed",
-      "artist": "POLYAMORY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/361/14549361_20260914184920_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603098027"
-    },
-    {
-      "title": "Love must be coming",
-      "artist": "휴이 (Huie)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/655/14548655_20260914171429_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095960"
-    },
-    {
-      "title": "Summer in Night",
-      "artist": "민조이 (Meanjoy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/082/14557082_20260916142039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121447"
-    },
-    {
-      "title": "I'll call you love",
-      "artist": "김지구",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/075/14557075_20260916140959_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121435"
-    },
-    {
-      "title": "Clear Knee Number",
-      "artist": "가비엔제이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/168/14552168_20260915152330_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106620"
-    },
-    {
-      "title": "Long Island",
-      "artist": "로시 (Rothy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/166/14552166_20260915151829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106617"
     }
   ]
 }
