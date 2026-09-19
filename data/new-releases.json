@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-19T04:47:07.246Z",
+  "generatedAt": "2026-09-19T11:14:31.688Z",
   "count": 50,
   "songs": [
+    {
+      "title": "I Heard",
+      "artist": "ELO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/839/14564839_20260918100409_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144086"
+    },
+    {
+      "title": "I.B.L",
+      "artist": "신우(C.NU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/062/14565062_20260918111015_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144817"
+    },
+    {
+      "title": "A heart for one person",
+      "artist": "정효빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/639/14556639_20260916110251_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603119732"
+    },
+    {
+      "title": "Lake Pyongnan",
+      "artist": "이진이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/207/14565207_20260918124449_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145404"
+    },
+    {
+      "title": "Tee, tee, tee.",
+      "artist": "RŌSIEN(로진)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/202/14565202_20260918124238_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145398"
+    },
+    {
+      "title": "2026",
+      "artist": "이기찬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/048/14552048_20260915144540_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106279"
+    },
+    {
+      "title": "Siren Song",
+      "artist": "ORORA (오로라)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/205/14561205_20260917164742_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134190"
+    },
+    {
+      "title": "READY!",
+      "artist": "권인서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/326/14560326_20260917114650_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603131113"
+    },
+    {
+      "title": "Sunshine",
+      "artist": "Cosmonott(코스모너트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/648/14556648_20260916110446_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603119749"
+    },
+    {
+      "title": "It was everything.",
+      "artist": "서린다인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/324/14560324_20260917114649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603131110"
+    },
     {
       "title": "Say Angkor",
       "artist": "HeMeets",
@@ -241,66 +301,6 @@
       "artist": "에픽하이 (EPIK HIGH)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/518/14551518_20260915101948_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603104097"
-    },
-    {
-      "title": "Even if it looks like love",
-      "artist": "주호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/172/14557172_20260916151550_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121826"
-    },
-    {
-      "title": "Time In Yeon () (feat. Yong Yong)",
-      "artist": "이글루베이 (igloobay)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/436/14552436_20260915162157_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603107309"
-    },
-    {
-      "title": "Love over-immersion",
-      "artist": "선진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/174/14560174_20260917104342_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130580"
-    },
-    {
-      "title": "Don't you have to understand me",
-      "artist": "장은지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/180/14560180_20260917104720_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130600"
-    },
-    {
-      "title": "I got someone else",
-      "artist": "박티티 (T.T)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/785/14547785_20260914141351_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603093101"
-    },
-    {
-      "title": "stargazer",
-      "artist": "아타카 (attacca)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/112/14557112_20260916150232_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121603"
-    },
-    {
-      "title": "Loyalty (feat. Joyohan, Jaewon Noh, Ayaka Miyoshi)",
-      "artist": "hyeminsong",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/138/14552138_20260915150618_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106528"
-    },
-    {
-      "title": "with. llopitch",
-      "artist": "그냥준수 (of 미국거지)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/995/14551995_20260915143409_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603105785"
-    },
-    {
-      "title": "Will Be Fine!",
-      "artist": "서초은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/556/14548556_20260914165745_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095723"
-    },
-    {
-      "title": "Where only we know",
-      "artist": "kaenavi",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/185/14560185_20260917105000_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130607"
     }
   ]
 }
