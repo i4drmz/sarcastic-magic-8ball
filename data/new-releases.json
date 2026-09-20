@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-09-20T05:04:06.354Z",
+  "generatedAt": "2026-09-20T11:38:21.499Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Stay",
+      "artist": "LUCY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/204/14565204_20260918124339_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145400"
+    },
+    {
+      "title": "Butterfly",
+      "artist": "스텔라장 (Stella Jang)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/911/14564911_20260918101608_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144293"
+    },
+    {
+      "title": "It's too late",
+      "artist": "#안녕",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/217/14560217_20260917111215_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130709"
+    },
+    {
+      "title": "In a year,",
+      "artist": "순순희(기태)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/763/14547763_20260914141133_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603092968"
+    },
+    {
+      "title": "Focus On You",
+      "artist": "AHOF(아홉)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/867/14565867_20260918152627_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146867"
+    },
+    {
+      "title": "Seize the day",
+      "artist": "브라운티거 밴드",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/210/14565210_20260918124739_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145415"
+    },
+    {
+      "title": "Remaining",
+      "artist": "파란노을 (Parannoul)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/206/14561206_20260917164839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134199"
+    },
+    {
+      "title": "Talk 2 much",
+      "artist": "Rredrain (레드레인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/821/14564821_20260918100235_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144057"
+    },
+    {
+      "title": "I'll be warmer",
+      "artist": "서영은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/836/14556836_20260916114545_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603120503"
+    },
+    {
+      "title": "Love Dust",
+      "artist": "RAVN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/633/14556633_20260916110209_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603119700"
+    },
+    {
+      "title": "High (feat. Coogie)",
+      "artist": "LEY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/627/14565627_20260918143656_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146188"
+    },
     {
       "title": "To My Summer",
       "artist": "크르르",
@@ -235,72 +301,6 @@
       "artist": "안성준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/219/14561219_20260917165228_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603134226"
-    },
-    {
-      "title": "Rain That's You",
-      "artist": "이민관",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/218/14561218_20260917165141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134224"
-    },
-    {
-      "title": "Standing on the street",
-      "artist": "강미희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/189/14561189_20260917163334_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134143"
-    },
-    {
-      "title": "LOVE ME",
-      "artist": "키드킹 (Kidd King)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/198/14561198_20260917164150_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134159"
-    },
-    {
-      "title": "ENOuGH",
-      "artist": "홍중(ATEEZ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/044/14542044_20260911143034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603074260"
-    },
-    {
-      "title": "new trick",
-      "artist": "로제 (ROSÉ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/049/14560049_20260917101340_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130359"
-    },
-    {
-      "title": "chamiseul",
-      "artist": "0WAVE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/679/14561679_20260917181958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603135612"
-    },
-    {
-      "title": "A day when you don't like being alone",
-      "artist": "박창근",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/178/14560178_20260917104645_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130596"
-    },
-    {
-      "title": "Opposite side",
-      "artist": "니브 (NIve)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/177/14560177_20260917104558_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130594"
-    },
-    {
-      "title": "Arribom: It'll pass",
-      "artist": "순순희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/761/14547761_20260914141109_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603092950"
-    },
-    {
-      "title": "feat. AIWA",
-      "artist": "KIRI (키리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/993/14551993_20260915143359_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603105782"
-    },
-    {
-      "title": "Graduation Album",
-      "artist": "용환(YONGHWAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/091/14557091_20260916143749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121480"
     }
   ]
 }
