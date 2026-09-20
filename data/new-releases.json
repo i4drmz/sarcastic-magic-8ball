@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-19T20:51:52.959Z",
+  "generatedAt": "2026-09-20T05:04:06.354Z",
   "count": 50,
   "songs": [
+    {
+      "title": "To My Summer",
+      "artist": "크르르",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/53/130/14553130_20260915173434_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603109535"
+    },
+    {
+      "title": "hope hopelesslove",
+      "artist": "김시원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/318/14560318_20260917113930_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603131094"
+    },
+    {
+      "title": "When I walk",
+      "artist": "Yooin(유인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/138/01/144/13801144_20260918093747_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134591"
+    },
+    {
+      "title": "I have someone who comes to mind suddenly.",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/224/14565224_20260918125244_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145432"
+    },
+    {
+      "title": "Alzheimer's disease",
+      "artist": "필로 (PiLO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/077/14552077_20260915144948_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106349"
+    },
+    {
+      "title": "RED LIGHT",
+      "artist": "Ari(아리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/847/14565847_20260918152357_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146804"
+    },
     {
       "title": "I Heard",
       "artist": "ELO",
@@ -13,6 +49,30 @@
       "artist": "신우(C.NU)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/062/14565062_20260918111015_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603144817"
+    },
+    {
+      "title": "Even if you hide it, cover it",
+      "artist": "노슬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/822/14556822_20260916114054_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603120488"
+    },
+    {
+      "title": "breakfast",
+      "artist": "황윤진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/53/199/14553199_20260915174832_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603110098"
+    },
+    {
+      "title": "City Lights",
+      "artist": "배우리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/354/14560354_20260917120231_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603131182"
+    },
+    {
+      "title": "Play it back",
+      "artist": "khaki",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/683/14560683_20260917135845_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603132051"
     },
     {
       "title": "A heart for one person",
@@ -241,66 +301,6 @@
       "artist": "용환(YONGHWAN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/091/14557091_20260916143749_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603121480"
-    },
-    {
-      "title": "Park Hwa-young",
-      "artist": "하모 (hamo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/672/14556672_20260916111141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603119829"
-    },
-    {
-      "title": "It's YOU",
-      "artist": "이한올 (Hanol)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/48/557/14548557_20260914165841_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603095724"
-    },
-    {
-      "title": "Urrachacha",
-      "artist": "PENTACLE (펜타클)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/113/14557113_20260916150323_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603121604"
-    },
-    {
-      "title": "That it's not too late",
-      "artist": "권의빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/442/14551442_20260915095015_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603103854"
-    },
-    {
-      "title": "Trace",
-      "artist": "이소나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/180/14561180_20260917162939_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134130"
-    },
-    {
-      "title": "Dance",
-      "artist": "조선힙합",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/650/14560650_20260917135334_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603131978"
-    },
-    {
-      "title": "Dalmuti",
-      "artist": "에이체스 (A-Chess)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/176/14560176_20260917104438_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130589"
-    },
-    {
-      "title": "Speak love silently",
-      "artist": "초승 (CHOSNG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/435/14551435_20260915094939_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603103809"
-    },
-    {
-      "title": "Japanese",
-      "artist": "웨더보트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/325/14560325_20260917114649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603131111"
-    },
-    {
-      "title": "feat. Crush",
-      "artist": "에픽하이 (EPIK HIGH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/518/14551518_20260915101948_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603104097"
     }
   ]
 }
