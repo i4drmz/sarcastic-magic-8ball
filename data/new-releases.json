@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-20T20:56:59.465Z",
+  "generatedAt": "2026-09-21T05:09:54.406Z",
   "count": 50,
   "songs": [
+    {
+      "title": "GMF2026 ver.",
+      "artist": "CNBLUE (씨엔블루)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/689/14561689_20260917183749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603135642"
+    },
+    {
+      "title": "You know what?",
+      "artist": "선우정아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/612/14565612_20260918143313_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146162"
+    },
+    {
+      "title": "dear.",
+      "artist": "스트레이 (The Stray)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/278/14566278_20260918172859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603147890"
+    },
+    {
+      "title": "Where are you?",
+      "artist": "강성희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/179/14552179_20260915152849_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106661"
+    },
+    {
+      "title": "I want you to be happy",
+      "artist": "체리베리 (CherryBerry)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/596/14565596_20260918142957_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146142"
+    },
+    {
+      "title": "When your season comes,",
+      "artist": "기니비니",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/083/14565083_20260918111222_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144888"
+    },
     {
       "title": "Stay",
       "artist": "LUCY",
@@ -13,6 +49,72 @@
       "artist": "스텔라장 (Stella Jang)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/911/14564911_20260918101608_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603144293"
+    },
+    {
+      "title": "Just So (feat. Seizetheday)",
+      "artist": "ONDA(온다)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/685/14560685_20260917135946_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603132059"
+    },
+    {
+      "title": "feat. Shane",
+      "artist": "whvts (와츠)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/818/14556818_20260916114042_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603120483"
+    },
+    {
+      "title": "feat. Seungmin",
+      "artist": "Jxxn (진)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/569/14565569_20260918142226_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146061"
+    },
+    {
+      "title": "Peaceful melody",
+      "artist": "갤럭시코퍼레이션",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/211/14565211_20260918124740_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145416"
+    },
+    {
+      "title": "Everybody Get Moving (feat. Kwon Ki-baek, DJ REDEF)",
+      "artist": "Kangwon",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/092/14561092_20260917161159_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603133995"
+    },
+    {
+      "title": "Day by day",
+      "artist": "원은우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/082/14552082_20260915145359_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603106362"
+    },
+    {
+      "title": "Dice",
+      "artist": "NiceKatchy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/648/14565648_20260918144101_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146223"
+    },
+    {
+      "title": "You stayed yesterday",
+      "artist": "이덕구",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/655/14565655_20260918144106_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146243"
+    },
+    {
+      "title": "Somewhere Unknown",
+      "artist": "FIILD",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/604/14565604_20260918143036_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146153"
+    },
+    {
+      "title": "All that's left is fat (porridge)",
+      "artist": "피싱걸스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/735/14557735_20260916173125_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603124215"
+    },
+    {
+      "title": "ONLY NERD",
+      "artist": "현빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/687/14561687_20260917183538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603135629"
     },
     {
       "title": "It's too late",
@@ -199,108 +301,6 @@
       "artist": "손승연",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/321/14560321_20260917114339_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603131106"
-    },
-    {
-      "title": "Same night tonight",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/208/14565208_20260918124450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145406"
-    },
-    {
-      "title": "You're the best",
-      "artist": "YS Block",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/206/14565206_20260918124348_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145403"
-    },
-    {
-      "title": "P's Farewell",
-      "artist": "신현우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/074/14565074_20260918111122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144878"
-    },
-    {
-      "title": "Millennium",
-      "artist": "unofficialboyy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/965/14551965_20260915140553_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603105607"
-    },
-    {
-      "title": "Just before the breakup",
-      "artist": "소란 (SORAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/230/14561230_20260917165659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134295"
-    },
-    {
-      "title": "Called it Love",
-      "artist": "FIFTY FIFTY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/183/14560183_20260917104829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130604"
-    },
-    {
-      "title": "B",
-      "artist": "JISEONG (지성)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/207/14561207_20260917164942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134203"
-    },
-    {
-      "title": "No I don't think so",
-      "artist": "디케이소울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/680/14560680_20260917135822_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603132043"
-    },
-    {
-      "title": "Match",
-      "artist": "누니",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/645/14556645_20260916110354_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603119745"
-    },
-    {
-      "title": "Meeting You (feat. groo)",
-      "artist": "IMOC(이모씨)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/327/14560327_20260917114651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603131114"
-    },
-    {
-      "title": "Erasing you",
-      "artist": "김광준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/747/14565747_20260918150631_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146583"
-    },
-    {
-      "title": "sauganb",
-      "artist": "Paul Blanco",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/251/14549251_20260914183159_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603097491"
-    },
-    {
-      "title": "Open Your Eyes",
-      "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/842/14556842_20260916115311_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603120511"
-    },
-    {
-      "title": "It wasn't until we parted that I knew it was love.",
-      "artist": "이창현 (JD)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/640/14556640_20260916110252_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603119734"
-    },
-    {
-      "title": "Read",
-      "artist": "차유진 (Eugene Cha)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/865/14564865_20260918100649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144163"
-    },
-    {
-      "title": "Even if You Write Poems with Tears (feat. Minho)",
-      "artist": "오태호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/549/14565549_20260918142055_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146016"
-    },
-    {
-      "title": "When",
-      "artist": "안성준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/219/14561219_20260917165228_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134226"
     }
   ]
 }
