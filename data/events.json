@@ -1,10 +1,31 @@
 {
-  "generatedAt": "2026-09-18T20:08:38.662Z",
-  "lastUpdated": "2026-09-18T20:08:38.662Z",
+  "generatedAt": "2026-09-21T11:25:05.218Z",
+  "lastUpdated": "2026-09-21T11:25:05.218Z",
   "sourceSummary": [
+    "soompi",
     "soompi-music"
   ],
   "events": [
+    {
+      "id": "evt-d5d998b9740609f2",
+      "type": "Concert",
+      "title": "Concert “ONE TAKE”",
+      "artist": "EVNNE",
+      "group": "EVNNE",
+      "date": "2026-09-21",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/20201535/evnne_235259.jpeg",
+      "shortDescription": "EVNNE CONCERT COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1872062wpp/evnne-announces-stops-for-2026-27-fan-concert-tour-one-take",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-09-21T11:25:05.218Z"
+    },
     {
       "id": "evt-30adb6f8d5d5c125",
       "type": "Concert",
@@ -23,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-18T20:08:38.662Z"
+      "lastUpdated": "2026-09-21T11:25:05.218Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -43,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-18T20:08:38.662Z"
+      "lastUpdated": "2026-09-21T11:25:05.218Z"
     }
   ]
 }
