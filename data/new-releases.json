@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-09-21T05:09:54.406Z",
+  "generatedAt": "2026-09-21T13:03:35.177Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Boy comics",
+      "artist": "QWER",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/279/14566279_20260918173011_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603147892"
+    },
+    {
+      "title": "EMP",
+      "artist": "EMP (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/277/14566277_20260918172800_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603147886"
+    },
+    {
+      "title": "Heart Stage",
+      "artist": "캐치! 티니핑",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/663/14565663_20260918144243_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146296"
+    },
+    {
+      "title": "It's just you",
+      "artist": "김용빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/215/14565215_20260918124851_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145420"
+    },
+    {
+      "title": "Love game",
+      "artist": "jeebanoff",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/658/14565658_20260918144139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146268"
+    },
+    {
+      "title": "BoY",
+      "artist": "Def.",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/071/14565071_20260918111117_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144870"
+    },
+    {
+      "title": "Huai",
+      "artist": "아우릴고트 (OUREALGOAT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/236/14565236_20260918125716_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145452"
+    },
+    {
+      "title": "It must be foolishness (Feat. E.ul)",
+      "artist": "숨셔",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/790/14560790_20260917142232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603132604"
+    },
+    {
+      "title": "CIRCLE",
+      "artist": "LUNEDI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/697/14560697_20260917140239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603132104"
+    },
+    {
+      "title": "Feat. Kid Wine",
+      "artist": "Skinny Brown",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/684/14565684_20260918144357_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146404"
+    },
+    {
+      "title": "Back to Memories",
+      "artist": "메모리아 (MEMORIA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/606/14565606_20260918143041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146155"
+    },
     {
       "title": "GMF2026 ver.",
       "artist": "CNBLUE (씨엔블루)",
@@ -19,6 +85,12 @@
       "artist": "스트레이 (The Stray)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/278/14566278_20260918172859_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603147890"
+    },
+    {
+      "title": "JUST ME",
+      "artist": "TECH",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/809/14564809_20260918100132_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144030"
     },
     {
       "title": "Where are you?",
@@ -229,78 +301,6 @@
       "artist": "황윤진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/53/199/14553199_20260915174832_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603110098"
-    },
-    {
-      "title": "City Lights",
-      "artist": "배우리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/354/14560354_20260917120231_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603131182"
-    },
-    {
-      "title": "Play it back",
-      "artist": "khaki",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/683/14560683_20260917135845_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603132051"
-    },
-    {
-      "title": "A heart for one person",
-      "artist": "정효빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/639/14556639_20260916110251_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603119732"
-    },
-    {
-      "title": "Lake Pyongnan",
-      "artist": "이진이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/207/14565207_20260918124449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145404"
-    },
-    {
-      "title": "Tee, tee, tee.",
-      "artist": "RŌSIEN(로진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/202/14565202_20260918124238_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145398"
-    },
-    {
-      "title": "2026",
-      "artist": "이기찬",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/048/14552048_20260915144540_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106279"
-    },
-    {
-      "title": "Siren Song",
-      "artist": "ORORA (오로라)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/205/14561205_20260917164742_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134190"
-    },
-    {
-      "title": "READY!",
-      "artist": "권인서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/326/14560326_20260917114650_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603131113"
-    },
-    {
-      "title": "Sunshine",
-      "artist": "Cosmonott(코스모너트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/648/14556648_20260916110446_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603119749"
-    },
-    {
-      "title": "It was everything.",
-      "artist": "서린다인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/324/14560324_20260917114649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603131110"
-    },
-    {
-      "title": "Say Angkor",
-      "artist": "HeMeets",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/53/157/14553157_20260915174118_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603109881"
-    },
-    {
-      "title": "REVIVE",
-      "artist": "손승연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/321/14560321_20260917114339_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603131106"
     }
   ]
 }
