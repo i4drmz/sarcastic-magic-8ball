@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-09-21T11:25:05.218Z",
-  "lastUpdated": "2026-09-21T11:25:05.218Z",
+  "generatedAt": "2026-09-22T10:33:43.538Z",
+  "lastUpdated": "2026-09-22T10:33:43.538Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "nme"
   ],
   "events": [
+    {
+      "id": "evt-a04763bc50aa028c",
+      "type": "Concert",
+      "title": "Tour",
+      "artist": "Nature",
+      "group": "Nature",
+      "date": "2026-09-22",
+      "time": null,
+      "venue": "TBA",
+      "city": "London",
+      "country": "GB",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2026/09/2026_jesusandmarychain_psychedelicfurs_getty_2000x1270.jpg",
+      "shortDescription": "NATURE TOUR COMING UP",
+      "sourceUrl": "https://www.nme.com/news/music/the-jesus-and-mary-chain-and-the-psychedelic-furs-announce-2027-uk-co-headline-tour-3970116?utm_source=rss&utm_medium=rss&utm_campaign=the-jesus-and-mary-chain-and-the-psychedelic-furs-announce-2027-uk-co-headline-tour",
+      "ticketUrl": null,
+      "source": "rss:nme",
+      "lastUpdated": "2026-09-22T10:33:43.538Z"
+    },
     {
       "id": "evt-d5d998b9740609f2",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1872062wpp/evnne-announces-stops-for-2026-27-fan-concert-tour-one-take",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-21T11:25:05.218Z"
+      "lastUpdated": "2026-09-22T10:33:43.538Z"
     },
     {
       "id": "evt-30adb6f8d5d5c125",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869018wpp/nexz-announces-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-21T11:25:05.218Z"
+      "lastUpdated": "2026-09-22T10:33:43.538Z"
     },
     {
       "id": "evt-7fff47f536324cc6",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1869014wpp/evnne-announces-october-comeback-and-new-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-21T11:25:05.218Z"
+      "lastUpdated": "2026-09-22T10:33:43.538Z"
     }
   ]
 }
