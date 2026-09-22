@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-09-22T05:11:24.162Z",
+  "generatedAt": "2026-09-22T11:53:22.307Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Wacka Wak",
+      "artist": "태용 (TAEYONG)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/277/14572277_20260921171427_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165768"
+    },
+    {
+      "title": "2027",
+      "artist": "Fleeky Bang",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/288/14572288_20260921171851_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165796"
+    },
+    {
+      "title": "Monster",
+      "artist": "WE GO-6",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/642/14571642_20260921152544_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603163894"
+    },
+    {
+      "title": "Shadows",
+      "artist": "오왠 (O.WHEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/221/14565221_20260918125210_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145428"
+    },
+    {
+      "title": "Juliet",
+      "artist": "eldon",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/498/14571498_20260921144911_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603163244"
+    },
+    {
+      "title": "Twist",
+      "artist": "주영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/646/14556646_20260916110358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603119746"
+    },
+    {
+      "title": "Haze (Jeong Seon-hye, Gianna, Doeun)",
+      "artist": "영파씨 (YOUNG POSSE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/820/14571820_20260921153853_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603164183"
+    },
+    {
+      "title": "Reminds me of candy",
+      "artist": "원진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/246/14572246_20260921170542_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165674"
+    },
+    {
+      "title": "Focus on Me",
+      "artist": "샤넌 배 (Shannon Bae)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/961/14570961_20260921103714_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161445"
+    },
+    {
+      "title": "Rum Summer",
+      "artist": "권소정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/045/14566045_20260918154831_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603147347"
+    },
+    {
+      "title": "Mindburn ()",
+      "artist": "위도",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/048/14566048_20260918154927_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603147352"
+    },
+    {
+      "title": "NULL.",
+      "artist": "B JYUN.",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/600/14561600_20260917180917_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603135496"
+    },
+    {
+      "title": "To my deficiencies",
+      "artist": "백색소음",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/840/14564840_20260918100410_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144088"
+    },
     {
       "title": "Hollow in Disguise",
       "artist": "장수빈",
@@ -129,12 +207,6 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603130640"
     },
     {
-      "title": "Heart Stage",
-      "artist": "캐치! 티니핑",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/663/14565663_20260918144243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146296"
-    },
-    {
       "title": "It's just you",
       "artist": "김용빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/215/14565215_20260918124851_500.jpg",
@@ -177,7 +249,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603146404"
     },
     {
-      "title": "Dasi Gieok Sogeuro",
+      "title": "Back to Memories",
       "artist": "메모리아 (MEMORIA)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/606/14565606_20260918143041_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603146155"
@@ -229,78 +301,6 @@
       "artist": "LUCY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/204/14565204_20260918124339_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603145400"
-    },
-    {
-      "title": "Butterfly",
-      "artist": "스텔라장 (Stella Jang)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/911/14564911_20260918101608_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144293"
-    },
-    {
-      "title": "Just So (feat. Seizetheday)",
-      "artist": "ONDA(온다)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/685/14560685_20260917135946_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603132059"
-    },
-    {
-      "title": "feat. Shane",
-      "artist": "whvts (와츠)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/818/14556818_20260916114042_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603120483"
-    },
-    {
-      "title": "feat. Seungmin",
-      "artist": "Jxxn (진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/569/14565569_20260918142226_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146061"
-    },
-    {
-      "title": "Peaceful melody",
-      "artist": "갤럭시코퍼레이션",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/211/14565211_20260918124740_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145416"
-    },
-    {
-      "title": "Everybody Get Moving (feat. Kwon Ki-baek, DJ REDEF)",
-      "artist": "Kangwon",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/092/14561092_20260917161159_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603133995"
-    },
-    {
-      "title": "Day by day",
-      "artist": "원은우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/082/14552082_20260915145359_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106362"
-    },
-    {
-      "title": "Dice",
-      "artist": "NiceKatchy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/648/14565648_20260918144101_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146223"
-    },
-    {
-      "title": "You stayed yesterday",
-      "artist": "이덕구",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/655/14565655_20260918144106_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146243"
-    },
-    {
-      "title": "Somewhere Unknown",
-      "artist": "FIILD",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/604/14565604_20260918143036_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146153"
-    },
-    {
-      "title": "All that's left is fat (porridge)",
-      "artist": "피싱걸스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/735/14557735_20260916173125_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603124215"
-    },
-    {
-      "title": "ONLY NERD",
-      "artist": "현빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/687/14561687_20260917183538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603135629"
     }
   ]
 }
