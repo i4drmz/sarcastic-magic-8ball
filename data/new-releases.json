@@ -1,12 +1,144 @@
 {
-  "generatedAt": "2026-09-22T21:30:40.706Z",
+  "generatedAt": "2026-09-23T04:55:23.994Z",
   "count": 50,
   "songs": [
+    {
+      "title": "CAN′T KILL ME",
+      "artist": "BAILEY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/157/14571157_20260921115622_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162067"
+    },
+    {
+      "title": "Aswiwo (Feat. Minjiun)",
+      "artist": "PATEKO (파테코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/004/14549004_20260914175837_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603096822"
+    },
+    {
+      "title": "Moonlight",
+      "artist": "GHOST9(고스트나인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/170/14572170_20260921163401_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165217"
+    },
+    {
+      "title": "Seulpeun Biga Tto Naerigo",
+      "artist": "수소진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/254/14571254_20260921125238_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162423"
+    },
+    {
+      "title": "Parangui Hiroin",
+      "artist": "김마리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/174/14549174_20260914181203_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603097318"
+    },
+    {
+      "title": "Live in Stradium 1",
+      "artist": "윤한",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/250/14571250_20260921124338_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162409"
+    },
+    {
+      "title": "Truth is",
+      "artist": "루피 (Loopy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/367/14571367_20260921134649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162654"
+    },
+    {
+      "title": "Explicit Ver.",
+      "artist": "Lil Cherry",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/250/14560250_20260917112139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130854"
+    },
     {
       "title": "Wacka Wak",
       "artist": "태용 (TAEYONG)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/277/14572277_20260921171427_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603165768"
+    },
+    {
+      "title": "Go On",
+      "artist": "Grabber",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/200/14560200_20260917105508_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130647"
+    },
+    {
+      "title": "Price Of Dreams",
+      "artist": "GUMX (검엑스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/514/14542514_20260911173422_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603076314"
+    },
+    {
+      "title": "Feat. Oh Yun",
+      "artist": "뎁트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/198/14571198_20260921120757_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162225"
+    },
+    {
+      "title": "Paint Your Love",
+      "artist": "지아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/186/14571186_20260921120549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162206"
+    },
+    {
+      "title": "Nan Neul Geudaeyeotjyo",
+      "artist": "0018",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/769/14560769_20260917141639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603132523"
+    },
+    {
+      "title": "Namgyeojin Geotdeul",
+      "artist": "굿나잇스탠드",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/272/14571272_20260921130538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162470"
+    },
+    {
+      "title": "FIREWORKS",
+      "artist": "UX1 (유엑스원)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/149/14571149_20260921115252_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162056"
+    },
+    {
+      "title": "Sorry",
+      "artist": "Blueday",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/991/14570991_20260921104807_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161495"
+    },
+    {
+      "title": "Meoreojineun Neo",
+      "artist": "타르트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/122/14571122_20260921112900_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161994"
+    },
+    {
+      "title": "Eotteoke Sarangeun Ireon Gayo",
+      "artist": "이동윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/146/14571146_20260921115151_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162052"
+    },
+    {
+      "title": "Geudaewa Naui Gaeureun",
+      "artist": "조은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/161/14571161_20260921115727_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162108"
+    },
+    {
+      "title": "Repair Ver.",
+      "artist": "바겐바이러스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/372/14572372_20260921174801_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603166048"
+    },
+    {
+      "title": "Seuchyeo Jinagal Saramira Saenggakaetdeon Neoyeonneunde",
+      "artist": "안솔희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/813/14560813_20260917142851_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603132628"
+    },
+    {
+      "title": "Deonjyeobeoryeo (feat. Jiyeonu)",
+      "artist": "KiMMi (킴미)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/249/14571249_20260921124318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162408"
     },
     {
       "title": "2027",
@@ -21,7 +153,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603163894"
     },
     {
-      "title": "Shadows",
+      "title": "Geurimja",
       "artist": "오왠 (O.WHEN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/221/14565221_20260918125210_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603145428"
@@ -39,13 +171,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603119746"
     },
     {
-      "title": "Haze (Jeong Seon-hye, Gianna, Doeun)",
+      "title": "Haze (jeongseonhye, Jiana, Doeun)",
       "artist": "영파씨 (YOUNG POSSE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/820/14571820_20260921153853_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603164183"
     },
     {
-      "title": "Reminds me of candy",
+      "title": "Kaendiga Saenggangna",
       "artist": "원진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/246/14572246_20260921170542_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603165674"
@@ -63,7 +195,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603147347"
     },
     {
-      "title": "Mindburn ()",
+      "title": "Maeumbyeot (憬)",
       "artist": "위도",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/048/14566048_20260918154927_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603147352"
@@ -75,7 +207,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603135496"
     },
     {
-      "title": "To my deficiencies",
+      "title": "Naui Gyeolpipdeurege",
       "artist": "백색소음",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/840/14564840_20260918100410_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603144088"
@@ -87,19 +219,19 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603147161"
     },
     {
-      "title": "Bunker Night (Webtoon Bunker Day OST X Kim Pil-sun)",
+      "title": "Beongkeoui Bam (weptun Beongkeoui Nat OST X Gimpilseon)",
       "artist": "김필선",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/130/14571130_20260921113407_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162017"
     },
     {
-      "title": "The Adventures of Pinocchio",
+      "title": "Pinokio",
       "artist": "2BIC(투빅)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/041/14566041_20260918154700_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603147339"
     },
     {
-      "title": "010- Give me a call when I need it (Feat. Hamo)",
+      "title": "010-Pillyohalttae-Jeonhwajwoyo (Feat. Hamo (hamo))",
       "artist": "앨리스유",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/256/14571256_20260921125750_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162430"
@@ -111,13 +243,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603135471"
     },
     {
-      "title": "Did I love you?",
+      "title": "Saranghagin Haennayo",
       "artist": "최도영(CANDO)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/691/14560691_20260917140059_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603132093"
     },
     {
-      "title": "Boy comics",
+      "title": "Sonyeonmanhwa",
       "artist": "QWER",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/279/14566279_20260918173011_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603147892"
@@ -147,13 +279,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603147585"
     },
     {
-      "title": "haori",
+      "title": "Joeun Nal",
       "artist": "치아크",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/950/14570950_20260921103342_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603161432"
     },
     {
-      "title": "Ask for Happiness (With Namga-Hyun)",
+      "title": "Haengbogeul Mureoyo (With Namgahyeon)",
       "artist": "정진(Jeongjin)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/489/14571489_20260921144538_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603163170"
@@ -169,138 +301,6 @@
       "artist": "Brick (브릭)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/57/592/14557592_20260916165710_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603123632"
-    },
-    {
-      "title": "Nerdlove",
-      "artist": "IRO(아이로)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/51/811/14551811_20260915122711_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603104980"
-    },
-    {
-      "title": "feat. Jh4y",
-      "artist": "CHAD BURGER",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/259/14571259_20260921130208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162445"
-    },
-    {
-      "title": "Prod. 4MAKERS",
-      "artist": "본하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/978/14570978_20260921104532_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161472"
-    },
-    {
-      "title": "Adding you",
-      "artist": "Wool",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/030/14566030_20260918154229_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603147248"
-    },
-    {
-      "title": "Make Smile",
-      "artist": "The Ska Jazz Unit",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/118/14566118_20260918160649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603147528"
-    },
-    {
-      "title": "Feel the shame",
-      "artist": "Vapo (허원혁)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/195/14560195_20260917105333_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130640"
-    },
-    {
-      "title": "It's just you",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/215/14565215_20260918124851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145420"
-    },
-    {
-      "title": "Love game",
-      "artist": "jeebanoff",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/658/14565658_20260918144139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146268"
-    },
-    {
-      "title": "BoY",
-      "artist": "Def.",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/071/14565071_20260918111117_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144870"
-    },
-    {
-      "title": "Huai",
-      "artist": "아우릴고트 (OUREALGOAT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/236/14565236_20260918125716_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145452"
-    },
-    {
-      "title": "It must be foolishness (Feat. E.ul)",
-      "artist": "숨셔",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/790/14560790_20260917142232_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603132604"
-    },
-    {
-      "title": "CIRCLE",
-      "artist": "LUNEDI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/697/14560697_20260917140239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603132104"
-    },
-    {
-      "title": "Feat. Kid Wine",
-      "artist": "Skinny Brown",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/684/14565684_20260918144357_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146404"
-    },
-    {
-      "title": "Back to Memories",
-      "artist": "메모리아 (MEMORIA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/606/14565606_20260918143041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146155"
-    },
-    {
-      "title": "GMF2026 ver.",
-      "artist": "CNBLUE (씨엔블루)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/689/14561689_20260917183749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603135642"
-    },
-    {
-      "title": "You know what?",
-      "artist": "선우정아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/612/14565612_20260918143313_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146162"
-    },
-    {
-      "title": "dear.",
-      "artist": "스트레이 (The Stray)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/278/14566278_20260918172859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603147890"
-    },
-    {
-      "title": "JUST ME",
-      "artist": "TECH",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/809/14564809_20260918100132_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144030"
-    },
-    {
-      "title": "Where are you?",
-      "artist": "강성희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/52/179/14552179_20260915152849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603106661"
-    },
-    {
-      "title": "I want you to be happy",
-      "artist": "체리베리 (CherryBerry)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/596/14565596_20260918142957_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146142"
-    },
-    {
-      "title": "When your season comes,",
-      "artist": "기니비니",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/083/14565083_20260918111222_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144888"
-    },
-    {
-      "title": "Stay",
-      "artist": "LUCY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/204/14565204_20260918124339_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145400"
     }
   ]
 }
