@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-09-23T02:23:09.660Z",
-  "lastUpdated": "2026-09-23T02:23:09.660Z",
+  "generatedAt": "2026-09-23T10:27:22.823Z",
+  "lastUpdated": "2026-09-23T10:27:22.823Z",
   "sourceSummary": [
     "soompi",
-    "allkpop"
+    "allkpop",
+    "nme"
   ],
   "events": [
+    {
+      "id": "evt-ff21739e00d65816",
+      "type": "Concert",
+      "title": "Concert “NieR”",
+      "artist": "‘NieR’ orchestral concert",
+      "group": "‘NieR’ orchestral concert",
+      "date": "2026-09-23",
+      "time": null,
+      "venue": "TBA",
+      "city": "Tokyo",
+      "country": "JP",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2026/03/nier2026_keyart.jpg",
+      "shortDescription": "‘NIER’ ORCHESTRAL CONCERT CONCERT COMING UP",
+      "sourceUrl": "https://www.nme.com/news/gaming-news/nier-orchestral-concert-2027-uk-dates-london-tickets-3970315?utm_source=rss&utm_medium=rss&utm_campaign=nier-orchestral-concert-2027-uk-dates-london-tickets",
+      "ticketUrl": null,
+      "source": "rss:nme",
+      "lastUpdated": "2026-09-23T10:27:22.823Z"
+    },
     {
       "id": "evt-b43798750769c9f8",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/son-seung-yeon-to-hold-fan-concert-highlight-in-november",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-23T02:23:09.660Z"
+      "lastUpdated": "2026-09-23T10:27:22.823Z"
     },
     {
       "id": "evt-d5d998b9740609f2",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1872062wpp/evnne-announces-stops-for-2026-27-fan-concert-tour-one-take",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-23T02:23:09.660Z"
+      "lastUpdated": "2026-09-23T10:27:22.823Z"
     }
   ]
 }
