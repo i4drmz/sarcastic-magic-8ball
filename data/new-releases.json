@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-23T21:37:10.619Z",
+  "generatedAt": "2026-09-24T05:05:38.348Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Like age",
+      "artist": "LO VOLF",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/251/14571251_20260921124428_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162412"
+    },
+    {
+      "title": "More than I remembered yesterday",
+      "artist": "이진석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/852/14571852_20260921155243_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603164305"
+    },
+    {
+      "title": "1 Minute 1 Second (Feat. OUREALGOAT)",
+      "artist": "Tmlm",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/955/14570955_20260921103442_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161439"
+    },
+    {
+      "title": "lookalike woman",
+      "artist": "DYMIN (다이민)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/783/14547783_20260914141250_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603093067"
+    },
+    {
+      "title": "Parallel",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/245/14571245_20260921121950_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162374"
+    },
+    {
+      "title": "Dubai",
+      "artist": "24 Flakko",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/863/14571863_20260921155846_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603164343"
+    },
     {
       "title": "Mist path",
       "artist": "박보검",
@@ -13,6 +49,24 @@
       "artist": "원어스 (ONEUS)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/255/14571255_20260921125349_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162426"
+    },
+    {
+      "title": "Night Dance",
+      "artist": "에메랄드 캐슬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/145/14571145_20260921115051_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162050"
+    },
+    {
+      "title": "As if he had made a promise like this",
+      "artist": "이윤희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/245/14572245_20260921170248_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165672"
+    },
+    {
+      "title": "scarecrow",
+      "artist": "심플페이지 (Simple Pages)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/017/14571017_20260921105041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161591"
     },
     {
       "title": "Journey of Dreaming",
@@ -43,6 +97,30 @@
       "artist": "aespa",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/253/14571253_20260921125149_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162420"
+    },
+    {
+      "title": "In love, there is love",
+      "artist": "문희원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/313/14571313_20260921132350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162525"
+    },
+    {
+      "title": "SNS LOVE",
+      "artist": "탁선영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/41/863/14541863_20260911123031_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603073602"
+    },
+    {
+      "title": "Crossroads",
+      "artist": "Moashy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/383/14571383_20260921140941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162693"
+    },
+    {
+      "title": "A Cold Night in September",
+      "artist": "양하진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/192/14572192_20260921164029_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165488"
     },
     {
       "title": "feat. Ash Island, Gist",
@@ -223,84 +301,6 @@
       "artist": "안솔희",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/813/14560813_20260917142851_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603132628"
-    },
-    {
-      "title": "Throw It Away (feat. Delinquency)",
-      "artist": "KiMMi (킴미)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/249/14571249_20260921124318_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162408"
-    },
-    {
-      "title": "2027",
-      "artist": "Fleeky Bang",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/288/14572288_20260921171851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165796"
-    },
-    {
-      "title": "Monster",
-      "artist": "WE GO-6",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/642/14571642_20260921152544_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603163894"
-    },
-    {
-      "title": "Shadows",
-      "artist": "오왠 (O.WHEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/221/14565221_20260918125210_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145428"
-    },
-    {
-      "title": "Juliet",
-      "artist": "eldon",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/498/14571498_20260921144911_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603163244"
-    },
-    {
-      "title": "Twist",
-      "artist": "주영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/56/646/14556646_20260916110358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603119746"
-    },
-    {
-      "title": "Haze (Jeong Seon-hye, Gianna, Doeun)",
-      "artist": "영파씨 (YOUNG POSSE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/820/14571820_20260921153853_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603164183"
-    },
-    {
-      "title": "Reminds me of candy",
-      "artist": "원진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/246/14572246_20260921170542_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165674"
-    },
-    {
-      "title": "Focus on Me",
-      "artist": "샤넌 배 (Shannon Bae)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/961/14570961_20260921103714_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161445"
-    },
-    {
-      "title": "Rum Summer",
-      "artist": "권소정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/045/14566045_20260918154831_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603147347"
-    },
-    {
-      "title": "Mindburn ()",
-      "artist": "위도",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/66/048/14566048_20260918154927_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603147352"
-    },
-    {
-      "title": "NULL.",
-      "artist": "B JYUN.",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/600/14561600_20260917180917_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603135496"
-    },
-    {
-      "title": "To my deficiencies",
-      "artist": "백색소음",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/840/14564840_20260918100410_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144088"
     }
   ]
 }
