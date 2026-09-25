@@ -1,12 +1,66 @@
 {
-  "generatedAt": "2026-09-24T21:37:57.728Z",
+  "generatedAt": "2026-09-25T05:08:12.768Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Talk 2 much",
+      "artist": "Rredrain (레드레인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/520/14575520_20260922104939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174156"
+    },
+    {
+      "title": "Monster",
+      "artist": "PYMEL (파이멜)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/193/14572193_20260921164137_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165490"
+    },
+    {
+      "title": "TSSJ",
+      "artist": "틈새시장(TSSJ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/516/14575516_20260922104536_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174136"
+    },
+    {
+      "title": "Your Rain",
+      "artist": "이정아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/278/14572278_20260921171429_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165770"
+    },
+    {
+      "title": "Love Love Don't even try to forget love",
+      "artist": "지세희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/191/14571191_20260921120558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162213"
+    },
     {
       "title": "Twilight",
       "artist": "에스파파(S.Papa.)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/855/14571855_20260921155446_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603164314"
+    },
+    {
+      "title": "Bapi",
+      "artist": "AHORA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/971/14564971_20260918102744_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144469"
+    },
+    {
+      "title": "Fall Afternoon",
+      "artist": "성해빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/022/14571022_20260921105205_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161626"
+    },
+    {
+      "title": "Your Ocean",
+      "artist": "권그린 (GREENY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/514/14575514_20260922104518_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174130"
+    },
+    {
+      "title": "The things that grew up past you",
+      "artist": "유호 (YOO HO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/789/14547789_20260914141522_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603093107"
     },
     {
       "title": "Like the remaining temperature",
@@ -31,6 +85,30 @@
       "artist": "wnsday",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/272/14561272_20260921183258_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603134448"
+    },
+    {
+      "title": "It's a Mess (Feat. Silence, Yee Chan Chang)",
+      "artist": "wurii (우리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/343/14571343_20260921133859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162578"
+    },
+    {
+      "title": "The end of the story, our beginning",
+      "artist": "혜성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/240/14571240_20260921121737_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162359"
+    },
+    {
+      "title": "love you.",
+      "artist": "프리멜로",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/691/14565691_20260918144538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603146443"
+    },
+    {
+      "title": "DEEP DIVE",
+      "artist": "JUNHEE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/227/14576227_20260922155804_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603175935"
     },
     {
       "title": "On the day we loved",
@@ -223,84 +301,6 @@
       "artist": "PATEKO (파테코)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/004/14549004_20260914175837_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603096822"
-    },
-    {
-      "title": "Moonlight",
-      "artist": "GHOST9(고스트나인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/170/14572170_20260921163401_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165217"
-    },
-    {
-      "title": "Another sad rain.",
-      "artist": "수소진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/254/14571254_20260921125238_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162423"
-    },
-    {
-      "title": "Blue Heroin",
-      "artist": "김마리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/174/14549174_20260914181203_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603097318"
-    },
-    {
-      "title": "Live in Stradium 1",
-      "artist": "윤한",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/250/14571250_20260921124338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162409"
-    },
-    {
-      "title": "Truth is",
-      "artist": "루피 (Loopy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/367/14571367_20260921134649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162654"
-    },
-    {
-      "title": "Explicit Ver.",
-      "artist": "Lil Cherry",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/250/14560250_20260917112139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130854"
-    },
-    {
-      "title": "Wacka Wak",
-      "artist": "태용 (TAEYONG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/277/14572277_20260921171427_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165768"
-    },
-    {
-      "title": "Go On",
-      "artist": "Grabber",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/200/14560200_20260917105508_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130647"
-    },
-    {
-      "title": "Price Of Dreams",
-      "artist": "GUMX (검엑스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/42/514/14542514_20260911173422_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603076314"
-    },
-    {
-      "title": "Feat. Oh Yun",
-      "artist": "뎁트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/198/14571198_20260921120757_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162225"
-    },
-    {
-      "title": "Paint Your Love",
-      "artist": "지아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/186/14571186_20260921120549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162206"
-    },
-    {
-      "title": "I've always been you.",
-      "artist": "0018",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/769/14560769_20260917141639_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603132523"
-    },
-    {
-      "title": "What's left behind",
-      "artist": "굿나잇스탠드",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/272/14571272_20260921130538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162470"
     }
   ]
 }
