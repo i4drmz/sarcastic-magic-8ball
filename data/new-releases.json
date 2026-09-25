@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-09-25T05:08:12.768Z",
+  "generatedAt": "2026-09-25T12:00:49.445Z",
   "count": 50,
   "songs": [
+    {
+      "title": "SAVE!",
+      "artist": "Miiro (미로)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/375/14576375_20260922162209_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603176531"
+    },
+    {
+      "title": "Destination",
+      "artist": "준 (JUNE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/525/14575525_20260922105441_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174171"
+    },
+    {
+      "title": "feat. Choo",
+      "artist": "nineorzero (나인올제로)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/404/14575404_20260922101829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603173704"
+    },
+    {
+      "title": "From the moment I sent you",
+      "artist": "이보람",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/527/14575527_20260922105450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174175"
+    },
+    {
+      "title": "Summer log",
+      "artist": "원준 (엘라스트 (E'LAST)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/192/14571192_20260921120600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162215"
+    },
+    {
+      "title": "EHERADIYA",
+      "artist": "심소정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/374/14572374_20260921174901_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603166051"
+    },
+    {
+      "title": "I don't know",
+      "artist": "무드 (Mood)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/273/14576273_20260922160444_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603176112"
+    },
     {
       "title": "Talk 2 much",
       "artist": "Rredrain (레드레인)",
@@ -259,48 +301,6 @@
       "artist": "NC.A",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/176/14571176_20260921120036_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162178"
-    },
-    {
-      "title": "GO WITH THE FLOW",
-      "artist": "아넌딜라이트(Anandelight)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/279/14571279_20260921130720_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162479"
-    },
-    {
-      "title": "One is enough for you",
-      "artist": "냥아치",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/121/14571121_20260921112849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161992"
-    },
-    {
-      "title": "Things that will all disappear",
-      "artist": "성재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/954/14570954_20260921103442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161438"
-    },
-    {
-      "title": "You have to hold me",
-      "artist": "최다승",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/181/14571181_20260921120137_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162192"
-    },
-    {
-      "title": "23 (feat. Kim Sang-min He dares to be called a legend)",
-      "artist": "YC",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/965/14570965_20260921103846_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161453"
-    },
-    {
-      "title": "CAN′T KILL ME",
-      "artist": "BAILEY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/157/14571157_20260921115622_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162067"
-    },
-    {
-      "title": "Feat. Min Ji-woon",
-      "artist": "PATEKO (파테코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/49/004/14549004_20260914175837_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603096822"
     }
   ]
 }
