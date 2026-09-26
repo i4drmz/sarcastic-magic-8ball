@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-26T02:31:07.210Z",
-  "lastUpdated": "2026-09-26T02:31:07.210Z",
+  "generatedAt": "2026-09-26T10:29:51.346Z",
+  "lastUpdated": "2026-09-26T10:29:51.346Z",
   "sourceSummary": [
+    "soompi",
     "allkpop"
   ],
   "events": [
@@ -23,7 +24,27 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/tomorrow-x-together-and-member-yeonjun-set-to-perform-at-us-year-end-2026-iheartradio-jingle-ball-tour-for-the-first-time",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-26T02:31:07.210Z"
+      "lastUpdated": "2026-09-26T10:29:51.346Z"
+    },
+    {
+      "id": "evt-e5f3f980b2e9cfdd",
+      "type": "Concert",
+      "title": "Tour",
+      "artist": "XLOV",
+      "group": "XLOV",
+      "date": "2026-09-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/09/25201043/XLOV.jpeg",
+      "shortDescription": "XLOV TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-09-26T10:29:51.346Z"
     }
   ]
 }
