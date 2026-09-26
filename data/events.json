@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-09-24T02:11:08.449Z",
-  "lastUpdated": "2026-09-24T02:11:08.449Z",
-  "sourceSummary": [],
-  "events": []
+  "generatedAt": "2026-09-26T02:31:07.210Z",
+  "lastUpdated": "2026-09-26T02:31:07.210Z",
+  "sourceSummary": [
+    "allkpop"
+  ],
+  "events": [
+    {
+      "id": "evt-7b2131cdb9696ede",
+      "type": "Concert",
+      "title": "TOMORROW X TOGETHER and member Yeonjun set to perform at U.S. year-end '2026 iHeartRadio Jingle Ball Tour' for the first time",
+      "artist": null,
+      "group": null,
+      "date": "2026-09-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "Group TOMORROW X TOGETHER and member Yeonjun will make their first appearance at the major U.S. year-end music festival, the '2026 iHeartRadio Jingle Ball Tour'. On September 25th (local time), major U.S. media group iHeartMedia revealed…",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/tomorrow-x-together-and-member-yeonjun-set-to-perform-at-us-year-end-2026-iheartradio-jingle-ball-tour-for-the-first-time",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-26T02:31:07.210Z"
+    }
+  ]
 }
