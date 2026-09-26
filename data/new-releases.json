@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-09-26T05:11:40.346Z",
+  "generatedAt": "2026-09-26T11:36:14.787Z",
   "count": 50,
   "songs": [
+    {
+      "title": "I want to be free",
+      "artist": "김필",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/576/14575576_20260922112146_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174308"
+    },
+    {
+      "title": "mooky",
+      "artist": "Lov3rboi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/227/14565227_20260918125412_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603145437"
+    },
+    {
+      "title": "Afterlight",
+      "artist": "정민성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/405/14575405_20260922101831_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603173705"
+    },
+    {
+      "title": "Saying it's your first love",
+      "artist": "이야",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/185/14576185_20260922151951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603175845"
+    },
+    {
+      "title": "So you..",
+      "artist": "이아영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/573/14575573_20260922112043_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174304"
+    },
+    {
+      "title": "INCEPTION",
+      "artist": "엔카이브 (NCHIVE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/252/14571252_20260921124829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162414"
+    },
+    {
+      "title": "Rerecorded",
+      "artist": "몬스타엑스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/401/14575401_20260922101651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603173694"
+    },
+    {
+      "title": "Draw us from a long time ago",
+      "artist": "배그나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/153/14572153_20260921163215_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165179"
+    },
+    {
+      "title": "That's how we",
+      "artist": "김우도",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/357/14571357_20260921134235_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162623"
+    },
     {
       "title": "Joke",
       "artist": "로쿠 (roku)",
@@ -247,60 +301,6 @@
       "artist": "진진경 (真真敬)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/245/14571245_20260921121950_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162374"
-    },
-    {
-      "title": "Dubai",
-      "artist": "24 Flakko",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/863/14571863_20260921155846_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603164343"
-    },
-    {
-      "title": "Mist path",
-      "artist": "박보검",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/177/14572177_20260921163519_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165289"
-    },
-    {
-      "title": "Say Yes!",
-      "artist": "원어스 (ONEUS)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/255/14571255_20260921125349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162426"
-    },
-    {
-      "title": "Night Dance",
-      "artist": "에메랄드 캐슬",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/145/14571145_20260921115051_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162050"
-    },
-    {
-      "title": "As if he had made a promise like this",
-      "artist": "이윤희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/245/14572245_20260921170248_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165672"
-    },
-    {
-      "title": "scarecrow",
-      "artist": "심플페이지 (Simple Pages)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/017/14571017_20260921105041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161591"
-    },
-    {
-      "title": "Journey of Dreaming",
-      "artist": "이진아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/232/14565232_20260918125603_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145444"
-    },
-    {
-      "title": "Milky Way",
-      "artist": "UNIS(유니스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/307/14571307_20260921131745_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162518"
-    },
-    {
-      "title": "Are we lovers",
-      "artist": "16",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/208/14571208_20260921120905_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162265"
     }
   ]
 }
