@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-26T21:19:31.685Z",
+  "generatedAt": "2026-09-27T05:28:59.547Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Wind",
+      "artist": "jisokuryClub",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/244/14571244_20260921121941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162367"
+    },
+    {
+      "title": "feat. Sound Kim",
+      "artist": "정바스 (J.BASS)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/232/14576232_20260922155855_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603175951"
+    },
+    {
+      "title": "demo",
+      "artist": "태비 (Taeb2)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/597/14575597_20260922112813_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174359"
+    },
+    {
+      "title": "Ending credits",
+      "artist": "주예인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/588/14575588_20260922112548_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174339"
+    },
+    {
+      "title": "Stay (Feat. Aira of Haeroiki)",
+      "artist": "온별",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/459/14577459_20260922175639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603179969"
+    },
+    {
+      "title": "v",
+      "artist": "prettylittleiris",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/586/14575586_20260922112450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174337"
+    },
     {
       "title": "I want to be free",
       "artist": "김필",
@@ -13,6 +49,18 @@
       "artist": "Lov3rboi",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/227/14565227_20260918125412_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603145437"
+    },
+    {
+      "title": "Youth comics",
+      "artist": "432Hz",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/408/14576408_20260922162517_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603176622"
+    },
+    {
+      "title": "If you could carry me to the end of the wind",
+      "artist": "유오 (UO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/583/14575583_20260922112347_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174325"
     },
     {
       "title": "Afterlight",
@@ -31,6 +79,18 @@
       "artist": "이아영",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/573/14575573_20260922112043_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603174304"
+    },
+    {
+      "title": "Long hug",
+      "artist": "Muhwa (무화)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/039/14571039_20260921105342_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161689"
+    },
+    {
+      "title": "Love field, laughter flower",
+      "artist": "녹녹",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/141/14572141_20260921163058_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165131"
     },
     {
       "title": "INCEPTION",
@@ -241,66 +301,6 @@
       "artist": "wurii (우리)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/343/14571343_20260921133859_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162578"
-    },
-    {
-      "title": "The end of the story, our beginning",
-      "artist": "혜성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/240/14571240_20260921121737_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162359"
-    },
-    {
-      "title": "love you.",
-      "artist": "프리멜로",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/691/14565691_20260918144538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603146443"
-    },
-    {
-      "title": "DEEP DIVE",
-      "artist": "JUNHEE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/227/14576227_20260922155804_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603175935"
-    },
-    {
-      "title": "On the day we loved",
-      "artist": "Blin (블린)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/247/14572247_20260921170743_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165675"
-    },
-    {
-      "title": "All For You",
-      "artist": "혜나(HENA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/861/14571861_20260921155648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603164340"
-    },
-    {
-      "title": "Like age",
-      "artist": "LO VOLF",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/251/14571251_20260921124428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162412"
-    },
-    {
-      "title": "More than I remembered yesterday",
-      "artist": "이진석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/852/14571852_20260921155243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603164305"
-    },
-    {
-      "title": "1 Minute 1 Second (Feat. OUREALGOAT)",
-      "artist": "Tmlm",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/70/955/14570955_20260921103442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161439"
-    },
-    {
-      "title": "lookalike woman",
-      "artist": "DYMIN (다이민)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/783/14547783_20260914141250_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603093067"
-    },
-    {
-      "title": "Parallel",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/245/14571245_20260921121950_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162374"
     }
   ]
 }
