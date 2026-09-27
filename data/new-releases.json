@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-09-27T05:28:59.547Z",
+  "generatedAt": "2026-09-27T12:15:06.547Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Hello",
+      "artist": "레이 (IVE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/534/14575534_20260922110059_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174194"
+    },
+    {
+      "title": "I'm Regretting It (Feat. Full-time)",
+      "artist": "에이치코드 (H:CODE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/276/14561276_20260917170341_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603134475"
+    },
+    {
+      "title": "Narago",
+      "artist": "경서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/528/14575528_20260922105451_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174177"
+    },
+    {
+      "title": "Breakup Behavior",
+      "artist": "차가을",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/602/14575602_20260922112903_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174364"
+    },
+    {
+      "title": "Where the light dwells",
+      "artist": "재연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/607/14575607_20260922113005_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174369"
+    },
+    {
+      "title": "2026",
+      "artist": "이지민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/952/14571952_20260921161144_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603164543"
+    },
+    {
+      "title": "permission",
+      "artist": "허성현 (rosy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/361/14571361_20260921134350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603162637"
+    },
+    {
+      "title": "Sky Shadow",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/140/14572140_20260921163057_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165129"
+    },
+    {
+      "title": "Song of Silence",
+      "artist": "김준수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/088/14571088_20260921111318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603161862"
+    },
+    {
+      "title": "My Alice",
+      "artist": "Pluggboi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/584/14575584_20260922112349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174327"
+    },
+    {
+      "title": "Paper plane",
+      "artist": "모수진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/609/14575609_20260922113006_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174372"
+    },
     {
       "title": "Wind",
       "artist": "jisokuryClub",
@@ -235,72 +301,6 @@
       "artist": "이정아",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/278/14572278_20260921171429_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603165770"
-    },
-    {
-      "title": "Love Love Don't even try to forget love",
-      "artist": "지세희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/191/14571191_20260921120558_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162213"
-    },
-    {
-      "title": "Twilight",
-      "artist": "에스파파(S.Papa.)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/855/14571855_20260921155446_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603164314"
-    },
-    {
-      "title": "Bapi",
-      "artist": "AHORA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/971/14564971_20260918102744_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144469"
-    },
-    {
-      "title": "Fall Afternoon",
-      "artist": "성해빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/022/14571022_20260921105205_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161626"
-    },
-    {
-      "title": "Your Ocean",
-      "artist": "권그린 (GREENY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/514/14575514_20260922104518_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174130"
-    },
-    {
-      "title": "The things that grew up past you",
-      "artist": "유호 (YOO HO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/789/14547789_20260914141522_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603093107"
-    },
-    {
-      "title": "Like the remaining temperature",
-      "artist": "DOKO (도코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/857/14571857_20260921155545_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603164321"
-    },
-    {
-      "title": "Darlin’",
-      "artist": "Kinn (킨)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/972/14564972_20260918102756_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144471"
-    },
-    {
-      "title": "PinkBubble",
-      "artist": "위지수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/308/14571308_20260921131905_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162519"
-    },
-    {
-      "title": "Bells On My Neck",
-      "artist": "wnsday",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/272/14561272_20260921183258_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134448"
-    },
-    {
-      "title": "It's a Mess (Feat. Silence, Yee Chan Chang)",
-      "artist": "wurii (우리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/343/14571343_20260921133859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162578"
     }
   ]
 }
