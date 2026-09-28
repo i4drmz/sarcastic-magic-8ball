@@ -1,9 +1,8 @@
 {
-  "generatedAt": "2026-09-27T11:00:59.095Z",
-  "lastUpdated": "2026-09-27T11:00:59.095Z",
+  "generatedAt": "2026-09-28T02:32:24.482Z",
+  "lastUpdated": "2026-09-28T02:32:24.482Z",
   "sourceSummary": [
-    "soompi",
-    "allkpop"
+    "soompi"
   ],
   "events": [
     {
@@ -24,27 +23,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-27T11:00:59.095Z"
-    },
-    {
-      "id": "evt-d020061c4d06f7ab",
-      "type": "Concert",
-      "title": "Tour",
-      "artist": "XLOV",
-      "group": "XLOV",
-      "date": "2026-09-26",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "XLOV TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/xlov-reveals-dates-and-cities-for-their-first-us-tour",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-09-27T11:00:59.095Z"
+      "lastUpdated": "2026-09-28T02:32:24.482Z"
     }
   ]
 }
