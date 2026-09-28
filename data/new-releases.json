@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-09-28T05:36:58.133Z",
+  "generatedAt": "2026-09-28T14:14:14.154Z",
   "count": 50,
   "songs": [
+    {
+      "title": "CRASH",
+      "artist": "ALLDAY PROJECT",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/403/14575403_20260922162806_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603175883"
+    },
+    {
+      "title": "ANIMAL",
+      "artist": "BOYNEXTDOOR",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/412/14593412_20260928093719_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603230284"
+    },
+    {
+      "title": "Winds of Time",
+      "artist": "예성 (YESUNG)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/316/14576316_20260922161150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603176289"
+    },
+    {
+      "title": "Cats save the world!",
+      "artist": "고세구",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/786/14547786_20260914141400_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603093102"
+    },
+    {
+      "title": "Sour Grapes",
+      "artist": "NiziU (니쥬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/720/14581720_20260923112946_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603193750"
+    },
+    {
+      "title": "Love, don't forget",
+      "artist": "그_냥",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/517/14575517_20260922104552_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174140"
+    },
+    {
+      "title": "Calling",
+      "artist": "공민지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/022/14565022_20260918104014_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144581"
+    },
+    {
+      "title": "Just as we went back to the cage of those days,",
+      "artist": "신예영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/104/14581104_20260923100022_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190165"
+    },
+    {
+      "title": "forever Friends",
+      "artist": "O.O.O (오오오)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/861/14575861_20260922122416_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174967"
+    },
+    {
+      "title": "Secret Garden",
+      "artist": "박다울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/170/14581170_20260923101004_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190692"
+    },
+    {
+      "title": "Our Ending",
+      "artist": "엔플라잉 (N.Flying)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/535/14575535_20260922110121_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174196"
+    },
+    {
+      "title": "To My Hell",
+      "artist": "배기성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/707/14577707_20260922183521_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603180780"
+    },
+    {
+      "title": "That was my love",
+      "artist": "준서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/374/14577374_20260922174754_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603179689"
+    },
+    {
+      "title": "Why did you start rap?",
+      "artist": "Touch the Sky",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/092/14581092_20260923095900_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190092"
+    },
+    {
+      "title": "UNFOLD",
+      "artist": "GEMBIT (잼빗)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/389/14576389_20260922162342_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603176573"
+    },
     {
       "title": "Youth Period",
       "artist": "달담",
@@ -211,96 +301,6 @@
       "artist": "김필",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/576/14575576_20260922112146_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603174308"
-    },
-    {
-      "title": "mooky",
-      "artist": "Lov3rboi",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/227/14565227_20260918125412_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603145437"
-    },
-    {
-      "title": "Youth comics",
-      "artist": "432Hz",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/408/14576408_20260922162517_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603176622"
-    },
-    {
-      "title": "If you could carry me to the end of the wind",
-      "artist": "유오 (UO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/583/14575583_20260922112347_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174325"
-    },
-    {
-      "title": "Afterlight",
-      "artist": "정민성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/405/14575405_20260922101831_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603173705"
-    },
-    {
-      "title": "Saying it's your first love",
-      "artist": "이야",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/185/14576185_20260922151951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603175845"
-    },
-    {
-      "title": "So you..",
-      "artist": "이아영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/573/14575573_20260922112043_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174304"
-    },
-    {
-      "title": "Long hug",
-      "artist": "Muhwa (무화)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/039/14571039_20260921105342_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161689"
-    },
-    {
-      "title": "Love field, laughter flower",
-      "artist": "녹녹",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/141/14572141_20260921163058_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165131"
-    },
-    {
-      "title": "INCEPTION",
-      "artist": "엔카이브 (NCHIVE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/252/14571252_20260921124829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162414"
-    },
-    {
-      "title": "Rerecorded",
-      "artist": "몬스타엑스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/401/14575401_20260922101651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603173694"
-    },
-    {
-      "title": "Draw us from a long time ago",
-      "artist": "배그나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/153/14572153_20260921163215_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165179"
-    },
-    {
-      "title": "That's how we",
-      "artist": "김우도",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/357/14571357_20260921134235_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162623"
-    },
-    {
-      "title": "Joke",
-      "artist": "로쿠 (roku)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/552/14575552_20260922111621_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174268"
-    },
-    {
-      "title": "To meet you",
-      "artist": "은별",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/565/14575565_20260922111842_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174294"
-    },
-    {
-      "title": "Take Me Tokyo",
-      "artist": "임지우(imzoo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/372/14571372_20260921134942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162663"
     }
   ]
 }
