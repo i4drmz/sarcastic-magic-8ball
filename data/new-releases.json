@@ -1,12 +1,78 @@
 {
-  "generatedAt": "2026-09-27T21:30:00.467Z",
+  "generatedAt": "2026-09-28T05:36:58.133Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Youth Period",
+      "artist": "달담",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/391/14581391_20260923103602_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603191770"
+    },
+    {
+      "title": "feat. Skinny Brown",
+      "artist": "1DAY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/486/14581486_20260923104400_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603192245"
+    },
+    {
+      "title": "Feat. KANGHYUK",
+      "artist": "박창민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/423/14577423_20260922175312_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603179861"
+    },
+    {
+      "title": "You are the only one.",
+      "artist": "진혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/518/14575518_20260922104554_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603174143"
+    },
+    {
+      "title": "Out-of-body experience",
+      "artist": "내귀에도청장치",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/136/14581136_20260923100633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190426"
+    },
+    {
+      "title": "It's the night when I think of you",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/976/14564976_20260918102828_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603144476"
+    },
     {
       "title": "Hello",
       "artist": "레이 (IVE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/534/14575534_20260922110059_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603174194"
+    },
+    {
+      "title": "1%",
+      "artist": "sido",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/275/14577275_20260922174005_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603179459"
+    },
+    {
+      "title": "What is Love",
+      "artist": "Oneul",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/865/14571865_20260921155940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603164346"
+    },
+    {
+      "title": "Dive",
+      "artist": "After Thoughts",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/386/14581386_20260923103557_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603191739"
+    },
+    {
+      "title": "Whenever I See You (feat. Jang Ye-chan, SO Hyun)",
+      "artist": "Chase (체이스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/308/14576308_20260922160942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603176223"
+    },
+    {
+      "title": "And the love of that time was left at that time",
+      "artist": "파로구공(8590)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/125/14581125_20260923100356_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190291"
     },
     {
       "title": "I'm Regretting It (Feat. Full-time)",
@@ -15,10 +81,46 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603134475"
     },
     {
+      "title": "Sweet, sweet, sweet, sweet",
+      "artist": "파니니 브런치 (PANINI BRUNCH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/136/14572136_20260921163040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603165121"
+    },
+    {
+      "title": "Komi Solo",
+      "artist": "Peach Girls (피치걸스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/229/14581229_20260923101505_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190999"
+    },
+    {
       "title": "Narago",
       "artist": "경서",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/528/14575528_20260922105451_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603174177"
+    },
+    {
+      "title": "Love between characters, sincerity between lines",
+      "artist": "그네",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/215/14581215_20260923101325_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190897"
+    },
+    {
+      "title": "I'll Hate You As Much As I Loved You (Feat. Jeon now",
+      "artist": "노아주다 (noahjooda)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/112/14581112_20260923100150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603190232"
+    },
+    {
+      "title": "My heart has always been you",
+      "artist": "소밍",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/875/14575875_20260922122528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603175025"
+    },
+    {
+      "title": "feat. ZEZE",
+      "artist": "싸비 (XAVII)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/911/14575911_20260922122853_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603175148"
     },
     {
       "title": "Breakup Behavior",
@@ -199,108 +301,6 @@
       "artist": "임지우(imzoo)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/372/14571372_20260921134942_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603162663"
-    },
-    {
-      "title": "Mellow Sky",
-      "artist": "바이미(by me)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/566/14575566_20260922111843_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174295"
-    },
-    {
-      "title": "It's time to forget",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/978/14564978_20260918102859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144479"
-    },
-    {
-      "title": "First love",
-      "artist": "한림(Hanlim)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/568/14575568_20260922111843_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174298"
-    },
-    {
-      "title": "SAVE!",
-      "artist": "Miiro (미로)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/375/14576375_20260922162209_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603176531"
-    },
-    {
-      "title": "Destination",
-      "artist": "준 (JUNE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/525/14575525_20260922105441_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174171"
-    },
-    {
-      "title": "To me today, not yesterday",
-      "artist": "아윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/186/14576186_20260922152030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603175846"
-    },
-    {
-      "title": "An old pair of shoes from my father",
-      "artist": "이재희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/138/14572138_20260921163045_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165125"
-    },
-    {
-      "title": "The person, the love",
-      "artist": "푸른선",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/040/14571040_20260921105342_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603161691"
-    },
-    {
-      "title": "feat. Choo",
-      "artist": "nineorzero (나인올제로)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/404/14575404_20260922101829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603173704"
-    },
-    {
-      "title": "From the moment I sent you",
-      "artist": "이보람",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/527/14575527_20260922105450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174175"
-    },
-    {
-      "title": "Summer log",
-      "artist": "원준 (엘라스트 (E'LAST)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/192/14571192_20260921120600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603162215"
-    },
-    {
-      "title": "EHERADIYA",
-      "artist": "심소정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/374/14572374_20260921174901_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603166051"
-    },
-    {
-      "title": "I don't know",
-      "artist": "무드 (Mood)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/273/14576273_20260922160444_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603176112"
-    },
-    {
-      "title": "Talk 2 much",
-      "artist": "Rredrain (레드레인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/520/14575520_20260922104939_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174156"
-    },
-    {
-      "title": "Monster",
-      "artist": "PYMEL (파이멜)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/193/14572193_20260921164137_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165490"
-    },
-    {
-      "title": "TSSJ",
-      "artist": "틈새시장(TSSJ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/516/14575516_20260922104536_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174136"
-    },
-    {
-      "title": "Your Rain",
-      "artist": "이정아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/72/278/14572278_20260921171429_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603165770"
     }
   ]
 }
