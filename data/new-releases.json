@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-09-29T05:54:26.559Z",
+  "generatedAt": "2026-09-29T13:09:07.888Z",
   "count": 50,
   "songs": [
+    {
+      "title": "End of Season",
+      "artist": "박재정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/437/14594437_20260928153017_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603233683"
+    },
+    {
+      "title": "Mind Games",
+      "artist": "온유 (ONEW)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/492/14593492_20260928104546_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603230483"
+    },
+    {
+      "title": "AGAIN and AGAIN",
+      "artist": "죠지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/415/14593415_20260928094209_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603230326"
+    },
+    {
+      "title": "feat. Luci Gang",
+      "artist": "버벌진트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/053/14594053_20260928135418_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603232083"
+    },
+    {
+      "title": "VOODOO DOLL",
+      "artist": "WOOAH (우아)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/804/14581804_20260923120134_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603194290"
+    },
+    {
+      "title": "When I became you,",
+      "artist": "최은빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/444/14594444_20260928153039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603233700"
+    },
+    {
+      "title": "Live from Fortune Teller, 2025",
+      "artist": "심규선",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/470/14594470_20260928153258_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603233856"
+    },
+    {
+      "title": "How dare I hold you again",
+      "artist": "KURO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/647/14594647_20260928155842_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603234465"
+    },
+    {
+      "title": "lover's prayer",
+      "artist": "12BH",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/501/14593501_20260928105602_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603230613"
+    },
+    {
+      "title": "you are",
+      "artist": "이라온",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/820/14581820_20260923120623_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603194373"
+    },
+    {
+      "title": "WHICH SIDE",
+      "artist": "NOPARI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/111/14582111_20260923145549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603195463"
+    },
+    {
+      "title": "Big shot",
+      "artist": "STB",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/801/14581801_20260923115943_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603194279"
+    },
+    {
+      "title": "Butterfly",
+      "artist": "하모 (hamo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/503/14593503_20260928105633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603230634"
+    },
+    {
+      "title": "Prod By THE HUB",
+      "artist": "스트릿 월드 파이터 : 디렉터스 워 (SDF)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/95/155/14595155_20260928173839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603236162"
+    },
     {
       "title": "Can't Take My Eyes Off You (Feat. Yooin (lure)",
       "artist": "노르웨이 숲",
@@ -15,7 +99,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603134073"
     },
     {
-      "title": "Autumn Nights",
+      "title": "Autumn Night (Prod. Rocoveri)",
       "artist": "주형진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/474/14594474_20260928153338_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603233870"
@@ -217,90 +301,6 @@
       "artist": "준서",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/374/14577374_20260922174754_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603179689"
-    },
-    {
-      "title": "Why did you start rap?",
-      "artist": "Touch the Sky",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/092/14581092_20260923095900_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603190092"
-    },
-    {
-      "title": "UNFOLD",
-      "artist": "GEMBIT (잼빗)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/389/14576389_20260922162342_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603176573"
-    },
-    {
-      "title": "Youth Period",
-      "artist": "달담",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/391/14581391_20260923103602_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603191770"
-    },
-    {
-      "title": "feat. Skinny Brown",
-      "artist": "1DAY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/486/14581486_20260923104400_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603192245"
-    },
-    {
-      "title": "Feat. KANGHYUK",
-      "artist": "박창민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/423/14577423_20260922175312_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603179861"
-    },
-    {
-      "title": "You are the only one.",
-      "artist": "진혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/518/14575518_20260922104554_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174143"
-    },
-    {
-      "title": "Out-of-body experience",
-      "artist": "내귀에도청장치",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/136/14581136_20260923100633_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603190426"
-    },
-    {
-      "title": "It's the night when I think of you",
-      "artist": "여은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/64/976/14564976_20260918102828_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144476"
-    },
-    {
-      "title": "Hello",
-      "artist": "레이 (IVE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/534/14575534_20260922110059_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174194"
-    },
-    {
-      "title": "1%",
-      "artist": "sido",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/275/14577275_20260922174005_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603179459"
-    },
-    {
-      "title": "What is Love",
-      "artist": "Oneul",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/865/14571865_20260921155940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603164346"
-    },
-    {
-      "title": "Dive",
-      "artist": "After Thoughts",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/386/14581386_20260923103557_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603191739"
-    },
-    {
-      "title": "Whenever I See You (feat. Jang Ye-chan, SO Hyun)",
-      "artist": "Chase (체이스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/308/14576308_20260922160942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603176223"
-    },
-    {
-      "title": "And the love of that time was left at that time",
-      "artist": "파로구공(8590)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/125/14581125_20260923100356_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603190291"
     }
   ]
 }
