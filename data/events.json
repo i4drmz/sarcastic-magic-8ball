@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T12:20:20.045Z",
-  "lastUpdated": "2026-09-28T12:20:20.045Z",
+  "generatedAt": "2026-09-29T03:15:10.621Z",
+  "lastUpdated": "2026-09-29T03:15:10.621Z",
   "sourceSummary": [
     "soompi",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
     {
@@ -24,27 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-28T12:20:20.045Z"
-    },
-    {
-      "id": "evt-9f9e336a66eabd86",
-      "type": "Fan Meeting",
-      "title": "Solo Fan Meeting “Only One”",
-      "artist": "Girl's Day",
-      "group": "Girl's Day",
-      "date": "2026-09-28",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "GIRL'S DAY SOLO FAN MEETING COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/hyeri-returns-to-china-for-her-solo-fan-meeting-only-one-in-qingdao-on-october-17",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-09-28T12:20:20.045Z"
+      "lastUpdated": "2026-09-29T03:15:10.621Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -63,8 +43,8 @@
       "shortDescription": "XLOV TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-09-28T12:20:20.045Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-09-29T03:15:10.621Z"
     }
   ]
 }
