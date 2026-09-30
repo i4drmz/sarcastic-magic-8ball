@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-09-29T22:26:35.460Z",
+  "generatedAt": "2026-09-30T05:45:16.751Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Everything will be fine.",
+      "artist": "김결",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/597/14582597_20260923172547_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603197126"
+    },
+    {
+      "title": "Perhaps,",
+      "artist": "NC.A",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/95/370/14595370_20260928182119_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603237023"
+    },
+    {
+      "title": "You can see that star",
+      "artist": "김연자",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/480/14599480_20260929154132_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603248497"
+    },
+    {
+      "title": "Rising Pocheon",
+      "artist": "38 K-POP HUNTERS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/461/14599461_20260929153739_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603248476"
+    },
+    {
+      "title": "Yes, you can (Abras Tamakastipo)",
+      "artist": "정승제",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/028/14599028_20260929142741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603246927"
+    },
+    {
+      "title": "I didn't forget you, I got used to you",
+      "artist": "헌책방",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/548/14598548_20260929112247_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245593"
+    },
+    {
+      "title": "rom&BAAWLA Remix",
+      "artist": "NCT 127",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/477/14599477_20260929154113_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603248493"
+    },
     {
       "title": "End of Season",
       "artist": "박재정",
@@ -9,10 +51,82 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603233683"
     },
     {
+      "title": "Stay A Little",
+      "artist": "add9",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/595/14582595_20260923172447_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603197113"
+    },
+    {
+      "title": "feat. KOREANGROOVE",
+      "artist": "MALITABU",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/602/14598602_20260929114651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245723"
+    },
+    {
+      "title": "Confession",
+      "artist": "듀 (DEW)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/584/14593584_20260928115628_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603231253"
+    },
+    {
+      "title": "Blue noise",
+      "artist": "이재이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/602/14582602_20260923172658_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603197151"
+    },
+    {
+      "title": "If we run into each other,",
+      "artist": "백윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/662/14594662_20260928155958_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603234571"
+    },
+    {
+      "title": "There is no paradise without you",
+      "artist": "노블레스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/80/862/14580862_20260923093601_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603189491"
+    },
+    {
+      "title": "I Wanna Sing",
+      "artist": "Red C",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/205/14560205_20260917105619_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603130663"
+    },
+    {
+      "title": "10,000 years of love",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/576/14598576_20260929112811_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245687"
+    },
+    {
       "title": "Mind Games",
       "artist": "온유 (ONEW)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/492/14593492_20260928104546_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603230483"
+    },
+    {
+      "title": "My favorite day of the week is the day I spent with you.",
+      "artist": "D2ear",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/396/14598396_20260929103536_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603244950"
+    },
+    {
+      "title": "Check Out",
+      "artist": "Senesi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/161/14599161_20260929145143_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603247296"
+    },
+    {
+      "title": "I'll be here after all these years",
+      "artist": "란 (RAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/064/14599064_20260929143954_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603247034"
+    },
+    {
+      "title": "Sensation",
+      "artist": "유럽 (ULUV)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/603/14582603_20260928134207_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603197153"
     },
     {
       "title": "AGAIN and AGAIN",
@@ -71,7 +185,7 @@
     {
       "title": "Big shot",
       "artist": "STB",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/801/14581801_20260923115943_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/801/14581801_20260930101926_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603194279"
     },
     {
@@ -187,120 +301,6 @@
       "artist": "서브마린블루",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/345/14594345_20260928151636_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603233348"
-    },
-    {
-      "title": "Without being able to say I want to see it",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/825/14581825_20260923120928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603194393"
-    },
-    {
-      "title": "feat. unofficialboyy",
-      "artist": "kaenavi",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/824/14581824_20260923120916_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603194380"
-    },
-    {
-      "title": "Feat. Zsle",
-      "artist": "MUZIN (뮤진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/828/14581828_20260923121020_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603194406"
-    },
-    {
-      "title": "Too up",
-      "artist": "Claire Hau (클레어 하우)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/058/14594058_20260928135658_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603232097"
-    },
-    {
-      "title": "canyoutellme",
-      "artist": "윤준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/467/14593467_20260928103358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603230394"
-    },
-    {
-      "title": "I Won't Let You Fade Away",
-      "artist": "김승진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/358/14594358_20260928152352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603233384"
-    },
-    {
-      "title": "Stopped Night (Feat. Seokwoo)",
-      "artist": "SUDI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/799/14581799_20260923115841_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603194268"
-    },
-    {
-      "title": "Love Limit (Feat. Laura)",
-      "artist": "단디",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/044/14577044_20260922172422_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603178720"
-    },
-    {
-      "title": "Winds of Time",
-      "artist": "예성 (YESUNG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/316/14576316_20260922161150_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603176289"
-    },
-    {
-      "title": "Cats save the world!",
-      "artist": "고세구",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/47/786/14547786_20260914141400_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603093102"
-    },
-    {
-      "title": "Sour Grapes",
-      "artist": "NiziU (니쥬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/720/14581720_20260923112946_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603193750"
-    },
-    {
-      "title": "Love, don't forget",
-      "artist": "그_냥",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/517/14575517_20260922104552_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174140"
-    },
-    {
-      "title": "Calling",
-      "artist": "공민지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/022/14565022_20260918104014_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603144581"
-    },
-    {
-      "title": "Just as we went back to the cage of those days,",
-      "artist": "신예영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/104/14581104_20260923100022_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603190165"
-    },
-    {
-      "title": "forever Friends",
-      "artist": "O.O.O (오오오)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/861/14575861_20260922122416_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174967"
-    },
-    {
-      "title": "Secret Garden",
-      "artist": "박다울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/170/14581170_20260923101004_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603190692"
-    },
-    {
-      "title": "Our Ending",
-      "artist": "엔플라잉 (N.Flying)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/535/14575535_20260922110121_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603174196"
-    },
-    {
-      "title": "To My Hell",
-      "artist": "배기성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/707/14577707_20260922183521_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603180780"
-    },
-    {
-      "title": "That was my love",
-      "artist": "준서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/374/14577374_20260922174754_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603179689"
     }
   ]
 }
