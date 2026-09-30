@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T02:57:39.094Z",
-  "lastUpdated": "2026-09-30T02:57:39.094Z",
+  "generatedAt": "2026-09-30T11:33:51.611Z",
+  "lastUpdated": "2026-09-30T11:33:51.611Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,47 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/kim-dongjun-woody-and-japanese-duo-mr-to-hold-joint-concert-by-your-side-in-tokyo",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-09-30T02:57:39.094Z"
+      "lastUpdated": "2026-09-30T11:33:51.611Z"
+    },
+    {
+      "id": "evt-c97c007db1f2c85c",
+      "type": "Festival",
+      "title": "Festival “Grand Mint Festival 2026”",
+      "artist": "'Grand Mint Festival 2026'",
+      "group": "'Grand Mint Festival 2026'",
+      "date": "2026-09-30",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "'GRAND MINT FESTIVAL 2026' FESTIVAL COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/grand-mint-festival-2026-reveals-timetable-with-lee-sora-and-younha-closing-the-main-stage",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-30T11:33:51.611Z"
+    },
+    {
+      "id": "evt-591cf5e09b62ba7d",
+      "type": "Concert",
+      "title": "Solo Concert “s Son Ho Young to hold solo concert”",
+      "artist": "g.o.d",
+      "group": "g.o.d",
+      "date": "2026-09-30",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "G.O.D SOLO CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/gods-son-ho-young-to-hold-solo-concert-horizon-for-his-20th-solo-anniversary",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-09-30T11:33:51.611Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -45,27 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-09-30T02:57:39.094Z"
-    },
-    {
-      "id": "evt-d366967c015e6eb6",
-      "type": "Concert",
-      "title": "Epik High to hold their first-ever KSPO DOME concerts in January 2027",
-      "artist": "Epik High",
-      "group": "Epik High",
-      "date": "2026-09-29",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "Epik High will take the stage at KSPO DOME for the first time since their debut, holding three solo concerts at the Seoul venue in January 2027. On September 29, it was that Epik High will hold the '2027 Epik High Concert' at KSPO DOME i…",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/epik-high-to-hold-their-first-ever-kspo-dome-concerts-in-january-2027",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-09-30T02:57:39.094Z"
+      "lastUpdated": "2026-09-30T11:33:51.611Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -84,8 +104,8 @@
       "shortDescription": "SEVENTEEN’s Jeonghan and Joshua are going on tour! On September 28, SEVENTEEN’s latest unit JxJ their new tour JEONGHAN X JOSHUA JOURNEY INTO “DREAMING.” After greeting fans at the Inspire Arena in Incheon from October 30 to November 1,…",
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-09-30T02:57:39.094Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-09-30T11:33:51.611Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -105,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-09-30T02:57:39.094Z"
+      "lastUpdated": "2026-09-30T11:33:51.611Z"
     }
   ]
 }
