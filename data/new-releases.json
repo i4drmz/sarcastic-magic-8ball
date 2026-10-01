@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-09-30T22:25:13.180Z",
+  "generatedAt": "2026-10-01T06:11:57.420Z",
   "count": 50,
   "songs": [
+    {
+      "title": "ew",
+      "artist": "DPR CREAM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/685/14606685_20260930170951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274806"
+    },
+    {
+      "title": "Sneezing",
+      "artist": "아이우에오",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/089/14594089_20260928140453_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603232210"
+    },
+    {
+      "title": "Frontal Breakthrough",
+      "artist": "김시원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/789/14598789_20260929124145_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603246299"
+    },
+    {
+      "title": "The next time you grow up, tell me now that you said you'll let me know the next time you're older.",
+      "artist": "Mingginyu (밍기뉴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/932/14605932_20260930141711_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273070"
+    },
+    {
+      "title": "Pandora",
+      "artist": "TESSAR(테사르)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/256/14606256_20260930152257_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273888"
+    },
+    {
+      "title": "WHERE",
+      "artist": "JAYN (제인)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/402/14598402_20260929103944_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603244966"
+    },
+    {
+      "title": "Only thing",
+      "artist": "지성 (JISUNG)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/901/14599901_20260929161248_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603249444"
+    },
+    {
+      "title": "Illusion and laughter",
+      "artist": "카코포니 (cacophony)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/815/14577815_20260922184728_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603181429"
+    },
     {
       "title": "LOUDER",
       "artist": "CRAVITY",
@@ -15,10 +63,70 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603246700"
     },
     {
+      "title": "Why Time?",
+      "artist": "Aeil",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/604/14598604_20260929114751_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245726"
+    },
+    {
+      "title": "Blue season",
+      "artist": "전세연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/231/14605231_20260930104753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603270853"
+    },
+    {
+      "title": "What should I do",
+      "artist": "누고(Nugo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/930/14605930_20260930141600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273056"
+    },
+    {
+      "title": "I wasn't sending you like that at the time.",
+      "artist": "홍진영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/788/14598788_20260929123948_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603246295"
+    },
+    {
+      "title": "We're in love",
+      "artist": "태유",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/509/14605509_20260930114139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603271787"
+    },
+    {
+      "title": "Sometimes even Seoul slickers",
+      "artist": "두리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/115/14605115_20260930104150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603270257"
+    },
+    {
       "title": "Our Story",
       "artist": "WOODZ",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/993/14599993_20260929161847_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603249748"
+    },
+    {
+      "title": "Onatrip",
+      "artist": "PEEPPEEP",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/04/830/14604830_20260930101412_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603268316"
+    },
+    {
+      "title": "Since the day I sent you",
+      "artist": "다무 (Damu)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/933/14605933_20260930141713_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273071"
+    },
+    {
+      "title": "Same Dream",
+      "artist": "일상의 효정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/097/14594097_20260928140712_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603232253"
+    },
+    {
+      "title": "A PUNK MAN",
+      "artist": "페이션츠",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/404/14598404_20260929104228_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603244984"
     },
     {
       "title": "Just like the first day,",
@@ -193,114 +301,6 @@
       "artist": "D2ear",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/396/14598396_20260929103536_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603244950"
-    },
-    {
-      "title": "Check Out",
-      "artist": "Senesi",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/161/14599161_20260929145143_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603247296"
-    },
-    {
-      "title": "I'll be here after all these years",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/064/14599064_20260929143954_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603247034"
-    },
-    {
-      "title": "Sensation",
-      "artist": "유럽 (ULUV)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/603/14582603_20260928134207_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197153"
-    },
-    {
-      "title": "AGAIN and AGAIN",
-      "artist": "죠지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/415/14593415_20260928094209_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603230326"
-    },
-    {
-      "title": "feat. Luci Gang",
-      "artist": "버벌진트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/053/14594053_20260928135418_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603232083"
-    },
-    {
-      "title": "VOODOO DOLL",
-      "artist": "WOOAH (우아)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/804/14581804_20260923120134_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603194290"
-    },
-    {
-      "title": "When I became you,",
-      "artist": "최은빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/444/14594444_20260928153039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603233700"
-    },
-    {
-      "title": "Live from Fortune Teller, 2025",
-      "artist": "심규선",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/470/14594470_20260928153258_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603233856"
-    },
-    {
-      "title": "How dare I hold you again",
-      "artist": "KURO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/647/14594647_20260928155842_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603234465"
-    },
-    {
-      "title": "lover's prayer",
-      "artist": "12BH",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/501/14593501_20260928105602_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603230613"
-    },
-    {
-      "title": "you are",
-      "artist": "이라온",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/820/14581820_20260923120623_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603194373"
-    },
-    {
-      "title": "WHICH SIDE",
-      "artist": "NOPARI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/111/14582111_20260923145549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603195463"
-    },
-    {
-      "title": "Big shot",
-      "artist": "STB",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/81/801/14581801_20260930101926_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603194279"
-    },
-    {
-      "title": "Butterfly",
-      "artist": "하모 (hamo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/503/14593503_20260928105633_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603230634"
-    },
-    {
-      "title": "Prod By THE HUB",
-      "artist": "스트릿 월드 파이터 : 디렉터스 워 (SDF)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/95/155/14595155_20260928173839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603236162"
-    },
-    {
-      "title": "Can't Take My Eyes Off You (Feat. Yooin (lure)",
-      "artist": "노르웨이 숲",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/134/00/145/13400145_20260928111018_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603230343"
-    },
-    {
-      "title": "MERO MERO",
-      "artist": "chicken97",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/61/155/14561155_20260917162650_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603134073"
-    },
-    {
-      "title": "Autumn Night (Prod. Rocoveri)",
-      "artist": "주형진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/474/14594474_20260928153338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603233870"
     }
   ]
 }
