@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T12:02:37.909Z",
-  "lastUpdated": "2026-10-01T12:02:37.909Z",
+  "generatedAt": "2026-10-01T22:06:55.381Z",
+  "lastUpdated": "2026-10-01T22:06:55.381Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/sf9-to-hold-10th-anniversary-concert-live-fantasy-6-in-hong-kong-this-november",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-01T12:02:37.909Z"
+      "lastUpdated": "2026-10-01T22:06:55.381Z"
     },
     {
       "id": "evt-07545f3668676dfe",
@@ -45,27 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/the-boyzs-eric-to-hold-his-first-solo-fan-meeting-in-korea-with-a-boys-over-flowers-twist",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-01T12:02:37.909Z"
-    },
-    {
-      "id": "evt-c97c007db1f2c85c",
-      "type": "Festival",
-      "title": "Festival “Grand Mint Festival 2026”",
-      "artist": "'Grand Mint Festival 2026'",
-      "group": "'Grand Mint Festival 2026'",
-      "date": "2026-09-30",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "'GRAND MINT FESTIVAL 2026' FESTIVAL COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/09/grand-mint-festival-2026-reveals-timetable-with-lee-sora-and-younha-closing-the-main-stage",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-01T12:02:37.909Z"
+      "lastUpdated": "2026-10-01T22:06:55.381Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -85,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-01T12:02:37.909Z"
+      "lastUpdated": "2026-10-01T22:06:55.381Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -105,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-01T12:02:37.909Z"
+      "lastUpdated": "2026-10-01T22:06:55.381Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -125,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-01T12:02:37.909Z"
+      "lastUpdated": "2026-10-01T22:06:55.381Z"
     }
   ]
 }
