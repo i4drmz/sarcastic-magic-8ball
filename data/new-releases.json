@@ -1,12 +1,90 @@
 {
-  "generatedAt": "2026-10-01T06:11:57.420Z",
+  "generatedAt": "2026-10-01T13:35:26.673Z",
   "count": 50,
   "songs": [
+    {
+      "title": "UGRS RIGHT HERE!",
+      "artist": "창모 (CHANGMO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/418/14606418_20260930161954_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274331"
+    },
+    {
+      "title": "Full stop",
+      "artist": "우디 (Woody)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/369/14606369_20260930153532_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274227"
+    },
     {
       "title": "ew",
       "artist": "DPR CREAM",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/685/14606685_20260930170951_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603274806"
+    },
+    {
+      "title": "Never Again",
+      "artist": "레오(LEO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/270/14606270_20260930152439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273904"
+    },
+    {
+      "title": "Clockwork Orange",
+      "artist": "음율",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/800/14598800_20260929124353_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603246314"
+    },
+    {
+      "title": "Five Hours of Fragments",
+      "artist": "TIOT(티아이오티)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/356/14594356_20260928152253_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603233372"
+    },
+    {
+      "title": "Are you happy now?",
+      "artist": "단칸방 로맨스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/299/14606299_20260930152708_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274013"
+    },
+    {
+      "title": "piano ver.",
+      "artist": "김뮤지엄 (KIMMUSEUM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/286/14605286_20260930105034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603271094"
+    },
+    {
+      "title": "Girl in Seoul",
+      "artist": "유명한아이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/913/14605913_20260930141158_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603272962"
+    },
+    {
+      "title": "Life is Beautiful",
+      "artist": "마야",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/409/14598409_20260929104629_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245000"
+    },
+    {
+      "title": "Why would I do this?",
+      "artist": "최열음",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/605/14598605_20260929114752_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245725"
+    },
+    {
+      "title": "Seasonal You",
+      "artist": "이기택",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/941/14605941_20260930142639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273091"
+    },
+    {
+      "title": "We Can't Look Back (with Kim Min Sung)",
+      "artist": "허세영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/142/14594142_20260928141250_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603232553"
+    },
+    {
+      "title": "villain",
+      "artist": "OLNL (오르내림)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/390/14598390_20260929103243_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603244943"
     },
     {
       "title": "Sneezing",
@@ -223,84 +301,6 @@
       "artist": "정승제",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/028/14599028_20260929142741_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603246927"
-    },
-    {
-      "title": "I didn't forget you, I got used to you",
-      "artist": "헌책방",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/548/14598548_20260929112247_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603245593"
-    },
-    {
-      "title": "rom&BAAWLA Remix",
-      "artist": "NCT 127",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/477/14599477_20260929154113_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603248493"
-    },
-    {
-      "title": "End of Season",
-      "artist": "박재정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/437/14594437_20260928153017_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603233683"
-    },
-    {
-      "title": "Stay A Little",
-      "artist": "add9",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/595/14582595_20260923172447_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197113"
-    },
-    {
-      "title": "feat. KOREANGROOVE",
-      "artist": "MALITABU",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/602/14598602_20260929114651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603245723"
-    },
-    {
-      "title": "Confession",
-      "artist": "듀 (DEW)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/584/14593584_20260928115628_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603231253"
-    },
-    {
-      "title": "Blue noise",
-      "artist": "이재이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/602/14582602_20260923172658_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197151"
-    },
-    {
-      "title": "If we run into each other,",
-      "artist": "백윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/662/14594662_20260928155958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603234571"
-    },
-    {
-      "title": "There is no paradise without you",
-      "artist": "노블레스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/80/862/14580862_20260923093601_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603189491"
-    },
-    {
-      "title": "I Wanna Sing",
-      "artist": "Red C",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/60/205/14560205_20260917105619_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603130663"
-    },
-    {
-      "title": "10,000 years of love",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/576/14598576_20260929112811_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603245687"
-    },
-    {
-      "title": "Mind Games",
-      "artist": "온유 (ONEW)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/492/14593492_20260928104546_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603230483"
-    },
-    {
-      "title": "My favorite day of the week is the day I spent with you.",
-      "artist": "D2ear",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/396/14598396_20260929103536_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603244950"
     }
   ]
 }
