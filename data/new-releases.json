@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T13:35:26.673Z",
+  "generatedAt": "2026-10-01T22:48:14.668Z",
   "count": 50,
   "songs": [
     {
@@ -13,12 +13,6 @@
       "artist": "우디 (Woody)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/369/14606369_20260930153532_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603274227"
-    },
-    {
-      "title": "ew",
-      "artist": "DPR CREAM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/685/14606685_20260930170951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603274806"
     },
     {
       "title": "Never Again",
@@ -37,6 +31,18 @@
       "artist": "TIOT(티아이오티)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/356/14594356_20260928152253_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603233372"
+    },
+    {
+      "title": "Bye Bye Inhibitions",
+      "artist": "Alok",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/00/557/14600557_20261001210915_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603250895"
+    },
+    {
+      "title": "ew",
+      "artist": "DPR CREAM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/685/14606685_20260930170951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274806"
     },
     {
       "title": "Are you happy now?",
@@ -295,12 +301,6 @@
       "artist": "38 K-POP HUNTERS",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/461/14599461_20260929153739_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603248476"
-    },
-    {
-      "title": "Yes, you can (Abras Tamakastipo)",
-      "artist": "정승제",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/028/14599028_20260929142741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603246927"
     }
   ]
 }
