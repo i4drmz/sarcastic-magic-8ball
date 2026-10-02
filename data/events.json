@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-10-01T22:06:55.381Z",
-  "lastUpdated": "2026-10-01T22:06:55.381Z",
+  "generatedAt": "2026-10-02T11:33:56.406Z",
+  "lastUpdated": "2026-10-02T11:33:56.406Z",
   "sourceSummary": [
-    "soompi",
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "nme"
   ],
   "events": [
     {
-      "id": "evt-d70551befab5cdfe",
+      "id": "evt-9a244642f7d04dce",
       "type": "Concert",
-      "title": "Anniversary Concert “LIVE FANTASY #6”",
-      "artist": "SF9",
-      "group": "SF9",
-      "date": "2026-10-01",
+      "title": "Tour “Final Fantasy”",
+      "artist": "April",
+      "group": "April",
+      "date": "2026-10-02",
       "time": null,
       "venue": "TBA",
-      "city": "Hong Kong",
-      "country": "HK",
+      "city": "Seoul",
+      "country": "KR",
       "latitude": null,
       "longitude": null,
-      "image": null,
-      "shortDescription": "SF9 ANNIVERSARY CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/sf9-to-hold-10th-anniversary-concert-live-fantasy-6-in-hong-kong-this-november",
+      "image": "https://www.nme.com/wp-content/uploads/2026/10/Final-Fantasy-Distant-Worlds.jpg",
+      "shortDescription": "APRIL TOUR COMING UP",
+      "sourceUrl": "https://www.nme.com/news/gaming-news/final-fantasy-40-year-anniversary-distant-worlds-orchestral-tour-tickets-dates-3971944?utm_source=rss&utm_medium=rss&utm_campaign=final-fantasy-40-year-anniversary-distant-worlds-orchestral-tour-tickets-dates",
       "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-01T22:06:55.381Z"
+      "source": "rss:nme",
+      "lastUpdated": "2026-10-02T11:33:56.406Z"
     },
     {
       "id": "evt-07545f3668676dfe",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/the-boyzs-eric-to-hold-his-first-solo-fan-meeting-in-korea-with-a-boys-over-flowers-twist",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-01T22:06:55.381Z"
+      "lastUpdated": "2026-10-02T11:33:56.406Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -64,8 +64,8 @@
       "shortDescription": "ARTMS CONCERT COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-10-01T22:06:55.381Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-10-02T11:33:56.406Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-01T22:06:55.381Z"
+      "lastUpdated": "2026-10-02T11:33:56.406Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -105,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-01T22:06:55.381Z"
+      "lastUpdated": "2026-10-02T11:33:56.406Z"
     }
   ]
 }
