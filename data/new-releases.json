@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-10-01T22:48:14.668Z",
+  "generatedAt": "2026-10-02T05:55:48.013Z",
   "count": 50,
   "songs": [
+    {
+      "title": "A4M",
+      "artist": "WAYF BOYS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/907/14609907_20261001135039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603283551"
+    },
+    {
+      "title": "Bye Bye Inhibitions",
+      "artist": "Alok",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/00/557/14600557_20261001210915_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603250895"
+    },
+    {
+      "title": "garden",
+      "artist": "slowly(슬로울리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/587/14593587_20260928115930_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603231256"
+    },
+    {
+      "title": "No Witch",
+      "artist": "추다혜차지스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/102/14606102_20260930150648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273541"
+    },
+    {
+      "title": "feat. Shane",
+      "artist": "oftn (오픈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/834/14609834_20261001121832_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603283184"
+    },
+    {
+      "title": "Come see me",
+      "artist": "AYOUNG(에이영)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/606/14598606_20260929114854_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245732"
+    },
+    {
+      "title": "Throw It Out (feat. Delinquency) Extended Mix",
+      "artist": "KiMMi (킴미)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/210/14606210_20260930151648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273811"
+    },
     {
       "title": "UGRS RIGHT HERE!",
       "artist": "창모 (CHANGMO)",
@@ -13,6 +55,72 @@
       "artist": "우디 (Woody)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/369/14606369_20260930153532_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603274227"
+    },
+    {
+      "title": "homecoming.",
+      "artist": "최파랑 (Blu Choi)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/422/14606422_20260930162259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274352"
+    },
+    {
+      "title": "Tomorrow won't come",
+      "artist": "Brody (브로디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/221/14605221_20260930104708_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603270820"
+    },
+    {
+      "title": "IWantU",
+      "artist": "아녹 (Anoc)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/562/14609562_20261001103138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282478"
+    },
+    {
+      "title": "Another Breath",
+      "artist": "민준 (MINJUN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/089/14606089_20260930150240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273519"
+    },
+    {
+      "title": "When dawn comes, I want to see more.",
+      "artist": "란 (RAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/871/14605871_20260930133641_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603272861"
+    },
+    {
+      "title": "Wonderful Life",
+      "artist": "방윤하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/07/129/14607129_20260930184654_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603276239"
+    },
+    {
+      "title": "Last Letter",
+      "artist": "tokyobutton (도쿄버튼)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/103/14606103_20260930150650_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273542"
+    },
+    {
+      "title": "happiness",
+      "artist": "OVN (오븐)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/04/786/14604786_20260930100942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603267957"
+    },
+    {
+      "title": "What kind of story do I want to tell?",
+      "artist": "에리즈 (Aries)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/408/14598408_20260929104624_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603244999"
+    },
+    {
+      "title": "7D7N",
+      "artist": "어린제독",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/629/14609629_20261001104538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282622"
+    },
+    {
+      "title": "In My Imagination",
+      "artist": "Cache Alleyway (캐시앨리웨이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/101/14606101_20260930150544_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273540"
     },
     {
       "title": "Never Again",
@@ -31,12 +139,6 @@
       "artist": "TIOT(티아이오티)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/356/14594356_20260928152253_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603233372"
-    },
-    {
-      "title": "Bye Bye Inhibitions",
-      "artist": "Alok",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/00/557/14600557_20261001210915_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603250895"
     },
     {
       "title": "ew",
@@ -199,108 +301,6 @@
       "artist": "다무 (Damu)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/933/14605933_20260930141713_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603273071"
-    },
-    {
-      "title": "Same Dream",
-      "artist": "일상의 효정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/097/14594097_20260928140712_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603232253"
-    },
-    {
-      "title": "A PUNK MAN",
-      "artist": "페이션츠",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/404/14598404_20260929104228_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603244984"
-    },
-    {
-      "title": "Just like the first day,",
-      "artist": "FTISLAND (FT아일랜드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/605/14582605_20260923172910_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197158"
-    },
-    {
-      "title": "Drop That!",
-      "artist": "CLOSE YOUR EYES (클로즈 유어 아이즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/067/14594067_20260928135833_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603232121"
-    },
-    {
-      "title": "A1ㄱ",
-      "artist": "Keyveatz",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/611/14582611_20260923173620_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197211"
-    },
-    {
-      "title": "Tell us how to be happy",
-      "artist": "초승 (CHOSNG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/607/14582607_20260923173022_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197162"
-    },
-    {
-      "title": "One of Them",
-      "artist": "윤종신",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/397/14598397_20260929103541_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603244951"
-    },
-    {
-      "title": "I'll be behind you",
-      "artist": "제이세라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/054/14577054_20260922172430_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603178737"
-    },
-    {
-      "title": "One of Your Boys",
-      "artist": "Eddie and the Bricks",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/01/672/14601672_20260929182710_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603253146"
-    },
-    {
-      "title": "Faster than a cloud",
-      "artist": "MY:RAKL (미라클)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/93/585/14593585_20260928115727_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603231254"
-    },
-    {
-      "title": "Fxxk the Club",
-      "artist": "JERIDE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/674/14594674_20260928160104_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603234656"
-    },
-    {
-      "title": "IDK",
-      "artist": "마션 (Martian)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/80/864/14580864_20260923093605_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603189494"
-    },
-    {
-      "title": "This song IS A failure",
-      "artist": "유세윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/606/14582606_20260923173012_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197159"
-    },
-    {
-      "title": "Everything will be fine.",
-      "artist": "김결",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/597/14582597_20260923172547_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603197126"
-    },
-    {
-      "title": "Perhaps,",
-      "artist": "NC.A",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/95/370/14595370_20260928182119_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603237023"
-    },
-    {
-      "title": "You can see that star",
-      "artist": "김연자",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/480/14599480_20260929154132_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603248497"
-    },
-    {
-      "title": "Rising Pocheon",
-      "artist": "38 K-POP HUNTERS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/461/14599461_20260929153739_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603248476"
     }
   ]
 }
