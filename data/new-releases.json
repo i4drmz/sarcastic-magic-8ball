@@ -1,12 +1,54 @@
 {
-  "generatedAt": "2026-10-02T05:55:48.013Z",
+  "generatedAt": "2026-10-02T12:54:15.475Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Rare Woman (Feat. NOWIMYOUNG)",
+      "artist": "YENA (최예나)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/270/14610270_20261001153148_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284413"
+    },
+    {
+      "title": "HAPPINESS",
+      "artist": "스무살",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/934/14605934_20260930141718_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603273073"
+    },
+    {
+      "title": "On My Way",
+      "artist": "루이 (RUI)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/07/016/14607016_20260930183138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603275728"
+    },
+    {
+      "title": "STUNing",
+      "artist": "김영원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/272/14610272_20261001153228_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284415"
+    },
+    {
+      "title": "boy",
+      "artist": "xiho",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/07/028/14607028_20260930183345_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603275785"
+    },
+    {
+      "title": "Submarine",
+      "artist": "한송이 (미니마니)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/867/14605867_20260930133619_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603272853"
+    },
     {
       "title": "A4M",
       "artist": "WAYF BOYS",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/907/14609907_20261001135039_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603283551"
+    },
+    {
+      "title": "HALLELUJAH",
+      "artist": "강민승",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/415/14606415_20260930160039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274325"
     },
     {
       "title": "Bye Bye Inhibitions",
@@ -259,48 +301,6 @@
       "artist": "전세연",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/231/14605231_20260930104753_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603270853"
-    },
-    {
-      "title": "What should I do",
-      "artist": "누고(Nugo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/930/14605930_20260930141600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273056"
-    },
-    {
-      "title": "I wasn't sending you like that at the time.",
-      "artist": "홍진영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/788/14598788_20260929123948_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603246295"
-    },
-    {
-      "title": "We're in love",
-      "artist": "태유",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/509/14605509_20260930114139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603271787"
-    },
-    {
-      "title": "Sometimes even Seoul slickers",
-      "artist": "두리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/115/14605115_20260930104150_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603270257"
-    },
-    {
-      "title": "Our Story",
-      "artist": "WOODZ",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/993/14599993_20260929161847_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603249748"
-    },
-    {
-      "title": "Onatrip",
-      "artist": "PEEPPEEP",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/04/830/14604830_20260930101412_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603268316"
-    },
-    {
-      "title": "Since the day I sent you",
-      "artist": "다무 (Damu)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/933/14605933_20260930141713_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273071"
     }
   ]
 }
