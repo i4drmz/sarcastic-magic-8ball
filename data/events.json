@@ -1,31 +1,10 @@
 {
-  "generatedAt": "2026-10-02T17:01:20.953Z",
-  "lastUpdated": "2026-10-02T17:01:20.953Z",
+  "generatedAt": "2026-10-02T21:34:20.645Z",
+  "lastUpdated": "2026-10-02T21:34:20.645Z",
   "sourceSummary": [
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-07545f3668676dfe",
-      "type": "Fan Meeting",
-      "title": "Solo Fan Meeting “Boys Over Flowers”",
-      "artist": "The Boyz",
-      "group": "The Boyz",
-      "date": "2026-10-01",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "THE BOYZ SOLO FAN MEETING COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/the-boyzs-eric-to-hold-his-first-solo-fan-meeting-in-korea-with-a-boys-over-flowers-twist",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-02T17:01:20.953Z"
-    },
     {
       "id": "evt-84d54792833e1903",
       "type": "Concert",
@@ -44,7 +23,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-02T17:01:20.953Z"
+      "lastUpdated": "2026-10-02T21:34:20.645Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -64,7 +43,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-02T17:01:20.953Z"
+      "lastUpdated": "2026-10-02T21:34:20.645Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -84,7 +63,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-02T17:01:20.953Z"
+      "lastUpdated": "2026-10-02T21:34:20.645Z"
     }
   ]
 }
