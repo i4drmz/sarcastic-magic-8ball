@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-10-03T05:30:08.361Z",
+  "generatedAt": "2026-10-03T11:51:14.313Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Bon Voyage",
+      "artist": "효린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/275/14605275_20260930105007_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603271071"
+    },
+    {
+      "title": "feat. The Flower of Life Trio",
+      "artist": "비프리 (B-Free)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/486/14605486_20260930113302_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603271721"
+    },
+    {
+      "title": "Stripped",
+      "artist": "윤원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/522/14610522_20261001174039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603286205"
+    },
+    {
+      "title": "Warm lunch box",
+      "artist": "Zayvo (제이보)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/249/14610249_20261001152633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284287"
+    },
+    {
+      "title": "I remember that day",
+      "artist": "이병찬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/789/14606789_20260930172503_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603275001"
+    },
+    {
+      "title": "Dry Sea",
+      "artist": "이십사일",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/461/14605461_20260930111016_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603271671"
+    },
+    {
+      "title": "Rhythm Check (walk together)",
+      "artist": "xikers(싸이커스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/849/14609849_20261001122257_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603283250"
+    },
+    {
+      "title": "Because I love you more",
+      "artist": "방쏭",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/248/14610248_20261001152539_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284283"
+    },
+    {
+      "title": "Summer",
+      "artist": "최성윤(Y)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/465/14614465_20261002154841_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603297333"
+    },
     {
       "title": "Snitch",
       "artist": "JDL (재달)",
@@ -247,60 +301,6 @@
       "artist": "음율",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/800/14598800_20260929124353_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603246314"
-    },
-    {
-      "title": "Five Hours of Fragments",
-      "artist": "TIOT(티아이오티)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/356/14594356_20260928152253_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603233372"
-    },
-    {
-      "title": "ew",
-      "artist": "DPR CREAM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/685/14606685_20260930170951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603274806"
-    },
-    {
-      "title": "Are you happy now?",
-      "artist": "단칸방 로맨스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/299/14606299_20260930152708_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603274013"
-    },
-    {
-      "title": "piano ver.",
-      "artist": "김뮤지엄 (KIMMUSEUM)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/286/14605286_20260930105034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603271094"
-    },
-    {
-      "title": "Girl in Seoul",
-      "artist": "유명한아이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/913/14605913_20260930141158_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603272962"
-    },
-    {
-      "title": "Life is Beautiful",
-      "artist": "마야",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/409/14598409_20260929104629_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603245000"
-    },
-    {
-      "title": "Why would I do this?",
-      "artist": "최열음",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/605/14598605_20260929114752_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603245725"
-    },
-    {
-      "title": "Seasonal You",
-      "artist": "이기택",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/941/14605941_20260930142639_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273091"
-    },
-    {
-      "title": "We Can't Look Back (with Kim Min Sung)",
-      "artist": "허세영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/142/14594142_20260928141250_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603232553"
     }
   ]
 }
