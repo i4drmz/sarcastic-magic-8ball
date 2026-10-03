@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-02T22:23:32.581Z",
+  "generatedAt": "2026-10-03T05:30:08.361Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Snitch",
+      "artist": "JDL (재달)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/654/14598654_20260929120312_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245812"
+    },
+    {
+      "title": "Kill the vibe!",
+      "artist": "NIKA (니카)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/236/14610236_20261001152144_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284236"
+    },
+    {
+      "title": "For the autumn when the sorrowful summer was mixed",
+      "artist": "헌책방",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/671/14613671_20261002104135_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603294703"
+    },
+    {
+      "title": "Whatever Love Means",
+      "artist": "가호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/602/14609602_20261001103929_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282579"
+    },
+    {
+      "title": "Feat. hizui",
+      "artist": "Mownz",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/07/257/14607257_20260930192227_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603276472"
+    },
+    {
+      "title": "A Song of Love",
+      "artist": "재경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/619/14598619_20260929115157_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245761"
+    },
     {
       "title": "Rare Woman (Feat. NOWIMYOUNG)",
       "artist": "YENA (최예나)",
@@ -13,6 +49,12 @@
       "artist": "스무살",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/934/14605934_20260930141718_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603273073"
+    },
+    {
+      "title": "Silhouette (Feat. Kang Seok-hwa of (WEi))",
+      "artist": "Opius",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/243/14610243_20261001152259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284243"
     },
     {
       "title": "On My Way",
@@ -49,6 +91,36 @@
       "artist": "강민승",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/415/14606415_20260930160039_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603274325"
+    },
+    {
+      "title": "comp4ss",
+      "artist": "PLAYB4CK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/604/14609604_20261001103941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282582"
+    },
+    {
+      "title": "Love & Ruin",
+      "artist": "WAD",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/643/14609643_20261001104840_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282647"
+    },
+    {
+      "title": "Prod. Tmlm",
+      "artist": "HWAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/246/14610246_20261001152359_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284267"
+    },
+    {
+      "title": "impatience",
+      "artist": "씨엘(Ciel)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/591/14609591_20261001103642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282549"
+    },
+    {
+      "title": "Lost in Orbit",
+      "artist": "김우진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/247/14610247_20261001152430_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284281"
     },
     {
       "title": "Bye Bye Inhibitions",
@@ -229,78 +301,6 @@
       "artist": "허세영",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/142/14594142_20260928141250_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603232553"
-    },
-    {
-      "title": "villain",
-      "artist": "OLNL (오르내림)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/390/14598390_20260929103243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603244943"
-    },
-    {
-      "title": "Sneezing",
-      "artist": "아이우에오",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/089/14594089_20260928140453_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603232210"
-    },
-    {
-      "title": "Frontal Breakthrough",
-      "artist": "김시원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/789/14598789_20260929124145_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603246299"
-    },
-    {
-      "title": "The next time you grow up, tell me now that you said you'll let me know the next time you're older.",
-      "artist": "Mingginyu (밍기뉴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/932/14605932_20260930141711_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273070"
-    },
-    {
-      "title": "Pandora",
-      "artist": "TESSAR(테사르)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/256/14606256_20260930152257_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273888"
-    },
-    {
-      "title": "WHERE",
-      "artist": "JAYN (제인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/402/14598402_20260929103944_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603244966"
-    },
-    {
-      "title": "Only thing",
-      "artist": "지성 (JISUNG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/901/14599901_20260929161248_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603249444"
-    },
-    {
-      "title": "Illusion and laughter",
-      "artist": "카코포니 (cacophony)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/77/815/14577815_20260922184728_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603181429"
-    },
-    {
-      "title": "LOUDER",
-      "artist": "CRAVITY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/499/14599499_20260929154500_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603248520"
-    },
-    {
-      "title": "It's a big deal",
-      "artist": "테이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/963/14598963_20260929140017_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603246700"
-    },
-    {
-      "title": "Why Time?",
-      "artist": "Aeil",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/604/14598604_20260929114751_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603245726"
-    },
-    {
-      "title": "Blue season",
-      "artist": "전세연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/231/14605231_20260930104753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603270853"
     }
   ]
 }
