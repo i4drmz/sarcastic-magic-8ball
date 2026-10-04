@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-03T21:30:19.647Z",
+  "generatedAt": "2026-10-04T06:04:45.502Z",
   "count": 50,
   "songs": [
+    {
+      "title": "noite queima",
+      "artist": "이진혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/281/14610281_20261001154048_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284446"
+    },
+    {
+      "title": "Little finger",
+      "artist": "세진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/609/14609609_20261001104040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282594"
+    },
+    {
+      "title": "x/x/x",
+      "artist": "Jaded (제이디드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/278/14610278_20261001153859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284442"
+    },
+    {
+      "title": "Sweet Potato Sweets",
+      "artist": "강하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/269/14610269_20261001153148_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284412"
+    },
+    {
+      "title": "Home",
+      "artist": "권미래",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/99/438/14599438_20260929152626_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603248380"
+    },
+    {
+      "title": "Awaken",
+      "artist": "Animal Divers",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/645/14609645_20261001104959_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282655"
+    },
     {
       "title": "Bon Voyage",
       "artist": "효린",
@@ -13,6 +49,12 @@
       "artist": "비프리 (B-Free)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/486/14605486_20260930113302_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603271721"
+    },
+    {
+      "title": "Only after I send you",
+      "artist": "비비안 (BBAHN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/487/14605487_20260930113321_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603271733"
     },
     {
       "title": "Stripped",
@@ -67,6 +109,18 @@
       "artist": "NIKA (니카)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/236/14610236_20261001152144_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603284236"
+    },
+    {
+      "title": "Mommy's all right.",
+      "artist": "정재하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/280/14610280_20261001154019_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284444"
+    },
+    {
+      "title": "vintage love",
+      "artist": "박찬엽",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/615/14609615_20261001104143_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282605"
     },
     {
       "title": "For the autumn when the sorrowful summer was mixed",
@@ -247,60 +301,6 @@
       "artist": "민준 (MINJUN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/089/14606089_20260930150240_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603273519"
-    },
-    {
-      "title": "When dawn comes, I want to see more.",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/871/14605871_20260930133641_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603272861"
-    },
-    {
-      "title": "Wonderful Life",
-      "artist": "방윤하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/07/129/14607129_20260930184654_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603276239"
-    },
-    {
-      "title": "Last Letter",
-      "artist": "tokyobutton (도쿄버튼)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/103/14606103_20260930150650_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273542"
-    },
-    {
-      "title": "happiness",
-      "artist": "OVN (오븐)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/04/786/14604786_20260930100942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603267957"
-    },
-    {
-      "title": "What kind of story do I want to tell?",
-      "artist": "에리즈 (Aries)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/408/14598408_20260929104624_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603244999"
-    },
-    {
-      "title": "7D7N",
-      "artist": "어린제독",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/629/14609629_20261001104538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603282622"
-    },
-    {
-      "title": "In My Imagination",
-      "artist": "Cache Alleyway (캐시앨리웨이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/101/14606101_20260930150544_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273540"
-    },
-    {
-      "title": "Never Again",
-      "artist": "레오(LEO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/270/14606270_20260930152439_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273904"
-    },
-    {
-      "title": "Clockwork Orange",
-      "artist": "음율",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/800/14598800_20260929124353_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603246314"
     }
   ]
 }
