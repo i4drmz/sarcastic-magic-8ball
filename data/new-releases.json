@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-10-04T06:04:45.502Z",
+  "generatedAt": "2026-10-04T12:35:39.220Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Take care, we",
+      "artist": "수호 (SUHO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/702/14613702_20261002105050_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603294754"
+    },
+    {
+      "title": "Drizz Freestyle",
+      "artist": "P. Cassady (피캐시디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/395/14609395_20261001093131_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603282057"
+    },
+    {
+      "title": "TIK TAK",
+      "artist": "Tani",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/617/14598617_20260929115156_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603245758"
+    },
+    {
+      "title": "Striped sweater",
+      "artist": "산만한시선",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/910/14609910_20261001135458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603283554"
+    },
+    {
+      "title": "You have to.",
+      "artist": "Northfacegawd",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/07/259/14607259_20260930192232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603276486"
+    },
+    {
+      "title": "Today and tomorrow I love you",
+      "artist": "은주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/787/14606787_20260930172450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603274998"
+    },
+    {
+      "title": "Rachmaninoff: Piano Concerto No. 2 in C minor, Op. 18 – I. Moderato",
+      "artist": "박주영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/294/14610294_20261001155820_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284539"
+    },
+    {
+      "title": "In a pinch",
+      "artist": "아이보리 (Ivory)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/859/14609859_20261001122402_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603283291"
+    },
+    {
+      "title": "Currency",
+      "artist": "강민석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/284/14610284_20261001154121_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284454"
+    },
     {
       "title": "noite queima",
       "artist": "이진혁",
@@ -247,60 +301,6 @@
       "artist": "추다혜차지스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/102/14606102_20260930150648_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603273541"
-    },
-    {
-      "title": "feat. Shane",
-      "artist": "oftn (오픈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/834/14609834_20261001121832_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603283184"
-    },
-    {
-      "title": "Come see me",
-      "artist": "AYOUNG(에이영)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/98/606/14598606_20260929114854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603245732"
-    },
-    {
-      "title": "Throw It Out (feat. Delinquency) Extended Mix",
-      "artist": "KiMMi (킴미)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/210/14606210_20260930151648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273811"
-    },
-    {
-      "title": "UGRS RIGHT HERE!",
-      "artist": "창모 (CHANGMO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/418/14606418_20260930161954_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603274331"
-    },
-    {
-      "title": "Full stop",
-      "artist": "우디 (Woody)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/369/14606369_20260930153532_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603274227"
-    },
-    {
-      "title": "homecoming.",
-      "artist": "최파랑 (Blu Choi)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/422/14606422_20260930162259_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603274352"
-    },
-    {
-      "title": "Tomorrow won't come",
-      "artist": "Brody (브로디)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/221/14605221_20260930104708_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603270820"
-    },
-    {
-      "title": "IWantU",
-      "artist": "아녹 (Anoc)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/562/14609562_20261001103138_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603282478"
-    },
-    {
-      "title": "Another Breath",
-      "artist": "민준 (MINJUN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/089/14606089_20260930150240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603273519"
     }
   ]
 }
