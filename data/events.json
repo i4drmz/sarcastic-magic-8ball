@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-10-05T02:59:36.321Z",
-  "lastUpdated": "2026-10-05T02:59:36.321Z",
+  "generatedAt": "2026-10-06T12:24:33.927Z",
+  "lastUpdated": "2026-10-06T12:24:33.927Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
   ],
   "events": [
     {
-      "id": "evt-67ef68608feda7ba",
-      "type": "Fan Meeting",
-      "title": "Fan Meeting",
-      "artist": "xikers",
-      "group": "xikers",
-      "date": "2026-10-05",
+      "id": "evt-221ba2e2181334a0",
+      "type": "Concert",
+      "title": "Concert “ONE NIGHT LIVE : ONL”",
+      "artist": "Daybreak",
+      "group": "Daybreak",
+      "date": "2026-10-06",
       "time": null,
       "venue": "TBA",
-      "city": "Osaka",
-      "country": "JP",
+      "city": "Seoul",
+      "country": "KR",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "XIKERS FAN MEETING COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/xikers-announce-winter-japanese-release-at-osaka-fan-meeting",
+      "shortDescription": "DAYBREAK CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/daybreak-to-hold-third-one-night-live-onl-small-theater-concert-in-november",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-05T02:59:36.321Z"
+      "lastUpdated": "2026-10-06T12:24:33.927Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -44,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-05T02:59:36.321Z"
+      "lastUpdated": "2026-10-06T12:24:33.927Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-05T02:59:36.321Z"
+      "lastUpdated": "2026-10-06T12:24:33.927Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-05T02:59:36.321Z"
+      "lastUpdated": "2026-10-06T12:24:33.927Z"
     }
   ]
 }
