@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-10-06T12:24:33.927Z",
-  "lastUpdated": "2026-10-06T12:24:33.927Z",
+  "generatedAt": "2026-10-07T03:16:31.279Z",
+  "lastUpdated": "2026-10-07T03:16:31.279Z",
   "sourceSummary": [
+    "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-bcda23c5bb10e7a3",
+      "type": "Concert",
+      "title": "Han So Hee, Kang You Seok, Sung Joon, And More Confirmed To Join Byeon Woo Seok In “Solo Leveling” Live-Action Adaptation",
+      "artist": null,
+      "group": null,
+      "date": "2026-10-07",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/06183624/han-so-hee-kang-you-seok-sung-joon.jpg",
+      "shortDescription": "Han So Hee, Kang You Seok, Sung Joon, Lee Sung Min, and Rain will be joining Byeon Woo Seok in Netflix’s upcoming live-action series “Solo Leveling”! “Solo Leveling,” which originally began as a web novel before being adapted into a webt…",
+      "sourceUrl": "https://www.soompi.com/article/1875882wpp/han-so-hee-kang-you-seok-sung-joon-and-more-confirmed-to-join-byeon-woo-seok-in-solo-leveling-live-action-adaptation",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-10-07T03:16:31.279Z"
+    },
     {
       "id": "evt-221ba2e2181334a0",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/daybreak-to-hold-third-one-night-live-onl-small-theater-concert-in-november",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-06T12:24:33.927Z"
+      "lastUpdated": "2026-10-07T03:16:31.279Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-06T12:24:33.927Z"
+      "lastUpdated": "2026-10-07T03:16:31.279Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-06T12:24:33.927Z"
+      "lastUpdated": "2026-10-07T03:16:31.279Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-06T12:24:33.927Z"
+      "lastUpdated": "2026-10-07T03:16:31.279Z"
     }
   ]
 }
