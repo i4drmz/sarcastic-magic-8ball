@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T12:17:22.240Z",
-  "lastUpdated": "2026-10-07T12:17:22.240Z",
+  "generatedAt": "2026-10-07T22:26:18.922Z",
+  "lastUpdated": "2026-10-07T22:26:18.922Z",
   "sourceSummary": [
     "soompi",
     "soompi-music"
@@ -24,7 +24,47 @@
       "sourceUrl": "https://www.soompi.com/article/1875882wpp/han-so-hee-kang-you-seok-sung-joon-and-more-confirmed-to-join-byeon-woo-seok-in-solo-leveling-live-action-adaptation",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-07T12:17:22.240Z"
+      "lastUpdated": "2026-10-07T22:26:18.922Z"
+    },
+    {
+      "id": "evt-fdd9a67c059f8aed",
+      "type": "Festival",
+      "title": "Watch: HYBE Announces Plans For Weverse Con Festival India",
+      "artist": null,
+      "group": null,
+      "date": "2026-10-07",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/07100224/Weverse-Con-Festival-India.jpeg",
+      "shortDescription": "For the first time ever, Weverse Con Festival is heading abroad! On October 7, HYBE its plans for Weverse Con Festival India, which will mark the first time the event is being held outside of Korea. Weverse Con India will be held in New…",
+      "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-10-07T22:26:18.922Z"
+    },
+    {
+      "id": "evt-5801f077a0c7dcfc",
+      "type": "Concert",
+      "title": "XG Announces Cancellation Of Dallas And Mexico City Concerts",
+      "artist": "XG",
+      "group": "XG",
+      "date": "2026-10-07",
+      "time": null,
+      "venue": "TBA",
+      "city": "Dallas",
+      "country": "US",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/10/07063029/XG.jpg",
+      "shortDescription": "XG’s “THE CORE” concerts in Dallas and Mexico City will no longer be taking place. On October 6 KST, XG that the Dallas and Mexico City stops of their ongoing “THE CORE” world tour had been “cancelled due to unforeseen circumstances.” Th…",
+      "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-10-07T22:26:18.922Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -44,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-07T12:17:22.240Z"
+      "lastUpdated": "2026-10-07T22:26:18.922Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -64,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-07T12:17:22.240Z"
+      "lastUpdated": "2026-10-07T22:26:18.922Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -84,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-07T12:17:22.240Z"
+      "lastUpdated": "2026-10-07T22:26:18.922Z"
     }
   ]
 }
