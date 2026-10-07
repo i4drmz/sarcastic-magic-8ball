@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-06T22:44:46.061Z",
+  "generatedAt": "2026-10-07T06:13:10.671Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Korean ver.",
+      "artist": "KO1KEYZ",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/806/14614806_20261002180609_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603298737"
+    },
+    {
+      "title": "Last Train Love",
+      "artist": "테종",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/709/14623709_20261006113720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603322427"
+    },
+    {
+      "title": "Hey Enjoy",
+      "artist": "KIK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/148/14614148_20261002143242_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603296230"
+    },
+    {
+      "title": "Afterglow",
+      "artist": "임가영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/332/14624332_20261006154101_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324805"
+    },
+    {
+      "title": "I Guarantee",
+      "artist": "하윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/231/14624231_20261006145603_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324404"
+    },
+    {
+      "title": "Wonmoon",
+      "artist": "김아현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/475/14614475_20261002160011_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603297345"
+    },
     {
       "title": "Finished",
       "artist": "KickFlip(킥플립)",
@@ -15,10 +51,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603282037"
     },
     {
+      "title": "Dance dance (feat. June)",
+      "artist": "LOTIAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/666/14613666_20261002104034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603294691"
+    },
+    {
+      "title": "Back Variegation",
+      "artist": "배아현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/631/14623631_20261006111518_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603322206"
+    },
+    {
+      "title": "Feat. jnr.",
+      "artist": "뎁트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/551/14623551_20261006102848_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603321959"
+    },
+    {
+      "title": "I should have loved you more than I cared for you.",
+      "artist": "나빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/804/14614804_20261002180301_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603298735"
+    },
+    {
       "title": "Pedazos",
       "artist": "예성 (YESUNG)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/76/316/14576316_20261002163359_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603296911"
+    },
+    {
+      "title": "all about u",
+      "artist": "The Hills (더 힐스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/560/14613560_20261002095941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603294428"
+    },
+    {
+      "title": "Ten Fifty One",
+      "artist": "제리온",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/790/14613790_20261002112146_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603294962"
+    },
+    {
+      "title": "feat. Lil Cherry",
+      "artist": "CYRRCA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/01/657/14601657_20260929182552_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603253118"
+    },
+    {
+      "title": "person who was really bad",
+      "artist": "리누 (Lee-Nu)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/627/14623627_20261006111419_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603322201"
+    },
+    {
+      "title": "A Different Cage",
+      "artist": "지서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/801/14614801_20261002180201_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603298729"
+    },
+    {
+      "title": "If this shit is love",
+      "artist": "개똥 (류진)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/820/14614820_20261002181433_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603298811"
+    },
+    {
+      "title": "feat. Colin",
+      "artist": "레몬시티(Lemon City)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/509/14624509_20261006160911_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603325355"
     },
     {
       "title": "Where are you?",
@@ -199,108 +301,6 @@
       "artist": "우이경 (Woo Yi Kyung)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/457/14610457_20261001170942_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603285998"
-    },
-    {
-      "title": "On the Low",
-      "artist": "임퀴니 (Queenie Lim)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/453/14614453_20261002153749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603297307"
-    },
-    {
-      "title": "Final Prescription",
-      "artist": "김준현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/696/14613696_20261002104828_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603294739"
-    },
-    {
-      "title": "NOISE",
-      "artist": "Ashall",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/141/14614141_20261002142741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603296221"
-    },
-    {
-      "title": "In the future when it comes to me,",
-      "artist": "보라미유",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/852/14613852_20261002114338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603295272"
-    },
-    {
-      "title": "feat. c1wa",
-      "artist": "Coa White",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/146/14605146_20260930104328_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603270428"
-    },
-    {
-      "title": "A world without you",
-      "artist": "전태영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/277/14610277_20261002175022_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603284439"
-    },
-    {
-      "title": "Climax",
-      "artist": "유승우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/283/14610283_20261001154121_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603284449"
-    },
-    {
-      "title": "blue neon (feat. Namgyeon)",
-      "artist": "blueberryclub",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/459/14605459_20260930110648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603271668"
-    },
-    {
-      "title": "Plum blossom scent",
-      "artist": "금잔디",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/675/14609675_20261001105748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603282773"
-    },
-    {
-      "title": "Feat. Touch the Sky",
-      "artist": "HD BL4CK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/856/14609856_20261001122359_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603283284"
-    },
-    {
-      "title": "How can you break up when you love?",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/06/796/14606796_20260930172920_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603275009"
-    },
-    {
-      "title": "We're going back to",
-      "artist": "임가영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/973/14613973_20261002124938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603295599"
-    },
-    {
-      "title": "Gaza",
-      "artist": "ADYNE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/460/14609460_20261001100952_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603282222"
-    },
-    {
-      "title": "COLLISIONCOURSE",
-      "artist": "QXN (쿠잔)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/489/14605489_20260930113321_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603271737"
-    },
-    {
-      "title": "Camcorder",
-      "artist": "LOTS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/94/213/14594213_20260928142759_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603232947"
-    },
-    {
-      "title": "Everything was love",
-      "artist": "김민울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/562/14613562_20261002100100_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603294431"
-    },
-    {
-      "title": "If you are careless,",
-      "artist": "BLOW OF",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/693/14609693_20261001110048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603282812"
     }
   ]
 }
