@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-10-08T06:21:55.271Z",
+  "generatedAt": "2026-10-08T13:46:26.871Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Still",
+      "artist": "엔플라잉 (N.Flying)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/616/14625616_20261006174429_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603328982"
+    },
+    {
+      "title": "Alphabet",
+      "artist": "로시 (Rothy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/849/14625849_20261006181239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329617"
+    },
+    {
+      "title": "90s Kids",
+      "artist": "주영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/552/14625552_20261006173901_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603328787"
+    },
+    {
+      "title": "My grandmother",
+      "artist": "김진호 (SG워너비)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/842/14625842_20261006181022_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329607"
+    },
+    {
+      "title": "Smokey Eye",
+      "artist": "Tabber",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/045/14628045_20261007095712_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603335932"
+    },
+    {
+      "title": "Confession",
+      "artist": "SOMEDAY (썸데이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/221/14624221_20261006145239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324348"
+    },
+    {
+      "title": "Long Tunnel",
+      "artist": "정인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/173/14628173_20261007103718_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336345"
+    },
+    {
+      "title": "KENZIE RE:WORKS",
+      "artist": "KENZIE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/648/14628648_20261007122709_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337850"
+    },
+    {
+      "title": "Fairy tale",
+      "artist": "크나큰",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/167/14624167_20261006143349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324080"
+    },
+    {
+      "title": "End My Loneliness",
+      "artist": "크루셜스타 (CRUCiAL STAR)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/597/14628597_20261007120410_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337683"
+    },
+    {
+      "title": "Another Day (Feat. Deposited)",
+      "artist": "린지 (Leenzy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/655/14613655_20261002103748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603294632"
+    },
+    {
+      "title": "radiant, splendor",
+      "artist": "최주은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/828/14625828_20261006180719_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329537"
+    },
+    {
+      "title": "Feat. Leellamarz",
+      "artist": "YOUNG BLOOD X",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/183/14624183_20261006144242_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324114"
+    },
+    {
+      "title": "DAWN.EXE",
+      "artist": "BEATPELLA HOUSE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/178/14624178_20261006144130_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324107"
+    },
+    {
+      "title": "Star",
+      "artist": "Login",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/164/14614164_20261002143840_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603296305"
+    },
     {
       "title": "Can we run away together?",
       "artist": "처리 (Churry)",
@@ -211,96 +301,6 @@
       "artist": "원진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/287/14624287_20261006151436_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603324707"
-    },
-    {
-      "title": "Sorry Mom and Dad",
-      "artist": "루빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/05/493/14605493_20260930113523_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603271749"
-    },
-    {
-      "title": "[Look on.]",
-      "artist": "율",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/808/14614808_20261002180710_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603298744"
-    },
-    {
-      "title": "Dive (Feat. Julie of kiss OF life, PAAK, Para)",
-      "artist": "APRO (아프로)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/814/14614814_20261002181230_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603298798"
-    },
-    {
-      "title": "7777",
-      "artist": "b!ni (비니!)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/668/14613668_20261002104042_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603294700"
-    },
-    {
-      "title": "missin ㅠ.ㅠ",
-      "artist": "yoonu (유누)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/160/14614160_20261002143640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603296249"
-    },
-    {
-      "title": "Korean ver.",
-      "artist": "KO1KEYZ",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/806/14614806_20261002180609_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603298737"
-    },
-    {
-      "title": "Last Train Love",
-      "artist": "테종",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/709/14623709_20261006113720_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322427"
-    },
-    {
-      "title": "Hey Enjoy",
-      "artist": "KIK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/148/14614148_20261002143242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603296230"
-    },
-    {
-      "title": "Afterglow",
-      "artist": "임가영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/332/14624332_20261006154101_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324805"
-    },
-    {
-      "title": "I Guarantee",
-      "artist": "하윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/231/14624231_20261006145603_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324404"
-    },
-    {
-      "title": "Wonmoon",
-      "artist": "김아현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/475/14614475_20261002160011_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603297345"
-    },
-    {
-      "title": "Finished",
-      "artist": "KickFlip(킥플립)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/137/14582137_20261002174419_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603195591"
-    },
-    {
-      "title": "Cry Loud",
-      "artist": "로이킴",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/09/391/14609391_20261001093048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603282037"
-    },
-    {
-      "title": "Dance dance (feat. June)",
-      "artist": "LOTIAN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/666/14613666_20261002104034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603294691"
-    },
-    {
-      "title": "Back Variegation",
-      "artist": "배아현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/631/14623631_20261006111518_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322206"
     }
   ]
 }
