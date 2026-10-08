@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-10-07T22:26:18.922Z",
-  "lastUpdated": "2026-10-07T22:26:18.922Z",
+  "generatedAt": "2026-10-08T12:27:15.991Z",
+  "lastUpdated": "2026-10-08T12:27:15.991Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-d201b73700acd360",
+      "type": "Festival",
+      "title": "Festival “Weverse Con Festival India”",
+      "artist": "HYBE",
+      "group": "HYBE",
+      "date": "2026-10-08",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "HYBE FESTIVAL COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/hybe-to-hold-weverse-con-festival-india-in-new-delhi-in-march-2027-the-festivals-first-edition-outside-korea",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-08T12:27:15.991Z"
+    },
     {
       "id": "evt-bcda23c5bb10e7a3",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1875882wpp/han-so-hee-kang-you-seok-sung-joon-and-more-confirmed-to-join-byeon-woo-seok-in-solo-leveling-live-action-adaptation",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-07T22:26:18.922Z"
+      "lastUpdated": "2026-10-08T12:27:15.991Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-07T22:26:18.922Z"
+      "lastUpdated": "2026-10-08T12:27:15.991Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-07T22:26:18.922Z"
+      "lastUpdated": "2026-10-08T12:27:15.991Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-07T22:26:18.922Z"
+      "lastUpdated": "2026-10-08T12:27:15.991Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -104,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-07T22:26:18.922Z"
+      "lastUpdated": "2026-10-08T12:27:15.991Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -124,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-07T22:26:18.922Z"
+      "lastUpdated": "2026-10-08T12:27:15.991Z"
     }
   ]
 }
