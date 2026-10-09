@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-08T23:28:35.031Z",
+  "generatedAt": "2026-10-09T06:23:26.125Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Salmin will live!",
+      "artist": "찰리빈웍스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/487/14629487_20261007160038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340523"
+    },
+    {
+      "title": "hate or longing",
+      "artist": "이소나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/650/14628650_20261007122759_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337853"
+    },
+    {
+      "title": "Yido, Me Too (Feat. Uyerin)",
+      "artist": "올티 (Olltii)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/489/14629489_20261007160139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340526"
+    },
+    {
+      "title": "Get Twisted",
+      "artist": "HarryBigButton (해리빅버튼)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/154/14628154_20261007102904_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336291"
+    },
+    {
+      "title": "Older than I remember",
+      "artist": "Wildberry",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/515/14623515_20261006101640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603321891"
+    },
     {
       "title": "Still",
       "artist": "엔플라잉 (N.Flying)",
@@ -13,6 +43,60 @@
       "artist": "로시 (Rothy)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/849/14625849_20261006181239_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603329617"
+    },
+    {
+      "title": "The Boy's End",
+      "artist": "오아! (OAH!)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/491/14629491_20261007160251_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340531"
+    },
+    {
+      "title": "Feat.Jeebanoff",
+      "artist": "정규민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/164/14628164_20261007103433_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336312"
+    },
+    {
+      "title": "How Should We Live? (feat. Seo Innovation)",
+      "artist": "박현중",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/487/14628487_20261007113942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337478"
+    },
+    {
+      "title": "The Usefulness of Depression",
+      "artist": "환희의 트램폴린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/498/14629498_20261007161628_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340552"
+    },
+    {
+      "title": "That person",
+      "artist": "최도영(CANDO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/834/14625834_20261006180823_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329585"
+    },
+    {
+      "title": "Gray area",
+      "artist": "적란운",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/077/14628077_20261007101600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336038"
+    },
+    {
+      "title": "We",
+      "artist": "김소현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/557/14623557_20261006103050_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603322001"
+    },
+    {
+      "title": "Hunminjeongeum",
+      "artist": "•ㄷㄹ",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/465/14628465_20261007113523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337451"
+    },
+    {
+      "title": "Feline I",
+      "artist": "북한산이정훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/247/14624247_20261006150504_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324475"
     },
     {
       "title": "90s Kids",
@@ -217,90 +301,6 @@
       "artist": "라온필",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/635/14613635_20261002103454_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603294557"
-    },
-    {
-      "title": "To you who told me about love",
-      "artist": "서준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/564/14625564_20261006174006_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603328813"
-    },
-    {
-      "title": "Finally, our",
-      "artist": "이진석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/177/14624177_20261006144040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324105"
-    },
-    {
-      "title": "la love",
-      "artist": "김나나(NANA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/861/14623861_20261006122729_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322932"
-    },
-    {
-      "title": "ONE DAY",
-      "artist": "LMST",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/171/14624171_20261006143709_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324099"
-    },
-    {
-      "title": "Goodbye",
-      "artist": "소울트레인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/708/14623708_20261006113720_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322422"
-    },
-    {
-      "title": "Thud",
-      "artist": "윌로 (WILRO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/226/14624226_20261006145332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324358"
-    },
-    {
-      "title": "All about you",
-      "artist": "이오욱",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/330/14624330_20261006153931_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324797"
-    },
-    {
-      "title": "You might call it love.",
-      "artist": "김재환",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/810/14614810_20261002180910_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603298747"
-    },
-    {
-      "title": "OUR",
-      "artist": "황민현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/028/14628028_20261007094441_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603335883"
-    },
-    {
-      "title": "GO Sea",
-      "artist": "영파씨 (YOUNG POSSE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/328/14624328_20261006153822_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324794"
-    },
-    {
-      "title": "I love you",
-      "artist": "츄 (CHUU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/170/14624170_20261006143600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324097"
-    },
-    {
-      "title": "Are you in business for many years?",
-      "artist": "박서진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/326/14624326_20261006153659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324789"
-    },
-    {
-      "title": "Weirdo",
-      "artist": "Hypeverse",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/637/14625637_20261006174634_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329013"
-    },
-    {
-      "title": "Frozen Prince",
-      "artist": "원진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/287/14624287_20261006151436_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324707"
     }
   ]
 }
