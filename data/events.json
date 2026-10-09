@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T12:16:26.981Z",
-  "lastUpdated": "2026-10-09T12:16:26.981Z",
+  "generatedAt": "2026-10-09T21:59:57.385Z",
+  "lastUpdated": "2026-10-09T21:59:57.385Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -8,24 +8,24 @@
   ],
   "events": [
     {
-      "id": "evt-d201b73700acd360",
+      "id": "evt-6e928c8bd78d8af4",
       "type": "Festival",
-      "title": "Festival “Weverse Con Festival India”",
-      "artist": "HYBE",
-      "group": "HYBE",
-      "date": "2026-10-08",
+      "title": "Festival",
+      "artist": "ATEEZ",
+      "group": "ATEEZ",
+      "date": "2026-10-09",
       "time": null,
       "venue": "TBA",
-      "city": "TBA",
-      "country": "KR",
+      "city": "Los Angeles",
+      "country": "US",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "HYBE FESTIVAL COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/hybe-to-hold-weverse-con-festival-india-in-new-delhi-in-march-2027-the-festivals-first-edition-outside-korea",
+      "shortDescription": "ATEEZ FESTIVAL COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/hello82-announces-82world-la-a-two-day-k-pop-fan-festival-featuring-ateez-p1harmony-girlset-and-more",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-09T12:16:26.981Z"
+      "lastUpdated": "2026-10-09T21:59:57.385Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-09T12:16:26.981Z"
+      "lastUpdated": "2026-10-09T21:59:57.385Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -65,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-09T12:16:26.981Z"
+      "lastUpdated": "2026-10-09T21:59:57.385Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-09T12:16:26.981Z"
+      "lastUpdated": "2026-10-09T21:59:57.385Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -105,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-09T12:16:26.981Z"
+      "lastUpdated": "2026-10-09T21:59:57.385Z"
     },
     {
       "id": "evt-e5f3f980b2e9cfdd",
@@ -125,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-09T12:16:26.981Z"
+      "lastUpdated": "2026-10-09T21:59:57.385Z"
     }
   ]
 }
