@@ -1,12 +1,72 @@
 {
-  "generatedAt": "2026-10-09T06:23:26.125Z",
+  "generatedAt": "2026-10-09T13:31:44.532Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Same day",
+      "artist": "권진아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/467/14629467_20261007155532_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340489"
+    },
+    {
+      "title": "Chasm of Time (Memory Universe)",
+      "artist": "전상근",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/527/14623527_20261006102008_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603321919"
+    },
+    {
+      "title": "Will we run into each other?",
+      "artist": "V.O.S",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/175/14628175_20261007103724_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336351"
+    },
+    {
+      "title": "Captured",
+      "artist": "kwacamolee",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/844/14625844_20261006181030_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329610"
+    },
+    {
+      "title": "Yang Zhi",
+      "artist": "가오가이 (kaogaii)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/474/14629474_20261007155804_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340507"
+    },
+    {
+      "title": "I was so happy with you",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/148/14625148_20261006170257_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603327437"
+    },
     {
       "title": "Salmin will live!",
       "artist": "찰리빈웍스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/487/14629487_20261007160038_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340523"
+    },
+    {
+      "title": "Worker Bee Journey",
+      "artist": "이다능",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/481/14629481_20261007155909_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340516"
+    },
+    {
+      "title": "Don't get comfortable",
+      "artist": "DOKO (도코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/478/14629478_20261007155853_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340512"
+    },
+    {
+      "title": "I Can't Give Up",
+      "artist": "EPISODE (에피소드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/311/14624311_20261006152740_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603324750"
+    },
+    {
+      "title": "Crayon Scratch",
+      "artist": "샷다",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/835/14625835_20261006180824_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329587"
     },
     {
       "title": "hate or longing",
@@ -241,66 +301,6 @@
       "artist": "김다현",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/830/14625830_20261006180727_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603329575"
-    },
-    {
-      "title": "Feat. Hash Swan",
-      "artist": "KOREANGROOVE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/175/14624175_20261006144002_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324103"
-    },
-    {
-      "title": "NO.509",
-      "artist": "Masterclass",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/705/14623705_20261006113518_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322411"
-    },
-    {
-      "title": "Rooftop",
-      "artist": "아거 (AGER)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/860/14625860_20261006181454_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329645"
-    },
-    {
-      "title": "Tokyo",
-      "artist": "heyden",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/317/14624317_20261006153242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324774"
-    },
-    {
-      "title": "Eat Sway Love (Feat. Sunwoo Jeong-a)",
-      "artist": "Luca minor",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/75/956/14575956_20260922125141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603175319"
-    },
-    {
-      "title": "Norwich",
-      "artist": "Gabriel Ko",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/342/14624342_20261006154559_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324879"
-    },
-    {
-      "title": "I think he likes it.",
-      "artist": "비하트 (B.HEART)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/168/14624168_20261006143450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324081"
-    },
-    {
-      "title": "7 Days",
-      "artist": "LEY (래이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/778/14613778_20261002111526_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603294912"
-    },
-    {
-      "title": "I still can't break up with you",
-      "artist": "임채경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/481/14628481_20261007113841_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337471"
-    },
-    {
-      "title": "I have you in my day",
-      "artist": "라온필",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/635/14613635_20261002103454_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603294557"
     }
   ]
 }
