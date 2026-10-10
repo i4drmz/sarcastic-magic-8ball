@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-10T06:04:53.900Z",
+  "generatedAt": "2026-10-10T12:45:59.458Z",
   "count": 50,
   "songs": [
     {
-      "title": "Neoraneun Sasil",
+      "title": "Starry Night",
+      "artist": "소녀시대-효리수 (Girls' Generation-HRS)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/839/14625839_20261006180922_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329604"
+    },
+    {
+      "title": "BOYFRIEND",
+      "artist": "호시",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/268/14632268_20261008095940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603347886"
+    },
+    {
+      "title": "Adiós",
+      "artist": "전유진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/047/14628047_20261007100045_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603335948"
+    },
+    {
+      "title": "Saeyamang",
+      "artist": "Nosun",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/479/14632479_20261008114544_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603348872"
+    },
+    {
+      "title": "BIG DREAM",
+      "artist": "키드킹 (Kidd King)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/006/14629006_20261007140350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603339207"
+    },
+    {
+      "title": "Emergency declaration",
+      "artist": "이오몽",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/644/14629644_20261007173929_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603340925"
+    },
+    {
+      "title": "The fact that it's you",
       "artist": "트웰브(TWLV)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/706/14623706_20261006113619_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603322414"
@@ -15,16 +51,28 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603340957"
     },
     {
-      "title": "Majimak Yeonnin",
+      "title": "Last lover",
       "artist": "김용빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/641/14632641_20261008135200_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603349329"
     },
     {
-      "title": "Muse (Feat. X3an(syeon))",
+      "title": "Muse (Feat. x3an (Sean))",
       "artist": "TAEBIN (태빈)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/597/14629597_20261007172544_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340819"
+    },
+    {
+      "title": "Life Time Goes On",
+      "artist": "리타(Rita)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/523/14628523_20261007115016_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337528"
+    },
+    {
+      "title": "My buddy (Feat. Seismic Stone)",
+      "artist": "na.na",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/487/14625487_20261006173326_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603328520"
     },
     {
       "title": "Good day & night",
@@ -39,19 +87,19 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603337934"
     },
     {
-      "title": "Gateun Haru",
+      "title": "Same day",
       "artist": "권진아",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/467/14629467_20261007155532_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340489"
     },
     {
-      "title": "Siganui Teum (gieogui Uju)",
+      "title": "Chasm of Time (Memory Universe)",
       "artist": "전상근",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/527/14623527_20261006102008_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603321919"
     },
     {
-      "title": "Majuchige Doelkka",
+      "title": "Will we run into each other?",
       "artist": "V.O.S",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/175/14628175_20261007103724_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603336351"
@@ -75,13 +123,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603329610"
     },
     {
-      "title": "Yangji",
+      "title": "Yang Zhi",
       "artist": "가오가이 (kaogaii)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/474/14629474_20261007155804_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340507"
     },
     {
-      "title": "Neowa Cham Haengbokaenneunde",
+      "title": "I was so happy with you",
       "artist": "여은",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/148/14625148_20261006170257_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603327437"
@@ -93,37 +141,37 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603337524"
     },
     {
-      "title": "Meomchwo! (feat. D.Ark (diakeu))",
+      "title": "Stop! (feat. D.Ark)",
       "artist": "콜드월드 (Cold WRLD)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/815/14614815_20261002181230_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603298799"
     },
     {
-      "title": "Naui Aiya",
+      "title": "My child",
       "artist": "김보리",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/157/14628157_20261007103030_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603336295"
     },
     {
-      "title": "Byeonmyeong",
+      "title": "Excuses",
       "artist": "그을",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/486/14632486_20261008115052_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603348890"
     },
     {
-      "title": "Salmin Sarajinda!",
+      "title": "Salmin will live!",
       "artist": "찰리빈웍스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/487/14629487_20261007160038_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340523"
     },
     {
-      "title": "Ilbeorui Yeohaeng",
+      "title": "Worker Bee Journey",
       "artist": "이다능",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/481/14629481_20261007155909_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340516"
     },
     {
-      "title": "Pyeonhaejijimayo",
+      "title": "Don't get comfortable",
       "artist": "DOKO (도코)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/478/14629478_20261007155853_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340512"
@@ -141,13 +189,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603329587"
     },
     {
-      "title": "Miumninji Geuriumninji",
+      "title": "hate or longing",
       "artist": "이소나",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/650/14628650_20261007122759_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603337853"
     },
     {
-      "title": "Ido, Jeodo (Feat. Uyerin)",
+      "title": "Yido, Me Too (Feat. Uyerin)",
       "artist": "올티 (Olltii)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/489/14629489_20261007160139_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340526"
@@ -159,7 +207,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603336291"
     },
     {
-      "title": "Gieokboda Oraedoen Bada",
+      "title": "Older than I remember",
       "artist": "Wildberry",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/515/14623515_20261006101640_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603321891"
@@ -177,7 +225,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603329617"
     },
     {
-      "title": "Sonyeonui Kkeut",
+      "title": "The Boy's End",
       "artist": "오아! (OAH!)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/491/14629491_20261007160251_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340531"
@@ -189,25 +237,25 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603336312"
     },
     {
-      "title": "Eotteoke Saraya Halkkayo? (feat.seohyeoksin)",
+      "title": "How Should We Live? (feat. Seo Innovation)",
       "artist": "박현중",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/487/14628487_20261007113942_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603337478"
     },
     {
-      "title": "Uurui Sseulmo",
+      "title": "The Usefulness of Depression",
       "artist": "환희의 트램폴린",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/498/14629498_20261007161628_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340552"
     },
     {
-      "title": "Geu Saram",
+      "title": "That person",
       "artist": "최도영(CANDO)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/834/14625834_20261006180823_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603329585"
     },
     {
-      "title": "Hoesaekjidae",
+      "title": "Gray area",
       "artist": "적란운",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/077/14628077_20261007101600_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603336038"
@@ -237,7 +285,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603328787"
     },
     {
-      "title": "Uri Halmeoni",
+      "title": "My grandmother",
       "artist": "김진호 (SG워너비)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/842/14625842_20261006181022_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603329607"
@@ -249,58 +297,10 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603335932"
     },
     {
-      "title": "Gobaek",
+      "title": "Confession",
       "artist": "SOMEDAY (썸데이)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/221/14624221_20261006145239_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603324348"
-    },
-    {
-      "title": "Gin Teoneol",
-      "artist": "정인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/173/14628173_20261007103718_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336345"
-    },
-    {
-      "title": "KENZIE RE:WORKS",
-      "artist": "KENZIE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/648/14628648_20261007122709_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337850"
-    },
-    {
-      "title": "Donghwa",
-      "artist": "크나큰",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/167/14624167_20261006143349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324080"
-    },
-    {
-      "title": "End My Loneliness",
-      "artist": "크루셜스타 (CRUCiAL STAR)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/597/14628597_20261007120410_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337683"
-    },
-    {
-      "title": "Another Day (Feat. Gitak)",
-      "artist": "린지 (Leenzy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/655/14613655_20261002103748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603294632"
-    },
-    {
-      "title": "Challanhage",
-      "artist": "최주은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/828/14625828_20261006180719_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329537"
-    },
-    {
-      "title": "Feat. Leellamarz",
-      "artist": "YOUNG BLOOD X",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/183/14624183_20261006144242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324114"
-    },
-    {
-      "title": "DAWN.EXE",
-      "artist": "BEATPELLA HOUSE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/178/14624178_20261006144130_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324107"
     }
   ]
 }
