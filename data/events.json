@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T11:47:52.473Z",
-  "lastUpdated": "2026-10-11T11:47:52.473Z",
+  "generatedAt": "2026-10-11T21:12:57.733Z",
+  "lastUpdated": "2026-10-11T21:12:57.733Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     },
     {
       "id": "evt-c795761567c4d8e5",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/mate-to-hold-first-solo-concert-in-12-years-this-december-following-reunion",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -65,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     },
     {
       "id": "evt-57ca4fbc0b5c074c",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/ateez-announces-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -105,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -125,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -145,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -165,27 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
-    },
-    {
-      "id": "evt-e5f3f980b2e9cfdd",
-      "type": "Concert",
-      "title": "Tour",
-      "artist": "XLOV",
-      "group": "XLOV",
-      "date": "2026-09-26",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/25201043/XLOV.jpeg",
-      "shortDescription": "XLOV TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1873200wpp/xlov-announces-dates-and-cities-for-1st-u-s-tour",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-11T11:47:52.473Z"
+      "lastUpdated": "2026-10-11T21:12:57.733Z"
     }
   ]
 }
