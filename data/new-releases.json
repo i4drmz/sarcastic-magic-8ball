@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-10-11T06:02:51.060Z",
+  "generatedAt": "2026-10-11T13:09:23.852Z",
   "count": 50,
   "songs": [
+    {
+      "title": "As much as I love you",
+      "artist": "종호(ATEEZ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/547/14628547_20261007115422_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337579"
+    },
+    {
+      "title": "Stairwell",
+      "artist": "임철",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/050/14628050_20261007100122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603335971"
+    },
+    {
+      "title": "The Beginning, Not the End",
+      "artist": "스무살",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/571/14632571_20261008121938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349045"
+    },
+    {
+      "title": "Day and Night",
+      "artist": "V01D(보이드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/857/14625857_20261006181350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603329635"
+    },
+    {
+      "title": "Love Again",
+      "artist": "POW (파우)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/168/14628168_20261007103536_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336324"
+    },
+    {
+      "title": "Season of Love",
+      "artist": "필헌",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/569/14632569_20261008121748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349041"
+    },
+    {
+      "title": "Is this kind of love?",
+      "artist": "오유진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/114/14624114_20261006141329_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603323936"
+    },
     {
       "title": "Make a wish",
       "artist": "우예린",
@@ -259,48 +301,6 @@
       "artist": "샷다",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/835/14625835_20261006180824_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603329587"
-    },
-    {
-      "title": "hate or longing",
-      "artist": "이소나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/650/14628650_20261007122759_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337853"
-    },
-    {
-      "title": "Yido, Me Too (Feat. Uyerin)",
-      "artist": "올티 (Olltii)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/489/14629489_20261007160139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340526"
-    },
-    {
-      "title": "Get Twisted",
-      "artist": "HarryBigButton (해리빅버튼)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/154/14628154_20261007102904_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336291"
-    },
-    {
-      "title": "Older than I remember",
-      "artist": "Wildberry",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/515/14623515_20261006101640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603321891"
-    },
-    {
-      "title": "Still",
-      "artist": "엔플라잉 (N.Flying)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/616/14625616_20261006174429_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603328982"
-    },
-    {
-      "title": "Alphabet",
-      "artist": "로시 (Rothy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/849/14625849_20261006181239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329617"
-    },
-    {
-      "title": "The Boy's End",
-      "artist": "오아! (OAH!)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/491/14629491_20261007160251_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340531"
     }
   ]
 }
