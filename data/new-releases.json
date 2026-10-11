@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-10T21:53:47.919Z",
+  "generatedAt": "2026-10-11T06:02:51.060Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Make a wish",
+      "artist": "우예린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/923/14628923_20261007134350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603339013"
+    },
+    {
+      "title": "Sober Enough (Feat. Heo Seong-hyun (rosy))",
+      "artist": "CLOCK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/139/14633139_20261008163749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603350954"
+    },
+    {
+      "title": "I just don't think so",
+      "artist": "이민정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/572/14632572_20261008122039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349047"
+    },
+    {
+      "title": "Feat. Gist",
+      "artist": "ZUO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/029/14628029_20261007094849_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603335885"
+    },
+    {
+      "title": "Fall-ing",
+      "artist": "TOVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/172/14628172_20261007103653_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336342"
+    },
+    {
+      "title": "The night you left was still bright",
+      "artist": "위즈(WIZ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/573/14632573_20261008122049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349049"
+    },
     {
       "title": "Starry Night",
       "artist": "소녀시대-효리수 (Girls' Generation-HRS)",
@@ -31,6 +67,42 @@
       "artist": "키드킹 (Kidd King)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/006/14629006_20261007140350_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603339207"
+    },
+    {
+      "title": "LIKE A MOVIE",
+      "artist": "피스트범프",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/570/14632570_20261008121928_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349043"
+    },
+    {
+      "title": "Late Checkout",
+      "artist": "PS영준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/518/14628518_20261007114914_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337519"
+    },
+    {
+      "title": "EXtra",
+      "artist": "MARTI:N (마틴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/398/14610398_20261001165041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603284941"
+    },
+    {
+      "title": "moyo wangu unauma",
+      "artist": "디어밍",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/158/14628158_20261007103141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336300"
+    },
+    {
+      "title": "To the Glowing",
+      "artist": "배우리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/599/14624599_20261006161529_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603325725"
+    },
+    {
+      "title": "Witch love",
+      "artist": "이안 (EAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/352/14632352_20261008103254_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603348471"
     },
     {
       "title": "Emergency declaration",
@@ -229,78 +301,6 @@
       "artist": "오아! (OAH!)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/491/14629491_20261007160251_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340531"
-    },
-    {
-      "title": "Feat.Jeebanoff",
-      "artist": "정규민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/164/14628164_20261007103433_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336312"
-    },
-    {
-      "title": "How Should We Live? (feat. Seo Innovation)",
-      "artist": "박현중",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/487/14628487_20261007113942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337478"
-    },
-    {
-      "title": "The Usefulness of Depression",
-      "artist": "환희의 트램폴린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/498/14629498_20261007161628_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340552"
-    },
-    {
-      "title": "That person",
-      "artist": "최도영(CANDO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/834/14625834_20261006180823_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329585"
-    },
-    {
-      "title": "Gray area",
-      "artist": "적란운",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/077/14628077_20261007101600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336038"
-    },
-    {
-      "title": "We",
-      "artist": "김소현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/557/14623557_20261006103050_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322001"
-    },
-    {
-      "title": "Hunminjeongeum",
-      "artist": "•ㄷㄹ",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/465/14628465_20261007113523_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337451"
-    },
-    {
-      "title": "Feline I",
-      "artist": "북한산이정훈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/247/14624247_20261006150504_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324475"
-    },
-    {
-      "title": "90s Kids",
-      "artist": "주영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/552/14625552_20261006173901_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603328787"
-    },
-    {
-      "title": "My grandmother",
-      "artist": "김진호 (SG워너비)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/842/14625842_20261006181022_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329607"
-    },
-    {
-      "title": "Smokey Eye",
-      "artist": "Tabber",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/045/14628045_20261007095712_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603335932"
-    },
-    {
-      "title": "Confession",
-      "artist": "SOMEDAY (썸데이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/221/14624221_20261006145239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324348"
     }
   ]
 }
