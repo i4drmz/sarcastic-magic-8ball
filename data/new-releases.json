@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-10-12T06:13:59.365Z",
+  "generatedAt": "2026-10-12T15:47:51.543Z",
   "count": 50,
   "songs": [
+    {
+      "title": "I SPY",
+      "artist": "NCT WISH",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/82/521/14582521_20261002114945_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603196851"
+    },
+    {
+      "title": "Star Trace",
+      "artist": "PLAVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/242/14629242_20261007150642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603339939"
+    },
+    {
+      "title": "UNDEAD",
+      "artist": "성한빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/590/14632590_20261008123206_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349206"
+    },
+    {
+      "title": "GO HARD",
+      "artist": "MEOVV (미야오)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/315/14632315_20261008102038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603348048"
+    },
+    {
+      "title": "Obsessed with Youth",
+      "artist": "Xdinary Heroes",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/412/14632412_20261008104951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603348682"
+    },
+    {
+      "title": "CAN YOU HEAR THAT",
+      "artist": "MODYSSEY (모디세이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/489/14644489_20261012114032_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603381146"
+    },
+    {
+      "title": "Smells of Time",
+      "artist": "dosii (도시)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/103/14629103_20261007141859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603339620"
+    },
+    {
+      "title": "my way",
+      "artist": "Mckdaddy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/668/14632668_20261008140745_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349544"
+    },
+    {
+      "title": "Somewhere",
+      "artist": "정유진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/552/14632552_20261008120816_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349017"
+    },
+    {
+      "title": "To you who reunited",
+      "artist": "K2 김성면",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/527/14628527_20261007115116_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337541"
+    },
+    {
+      "title": "Now let's break up",
+      "artist": "유이설",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/678/14632678_20261008141138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349577"
+    },
     {
       "title": "makes me",
       "artist": "버나드 박",
@@ -235,72 +301,6 @@
       "artist": "이오몽",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/644/14629644_20261007173929_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603340925"
-    },
-    {
-      "title": "The fact that it's you",
-      "artist": "트웰브(TWLV)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/706/14623706_20261006113619_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322414"
-    },
-    {
-      "title": "Stay Awake",
-      "artist": "문수진 (Moon Sujin)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/658/14629658_20261007174245_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340957"
-    },
-    {
-      "title": "Last lover",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/641/14632641_20261008135200_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349329"
-    },
-    {
-      "title": "Muse (Feat. x3an (Sean))",
-      "artist": "TAEBIN (태빈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/597/14629597_20261007172544_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340819"
-    },
-    {
-      "title": "Life Time Goes On",
-      "artist": "리타(Rita)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/523/14628523_20261007115016_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337528"
-    },
-    {
-      "title": "My buddy (Feat. Seismic Stone)",
-      "artist": "na.na",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/487/14625487_20261006173326_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603328520"
-    },
-    {
-      "title": "Good day & night",
-      "artist": "bluebluebird",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/652/14629652_20261007174142_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340942"
-    },
-    {
-      "title": "Luv it",
-      "artist": "이도아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/672/14628672_20261007123939_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337934"
-    },
-    {
-      "title": "Same day",
-      "artist": "권진아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/467/14629467_20261007155532_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340489"
-    },
-    {
-      "title": "Chasm of Time (Memory Universe)",
-      "artist": "전상근",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/527/14623527_20261006102008_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603321919"
-    },
-    {
-      "title": "Will we run into each other?",
-      "artist": "V.O.S",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/175/14628175_20261007103724_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336351"
     }
   ]
 }
