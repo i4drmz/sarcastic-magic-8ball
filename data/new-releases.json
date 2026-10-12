@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-11T22:10:16.878Z",
+  "generatedAt": "2026-10-12T06:13:59.365Z",
   "count": 50,
   "songs": [
+    {
+      "title": "makes me",
+      "artist": "버나드 박",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/664/14632664_20261008140240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349532"
+    },
+    {
+      "title": "English ver.",
+      "artist": "우디 (Woody)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/667/14632667_20261008140640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349543"
+    },
+    {
+      "title": "Home",
+      "artist": "The Restless Age",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/661/14632661_20261008140139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349458"
+    },
+    {
+      "title": "Miya",
+      "artist": "장한별",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/310/14632310_20261008101945_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603348001"
+    },
+    {
+      "title": "Five universes",
+      "artist": "나린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/671/14632671_20261008140905_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349563"
+    },
+    {
+      "title": "Love really isn't easy at all",
+      "artist": "숙희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/043/14628043_20261007095549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603335929"
+    },
     {
       "title": "As much as I love you",
       "artist": "종호(ATEEZ)",
@@ -13,6 +49,42 @@
       "artist": "임철",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/050/14628050_20261007100122_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603335971"
+    },
+    {
+      "title": "KOR BER NOI KRAB",
+      "artist": "JIN (박진)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/422/14632422_20261008110740_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603348698"
+    },
+    {
+      "title": "MATH & LOVE",
+      "artist": "Oat (오트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/444/14632444_20261008111831_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603348797"
+    },
+    {
+      "title": "Diary of a picture",
+      "artist": "정지은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/185/14628185_20261007103857_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336402"
+    },
+    {
+      "title": "Pretty Boy",
+      "artist": "ZEE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/556/14623556_20261006103049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603322000"
+    },
+    {
+      "title": "Saying I Love You (Feat. Hyunjin Park)",
+      "artist": "Yyul (율)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/449/14625449_20261006173119_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603328418"
+    },
+    {
+      "title": "I loved you,",
+      "artist": "배그나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/515/14628515_20261007114912_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603337509"
     },
     {
       "title": "The Beginning, Not the End",
@@ -31,6 +103,18 @@
       "artist": "POW (파우)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/168/14628168_20261007103536_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603336324"
+    },
+    {
+      "title": "Don't hold the form",
+      "artist": "우싸이드 (Woo-Side)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/666/14632666_20261008140549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349542"
+    },
+    {
+      "title": "Don't be sorry.",
+      "artist": "혜진 (HEZIIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/473/14614473_20261002155533_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603297342"
     },
     {
       "title": "Season of Love",
@@ -217,90 +301,6 @@
       "artist": "V.O.S",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/175/14628175_20261007103724_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603336351"
-    },
-    {
-      "title": "Taste This!",
-      "artist": "AEILO(에일로)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/151/14625151_20261006170356_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603327441"
-    },
-    {
-      "title": "midway home",
-      "artist": "flow blow",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/341/14624341_20261006154457_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324878"
-    },
-    {
-      "title": "Captured",
-      "artist": "kwacamolee",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/844/14625844_20261006181030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329610"
-    },
-    {
-      "title": "Yang Zhi",
-      "artist": "가오가이 (kaogaii)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/474/14629474_20261007155804_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340507"
-    },
-    {
-      "title": "I was so happy with you",
-      "artist": "여은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/148/14625148_20261006170257_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603327437"
-    },
-    {
-      "title": "FADE",
-      "artist": "도아 (위나(We;Na))",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/519/14628519_20261007115013_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337524"
-    },
-    {
-      "title": "Stop! (feat. D.Ark)",
-      "artist": "콜드월드 (Cold WRLD)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/815/14614815_20261002181230_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603298799"
-    },
-    {
-      "title": "My child",
-      "artist": "김보리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/157/14628157_20261007103030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336295"
-    },
-    {
-      "title": "Excuses",
-      "artist": "그을",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/486/14632486_20261008115052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348890"
-    },
-    {
-      "title": "Salmin will live!",
-      "artist": "찰리빈웍스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/487/14629487_20261007160038_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340523"
-    },
-    {
-      "title": "Worker Bee Journey",
-      "artist": "이다능",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/481/14629481_20261007155909_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340516"
-    },
-    {
-      "title": "Don't get comfortable",
-      "artist": "DOKO (도코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/478/14629478_20261007155853_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340512"
-    },
-    {
-      "title": "I Can't Give Up",
-      "artist": "EPISODE (에피소드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/311/14624311_20261006152740_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603324750"
-    },
-    {
-      "title": "Crayon Scratch",
-      "artist": "샷다",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/835/14625835_20261006180824_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329587"
     }
   ]
 }
