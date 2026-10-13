@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T23:57:00.070Z",
-  "lastUpdated": "2026-10-12T23:57:00.070Z",
+  "generatedAt": "2026-10-13T04:59:39.225Z",
+  "lastUpdated": "2026-10-13T04:59:39.225Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/nct-wish-return-with-4th-mini-album-i-spy-and-announce-gocheok-sky-dome-concerts-for-january-2027",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-f3ee025c88d6c2ab",
@@ -45,27 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/panic-to-hold-year-end-concert-panic-is-coming-again-in-december-after-sold-out-return",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
-    },
-    {
-      "id": "evt-76bc1e278205aef5",
-      "type": "Fan Meeting",
-      "title": "Fan Meeting “Lobby 55”",
-      "artist": "YB",
-      "group": "YB",
-      "date": "2026-10-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "YB FAN MEETING COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/ybs-yoon-do-hyun-to-hold-his-first-ever-fan-meeting-lobby-55-on-december-5",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-39578d08a31f344f",
@@ -85,27 +65,7 @@
       "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/former-the-boyz-member-ji-chang-min-to-hold-his-first-solo-fan-meeting-for-season-on-his-birthday",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
-    },
-    {
-      "id": "evt-b3156fc602122785",
-      "type": "Concert",
-      "title": "World Tour “ANDLESS”",
-      "artist": "TripleS",
-      "group": "TripleS",
-      "date": "2026-10-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TRIPLES WORLD TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/triples-kick-off-andless-world-tour-with-24-member-seoul-concerts-and-announce-new-song-and-north-american-dates",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-826fb42c78a12819",
@@ -125,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -145,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -165,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -185,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -205,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -225,7 +185,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-12T23:57:00.070Z"
+      "lastUpdated": "2026-10-13T04:59:39.225Z"
     }
   ]
 }
