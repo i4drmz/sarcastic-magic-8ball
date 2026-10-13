@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T14:25:49.098Z",
+  "generatedAt": "2026-10-13T22:57:33.342Z",
   "count": 50,
   "songs": [
     {
@@ -37,6 +37,12 @@
       "artist": "A2O",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/795/14644795_20261012141441_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603382333"
+    },
+    {
+      "title": "From the Source",
+      "artist": "So!YoON! (황소윤)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/15/913/14615913_20261003014801_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603301628"
     },
     {
       "title": "The Road to Writing",
@@ -295,12 +301,6 @@
       "artist": "정지은",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/185/14628185_20261007103857_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603336402"
-    },
-    {
-      "title": "Pretty Boy",
-      "artist": "ZEE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/556/14623556_20261006103049_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603322000"
     }
   ]
 }
