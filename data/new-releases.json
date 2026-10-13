@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-10-13T00:52:20.195Z",
+  "generatedAt": "2026-10-13T14:25:49.098Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Mise en scène",
+      "artist": "에픽하이 (EPIK HIGH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/789/14644789_20261012141149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382325"
+    },
+    {
+      "title": "SUPERSTAR",
+      "artist": "A2O",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/792/14644792_20261012141341_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382330"
+    },
+    {
+      "title": "STAMINA",
+      "artist": "박우진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/137/14645137_20261012153114_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603383802"
+    },
+    {
+      "title": "that season",
+      "artist": "이민혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/306/14645306_20261012154444_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603384203"
+    },
+    {
+      "title": "Elusive",
+      "artist": "홍승민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/069/14645069_20261012152558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603383616"
+    },
+    {
+      "title": "NEON",
+      "artist": "A2O",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/795/14644795_20261012141441_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382333"
+    },
+    {
+      "title": "The Road to Writing",
+      "artist": "브로콜리너마저",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/273/14633273_20261008171518_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603351368"
+    },
+    {
+      "title": "Feelings",
+      "artist": "에일리밴드",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/502/14644502_20261012120528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603381183"
+    },
+    {
+      "title": "Dihok's Song",
+      "artist": "디핵 (D-Hack)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/206/14645206_20261012153523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603383975"
+    },
+    {
+      "title": "Thank you, it's you again today (Webtoon Bunker Day OST X Im Do Hyuk)",
+      "artist": "임도혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/638/14644638_20261012124000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603381476"
+    },
+    {
+      "title": "shout at me",
+      "artist": "박예승",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/143/14645143_20261012153144_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603383824"
+    },
+    {
+      "title": "She is",
+      "artist": "그리드웨이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/516/14644516_20261012121132_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603381207"
+    },
+    {
+      "title": "My heart wants to scream",
+      "artist": "소서단",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/176/14633176_20261008170422_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603351062"
+    },
+    {
+      "title": "Cheer up, buddy.",
+      "artist": "버거형",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/725/14632725_20261008151401_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603349713"
+    },
+    {
+      "title": "I'm Fine Thank You",
+      "artist": "굿굿",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/787/14644787_20261012141049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382317"
+    },
     {
       "title": "I SPY",
       "artist": "NCT WISH",
@@ -15,6 +105,24 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603339939"
     },
     {
+      "title": "feat. curv moon, Khakii",
+      "artist": "Cmnd",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/487/14644487_20261012113149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603381142"
+    },
+    {
+      "title": "The Boxer",
+      "artist": "류지광",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/578/14644578_20261012122658_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603381319"
+    },
+    {
+      "title": "A day without you",
+      "artist": "서희라(에코비)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/178/14633178_20261008170430_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603351064"
+    },
+    {
       "title": "UNDEAD",
       "artist": "성한빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/590/14632590_20261008123206_500.jpg",
@@ -25,6 +133,60 @@
       "artist": "MEOVV (미야오)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/315/14632315_20261008102038_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603348048"
+    },
+    {
+      "title": "Meant to be",
+      "artist": "Rachael Yamagata",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/765/14644765_20261012135559_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382267"
+    },
+    {
+      "title": "99°C",
+      "artist": "마션 (Martian)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/173/14633173_20261008170040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603351054"
+    },
+    {
+      "title": "Ice cream & Espresso (feat. Soojin Park)",
+      "artist": "floe. (플로우)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/566/14633566_20261008175708_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603352499"
+    },
+    {
+      "title": "Curtain Call",
+      "artist": "SEVENHOURS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/522/14644522_20261012121228_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603381213"
+    },
+    {
+      "title": "We don’tttt",
+      "artist": "baá",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/764/14644764_20261012135559_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382265"
+    },
+    {
+      "title": "Chardonnay",
+      "artist": "그네",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/785/14644785_20261012141039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382315"
+    },
+    {
+      "title": "Prod By THE HUB",
+      "artist": "스트릿 월드 파이터 : 디렉터스 워 (SDF)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/763/14644763_20261012135443_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382252"
+    },
+    {
+      "title": "The Place Where You Were (feat. Hye Eun)",
+      "artist": "다이브 트랙",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/171/14628171_20261007103548_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603336340"
+    },
+    {
+      "title": "Your Favorite Drama",
+      "artist": "MELDY (멜디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/786/14644786_20261012141040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603382316"
     },
     {
       "title": "Obsessed with Youth",
@@ -139,168 +301,6 @@
       "artist": "ZEE",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/23/556/14623556_20261006103049_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603322000"
-    },
-    {
-      "title": "Saying I Love You (Feat. Hyunjin Park)",
-      "artist": "Yyul (율)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/449/14625449_20261006173119_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603328418"
-    },
-    {
-      "title": "I loved you,",
-      "artist": "배그나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/515/14628515_20261007114912_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337509"
-    },
-    {
-      "title": "The Beginning, Not the End",
-      "artist": "스무살",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/571/14632571_20261008121938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349045"
-    },
-    {
-      "title": "Day and Night",
-      "artist": "V01D(보이드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/857/14625857_20261006181350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329635"
-    },
-    {
-      "title": "Love Again",
-      "artist": "POW (파우)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/168/14628168_20261007103536_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336324"
-    },
-    {
-      "title": "Don't hold the form",
-      "artist": "우싸이드 (Woo-Side)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/666/14632666_20261008140549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349542"
-    },
-    {
-      "title": "Don't be sorry.",
-      "artist": "혜진 (HEZIIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/14/473/14614473_20261002155533_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603297342"
-    },
-    {
-      "title": "Season of Love",
-      "artist": "필헌",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/569/14632569_20261008121748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349041"
-    },
-    {
-      "title": "Is this kind of love?",
-      "artist": "오유진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/114/14624114_20261006141329_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603323936"
-    },
-    {
-      "title": "Make a wish",
-      "artist": "우예린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/923/14628923_20261007134350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603339013"
-    },
-    {
-      "title": "Sober Enough (Feat. Heo Seong-hyun (rosy))",
-      "artist": "CLOCK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/139/14633139_20261008163749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603350954"
-    },
-    {
-      "title": "I just don't think so",
-      "artist": "이민정",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/572/14632572_20261008122039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349047"
-    },
-    {
-      "title": "Feat. Gist",
-      "artist": "ZUO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/029/14628029_20261007094849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603335885"
-    },
-    {
-      "title": "Fall-ing",
-      "artist": "TOVE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/172/14628172_20261007103653_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336342"
-    },
-    {
-      "title": "The night you left was still bright",
-      "artist": "위즈(WIZ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/573/14632573_20261008122049_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349049"
-    },
-    {
-      "title": "Starry Night",
-      "artist": "소녀시대-효리수 (Girls' Generation-HRS)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/25/839/14625839_20261006180922_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603329604"
-    },
-    {
-      "title": "BOYFRIEND",
-      "artist": "호시",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/268/14632268_20261008095940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603347886"
-    },
-    {
-      "title": "Adiós",
-      "artist": "전유진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/047/14628047_20261007100045_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603335948"
-    },
-    {
-      "title": "Saeyamang",
-      "artist": "Nosun",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/479/14632479_20261008114544_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348872"
-    },
-    {
-      "title": "BIG DREAM",
-      "artist": "키드킹 (Kidd King)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/006/14629006_20261007140350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603339207"
-    },
-    {
-      "title": "LIKE A MOVIE",
-      "artist": "피스트범프",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/570/14632570_20261008121928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349043"
-    },
-    {
-      "title": "Late Checkout",
-      "artist": "PS영준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/518/14628518_20261007114914_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337519"
-    },
-    {
-      "title": "EXtra",
-      "artist": "MARTI:N (마틴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/10/398/14610398_20261001165041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603284941"
-    },
-    {
-      "title": "moyo wangu unauma",
-      "artist": "디어밍",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/158/14628158_20261007103141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336300"
-    },
-    {
-      "title": "To the Glowing",
-      "artist": "배우리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/24/599/14624599_20261006161529_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603325725"
-    },
-    {
-      "title": "Witch love",
-      "artist": "이안 (EAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/352/14632352_20261008103254_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348471"
-    },
-    {
-      "title": "Emergency declaration",
-      "artist": "이오몽",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/644/14629644_20261007173929_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603340925"
     }
   ]
 }
