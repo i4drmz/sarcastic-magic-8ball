@@ -1,72 +1,11 @@
 {
-  "generatedAt": "2026-10-13T04:59:39.225Z",
-  "lastUpdated": "2026-10-13T04:59:39.225Z",
+  "generatedAt": "2026-10-13T13:09:47.993Z",
+  "lastUpdated": "2026-10-13T13:09:47.993Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-cc71d62e028d2c36",
-      "type": "Concert",
-      "title": "Concert “I SPY”",
-      "artist": "NCT",
-      "group": "NCT",
-      "date": "2026-10-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "NCT CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/nct-wish-return-with-4th-mini-album-i-spy-and-announce-gocheok-sky-dome-concerts-for-january-2027",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
-    },
-    {
-      "id": "evt-f3ee025c88d6c2ab",
-      "type": "Concert",
-      "title": "Concert “PANIC IS COMING, AGAIN”",
-      "artist": "Panic",
-      "group": "Panic",
-      "date": "2026-10-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "PANIC CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/panic-to-hold-year-end-concert-panic-is-coming-again-in-december-after-sold-out-return",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
-    },
-    {
-      "id": "evt-39578d08a31f344f",
-      "type": "Fan Meeting",
-      "title": "Solo Fan Meeting “For Season”",
-      "artist": "The Boyz",
-      "group": "The Boyz",
-      "date": "2026-10-12",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "THE BOYZ SOLO FAN MEETING COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/read/article/2026/10/former-the-boyz-member-ji-chang-min-to-hold-his-first-solo-fan-meeting-for-season-on-his-birthday",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
-    },
     {
       "id": "evt-826fb42c78a12819",
       "type": "Concert",
@@ -85,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
+      "lastUpdated": "2026-10-13T13:09:47.993Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -104,8 +43,8 @@
       "shortDescription": "ATEEZ WORLD TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-10-13T13:09:47.993Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -125,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
+      "lastUpdated": "2026-10-13T13:09:47.993Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -145,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
+      "lastUpdated": "2026-10-13T13:09:47.993Z"
     },
     {
       "id": "evt-84d54792833e1903",
@@ -165,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
+      "lastUpdated": "2026-10-13T13:09:47.993Z"
     },
     {
       "id": "evt-c78f12361ff61271",
@@ -185,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1873646wpp/seventeen-unit-jxj-jeonghan-x-joshua-announces-stops-for-tour-journey-into-dreaming",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T04:59:39.225Z"
+      "lastUpdated": "2026-10-13T13:09:47.993Z"
     }
   ]
 }
