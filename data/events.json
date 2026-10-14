@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T10:50:27.417Z",
-  "lastUpdated": "2026-10-14T10:50:27.417Z",
+  "generatedAt": "2026-10-14T16:09:51.648Z",
+  "lastUpdated": "2026-10-14T16:09:51.648Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/and2ble-to-hold-fan-concerts-wnter-inside-in-seoul-and-yokohama-this-december",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-14T10:50:27.417Z"
+      "lastUpdated": "2026-10-14T16:09:51.648Z"
     },
     {
       "id": "evt-f975b8a135f23c35",
@@ -44,7 +44,27 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/kiiras-to-hold-their-first-taiwan-fan-meeting-in-taipei-on-december-13",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-14T10:50:27.417Z"
+      "lastUpdated": "2026-10-14T16:09:51.648Z"
+    },
+    {
+      "id": "evt-4aa5242aa57f9753",
+      "type": "Pop-up Store",
+      "title": "Pop-up “s Jeonghan and Joshua to hold”",
+      "artist": "SEVENTEEN",
+      "group": "SEVENTEEN",
+      "date": "2026-10-14",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "SEVENTEEN POP-UP COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/seventeens-jeonghan-and-joshua-to-hold-dreamscape-pop-up-as-all-sessions-sell-out",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-14T16:09:51.648Z"
     },
     {
       "id": "evt-826fb42c78a12819",
@@ -64,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-14T10:50:27.417Z"
+      "lastUpdated": "2026-10-14T16:09:51.648Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -84,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-14T10:50:27.417Z"
+      "lastUpdated": "2026-10-14T16:09:51.648Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -104,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-14T10:50:27.417Z"
+      "lastUpdated": "2026-10-14T16:09:51.648Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -124,7 +144,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-14T10:50:27.417Z"
+      "lastUpdated": "2026-10-14T16:09:51.648Z"
     }
   ]
 }
