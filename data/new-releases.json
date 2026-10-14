@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-13T22:57:33.342Z",
+  "generatedAt": "2026-10-14T05:06:14.371Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Unforgettable",
+      "artist": "김지웅 (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/70/462/14670462_20261013152047_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603397079"
+    },
+    {
+      "title": "Da capo",
+      "artist": "강지원 (Kangziwon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/540/14664540_20261013110152_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603393956"
+    },
+    {
+      "title": "Breathing",
+      "artist": "찬민 (CHANMIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/68/482/14668482_20261013141652_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603396327"
+    },
+    {
+      "title": "You were everything",
+      "artist": "최현진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/70/531/14670531_20261013152352_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603397086"
+    },
+    {
+      "title": "Dark chocolate",
+      "artist": "Quri",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/480/14645480_20261012155353_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603384551"
+    },
     {
       "title": "Mise en scène",
       "artist": "에픽하이 (EPIK HIGH)",
@@ -13,6 +43,84 @@
       "artist": "A2O",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/792/14644792_20261012141341_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603382330"
+    },
+    {
+      "title": "From the Source",
+      "artist": "So!YoON! (황소윤)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/15/913/14615913_20261003014801_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603301628"
+    },
+    {
+      "title": "If only I could give you a hug",
+      "artist": "I-AN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/783/14645783_20261012162216_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385192"
+    },
+    {
+      "title": "Lover′s Night",
+      "artist": "NIKA (니카)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/782/14645782_20261012162216_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385187"
+    },
+    {
+      "title": "We Talk",
+      "artist": "뎁트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/46/256/14646256_20261012165135_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385512"
+    },
+    {
+      "title": "The sunshine is for everyone",
+      "artist": "손혜은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/773/14645773_20261012162104_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385182"
+    },
+    {
+      "title": "feat.enjoyboy",
+      "artist": "Kangwon",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/62/274/14662274_20261013100523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603393647"
+    },
+    {
+      "title": "Appeal",
+      "artist": "로즌 (RoZN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/69/281/14669281_20261013143931_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603396728"
+    },
+    {
+      "title": "I disliked people",
+      "artist": "김민울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/602/14633602_20261008180307_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603352647"
+    },
+    {
+      "title": "Can't Read You (Feat. Kim Gun-woo)",
+      "artist": "주노",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/500/14664500_20261013110048_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603393950"
+    },
+    {
+      "title": "Moving",
+      "artist": "김신의",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/785/14645785_20261012162225_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385194"
+    },
+    {
+      "title": "Light the fire",
+      "artist": "심각한 개구리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/68/574/14668574_20261013141944_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603396370"
+    },
+    {
+      "title": "That's the kind of guy I am.",
+      "artist": "더 라임",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/545/14633545_20261008174924_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603352429"
+    },
+    {
+      "title": "RYU",
+      "artist": "RYU",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/570/14645570_20261012160031_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603384781"
     },
     {
       "title": "STAMINA",
@@ -37,12 +145,6 @@
       "artist": "A2O",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/795/14644795_20261012141441_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603382333"
-    },
-    {
-      "title": "From the Source",
-      "artist": "So!YoON! (황소윤)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/15/913/14615913_20261003014801_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603301628"
     },
     {
       "title": "The Road to Writing",
@@ -199,108 +301,6 @@
       "artist": "Xdinary Heroes",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/412/14632412_20261008104951_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603348682"
-    },
-    {
-      "title": "CAN YOU HEAR THAT",
-      "artist": "MODYSSEY (모디세이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/489/14644489_20261012114032_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603381146"
-    },
-    {
-      "title": "Smells of Time",
-      "artist": "dosii (도시)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/29/103/14629103_20261007141859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603339620"
-    },
-    {
-      "title": "my way",
-      "artist": "Mckdaddy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/668/14632668_20261008140745_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349544"
-    },
-    {
-      "title": "Somewhere",
-      "artist": "정유진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/552/14632552_20261008120816_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349017"
-    },
-    {
-      "title": "To you who reunited",
-      "artist": "K2 김성면",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/527/14628527_20261007115116_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337541"
-    },
-    {
-      "title": "Now let's break up",
-      "artist": "유이설",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/678/14632678_20261008141138_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349577"
-    },
-    {
-      "title": "makes me",
-      "artist": "버나드 박",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/664/14632664_20261008140240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349532"
-    },
-    {
-      "title": "English ver.",
-      "artist": "우디 (Woody)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/667/14632667_20261008140640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349543"
-    },
-    {
-      "title": "Home",
-      "artist": "The Restless Age",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/661/14632661_20261008140139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349458"
-    },
-    {
-      "title": "Miya",
-      "artist": "장한별",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/310/14632310_20261008101945_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348001"
-    },
-    {
-      "title": "Five universes",
-      "artist": "나린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/671/14632671_20261008140905_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349563"
-    },
-    {
-      "title": "Love really isn't easy at all",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/043/14628043_20261007095549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603335929"
-    },
-    {
-      "title": "As much as I love you",
-      "artist": "종호(ATEEZ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/547/14628547_20261007115422_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603337579"
-    },
-    {
-      "title": "Stairwell",
-      "artist": "임철",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/050/14628050_20261007100122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603335971"
-    },
-    {
-      "title": "KOR BER NOI KRAB",
-      "artist": "JIN (박진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/422/14632422_20261008110740_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348698"
-    },
-    {
-      "title": "MATH & LOVE",
-      "artist": "Oat (오트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/444/14632444_20261008111831_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348797"
-    },
-    {
-      "title": "Diary of a picture",
-      "artist": "정지은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/185/14628185_20261007103857_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336402"
     }
   ]
 }
