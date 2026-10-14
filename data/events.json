@@ -1,10 +1,51 @@
 {
-  "generatedAt": "2026-10-13T22:04:49.491Z",
-  "lastUpdated": "2026-10-13T22:04:49.491Z",
+  "generatedAt": "2026-10-14T10:50:27.417Z",
+  "lastUpdated": "2026-10-14T10:50:27.417Z",
   "sourceSummary": [
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-ae386b817a710b3c",
+      "type": "Concert",
+      "title": "Concert “W!nter inside”",
+      "artist": "AND2BLE",
+      "group": "AND2BLE",
+      "date": "2026-10-14",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "AND2BLE CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/and2ble-to-hold-fan-concerts-wnter-inside-in-seoul-and-yokohama-this-december",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-14T10:50:27.417Z"
+    },
+    {
+      "id": "evt-f975b8a135f23c35",
+      "type": "Fan Meeting",
+      "title": "Fan Meeting",
+      "artist": "KIIRAS",
+      "group": "KIIRAS",
+      "date": "2026-10-14",
+      "time": null,
+      "venue": "TBA",
+      "city": "Taipei",
+      "country": "TW",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "KIIRAS FAN MEETING COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/kiiras-to-hold-their-first-taiwan-fan-meeting-in-taipei-on-december-13",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-14T10:50:27.417Z"
+    },
     {
       "id": "evt-826fb42c78a12819",
       "type": "Concert",
@@ -23,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T22:04:49.491Z"
+      "lastUpdated": "2026-10-14T10:50:27.417Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -43,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T22:04:49.491Z"
+      "lastUpdated": "2026-10-14T10:50:27.417Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -63,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T22:04:49.491Z"
+      "lastUpdated": "2026-10-14T10:50:27.417Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -83,27 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T22:04:49.491Z"
-    },
-    {
-      "id": "evt-84d54792833e1903",
-      "type": "Concert",
-      "title": "Concert",
-      "artist": "ARTMS",
-      "group": "ARTMS",
-      "date": "2026-09-29",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/09/29132502/ARTMS.jpg",
-      "shortDescription": "ARTMS CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1874256wpp/artms-announces-cancellation-of-lille-concert",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-13T22:04:49.491Z"
+      "lastUpdated": "2026-10-14T10:50:27.417Z"
     }
   ]
 }
