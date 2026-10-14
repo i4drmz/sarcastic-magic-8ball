@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-10-14T05:06:14.371Z",
+  "generatedAt": "2026-10-14T12:10:04.048Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Foreign (Feat. Sik-K)",
+      "artist": "쿠기 (Coogie)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/71/529/14671529_20261013155942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603397711"
+    },
+    {
+      "title": "I don't know a",
+      "artist": "이승기",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/68/973/14668973_20261013143010_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603396577"
+    },
+    {
+      "title": "Untitled",
+      "artist": "유주 (YUJU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/026/14664026_20261013105005_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603393892"
+    },
+    {
+      "title": "DEVIL",
+      "artist": "남우현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/70/719/14670719_20261013153050_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603397128"
+    },
+    {
+      "title": "Sunshine, Wind",
+      "artist": "송소희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/798/14645798_20261012162435_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385196"
+    },
+    {
+      "title": "Bloom",
+      "artist": "FLARE U (플레어 유)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/816/14645816_20261012162618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385212"
+    },
+    {
+      "title": "Go Around",
+      "artist": "손호영(SHY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/549/14633549_20261008174934_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603352442"
+    },
+    {
+      "title": "I'm sorry, I love you...",
+      "artist": "김예찬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/71/537/14671537_20261013155949_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603397713"
+    },
+    {
+      "title": "Wounda",
+      "artist": "소향",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/68/765/14668765_20261013142442_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603396510"
+    },
+    {
+      "title": "BABY BABe",
+      "artist": "Cosmic Chips",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/69/320/14669320_20261013144041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603396752"
+    },
+    {
+      "title": "BUNZI",
+      "artist": "이한결",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/850/14645850_20261012163133_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385224"
+    },
+    {
+      "title": "WHICH WAY",
+      "artist": "DAILY:DIRECTION",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/579/14664579_20261013110246_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603393968"
+    },
+    {
+      "title": "PANCAKE",
+      "artist": "이민혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/811/14645811_20261012162538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385210"
+    },
     {
       "title": "Unforgettable",
       "artist": "김지웅 (ZEROBASEONE)",
@@ -223,84 +301,6 @@
       "artist": "류지광",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/578/14644578_20261012122658_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603381319"
-    },
-    {
-      "title": "A day without you",
-      "artist": "서희라(에코비)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/178/14633178_20261008170430_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603351064"
-    },
-    {
-      "title": "UNDEAD",
-      "artist": "성한빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/590/14632590_20261008123206_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603349206"
-    },
-    {
-      "title": "GO HARD",
-      "artist": "MEOVV (미야오)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/315/14632315_20261008102038_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348048"
-    },
-    {
-      "title": "Meant to be",
-      "artist": "Rachael Yamagata",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/765/14644765_20261012135559_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382267"
-    },
-    {
-      "title": "99°C",
-      "artist": "마션 (Martian)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/173/14633173_20261008170040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603351054"
-    },
-    {
-      "title": "Ice cream & Espresso (feat. Soojin Park)",
-      "artist": "floe. (플로우)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/566/14633566_20261008175708_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603352499"
-    },
-    {
-      "title": "Curtain Call",
-      "artist": "SEVENHOURS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/522/14644522_20261012121228_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603381213"
-    },
-    {
-      "title": "We don’tttt",
-      "artist": "baá",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/764/14644764_20261012135559_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382265"
-    },
-    {
-      "title": "Chardonnay",
-      "artist": "그네",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/785/14644785_20261012141039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382315"
-    },
-    {
-      "title": "Prod By THE HUB",
-      "artist": "스트릿 월드 파이터 : 디렉터스 워 (SDF)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/763/14644763_20261012135443_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382252"
-    },
-    {
-      "title": "The Place Where You Were (feat. Hye Eun)",
-      "artist": "다이브 트랙",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/28/171/14628171_20261007103548_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603336340"
-    },
-    {
-      "title": "Your Favorite Drama",
-      "artist": "MELDY (멜디)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/786/14644786_20261012141040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382316"
-    },
-    {
-      "title": "Obsessed with Youth",
-      "artist": "Xdinary Heroes",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/32/412/14632412_20261008104951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603348682"
     }
   ]
 }
