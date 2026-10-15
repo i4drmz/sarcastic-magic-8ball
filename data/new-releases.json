@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:46:12.952Z",
+  "generatedAt": "2026-10-15T17:12:35.044Z",
   "count": 50,
   "songs": [
     {
@@ -43,6 +43,12 @@
       "artist": "ADOY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/880/14644880_20261012144358_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603382815"
+    },
+    {
+      "title": "Explicit Ver.",
+      "artist": "YOUHA(유하)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/15/878/14715878_20261014172852_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603417175"
     },
     {
       "title": "Summer to Cesca",
@@ -295,12 +301,6 @@
       "artist": "에픽하이 (EPIK HIGH)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/789/14644789_20261012141149_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603382325"
-    },
-    {
-      "title": "SUPERSTAR",
-      "artist": "A2O",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/792/14644792_20261012141341_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382330"
     }
   ]
 }
