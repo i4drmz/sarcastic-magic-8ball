@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-10-16T04:45:38.239Z",
+  "generatedAt": "2026-10-16T11:40:51.470Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Next Chapter",
+      "artist": "Hearts2Hearts (하츠투하츠)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/020/14759020_20261015152748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429810"
+    },
+    {
+      "title": "Counting",
+      "artist": "Paul Blanco",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/15/395/14715395_20261014165831_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603416802"
+    },
+    {
+      "title": "One more time",
+      "artist": "2MC",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/784/14707784_20261014120212_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603413381"
+    },
+    {
+      "title": "charity",
+      "artist": "진해성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/295/14759295_20261015153339_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429906"
+    },
     {
       "title": "Psycho",
       "artist": "에릭남 (Eric Nam)",
@@ -9,10 +33,34 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603442223"
     },
     {
+      "title": "Goul",
+      "artist": "김결",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/192/14711192_20261014142415_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414156"
+    },
+    {
+      "title": "That's the way it is",
+      "artist": "니브 (NIve)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/077/14711077_20261014142034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414147"
+    },
+    {
       "title": "Andless",
       "artist": "tripleS (트리플에스)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/989/14758989_20261015152707_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603429777"
+    },
+    {
+      "title": "tar",
+      "artist": "하모 (hamo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/12/854/14712854_20261014152615_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603415358"
+    },
+    {
+      "title": "In Gambat",
+      "artist": "우지원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/019/14752019_20261015114302_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603428108"
     },
     {
       "title": "Explicit Ver.",
@@ -31,6 +79,12 @@
       "artist": "안신애",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/10/990/14710990_20261014141729_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603414047"
+    },
+    {
+      "title": "A Day in the Life of You (feat. Andrew Nelson)",
+      "artist": "위드(With)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/102/14711102_20261014142128_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414149"
     },
     {
       "title": "bluende",
@@ -247,60 +301,6 @@
       "artist": "리플리 (RIPLEY)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/613/14664613_20261013110326_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603393974"
-    },
-    {
-      "title": "LOVE song",
-      "artist": "서자영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/032/14707032_20261014111015_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413065"
-    },
-    {
-      "title": "Remastered",
-      "artist": "이디어츠",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/15/681/14715681_20261014171323_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603416995"
-    },
-    {
-      "title": "Love/Folklore",
-      "artist": "gonjang",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/053/14707053_20261014111121_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413091"
-    },
-    {
-      "title": "BLUR",
-      "artist": "YANGDONGHWA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/62/694/14662694_20261013101652_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603393693"
-    },
-    {
-      "title": "I don't know a",
-      "artist": "이승기",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/68/973/14668973_20261013143010_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603396577"
-    },
-    {
-      "title": "Untitled",
-      "artist": "유주 (YUJU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/026/14664026_20261013105005_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603393892"
-    },
-    {
-      "title": "His name, his mother.",
-      "artist": "구수경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/883/14711883_20261014145039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603414575"
-    },
-    {
-      "title": "Gone",
-      "artist": "KAMA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/440/14664440_20261013105936_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603393931"
-    },
-    {
-      "title": "In the moment when the stars are pouring",
-      "artist": "BLUHWA (블루화)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/148/14707148_20261014111536_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413150"
     }
   ]
 }
