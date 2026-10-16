@@ -1,12 +1,102 @@
 {
-  "generatedAt": "2026-10-15T21:33:28.619Z",
+  "generatedAt": "2026-10-16T04:45:38.239Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Psycho",
+      "artist": "에릭남 (Eric Nam)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/01/509/14801509_20261016111741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603442223"
+    },
+    {
+      "title": "Andless",
+      "artist": "tripleS (트리플에스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/989/14758989_20261015152707_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429777"
+    },
+    {
+      "title": "Explicit Ver.",
+      "artist": "YOUHA(유하)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/15/878/14715878_20261014172852_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603417175"
+    },
+    {
+      "title": "How I Met You",
+      "artist": "허찬미",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/124/14759124_20261015153001_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429840"
+    },
+    {
+      "title": "Bloom",
+      "artist": "안신애",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/10/990/14710990_20261014141729_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414047"
+    },
+    {
+      "title": "bluende",
+      "artist": "can’t be blue",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/12/086/14712086_20261014145756_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414649"
+    },
+    {
+      "title": "THIS IS FOR",
+      "artist": "TWICE (트와이스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/50/368/14750368_20261015103954_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603427722"
+    },
+    {
+      "title": "That doesn't matter.",
+      "artist": "blah",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/044/14711044_20261014141946_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414133"
+    },
+    {
+      "title": "You",
+      "artist": "Osshun Gum",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/412/14664412_20261013105900_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603393926"
+    },
     {
       "title": "Tata (Feat. Minami of rescue)",
       "artist": "로꼬",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/527/14645527_20261012155634_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603384665"
+    },
+    {
+      "title": "feat. ZENE THE ZILLA",
+      "artist": "TAEJO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/10/964/14710964_20261014141622_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414022"
+    },
+    {
+      "title": "Autumn Confession",
+      "artist": "DAVINK (다빈크)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/16/432/14716432_20261014181721_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603417899"
+    },
+    {
+      "title": "1979 Blue",
+      "artist": "COII",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/74/759/14674759_20261013183732_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603402385"
+    },
+    {
+      "title": "CATCH",
+      "artist": "TIMMY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/60/736/14760736_20261015160543_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603430444"
+    },
+    {
+      "title": "Let it Flow",
+      "artist": "A!N (아인밴드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/881/14759881_20261015154704_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603430305"
+    },
+    {
+      "title": "Cupboard",
+      "artist": "Seo's Room",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/46/581/14646581_20261012171937_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603385819"
     },
     {
       "title": "DON'T STOP",
@@ -19,6 +109,18 @@
       "artist": "Zion.T",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/06/397/14706397_20261014105158_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603413038"
+    },
+    {
+      "title": "Let us be happy",
+      "artist": "0018",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/086/14752086_20261015114936_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603428163"
+    },
+    {
+      "title": "Abyssal Fish",
+      "artist": "김연준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/285/14752285_20261015120512_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603428252"
     },
     {
       "title": "May be incomplete",
@@ -43,12 +145,6 @@
       "artist": "ADOY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/880/14644880_20261012144358_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603382815"
-    },
-    {
-      "title": "Explicit Ver.",
-      "artist": "YOUHA(유하)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/15/878/14715878_20261014172852_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603417175"
     },
     {
       "title": "Summer to Cesca",
@@ -205,102 +301,6 @@
       "artist": "BLUHWA (블루화)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/148/14707148_20261014111536_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603413150"
-    },
-    {
-      "title": "DEVIL",
-      "artist": "남우현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/70/719/14670719_20261013153050_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603397128"
-    },
-    {
-      "title": "Sunshine, Wind",
-      "artist": "송소희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/798/14645798_20261012162435_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603385196"
-    },
-    {
-      "title": "Bloom",
-      "artist": "FLARE U (플레어 유)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/816/14645816_20261012162618_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603385212"
-    },
-    {
-      "title": "Go Around",
-      "artist": "손호영(SHY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/33/549/14633549_20261008174934_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603352442"
-    },
-    {
-      "title": "I'm sorry, I love you...",
-      "artist": "김예찬",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/71/537/14671537_20261013155949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603397713"
-    },
-    {
-      "title": "Wounda",
-      "artist": "소향",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/68/765/14668765_20261013142442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603396510"
-    },
-    {
-      "title": "BABY BABe",
-      "artist": "Cosmic Chips",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/69/320/14669320_20261013144041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603396752"
-    },
-    {
-      "title": "BUNZI",
-      "artist": "이한결",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/850/14645850_20261012163133_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603385224"
-    },
-    {
-      "title": "WHICH WAY",
-      "artist": "DAILY:DIRECTION",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/579/14664579_20261013110246_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603393968"
-    },
-    {
-      "title": "PANCAKE",
-      "artist": "이민혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/811/14645811_20261012162538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603385210"
-    },
-    {
-      "title": "Unforgettable",
-      "artist": "김지웅 (ZEROBASEONE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/70/462/14670462_20261013152047_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603397079"
-    },
-    {
-      "title": "Da capo",
-      "artist": "강지원 (Kangziwon)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/64/540/14664540_20261013110152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603393956"
-    },
-    {
-      "title": "Breathing",
-      "artist": "찬민 (CHANMIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/68/482/14668482_20261013141652_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603396327"
-    },
-    {
-      "title": "You were everything",
-      "artist": "최현진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/70/531/14670531_20261013152352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603397086"
-    },
-    {
-      "title": "Dark chocolate",
-      "artist": "Quri",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/45/480/14645480_20261012155353_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603384551"
-    },
-    {
-      "title": "Mise en scène",
-      "artist": "에픽하이 (EPIK HIGH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/789/14644789_20261012141149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382325"
     }
   ]
 }
