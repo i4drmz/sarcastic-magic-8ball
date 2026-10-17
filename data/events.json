@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T20:14:44.621Z",
-  "lastUpdated": "2026-10-16T20:14:44.621Z",
+  "generatedAt": "2026-10-17T02:05:29.069Z",
+  "lastUpdated": "2026-10-17T02:05:29.069Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
@@ -24,27 +24,27 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/our-ballad-season-1-top6-to-hold-fan-concert-timeless-on-november-7",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-16T20:14:44.621Z"
+      "lastUpdated": "2026-10-17T02:05:29.069Z"
     },
     {
-      "id": "evt-71cc1d47a54800ef",
+      "id": "evt-1650e090b3d91abe",
       "type": "Concert",
-      "title": "North American Tour “BEYOND : ACROSS THE HORIZON”",
-      "artist": "Forestella",
-      "group": "Forestella",
-      "date": "2026-10-15",
+      "title": "Concert",
+      "artist": "OH MY GIRL",
+      "group": "OH MY GIRL",
+      "date": "2026-10-16",
       "time": null,
       "venue": "TBA",
-      "city": "Los Angeles",
-      "country": "US",
+      "city": "Seoul",
+      "country": "KR",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "FORESTELLA NORTH AMERICAN TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/forestella-to-hold-second-north-american-tour-beyond-across-the-horizon-in-january-2027",
+      "shortDescription": "OH MY GIRL CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/oh-my-girls-hyojung-to-hold-first-ever-intimate-theater-concert-in-seoul",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-16T20:14:44.621Z"
+      "lastUpdated": "2026-10-17T02:05:29.069Z"
     },
     {
       "id": "evt-826fb42c78a12819",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-16T20:14:44.621Z"
+      "lastUpdated": "2026-10-17T02:05:29.069Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-16T20:14:44.621Z"
+      "lastUpdated": "2026-10-17T02:05:29.069Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -104,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-16T20:14:44.621Z"
+      "lastUpdated": "2026-10-17T02:05:29.069Z"
     },
     {
       "id": "evt-5801f077a0c7dcfc",
@@ -124,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-16T20:14:44.621Z"
+      "lastUpdated": "2026-10-17T02:05:29.069Z"
     }
   ]
 }
