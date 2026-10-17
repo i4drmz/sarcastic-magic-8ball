@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-10-17T04:43:08.776Z",
+  "generatedAt": "2026-10-17T10:59:44.158Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Like this, in your mind",
+      "artist": "아우릴고트 (OUREALGOAT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/346/14707346_20261014112858_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603413237"
+    },
+    {
+      "title": "The threshold of dawn",
+      "artist": "제인 (모모랜드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/798/14707798_20261014120314_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603413395"
+    },
+    {
+      "title": "When will I know love?",
+      "artist": "강범석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/108/14806108_20261016140152_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603445572"
+    },
+    {
+      "title": "Tiquitaca",
+      "artist": "YS Block",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/05/988/14805988_20261016135838_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603445465"
+    },
+    {
+      "title": "Feat. noahjooda",
+      "artist": "퀸 와사비 (Queen WA$ABII)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/54/612/14754612_20261015134034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429104"
+    },
+    {
+      "title": "The inevitable",
+      "artist": "모브닝 (MOVNING)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/12/899/14812899_20261016163401_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603451684"
+    },
+    {
+      "title": "run it back",
+      "artist": "허성현 (rosy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/97/499/14797499_20261016093054_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603441294"
+    },
+    {
+      "title": "Days like that",
+      "artist": "임형주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/48/791/14748791_20261015095926_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603427459"
+    },
+    {
+      "title": "Aconitum / fu zi",
+      "artist": "메인 스트림",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/54/591/14754591_20261015133941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429100"
+    },
+    {
+      "title": "If you live well,",
+      "artist": "훈훈하다",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/661/14759661_20261015154143_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603430234"
+    },
+    {
+      "title": "Rainwater In Rainwater In Rainwater",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/358/14707358_20261014112958_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603413247"
+    },
     {
       "title": "Medley Love",
       "artist": "네이비쿼카 (NavyQuokka)",
@@ -235,72 +301,6 @@
       "artist": "TIMMY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/60/736/14760736_20261015160543_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603430444"
-    },
-    {
-      "title": "Let it Flow",
-      "artist": "A!N (아인밴드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/881/14759881_20261015154704_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603430305"
-    },
-    {
-      "title": "Cupboard",
-      "artist": "Seo's Room",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/46/581/14646581_20261012171937_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603385819"
-    },
-    {
-      "title": "DON'T STOP",
-      "artist": "틴탑",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/12/842/14712842_20261014152539_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603415301"
-    },
-    {
-      "title": "From Yeonhui-dong",
-      "artist": "Zion.T",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/06/397/14706397_20261014105158_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413038"
-    },
-    {
-      "title": "Let us be happy",
-      "artist": "0018",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/086/14752086_20261015114936_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603428163"
-    },
-    {
-      "title": "Abyssal Fish",
-      "artist": "김연준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/285/14752285_20261015120512_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603428252"
-    },
-    {
-      "title": "May be incomplete",
-      "artist": "효정 (오마이걸)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/12/622/14712622_20261014151653_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603414942"
-    },
-    {
-      "title": "Every moment of you",
-      "artist": "도경수(D.O.)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/207/14707207_20261014112003_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413212"
-    },
-    {
-      "title": "I Really Love You",
-      "artist": "원슈타인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/05/213/14705213_20261014102249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603412966"
-    },
-    {
-      "title": "Gooood",
-      "artist": "ADOY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/880/14644880_20261012144358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603382815"
-    },
-    {
-      "title": "Summer to Cesca",
-      "artist": "음율",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/194/14707194_20261014111902_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413196"
     }
   ]
 }
