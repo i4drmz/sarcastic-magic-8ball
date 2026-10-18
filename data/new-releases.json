@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-10-18T04:49:12.221Z",
+  "generatedAt": "2026-10-18T11:26:33.907Z",
   "count": 50,
   "songs": [
+    {
+      "title": "To you who filled in the gaps",
+      "artist": "헤이즈 (Heize)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/05/905/14805905_20261016135649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603445396"
+    },
+    {
+      "title": "I Miss You So Much",
+      "artist": "이영현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/02/127/14802127_20261016115651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603442300"
+    },
+    {
+      "title": "Together",
+      "artist": "김태래 (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/086/14758086_20261015150251_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429484"
+    },
+    {
+      "title": "There's no other breakup",
+      "artist": "#안녕",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/57/479/14757479_20261015144807_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429278"
+    },
+    {
+      "title": "Time off",
+      "artist": "21학번",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/11/936/14811936_20261016161149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603450589"
+    },
+    {
+      "title": "Poison.. This ferocious love",
+      "artist": "백예슬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/768/14759768_20261015154411_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603430298"
+    },
+    {
+      "title": "Happy Smile",
+      "artist": "조소현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/024/14758024_20261015150128_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429477"
+    },
+    {
+      "title": "If We Didn't Break Up (Feat. Sua)",
+      "artist": "김태헌",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/57/532/14757532_20261015144948_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429302"
+    },
+    {
+      "title": "Now I Can Sing",
+      "artist": "루안 (가비엔제이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/12/862/14812862_20261016163306_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603451638"
+    },
+    {
+      "title": "BAD HABITS TONITE",
+      "artist": "A2O",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/01/672/14801672_20261016112740_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603442250"
+    },
+    {
+      "title": "Flying Butterfly",
+      "artist": "정세린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/914/14806914_20261016141937_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603446135"
+    },
     {
       "title": "I Wanted to Tell You (With Samin)",
       "artist": "새봄 (saevom)",
@@ -235,72 +301,6 @@
       "artist": "김다올",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/50/920/14750920_20261015105558_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603427834"
-    },
-    {
-      "title": "One more time",
-      "artist": "2MC",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/784/14707784_20261014120212_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413381"
-    },
-    {
-      "title": "Guest List",
-      "artist": "Altitüde",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/420/14752420_20261015121152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603428302"
-    },
-    {
-      "title": "It's not my fault.",
-      "artist": "박선예",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/609/14759609_20261015154054_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603430199"
-    },
-    {
-      "title": "charity",
-      "artist": "진해성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/295/14759295_20261015153339_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429906"
-    },
-    {
-      "title": "Goul",
-      "artist": "김결",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/192/14711192_20261014142415_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603414156"
-    },
-    {
-      "title": "That's the way it is",
-      "artist": "니브 (NIve)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/077/14711077_20261014142034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603414147"
-    },
-    {
-      "title": "Psycho",
-      "artist": "에릭남 (Eric Nam)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/01/509/14801509_20261016111741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603442223"
-    },
-    {
-      "title": "Andless",
-      "artist": "tripleS (트리플에스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/989/14758989_20261015152707_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429777"
-    },
-    {
-      "title": "tar",
-      "artist": "하모 (hamo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/12/854/14712854_20261014152615_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603415358"
-    },
-    {
-      "title": "In Gambat",
-      "artist": "우지원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/019/14752019_20261015114302_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603428108"
-    },
-    {
-      "title": "Explicit Ver.",
-      "artist": "YOUHA(유하)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/15/878/14715878_20261014172852_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603417175"
     }
   ]
 }
