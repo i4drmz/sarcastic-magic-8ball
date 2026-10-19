@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-10-18T20:55:36.269Z",
+  "generatedAt": "2026-10-19T04:57:30.668Z",
   "count": 50,
   "songs": [
+    {
+      "title": "BAD HABITS TONITE",
+      "artist": "A2O",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/01/672/14801672_20261016112740_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603442250"
+    },
+    {
+      "title": "So I'm Insane",
+      "artist": "태비 (Taeb2)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/57/471/14757471_20261015144756_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429276"
+    },
+    {
+      "title": "Ordinary Days",
+      "artist": "나상현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/09/457/14809457_20261016151719_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603448422"
+    },
+    {
+      "title": "Navy Blue Night",
+      "artist": "세모(SEMO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/11/871/14811871_20261016161025_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603450551"
+    },
+    {
+      "title": "Beautiful Lies",
+      "artist": "INJAE(인재)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/63/714/14763714_20261015180100_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603432715"
+    },
+    {
+      "title": "Shine as You Are",
+      "artist": "송영주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/697/14758697_20261015151931_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429721"
+    },
+    {
+      "title": "Sky",
+      "artist": "BehindtheMoon",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/11/676/14711676_20261014144253_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603414505"
+    },
     {
       "title": "To you who filled in the gaps",
       "artist": "헤이즈 (Heize)",
@@ -15,10 +57,82 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603442300"
     },
     {
+      "title": "For me a little late (Prod.by Park Geun-tae)",
+      "artist": "이예성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/02/154/14802154_20261016115906_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603442316"
+    },
+    {
+      "title": "Travel (feat. Nagi Season)",
+      "artist": "PITA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/12/873/14812873_20261016163324_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603451649"
+    },
+    {
+      "title": "Sleepless nights",
+      "artist": "이윤희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/10/944/14810944_20261016155058_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603449876"
+    },
+    {
+      "title": "love",
+      "artist": "강전한",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/97/555/14797555_20261016093250_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603441463"
+    },
+    {
       "title": "Together",
       "artist": "김태래 (ZEROBASEONE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/086/14758086_20261015150251_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603429484"
+    },
+    {
+      "title": "How long will you make me cry?",
+      "artist": "이정원 (Lee Jungwon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/57/646/14757646_20261015145249_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429314"
+    },
+    {
+      "title": "I want to stay",
+      "artist": "래준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/48/768/14748768_20261015095853_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603427454"
+    },
+    {
+      "title": "More than you think",
+      "artist": "Hollow Young",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/427/14815427_20261016175943_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603454980"
+    },
+    {
+      "title": "In the season that this step will touch",
+      "artist": "윤성훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/10/943/14810943_20261016155058_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603449874"
+    },
+    {
+      "title": "All-day Event",
+      "artist": "Blin (블린)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/623/14758623_20261015151730_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429676"
+    },
+    {
+      "title": "Write it as love and read it as goodbye.",
+      "artist": "유서하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/09/353/14809353_20261019133802_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603448251"
+    },
+    {
+      "title": "I met you and the world changed",
+      "artist": "휴이 (Huie)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/62/496/14762496_20261015165210_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603431060"
+    },
+    {
+      "title": "Knowing (Feat. Nini)",
+      "artist": "푸른만월",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/10/984/14810984_20261016155150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603449913"
     },
     {
       "title": "There's no other breakup",
@@ -55,12 +169,6 @@
       "artist": "루안 (가비엔제이)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/12/862/14812862_20261016163306_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603451638"
-    },
-    {
-      "title": "BAD HABITS TONITE",
-      "artist": "A2O",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/01/672/14801672_20261016112740_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603442250"
     },
     {
       "title": "Flying Butterfly",
@@ -193,114 +301,6 @@
       "artist": "메인 스트림",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/54/591/14754591_20261015133941_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603429100"
-    },
-    {
-      "title": "If you live well,",
-      "artist": "훈훈하다",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/661/14759661_20261015154143_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603430234"
-    },
-    {
-      "title": "Rainwater In Rainwater In Rainwater",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/358/14707358_20261014112958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413247"
-    },
-    {
-      "title": "Medley Love",
-      "artist": "네이비쿼카 (NavyQuokka)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/317/14707317_20261014112739_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413232"
-    },
-    {
-      "title": "2016",
-      "artist": "한혜리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/430/14752430_20261015121248_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603428303"
-    },
-    {
-      "title": "A woman's life",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/05/966/14805966_20261016135803_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603445441"
-    },
-    {
-      "title": "HIGH LIFE",
-      "artist": "NECTA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/404/14752404_20261015121052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603428301"
-    },
-    {
-      "title": "On that day, we",
-      "artist": "TOVE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/61/926/14761926_20261015163731_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603430922"
-    },
-    {
-      "title": "More than cleared",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/57/383/14757383_20261015144539_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429273"
-    },
-    {
-      "title": "Next Chapter",
-      "artist": "Hearts2Hearts (하츠투하츠)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/020/14759020_20261015152748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429810"
-    },
-    {
-      "title": "Counting",
-      "artist": "Paul Blanco",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/15/395/14715395_20261014165831_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603416802"
-    },
-    {
-      "title": "Will we ever meet again?",
-      "artist": "양정모",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/02/134/14802134_20261016115753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603442312"
-    },
-    {
-      "title": "All love like a touch",
-      "artist": "제이세라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/52/497/14752497_20261015121610_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603428315"
-    },
-    {
-      "title": "tomatoes",
-      "artist": "안효주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/51/081/14751081_20261015110002_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603427843"
-    },
-    {
-      "title": "You know, I know that we",
-      "artist": "강연우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/63/957/14763957_20261015181421_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603432971"
-    },
-    {
-      "title": "Lower whitewash",
-      "artist": "신장미",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/48/763/14748763_20261015095852_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603427452"
-    },
-    {
-      "title": "Follow this star's light",
-      "artist": "리디아 (Lydia)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/712/14806712_20261016141445_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603445953"
-    },
-    {
-      "title": "Violet Sky (Feat. Jang Soo-Bin)",
-      "artist": "S2AM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/12/120/14712120_20261014145906_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603414687"
-    },
-    {
-      "title": "To You Who Was Warm",
-      "artist": "김다올",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/50/920/14750920_20261015105558_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603427834"
     }
   ]
 }
