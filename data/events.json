@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T02:35:20.060Z",
-  "lastUpdated": "2026-10-20T02:35:20.060Z",
+  "generatedAt": "2026-10-20T10:37:53.196Z",
+  "lastUpdated": "2026-10-20T10:37:53.196Z",
   "sourceSummary": [
     "soompi",
     "soompi-music"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-20T02:35:20.060Z"
+      "lastUpdated": "2026-10-20T10:37:53.196Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -43,8 +43,8 @@
       "shortDescription": "HYBE FESTIVAL COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-10-20T02:35:20.060Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-10-20T10:37:53.196Z"
     },
     {
       "id": "evt-826fb42c78a12819",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T02:35:20.060Z"
+      "lastUpdated": "2026-10-20T10:37:53.196Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T02:35:20.060Z"
+      "lastUpdated": "2026-10-20T10:37:53.196Z"
     },
     {
       "id": "evt-fdd9a67c059f8aed",
@@ -104,27 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T02:35:20.060Z"
-    },
-    {
-      "id": "evt-5801f077a0c7dcfc",
-      "type": "Concert",
-      "title": "XG Announces Cancellation Of Dallas And Mexico City Concerts",
-      "artist": "XG",
-      "group": "XG",
-      "date": "2026-10-07",
-      "time": null,
-      "venue": "TBA",
-      "city": "Dallas",
-      "country": "US",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/07063029/XG.jpg",
-      "shortDescription": "XG’s “THE CORE” concerts in Dallas and Mexico City will no longer be taking place. On October 6 KST, XG that the Dallas and Mexico City stops of their ongoing “THE CORE” world tour had been “cancelled due to unforeseen circumstances.” Th…",
-      "sourceUrl": "https://www.soompi.com/article/1876086wpp/xg-announces-cancellation-of-dallas-and-mexico-city-concerts",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T02:35:20.060Z"
+      "lastUpdated": "2026-10-20T10:37:53.196Z"
     }
   ]
 }
