@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-19T22:30:39.883Z",
+  "generatedAt": "2026-10-20T05:03:07.232Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Feat. TimeFeveR",
+      "artist": "IOHBOY (아이오보이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/253/14954253_20261019104336_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538453"
+    },
+    {
+      "title": "Why is love always late? (Webtoon Bunker Day OST X o.o. (o.o))",
+      "artist": "O.O.O (오오오)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/711/14815711_20261016181336_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603455498"
+    },
+    {
+      "title": "Good Bye Sadness, Hello Happiness",
+      "artist": "박진서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/62/418/14962418_20261019151049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603542633"
+    },
+    {
+      "title": "Gravity (Feat. Yooin)",
+      "artist": "노르웨이 숲",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/134/00/145/13400145_20261016161738_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603448124"
+    },
+    {
+      "title": "MIDNIGHT TELEVISION",
+      "artist": "ddbb",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/085/14954085_20261019103939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538442"
+    },
+    {
+      "title": "Find My Way",
+      "artist": "차다빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/58/896/14958896_20261019134752_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603540861"
+    },
     {
       "title": "Looks Can Kill",
       "artist": "IVE (아이브)",
@@ -13,6 +49,30 @@
       "artist": "NMIXX",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/01/628/14801628_20261016112418_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603442244"
+    },
+    {
+      "title": "Journals",
+      "artist": "윤은빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/181/14954181_20261019104153_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538445"
+    },
+    {
+      "title": "RUNAWAY",
+      "artist": "sido",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/65/582/14965582_20261019162942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603544217"
+    },
+    {
+      "title": "Where the Star Begins",
+      "artist": "스텔라이브",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/09/616/14809616_20261016152037_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603448565"
+    },
+    {
+      "title": "Hug",
+      "artist": "이병현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/828/14955828_20261019114200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538850"
     },
     {
       "title": "12 o'clock",
@@ -27,10 +87,40 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603454834"
     },
     {
+      "title": "Slow Dreams",
+      "artist": "izi (오진성)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/333/14954333_20261019104549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538455"
+    },
+    {
+      "title": "Ooaaah!",
+      "artist": "27RING",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/48/783/14748783_20261015095924_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603427458"
+    },
+    {
+      "title": "Island",
+      "artist": "야자수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/57/522/14757522_20261015144915_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603429286"
+    },
+    {
       "title": "LOOK AT MA",
       "artist": "EVNNE(이븐)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/11/232/14811232_20261016155651_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603450109"
+    },
+    {
+      "title": "With Deepflow, Huckleberry P",
+      "artist": "TANK (탱크)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/398/14954398_20261019104711_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538465"
+    },
+    {
+      "title": "All Hail The Pocket GOD",
+      "artist": "MONO4OLY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/282/14815282_20261016174751_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603454709"
     },
     {
       "title": "Seoul Sunset",
@@ -211,96 +301,6 @@
       "artist": "조소현",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/024/14758024_20261015150128_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603429477"
-    },
-    {
-      "title": "If We Didn't Break Up (Feat. Sua)",
-      "artist": "김태헌",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/57/532/14757532_20261015144948_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429302"
-    },
-    {
-      "title": "Now I Can Sing",
-      "artist": "루안 (가비엔제이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/12/862/14812862_20261016163306_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603451638"
-    },
-    {
-      "title": "Flying Butterfly",
-      "artist": "정세린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/914/14806914_20261016141937_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603446135"
-    },
-    {
-      "title": "I Wanted to Tell You (With Samin)",
-      "artist": "새봄 (saevom)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/799/14707799_20261014120314_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413396"
-    },
-    {
-      "title": "Fragmented Wishes",
-      "artist": "겸 (GYE0M)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/54/681/14754681_20261015134227_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429107"
-    },
-    {
-      "title": "bosom",
-      "artist": "Yooin(유인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/138/01/144/13801144_20261016150654_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603446800"
-    },
-    {
-      "title": "retro era",
-      "artist": "더 픽스 (THE FIX)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/51/193/14751193_20261015110236_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603427852"
-    },
-    {
-      "title": "Only U",
-      "artist": "수안 (퍼플키스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/11/762/14811762_20261016160759_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603450467"
-    },
-    {
-      "title": "How Have You Been (feat. Monk)",
-      "artist": "사적인 이야기",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/12/124/14712124_20261014145926_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603414690"
-    },
-    {
-      "title": "Like this, in your mind",
-      "artist": "아우릴고트 (OUREALGOAT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/346/14707346_20261014112858_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413237"
-    },
-    {
-      "title": "The threshold of dawn",
-      "artist": "제인 (모모랜드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/07/798/14707798_20261014120314_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603413395"
-    },
-    {
-      "title": "LA 2:00",
-      "artist": "ROSESIA (로즈시아)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/54/762/14754762_20261015134444_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429110"
-    },
-    {
-      "title": "Return trip",
-      "artist": "블랭킷 소울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/02/137/14802137_20261016115754_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603442314"
-    },
-    {
-      "title": "Youth Arson Incident",
-      "artist": "지지 (zZ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/63/950/14763950_20261015181411_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603432953"
-    },
-    {
-      "title": "yet you",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/48/796/14748796_20261015095927_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603427461"
     }
   ]
 }
