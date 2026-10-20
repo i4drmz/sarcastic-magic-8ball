@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:53:09.213Z",
+  "generatedAt": "2026-10-20T17:22:33.489Z",
   "count": 50,
   "songs": [
     {
@@ -43,6 +43,12 @@
       "artist": "Catch The Young(캐치더영)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/62/831/14962831_20261019152030_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603542773"
+    },
+    {
+      "title": "Roundabout Roundabout Roundabout",
+      "artist": "CUTIE STREET",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/56/132/14956132_20261019120936_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603539454"
     },
     {
       "title": "Pledge of Love",
@@ -295,12 +301,6 @@
       "artist": "강전한",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/97/555/14797555_20261016093250_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603441463"
-    },
-    {
-      "title": "Together",
-      "artist": "김태래 (ZEROBASEONE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/58/086/14758086_20261015150251_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603429484"
     }
   ]
 }
