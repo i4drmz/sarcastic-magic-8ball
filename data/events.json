@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T10:37:53.196Z",
-  "lastUpdated": "2026-10-20T10:37:53.196Z",
+  "generatedAt": "2026-10-20T16:00:51.482Z",
+  "lastUpdated": "2026-10-20T16:00:51.482Z",
   "sourceSummary": [
     "soompi",
     "soompi-music"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-20T10:37:53.196Z"
+      "lastUpdated": "2026-10-20T16:00:51.482Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -44,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T10:37:53.196Z"
+      "lastUpdated": "2026-10-20T16:00:51.482Z"
     },
     {
       "id": "evt-826fb42c78a12819",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876986wpp/nct-wish-announces-stops-for-2nd-concert-tour-into-the-wish-face-our-wish",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T10:37:53.196Z"
+      "lastUpdated": "2026-10-20T16:00:51.482Z"
     },
     {
       "id": "evt-004e5b56f0b1625c",
@@ -84,27 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1876803wpp/ateez-announces-stops-for-2027-world-tour-zero-to-all",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T10:37:53.196Z"
-    },
-    {
-      "id": "evt-fdd9a67c059f8aed",
-      "type": "Festival",
-      "title": "Watch: HYBE Announces Plans For Weverse Con Festival India",
-      "artist": null,
-      "group": null,
-      "date": "2026-10-07",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/07100224/Weverse-Con-Festival-India.jpeg",
-      "shortDescription": "For the first time ever, Weverse Con Festival is heading abroad! On October 7, HYBE its plans for Weverse Con Festival India, which will mark the first time the event is being held outside of Korea. Weverse Con India will be held in New…",
-      "sourceUrl": "https://www.soompi.com/article/1876150wpp/watch-hybe-announces-plans-for-weverse-con-festival-india",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-20T10:37:53.196Z"
+      "lastUpdated": "2026-10-20T16:00:51.482Z"
     }
   ]
 }
