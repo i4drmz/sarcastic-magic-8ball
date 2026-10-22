@@ -1,12 +1,72 @@
 {
-  "generatedAt": "2026-10-22T02:27:58.927Z",
-  "lastUpdated": "2026-10-22T02:27:58.927Z",
+  "generatedAt": "2026-10-22T10:50:06.580Z",
+  "lastUpdated": "2026-10-22T10:50:06.580Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-69df4724d8cbec64",
+      "type": "Concert",
+      "title": "Concert “Goodbye, Hello in NELL”",
+      "artist": "NELL",
+      "group": "NELL",
+      "date": "2026-10-22",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "NELL CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/nell-to-hold-year-end-concerts-goodbye-hello-in-nells-room-2026-as-final-shows-at-jamsil-student-gymnasium-before-remodeling",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-22T10:50:06.580Z"
+    },
+    {
+      "id": "evt-159e5921bfae6eab",
+      "type": "Pop-up Store",
+      "title": "First Pop-up",
+      "artist": "EVAN",
+      "group": "EVAN",
+      "date": "2026-10-22",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "EVAN FIRST POP-UP COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/evan-to-hold-first-pop-up-for-his-official-character-gliddy-in-seongsu-with-18-types-of-merchandise",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-22T10:50:06.580Z"
+    },
+    {
+      "id": "evt-6cd727a092343cc1",
+      "type": "Concert",
+      "title": "Nationwide Tour",
+      "artist": "Lee Mu Jin",
+      "group": "Lee Mu Jin",
+      "date": "2026-10-22",
+      "time": null,
+      "venue": "TBA",
+      "city": "Busan",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "LEE MU JIN NATIONWIDE TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/lee-mu-jin-to-hold-first-nationwide-tour-in-two-years-with-year-end-concerts-in-goyang-daegu-and-busan",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-22T10:50:06.580Z"
+    },
     {
       "id": "evt-b4111111ee14b2b8",
       "type": "Concert",
@@ -25,27 +85,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/fly-to-the-sky-announce-first-solo-nationwide-tour-in-eight-years-alongside-new-album",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-22T02:27:58.927Z"
-    },
-    {
-      "id": "evt-03d3122a56aa0926",
-      "type": "Concert",
-      "title": "Concert “Jeon Hyun Moo Plan 4”",
-      "artist": "IVE",
-      "group": "IVE",
-      "date": "2026-10-21",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "IVE CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/ives-gaeul-and-liz-reveal-their-concerts-have-a-separate-waiting-area-for-parents-on-jeon-hyun-moo-plan-4",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-22T02:27:58.927Z"
+      "lastUpdated": "2026-10-22T10:50:06.580Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -65,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-22T02:27:58.927Z"
+      "lastUpdated": "2026-10-22T10:50:06.580Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -85,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-22T02:27:58.927Z"
+      "lastUpdated": "2026-10-22T10:50:06.580Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -105,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-22T02:27:58.927Z"
+      "lastUpdated": "2026-10-22T10:50:06.580Z"
     }
   ]
 }
