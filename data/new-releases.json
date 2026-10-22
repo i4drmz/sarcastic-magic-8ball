@@ -1,11 +1,89 @@
 {
-  "generatedAt": "2026-10-22T05:05:29.144Z",
+  "generatedAt": "2026-10-22T12:08:40.423Z",
   "count": 50,
   "songs": [
     {
+      "title": "Golden Age",
+      "artist": "볼빨간사춘기",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/68/186/14968186_20261019181143_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603544675"
+    },
+    {
+      "title": "Smash It",
+      "artist": "천러 (CHENLE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/10/992/15010992_20261022151120_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603580051"
+    },
+    {
+      "title": "Wah",
+      "artist": "BABO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/41/708/15041708_20261021094904_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603627977"
+    },
+    {
+      "title": "Gukbap (feat. Inha Kwon)",
+      "artist": "하하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/366/15050366_20261021144745_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603639170"
+    },
+    {
+      "title": "Family Law (feat. Just No Window, B-Free & Yul Yum)",
+      "artist": "버벌진트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/420/15050420_20261021144945_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603639348"
+    },
+    {
+      "title": "Irony",
+      "artist": "유성은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/764/14955764_20261019113529_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538798"
+    },
+    {
+      "title": "Dance Break Ver.",
+      "artist": "ALPHA DRIVE ONE (알파드라이브원)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/426/14815426_20261016175942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603454978"
+    },
+    {
+      "title": "The Last Monster",
+      "artist": "까치산",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/02/162/15002162_20261020103217_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603573113"
+    },
+    {
+      "title": "Love and Hate",
+      "artist": "제현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/64/112/14764112_20261015182324_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603433228"
+    },
+    {
+      "title": "I'm getting used to pretending I can't remember.",
+      "artist": "강지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/63/794/14963794_20261019154356_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603543379"
+    },
+    {
+      "title": "Falling in love was this hard",
+      "artist": "소이에 (soye)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/49/398/14949398_20261019084350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603537395"
+    },
+    {
+      "title": "Feat. ILHOON",
+      "artist": "LONA (로나)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/61/001/14961001_20261019143819_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603542352"
+    },
+    {
+      "title": "Cruel You",
+      "artist": "유세윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/10/981/15010981_20261020154239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603580049"
+    },
+    {
       "title": "Doshite KR ver.",
       "artist": "LIGHTSUM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/56/248/14956248_20261019121609_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/56/248/14956248_20261022141052_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603539541"
     },
     {
@@ -223,84 +301,6 @@
       "artist": "덕이형(김용덕)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/68/193/14968193_20261019181208_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603544688"
-    },
-    {
-      "title": "Prod By THE HUB",
-      "artist": "Frankie Day",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/09/460/15009460_20261020145929_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603578980"
-    },
-    {
-      "title": "Edo, Sana 'a",
-      "artist": "조선블루스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/03/511/15003511_20261020111249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603573275"
-    },
-    {
-      "title": "Come into my world!",
-      "artist": "WOODZ",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/63/148/14963148_20261019152829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542975"
-    },
-    {
-      "title": "Illusion",
-      "artist": "온유 (ONEW)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/13/791/14613791_20261019132641_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538515"
-    },
-    {
-      "title": "Feat. Oh Yun",
-      "artist": "뎁트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/63/796/14963796_20261019154401_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603543384"
-    },
-    {
-      "title": "EMØTION",
-      "artist": "GABRIEL",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/284/14954284_20261019104442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538454"
-    },
-    {
-      "title": "Hovering around",
-      "artist": "김나경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/04/055/15004055_20261020115057_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603573729"
-    },
-    {
-      "title": "You make me breathe",
-      "artist": "여은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/48/756/14748756_20261015095849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603427450"
-    },
-    {
-      "title": "A person who lives in the heart",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/776/14960776_20261019143143_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542228"
-    },
-    {
-      "title": "Ma Melody",
-      "artist": "이신주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/917/14815917_20261016182502_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603455944"
-    },
-    {
-      "title": "Silent Fleet",
-      "artist": "벤치위레오(BWL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/267/14815267_20261016174630_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603454687"
-    },
-    {
-      "title": "Courtyard of the Annunciation",
-      "artist": "낭만유랑단",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/453/14960453_20261019142257_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603541924"
-    },
-    {
-      "title": "DARKROOM",
-      "artist": "YOUNGSEO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/511/14954511_20261019105104_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538509"
     }
   ]
 }
