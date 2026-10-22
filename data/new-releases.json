@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-21T21:51:44.993Z",
+  "generatedAt": "2026-10-22T05:05:29.144Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Doshite KR ver.",
+      "artist": "LIGHTSUM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/56/248/14956248_20261019121609_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603539541"
+    },
+    {
+      "title": "Feat. Sophie Powers, MIYEON, SOYEON",
+      "artist": "K/DA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/86/978/14986978_20261020034632_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603556959"
+    },
+    {
+      "title": "seeping",
+      "artist": "Taehun (이태훈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/43/803/15043803_20261021105230_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603630011"
+    },
+    {
+      "title": "Serenade",
+      "artist": "kyuman",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/49/403/14949403_20261019084408_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603537396"
+    },
+    {
+      "title": "entry",
+      "artist": "김진원 (kimjinwon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/44/050/15044050_20261021110030_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603630525"
+    },
+    {
+      "title": "Remains in me",
+      "artist": "이보람",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/10/968/15010968_20261020154200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603580043"
+    },
     {
       "title": "Pigduk (Feat. IU)",
       "artist": "Crush",
@@ -15,6 +51,48 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603541661"
     },
     {
+      "title": "FLYVE",
+      "artist": "kenessi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/44/110/15044110_20261021110208_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603630634"
+    },
+    {
+      "title": "Song By kenessi, DUNE",
+      "artist": "KozyPop",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/63/939/14763939_20261015181311_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603432932"
+    },
+    {
+      "title": "Telescopic",
+      "artist": "Merry Dept.",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/243/14954243_20261019104333_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538451"
+    },
+    {
+      "title": "Good taste",
+      "artist": "Garlixx (갈릭스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/41/569/15041569_20261021094455_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603627804"
+    },
+    {
+      "title": "PUSH BACK",
+      "artist": "리하 (LIHA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/11/650/15011650_20261020160139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603580676"
+    },
+    {
+      "title": "Dda Dda Dda",
+      "artist": "OnO (온오)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/44/580/15044580_20261021112800_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603631339"
+    },
+    {
+      "title": "Let's do it first.",
+      "artist": "문워킹",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/13/999/14813999_20261016165857_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603452981"
+    },
+    {
       "title": "Masterpiece",
       "artist": "LNGSHOT",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/07/233/15007233_20261020135543_500.jpg",
@@ -25,6 +103,24 @@
       "artist": "이은상",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/65/746/14965746_20261019163342_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603544226"
+    },
+    {
+      "title": "LIGHTS ONLY",
+      "artist": "샤크라마 (SHARKRAMA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/67/860/14967860_20261019174850_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603544429"
+    },
+    {
+      "title": "feat. YUNG CHENS",
+      "artist": "DURI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/64/122/14764122_20261015182426_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603433248"
+    },
+    {
+      "title": "Inconvenient Convenience Store",
+      "artist": "김송주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/68/960/15068960_20261022100052_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603674533"
     },
     {
       "title": "Blue",
@@ -81,7 +177,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603541731"
     },
     {
-      "title": "Our seasons are from now on",
+      "title": "Our season starts now",
       "artist": "이세준(유리상자)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/756/14955756_20261019113506_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603538788"
@@ -130,7 +226,7 @@
     },
     {
       "title": "Prod By THE HUB",
-      "artist": "Frankie Day (THE HUB)",
+      "artist": "Frankie Day",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/09/460/15009460_20261020145929_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603578980"
     },
@@ -205,102 +301,6 @@
       "artist": "YOUNGSEO",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/511/14954511_20261019105104_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603538509"
-    },
-    {
-      "title": "Feat. Shane",
-      "artist": "Komah Jay (코마제이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/499/14960499_20261019142444_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542150"
-    },
-    {
-      "title": "Like a Habit (Feat. Hyunjin Park, M1NU)",
-      "artist": "wurii (우리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/67/843/14967843_20261019174638_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603544405"
-    },
-    {
-      "title": "To Your Next Happiness",
-      "artist": "DOKO (도코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/462/14960462_20261019142333_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542028"
-    },
-    {
-      "title": "Dancing to the sunrise (feat. Iron)",
-      "artist": "다이브 레이블",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/62/533/14762533_20261015165247_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603431063"
-    },
-    {
-      "title": "Egero",
-      "artist": "데이먼스 이어 (Damons year)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/63/854/14763854_20261015180833_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603432861"
-    },
-    {
-      "title": "Wasurenaide",
-      "artist": "강남",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/61/881/14961881_20261019145805_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542574"
-    },
-    {
-      "title": "zzz",
-      "artist": "CODE ZiGU (코드지구)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/62/486/14962486_20261019151224_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542638"
-    },
-    {
-      "title": "PARANOIA",
-      "artist": "Catch The Young(캐치더영)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/62/831/14962831_20261019152030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542773"
-    },
-    {
-      "title": "Pledge of Love",
-      "artist": "추영우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/475/14954475_20261019104949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538507"
-    },
-    {
-      "title": "Nomads",
-      "artist": "원진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/247/14815247_20261016174424_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603454638"
-    },
-    {
-      "title": "Unrequited Love Antenna",
-      "artist": "소년:달",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/892/14955892_20261019115242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603539191"
-    },
-    {
-      "title": "CHOP!",
-      "artist": "비더후드(B THE HOOD)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/97/708/14797708_20261016093700_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603441632"
-    },
-    {
-      "title": "Fairytale (Feat. Jue)",
-      "artist": "JINex (지넥스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/407/14954407_20261019104735_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538482"
-    },
-    {
-      "title": "Feat. TimeFeveR",
-      "artist": "IOHBOY (아이오보이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/54/253/14954253_20261019104336_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538453"
-    },
-    {
-      "title": "Why is love always late? (Webtoon Bunker Day OST X o.o. (o.o))",
-      "artist": "O.O.O (오오오)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/711/14815711_20261016181336_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603455498"
-    },
-    {
-      "title": "Good Bye Sadness, Hello Happiness",
-      "artist": "박진서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/62/418/14962418_20261019151049_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542633"
     }
   ]
 }
