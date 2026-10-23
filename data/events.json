@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-10-23T02:30:55.596Z",
-  "lastUpdated": "2026-10-23T02:30:55.596Z",
+  "generatedAt": "2026-10-23T10:42:13.156Z",
+  "lastUpdated": "2026-10-23T10:42:13.156Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-639e724e2c389304",
+      "type": "Concert",
+      "title": "Concert “THE X : NEXUS”",
+      "artist": "MONSTA X",
+      "group": "MONSTA X",
+      "date": "2026-10-23",
+      "time": null,
+      "venue": "TBA",
+      "city": "Los Angeles",
+      "country": "US",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "MONSTA X CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/monsta-x-return-to-las-kia-forum-for-the-first-time-in-four-years-with-150-minute-the-x-nexus-concert",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-23T10:42:13.156Z"
+    },
+    {
+      "id": "evt-68d7a26128e108a6",
+      "type": "Concert",
+      "title": "First Fan Concert",
+      "artist": "hrtz.wav",
+      "group": "hrtz.wav",
+      "date": "2026-10-23",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "HRTZ.WAV FIRST FAN CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/hrtzwav-to-hold-first-fan-concert-at-jangchung-arena-just-seven-months-after-debut",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-23T10:42:13.156Z"
+    },
     {
       "id": "evt-51717fc7a16ff42e",
       "type": "Fan Meeting",
@@ -24,47 +64,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/seo-in-guk-to-hold-first-fan-meeting-in-korea-in-two-years-with-two-sides-in-seoul-on-december-19",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-23T02:30:55.596Z"
-    },
-    {
-      "id": "evt-69df4724d8cbec64",
-      "type": "Concert",
-      "title": "Concert “Goodbye, Hello in NELL”",
-      "artist": "NELL",
-      "group": "NELL",
-      "date": "2026-10-22",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "NELL CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/nell-to-hold-year-end-concerts-goodbye-hello-in-nells-room-2026-as-final-shows-at-jamsil-student-gymnasium-before-remodeling",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-23T02:30:55.596Z"
-    },
-    {
-      "id": "evt-6cd727a092343cc1",
-      "type": "Concert",
-      "title": "Nationwide Tour",
-      "artist": "Lee Mu Jin",
-      "group": "Lee Mu Jin",
-      "date": "2026-10-22",
-      "time": null,
-      "venue": "TBA",
-      "city": "Busan",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "LEE MU JIN NATIONWIDE TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/lee-mu-jin-to-hold-first-nationwide-tour-in-two-years-with-year-end-concerts-in-goyang-daegu-and-busan",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-23T02:30:55.596Z"
+      "lastUpdated": "2026-10-23T10:42:13.156Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-23T02:30:55.596Z"
+      "lastUpdated": "2026-10-23T10:42:13.156Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -104,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-23T02:30:55.596Z"
+      "lastUpdated": "2026-10-23T10:42:13.156Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -124,7 +124,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-23T02:30:55.596Z"
+      "lastUpdated": "2026-10-23T10:42:13.156Z"
     }
   ]
 }
