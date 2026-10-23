@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-22T21:46:56.702Z",
+  "generatedAt": "2026-10-23T05:05:22.953Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Drip",
+      "artist": "ATEEZ(에이티즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/281/14806281_20261016140546_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603445702"
+    },
+    {
+      "title": "DESERVE",
+      "artist": "BABYMONSTER",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/73/970/15073970_20261023091024_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603689561"
+    },
+    {
+      "title": "that you're gonna sign up for,",
+      "artist": "이소나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/618/15069618_20261022152152_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676486"
+    },
+    {
+      "title": "Subtle",
+      "artist": "윤현상",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/53/095/15053095_20261021161635_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603644273"
+    },
+    {
+      "title": "atlas",
+      "artist": "하츠 (hartts)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/368/15069368_20261022123243_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603675645"
+    },
+    {
+      "title": "Everyone knows this story",
+      "artist": "허클베리핀 (Huckleberryfinn)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/824/15069824_20261022160041_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603677065"
+    },
     {
       "title": "Golden Age",
       "artist": "볼빨간사춘기",
@@ -9,10 +45,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603544675"
     },
     {
+      "title": "Psycho",
+      "artist": "비공정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/348/15055348_20261021184715_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603652283"
+    },
+    {
+      "title": "WhatUlike",
+      "artist": "우진영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/534/14955534_20261019112419_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603538711"
+    },
+    {
+      "title": "In Greenness",
+      "artist": "노엔",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/334/15052334_20261021155111_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603642892"
+    },
+    {
+      "title": "I didn't even go out, but I feel like I broke up",
+      "artist": "420 Project",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/798/15069798_20261022154801_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676947"
+    },
+    {
+      "title": "Weather a little faded to love you",
+      "artist": "다인 (Dain)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/53/064/15053064_20261021161537_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603644240"
+    },
+    {
       "title": "Smash It",
       "artist": "천러 (CHENLE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/10/992/15010992_20261022151120_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603580051"
+    },
+    {
+      "title": "Long chestnuts",
+      "artist": "유리 킴",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/44/585/15044585_20261021112855_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603631377"
+    },
+    {
+      "title": "CHEMISTRY",
+      "artist": "디엔 (d&)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/04/273/15004273_20261020120355_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603574079"
+    },
+    {
+      "title": "1TIME",
+      "artist": "IAMMONEY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/13/037/15013037_20261020163726_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603581664"
+    },
+    {
+      "title": "Only that much",
+      "artist": "서초은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/41/337/15041337_20261021093748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603627606"
+    },
+    {
+      "title": "Thinking late at night",
+      "artist": "라밋(Ramit)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/53/165/15053165_20261021161908_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603644416"
+    },
+    {
+      "title": "feat. Choi Go",
+      "artist": "젬마(JEMMA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/53/126/15053126_20261021161744_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603644346"
     },
     {
       "title": "Wah",
@@ -199,108 +301,6 @@
       "artist": "김송주",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/68/960/15068960_20261022100052_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603674533"
-    },
-    {
-      "title": "Blue",
-      "artist": "강다니엘",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/63/898/14763898_20261015181047_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603432900"
-    },
-    {
-      "title": "B.B.B",
-      "artist": "YUHZ (유어즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/65/358/14965358_20261019162352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603544198"
-    },
-    {
-      "title": "180",
-      "artist": "이예준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/08/177/15008177_20261020142349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603578241"
-    },
-    {
-      "title": "01",
-      "artist": "이츠",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/109/14960109_20261019141459_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603541711"
-    },
-    {
-      "title": "Feat. IKASÉ",
-      "artist": "Khakii",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/936/14955936_20261019115909_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603539343"
-    },
-    {
-      "title": "Cut The Tape",
-      "artist": "Jaebin",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/07/279/15007279_20261020135652_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603577111"
-    },
-    {
-      "title": "Whoa!",
-      "artist": "캐스커",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/15/369/14815369_20261016175428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603454868"
-    },
-    {
-      "title": "Seoulmates",
-      "artist": "로맨틱펀치 (Romantic Punch)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/62/101/14962101_20261019150337_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542595"
-    },
-    {
-      "title": "#fyp",
-      "artist": "200 (EBACK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/127/14960127_20261019141523_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603541731"
-    },
-    {
-      "title": "Our season starts now",
-      "artist": "이세준(유리상자)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/756/14955756_20261019113506_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538788"
-    },
-    {
-      "title": "560 SEC",
-      "artist": "Dowoo",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/50/152/14950152_20261019090442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603537409"
-    },
-    {
-      "title": "What kind of life have we lived?",
-      "artist": "노블레스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/48/775/14748775_20261015095854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603427456"
-    },
-    {
-      "title": "feat. punchnello",
-      "artist": "LAVEEN (라빈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/015/14960015_20261019141250_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603541644"
-    },
-    {
-      "title": "Leisurely Sleep",
-      "artist": "109",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/214/14418214_20261019093804_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603453793"
-    },
-    {
-      "title": "Roundabout Roundabout Roundabout",
-      "artist": "CUTIE STREET",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/56/132/14956132_20261019120936_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603539454"
-    },
-    {
-      "title": "feat. Zenn",
-      "artist": "Aden (에이든)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/65/365/14965365_20261019162414_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603544202"
-    },
-    {
-      "title": "366 days",
-      "artist": "덕이형(김용덕)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/68/193/14968193_20261019181208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603544688"
     }
   ]
 }
