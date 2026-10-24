@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-10-24T09:58:37.977Z",
+  "ranAt": "2026-10-24T19:58:04.885Z",
   "success": false,
-  "apiRequests": 17,
+  "apiRequests": 16,
   "providersRegistered": [
     "rss"
   ],
@@ -25,8 +25,8 @@
       "extracted": 0,
       "discarded": 60,
       "discardReasons": {
-        "no_event_signal": 47,
-        "not_event_announcement": 13
+        "no_event_signal": 48,
+        "not_event_announcement": 12
       }
     },
     {
@@ -40,8 +40,8 @@
       "extracted": 3,
       "discarded": 57,
       "discardReasons": {
-        "no_event_signal": 30,
-        "not_event_announcement": 27
+        "no_event_signal": 29,
+        "not_event_announcement": 28
       }
     },
     {
@@ -51,12 +51,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 40,
-      "eventRelated": 2,
-      "extracted": 2,
-      "discarded": 38,
+      "eventRelated": 1,
+      "extracted": 1,
+      "discarded": 39,
       "discardReasons": {
-        "no_event_signal": 31,
-        "not_event_announcement": 7
+        "not_event_announcement": 11,
+        "no_event_signal": 28
       }
     },
     {
@@ -99,8 +99,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 7,
-        "not_event_announcement": 3
+        "no_event_signal": 9,
+        "not_event_announcement": 1
       }
     },
     {
@@ -114,8 +114,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 1,
         "no_event_signal": 8,
+        "not_event_announcement": 1,
         "not_kpop": 1
       }
     },
@@ -130,8 +130,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 1,
         "no_event_signal": 8,
+        "not_event_announcement": 1,
         "not_kpop": 1
       }
     },
@@ -169,16 +169,14 @@
       "id": "hellokpop",
       "label": "helloKpop",
       "url": "https://hellokpop.com/feed/",
-      "ok": true,
-      "httpStatus": 200,
-      "items": 3,
+      "ok": false,
+      "httpStatus": 202,
+      "items": 0,
       "eventRelated": 0,
       "extracted": 0,
-      "discarded": 3,
-      "discardReasons": {
-        "no_event_signal": 2,
-        "not_event_announcement": 1
-      }
+      "discarded": 0,
+      "discardReasons": {},
+      "error": "response is not RSS/Atom XML"
     },
     {
       "id": "biaslist",
@@ -191,27 +189,27 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 6,
-        "not_event_announcement": 4
+        "no_event_signal": 7,
+        "not_event_announcement": 3
       }
     }
   ],
-  "rawEvents": 5,
-  "afterDedupe": 5,
-  "afterUpcomingFilter": 5,
-  "totalItems": 243,
-  "totalEventRelated": 7,
-  "totalExtracted": 5,
-  "totalDiscarded": 238,
-  "extractionAccuracyPct": 71.4,
-  "previousCount": 6,
-  "writtenCount": 5,
+  "rawEvents": 4,
+  "afterDedupe": 4,
+  "afterUpcomingFilter": 4,
+  "totalItems": 240,
+  "totalEventRelated": 6,
+  "totalExtracted": 4,
+  "totalDiscarded": 236,
+  "extractionAccuracyPct": 66.7,
+  "previousCount": 5,
+  "writtenCount": 4,
   "changed": true,
   "published": false,
   "notes": [
     "rss:soompi: items=60 related=0 extracted=0 discarded=60",
     "rss:soompi-music: items=60 related=3 extracted=3 discarded=57",
-    "rss:allkpop: items=40 related=2 extracted=2 discarded=38",
+    "rss:allkpop: items=40 related=1 extracted=1 discarded=39",
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
@@ -219,8 +217,8 @@
     "rss:nme-music: items=10 related=1 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:hellokpop: items=3 related=0 extracted=0 discarded=3",
+    "rss:hellokpop: not RSS/Atom",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=3/5"
+    "rss:images resolved from articles=3/4"
   ]
 }
