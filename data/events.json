@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T10:42:13.156Z",
-  "lastUpdated": "2026-10-23T10:42:13.156Z",
+  "generatedAt": "2026-10-24T09:58:37.977Z",
+  "lastUpdated": "2026-10-24T09:58:37.977Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/monsta-x-return-to-las-kia-forum-for-the-first-time-in-four-years-with-150-minute-the-x-nexus-concert",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-23T10:42:13.156Z"
+      "lastUpdated": "2026-10-24T09:58:37.977Z"
     },
     {
       "id": "evt-68d7a26128e108a6",
@@ -44,27 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/hrtzwav-to-hold-first-fan-concert-at-jangchung-arena-just-seven-months-after-debut",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-23T10:42:13.156Z"
-    },
-    {
-      "id": "evt-51717fc7a16ff42e",
-      "type": "Fan Meeting",
-      "title": "First Fan Meeting “TWO SIDES”",
-      "artist": "Seo In Guk",
-      "group": "Seo In Guk",
-      "date": "2026-10-23",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "SEO IN GUK FIRST FAN MEETING COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/seo-in-guk-to-hold-first-fan-meeting-in-korea-in-two-years-with-two-sides-in-seoul-on-december-19",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-23T10:42:13.156Z"
+      "lastUpdated": "2026-10-24T09:58:37.977Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -84,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-23T10:42:13.156Z"
+      "lastUpdated": "2026-10-24T09:58:37.977Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -104,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-23T10:42:13.156Z"
+      "lastUpdated": "2026-10-24T09:58:37.977Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -124,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-23T10:42:13.156Z"
+      "lastUpdated": "2026-10-24T09:58:37.977Z"
     }
   ]
 }
