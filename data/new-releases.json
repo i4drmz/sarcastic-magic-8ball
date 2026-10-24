@@ -1,18 +1,42 @@
 {
-  "generatedAt": "2026-10-23T21:32:30.951Z",
+  "generatedAt": "2026-10-24T04:49:51.450Z",
   "count": 50,
   "songs": [
     {
-      "title": "Drip",
-      "artist": "ATEEZ(에이티즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/281/14806281_20261016140546_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603445702"
+      "title": "Feat. Wyoalyx, Castle Zane",
+      "artist": "SUDI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/638/15069638_20261022152654_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676575"
     },
     {
-      "title": "DESERVE",
-      "artist": "BABYMONSTER",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/73/970/15073970_20261023091024_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603689561"
+      "title": "Umm",
+      "artist": "박다울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/627/15069627_20261022152436_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676548"
+    },
+    {
+      "title": "I am happy",
+      "artist": "김용빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/70/498/15070498_20261022174403_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603679544"
+    },
+    {
+      "title": "Chasing Dreams",
+      "artist": "Meego",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/634/15069634_20261022152451_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676562"
+    },
+    {
+      "title": "A day that's not what you think",
+      "artist": "김결",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/775/15050775_20261021150037_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603639815"
+    },
+    {
+      "title": "You stay",
+      "artist": "임성현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/681/15055681_20261021190540_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603653589"
     },
     {
       "title": "I, sir,",
@@ -27,6 +51,24 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603644561"
     },
     {
+      "title": "Assimilation (Art. stars (hangsung))",
+      "artist": "Anonymous Artists(어나니머스 아티스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/804/15069804_20261022154941_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676989"
+    },
+    {
+      "title": "I'm shaking with my throbbing.",
+      "artist": "모닝커피 (Morning Coffee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/792/15069792_20261022154036_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676911"
+    },
+    {
+      "title": "Everything about other people's lives is just like a movie.",
+      "artist": "하준석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/655/15069655_20261022153053_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676645"
+    },
+    {
       "title": "Today's me is",
       "artist": "손승연",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/703/15069703_20261022153337_500.jpg",
@@ -39,6 +81,30 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603573525"
     },
     {
+      "title": "I want to tell you",
+      "artist": "파니니 브런치 (PANINI BRUNCH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/914/15055914_20261021191259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603654656"
+    },
+    {
+      "title": "As long as you live",
+      "artist": "몽글",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/861/15074861_20261023155035_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692600"
+    },
+    {
+      "title": "Fool",
+      "artist": "DaNTe' (단테)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/637/15069637_20261022152648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676574"
+    },
+    {
+      "title": "Prod. Kwonyul",
+      "artist": "Dowhaji (도화지)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/678/15069678_20261022153159_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676683"
+    },
+    {
       "title": "I still say your name",
       "artist": "니브 (NIve)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/140/15069140_20261022112759_500.jpg",
@@ -49,6 +115,18 @@
       "artist": "노민재",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/12/564/15012564_20261020162517_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603581318"
+    },
+    {
+      "title": "Drip",
+      "artist": "ATEEZ(에이티즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/281/14806281_20261016140546_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603445702"
+    },
+    {
+      "title": "DESERVE",
+      "artist": "BABYMONSTER",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/73/970/15073970_20261023091024_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603689561"
     },
     {
       "title": "If there is a God,",
@@ -223,84 +301,6 @@
       "artist": "제현",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/64/112/14764112_20261015182324_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603433228"
-    },
-    {
-      "title": "I'm getting used to pretending I can't remember.",
-      "artist": "강지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/63/794/14963794_20261019154356_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603543379"
-    },
-    {
-      "title": "Falling in love was this hard",
-      "artist": "소이에 (soye)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/49/398/14949398_20261019084350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603537395"
-    },
-    {
-      "title": "Feat. ILHOON",
-      "artist": "LONA (로나)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/61/001/14961001_20261019143819_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603542352"
-    },
-    {
-      "title": "Cruel You",
-      "artist": "유세윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/10/981/15010981_20261020154239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603580049"
-    },
-    {
-      "title": "Doshite KR ver.",
-      "artist": "LIGHTSUM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/56/248/14956248_20261022141052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603539541"
-    },
-    {
-      "title": "Feat. Sophie Powers, MIYEON, SOYEON",
-      "artist": "K/DA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/86/978/14986978_20261020034632_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603556959"
-    },
-    {
-      "title": "seeping",
-      "artist": "Taehun (이태훈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/43/803/15043803_20261021105230_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603630011"
-    },
-    {
-      "title": "Serenade",
-      "artist": "kyuman",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/49/403/14949403_20261019084408_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603537396"
-    },
-    {
-      "title": "entry",
-      "artist": "김진원 (kimjinwon)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/44/050/15044050_20261021110030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603630525"
-    },
-    {
-      "title": "Remains in me",
-      "artist": "이보람",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/10/968/15010968_20261020154200_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603580043"
-    },
-    {
-      "title": "Pigduk (Feat. IU)",
-      "artist": "Crush",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/55/418/14955418_20261019111743_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603538665"
-    },
-    {
-      "title": "in place for the first time",
-      "artist": "송하영 (프로미스나인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/60/051/14960051_20261019141346_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603541661"
-    },
-    {
-      "title": "FLYVE",
-      "artist": "kenessi",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/44/110/15044110_20261021110208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603630634"
     }
   ]
 }
