@@ -1,7 +1,13 @@
 {
-  "generatedAt": "2026-10-25T11:49:44.527Z",
+  "generatedAt": "2026-10-25T16:37:35.103Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Insomnia",
+      "artist": "RIIZE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/721/15074721_20261023150339_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692202"
+    },
     {
       "title": "FLY HIGH",
       "artist": "오마이걸 (OH MY GIRL)",
@@ -295,12 +301,6 @@
       "artist": "파니니 브런치 (PANINI BRUNCH)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/914/15055914_20261021191259_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603654656"
-    },
-    {
-      "title": "As long as you live",
-      "artist": "몽글",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/861/15074861_20261023155035_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603692600"
     }
   ]
 }
