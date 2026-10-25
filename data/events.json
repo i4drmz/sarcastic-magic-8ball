@@ -1,31 +1,10 @@
 {
-  "generatedAt": "2026-10-24T19:58:04.885Z",
-  "lastUpdated": "2026-10-24T19:58:04.885Z",
+  "generatedAt": "2026-10-25T02:15:50.974Z",
+  "lastUpdated": "2026-10-25T02:15:50.974Z",
   "sourceSummary": [
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-68d7a26128e108a6",
-      "type": "Concert",
-      "title": "First Fan Concert",
-      "artist": "hrtz.wav",
-      "group": "hrtz.wav",
-      "date": "2026-10-23",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "HRTZ.WAV FIRST FAN CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/hrtzwav-to-hold-first-fan-concert-at-jangchung-arena-just-seven-months-after-debut",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-24T19:58:04.885Z"
-    },
     {
       "id": "evt-02d94675440652b8",
       "type": "Festival",
@@ -44,7 +23,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-24T19:58:04.885Z"
+      "lastUpdated": "2026-10-25T02:15:50.974Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -64,7 +43,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-24T19:58:04.885Z"
+      "lastUpdated": "2026-10-25T02:15:50.974Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -84,7 +63,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-24T19:58:04.885Z"
+      "lastUpdated": "2026-10-25T02:15:50.974Z"
     }
   ]
 }
