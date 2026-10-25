@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-10-25T04:58:47.781Z",
+  "generatedAt": "2026-10-25T11:49:44.527Z",
   "count": 50,
   "songs": [
+    {
+      "title": "FLY HIGH",
+      "artist": "오마이걸 (OH MY GIRL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/791/15069791_20261022153934_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676909"
+    },
+    {
+      "title": "Lie",
+      "artist": "jeebanoff",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/413/15074413_20261023105348_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603690920"
+    },
+    {
+      "title": "To you ()",
+      "artist": "로코베리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/717/15074717_20261023145938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692193"
+    },
+    {
+      "title": "I didn't love him because I didn't love him.",
+      "artist": "신예영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/203/15052203_20261021154702_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603642562"
+    },
+    {
+      "title": "How did we break up?",
+      "artist": "차가을",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/788/15069788_20261022153844_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676887"
+    },
+    {
+      "title": "2026",
+      "artist": "경서예지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/716/15074716_20261023145919_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692191"
+    },
+    {
+      "title": "Sorry Dad",
+      "artist": "소향",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/363/15055363_20261021184848_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603652369"
+    },
+    {
+      "title": "Easy",
+      "artist": "off the menu (오프더메뉴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/715/15074715_20261023145908_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692189"
+    },
+    {
+      "title": "Send You Alone",
+      "artist": "이을 (E.ul)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/13/482/15013482_20261020164912_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603582065"
+    },
+    {
+      "title": "Because I miss you so badly",
+      "artist": "배기성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/204/15052204_20261021154703_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603642568"
+    },
+    {
+      "title": "On the day when we were green,",
+      "artist": "선진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/789/15069789_20261022153904_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603676888"
+    },
     {
       "title": "100m",
       "artist": "달담",
@@ -235,72 +301,6 @@
       "artist": "몽글",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/861/15074861_20261023155035_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603692600"
-    },
-    {
-      "title": "Fool",
-      "artist": "DaNTe' (단테)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/637/15069637_20261022152648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676574"
-    },
-    {
-      "title": "Prod. Kwonyul",
-      "artist": "Dowhaji (도화지)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/678/15069678_20261022153159_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676683"
-    },
-    {
-      "title": "I still say your name",
-      "artist": "니브 (NIve)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/140/15069140_20261022112759_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603675123"
-    },
-    {
-      "title": "Golden Pages",
-      "artist": "노민재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/12/564/15012564_20261020162517_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603581318"
-    },
-    {
-      "title": "Drip",
-      "artist": "ATEEZ(에이티즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/06/281/14806281_20261016140546_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603445702"
-    },
-    {
-      "title": "DESERVE",
-      "artist": "BABYMONSTER",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/73/970/15073970_20261023091024_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603689561"
-    },
-    {
-      "title": "If there is a God,",
-      "artist": "조선힙합_official",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/13/325/15013325_20261020164530_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603581960"
-    },
-    {
-      "title": "Turn UP dude",
-      "artist": "100KGOLD",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/309/15050309_20261021144609_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603639108"
-    },
-    {
-      "title": "The night the sun stopped, the morning the moon stopped",
-      "artist": "하은 (HAEUN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/53/200/15053200_20261021162039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603644500"
-    },
-    {
-      "title": "The two of them",
-      "artist": "이재희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/04/274/15004274_20261020120356_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603574081"
-    },
-    {
-      "title": "and become your tree,",
-      "artist": "현대화",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/839/15069839_20261022160444_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603677090"
     }
   ]
 }
