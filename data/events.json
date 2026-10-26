@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-26T02:16:03.200Z",
-  "lastUpdated": "2026-10-26T02:16:03.200Z",
+  "generatedAt": "2026-10-26T11:51:02.352Z",
+  "lastUpdated": "2026-10-26T11:51:02.352Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-c9917b62140b5a7d",
+      "type": "Concert",
+      "title": "Concert “Inkigayo”",
+      "artist": "IVE",
+      "group": "IVE",
+      "date": "2026-10-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "IVE CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/ives-jang-won-young-briefly-nods-off-during-live-inkigayo-broadcast-amid-busy-comeback-schedule",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-26T11:51:02.352Z"
+    },
     {
       "id": "evt-26e1f5603f9e3ea6",
       "type": "Concert",
@@ -24,27 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/lucy-unveil-three-unreleased-songs-at-island-encore-concert-in-seoul",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-26T02:16:03.200Z"
-    },
-    {
-      "id": "evt-c218d5db8c1e299a",
-      "type": "Concert",
-      "title": "Concert “Question Mark”",
-      "artist": "HANRORO",
-      "group": "HANRORO",
-      "date": "2026-10-25",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "HANRORO CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/hanroro-announces-first-arena-concerts-with-question-mark",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-26T02:16:03.200Z"
+      "lastUpdated": "2026-10-26T11:51:02.352Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -64,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-26T02:16:03.200Z"
+      "lastUpdated": "2026-10-26T11:51:02.352Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -84,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-26T02:16:03.200Z"
+      "lastUpdated": "2026-10-26T11:51:02.352Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -104,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-26T02:16:03.200Z"
+      "lastUpdated": "2026-10-26T11:51:02.352Z"
     }
   ]
 }
