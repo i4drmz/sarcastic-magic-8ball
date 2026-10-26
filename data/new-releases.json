@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:00:19.096Z",
+  "generatedAt": "2026-10-26T05:03:49.309Z",
   "count": 50,
   "songs": [
     {
@@ -7,6 +7,36 @@
       "artist": "RIIZE",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/721/15074721_20261023150339_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603692202"
+    },
+    {
+      "title": "Neol",
+      "artist": "이소라",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/946/15074946_20261023160416_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692934"
+    },
+    {
+      "title": "Whisper Waltz",
+      "artist": "장수빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/779/15074779_20261023152727_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692401"
+    },
+    {
+      "title": "What a Tragedy",
+      "artist": "최기덕 (9duck)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/279/15055279_20261021183949_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603651948"
+    },
+    {
+      "title": "feat. Amy",
+      "artist": "2soo",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/742/15055742_20261021190737_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603653879"
+    },
+    {
+      "title": "Prod. edenbyeden",
+      "artist": "Mabinc",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/863/15074863_20261023155300_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692603"
     },
     {
       "title": "FLY HIGH",
@@ -21,6 +51,42 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603690920"
     },
     {
+      "title": "You are the one person I can rest.",
+      "artist": "숙희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/814/15069814_20261022155729_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603677011"
+    },
+    {
+      "title": "I am from",
+      "artist": "홍진영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/789/15074789_20261023152856_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692427"
+    },
+    {
+      "title": "Echo Bloom",
+      "artist": "바닐라 유니티",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/801/15074801_20261023153338_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692477"
+    },
+    {
+      "title": "Louder",
+      "artist": "Fresh Air",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/15/138/15015138_20261020181530_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603585117"
+    },
+    {
+      "title": "At the bus stop",
+      "artist": "CHAD BURGER",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/852/15074852_20261023154902_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692581"
+    },
+    {
+      "title": "Like a stranger",
+      "artist": "어반폴리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/909/15055909_20261021191255_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603654621"
+    },
+    {
       "title": "To you ()",
       "artist": "로코베리",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/717/15074717_20261023145938_500.jpg",
@@ -31,6 +97,36 @@
       "artist": "신예영",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/203/15052203_20261021154702_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603642562"
+    },
+    {
+      "title": "One Rainy Summer Night (feat. Kwon Sung-jin)",
+      "artist": "HOZIHO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/758/15074758_20261023152301_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692346"
+    },
+    {
+      "title": "feat. JP",
+      "artist": "코드폴 (Chord Paul)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/802/15074802_20261023153343_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692478"
+    },
+    {
+      "title": "I&#39;m not doing music anymore.",
+      "artist": "권언정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/09/868/15009868_20261020151005_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603579195"
+    },
+    {
+      "title": "It’s not the end I wanted, but",
+      "artist": "소밍",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/391/15050391_20261021144839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603639281"
+    },
+    {
+      "title": "Falling",
+      "artist": "Meego",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/795/15074795_20261023152958_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692457"
     },
     {
       "title": "How did we break up?",
@@ -81,7 +177,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603651947"
     },
     {
-      "title": "Do not rush (Feat. Pledge (PLZY)",
+      "title": "Do not rush (Feat. PLZY)",
       "artist": "수우 (soowoo)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/125/15052125_20261021154456_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603642433"
@@ -183,8 +279,8 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603642491"
     },
     {
-      "title": "See you again",
-      "artist": "이형은(Lee Hyungeun)",
+      "title": "Meet Again (Feat. Lee Hyung-eun)",
+      "artist": "사적인 이야기",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/664/15069664_20261022153126_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603676668"
     },
@@ -205,102 +301,6 @@
       "artist": "유태",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/647/15055647_20261021190448_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603653471"
-    },
-    {
-      "title": "Shawty",
-      "artist": "윌라 (WILLA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/640/15069640_20261022152741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676594"
-    },
-    {
-      "title": "LMFAO",
-      "artist": "viceversa",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/68/975/15068975_20261022101004_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603674574"
-    },
-    {
-      "title": "Feat. Wyoalyx, Castle Zane",
-      "artist": "SUDI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/638/15069638_20261022152654_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676575"
-    },
-    {
-      "title": "Umm",
-      "artist": "박다울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/627/15069627_20261022152436_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676548"
-    },
-    {
-      "title": "I am happy",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/70/498/15070498_20261022174403_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603679544"
-    },
-    {
-      "title": "Chasing Dreams",
-      "artist": "Meego",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/634/15069634_20261022152451_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676562"
-    },
-    {
-      "title": "A day that's not what you think",
-      "artist": "김결",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/775/15050775_20261021150037_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603639815"
-    },
-    {
-      "title": "You stay",
-      "artist": "임성현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/681/15055681_20261021190540_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603653589"
-    },
-    {
-      "title": "I, sir,",
-      "artist": "손빈아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/685/15069685_20261022153230_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676690"
-    },
-    {
-      "title": "Circle",
-      "artist": "김필",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/53/241/15053241_20261021162147_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603644561"
-    },
-    {
-      "title": "Assimilation (Art. stars (hangsung))",
-      "artist": "Anonymous Artists(어나니머스 아티스트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/804/15069804_20261022154941_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676989"
-    },
-    {
-      "title": "I'm shaking with my throbbing.",
-      "artist": "모닝커피 (Morning Coffee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/792/15069792_20261022154036_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676911"
-    },
-    {
-      "title": "Everything about other people's lives is just like a movie.",
-      "artist": "하준석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/655/15069655_20261022153053_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676645"
-    },
-    {
-      "title": "Today's me is",
-      "artist": "손승연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/703/15069703_20261022153337_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676722"
-    },
-    {
-      "title": "Love is life",
-      "artist": "케이시 (Kassy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/04/009/15004009_20261020114515_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603573525"
-    },
-    {
-      "title": "I want to tell you",
-      "artist": "파니니 브런치 (PANINI BRUNCH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/914/15055914_20261021191259_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603654656"
     }
   ]
 }
