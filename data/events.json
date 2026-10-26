@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-26T11:51:02.352Z",
-  "lastUpdated": "2026-10-26T11:51:02.352Z",
+  "generatedAt": "2026-10-26T17:53:01.507Z",
+  "lastUpdated": "2026-10-26T17:53:01.507Z",
   "sourceSummary": [
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "nme"
   ],
   "events": [
     {
@@ -24,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/ives-jang-won-young-briefly-nods-off-during-live-inkigayo-broadcast-amid-busy-comeback-schedule",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-26T11:51:02.352Z"
+      "lastUpdated": "2026-10-26T17:53:01.507Z"
     },
     {
       "id": "evt-26e1f5603f9e3ea6",
@@ -44,7 +45,27 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/lucy-unveil-three-unreleased-songs-at-island-encore-concert-in-seoul",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-26T11:51:02.352Z"
+      "lastUpdated": "2026-10-26T17:53:01.507Z"
+    },
+    {
+      "id": "evt-c5ead7436e2cd792",
+      "type": "Pop-up Store",
+      "title": "Pop-up",
+      "artist": "2PM",
+      "group": "2PM",
+      "date": "2026-10-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "London",
+      "country": "GB",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2026/10/pulp@2000x1270.jpg",
+      "shortDescription": "2PM POP-UP COMING UP",
+      "sourceUrl": "https://www.nme.com/news/music/pulp-announce-one-off-hometown-pop-up-at-hallamshire-hotel-to-celebrate-sheffield-walk-of-fame-3974262?utm_source=rss&utm_medium=rss&utm_campaign=pulp-announce-one-off-hometown-pop-up-at-hallamshire-hotel-to-celebrate-sheffield-walk-of-fame",
+      "ticketUrl": null,
+      "source": "rss:nme",
+      "lastUpdated": "2026-10-26T17:53:01.507Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -64,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-26T11:51:02.352Z"
+      "lastUpdated": "2026-10-26T17:53:01.507Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -84,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-26T11:51:02.352Z"
+      "lastUpdated": "2026-10-26T17:53:01.507Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -104,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-26T11:51:02.352Z"
+      "lastUpdated": "2026-10-26T17:53:01.507Z"
     }
   ]
 }
