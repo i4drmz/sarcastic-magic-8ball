@@ -1,12 +1,72 @@
 {
-  "generatedAt": "2026-10-26T05:03:49.309Z",
+  "generatedAt": "2026-10-26T13:21:35.917Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Looks Can Kill",
+      "artist": "IVE (아이브)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/09/931/14809931_20261026105712_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603448999"
+    },
+    {
+      "title": "I'll arrest you",
+      "artist": "아일릿(ILLIT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/373/15081373_20261026102240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603709840"
+    },
+    {
+      "title": "a thousand more times",
+      "artist": "전건호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/48/496/15048496_20261021140354_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603637308"
+    },
+    {
+      "title": "Made for This",
+      "artist": "유채훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/719/15074719_20261023150150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692199"
+    },
+    {
+      "title": "Blue Sky",
+      "artist": "은혁 (EUNHYUK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/287/15075287_20261023173104_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603693966"
+    },
+    {
+      "title": "Even for just one day",
+      "artist": "로키드 (Lokid)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/249/15052249_20261021154816_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603642679"
+    },
+    {
+      "title": "Desire",
+      "artist": "MILLENNIUM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/15/149/15015149_20261020181623_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603585148"
+    },
+    {
+      "title": "Lucky Charm",
+      "artist": "WE GO-6",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/71/642/14571642_20261026133123_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603709869"
+    },
+    {
+      "title": "1/10,000",
+      "artist": "SLAY (슬레이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/927/15074927_20261023160040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692841"
+    },
     {
       "title": "Insomnia",
       "artist": "RIIZE",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/721/15074721_20261023150339_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603692202"
+    },
+    {
+      "title": "Now I’m Never Die",
+      "artist": "W24",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/925/15074925_20261023160005_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692821"
     },
     {
       "title": "Neol",
@@ -51,7 +111,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603690920"
     },
     {
-      "title": "You are the one person I can rest.",
+      "title": "You are the one person I can rest with",
       "artist": "숙희",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/814/15069814_20261022155729_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603677011"
@@ -75,7 +135,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603585117"
     },
     {
-      "title": "At the bus stop",
+      "title": "At the stop",
       "artist": "CHAD BURGER",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/852/15074852_20261023154902_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603692581"
@@ -99,7 +159,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603642562"
     },
     {
-      "title": "One Rainy Summer Night (feat. Kwon Sung-jin)",
+      "title": "One Rainy Summer Night (feat. Sungjin Kwon)",
       "artist": "HOZIHO",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/758/15074758_20261023152301_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603692346"
@@ -111,13 +171,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603692478"
     },
     {
-      "title": "I&#39;m not doing music anymore.",
+      "title": "I don't play music anymore",
       "artist": "권언정",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/09/868/15009868_20261020151005_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603579195"
     },
     {
-      "title": "It’s not the end I wanted, but",
+      "title": "It's not the end I was hoping for,",
       "artist": "소밍",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/391/15050391_20261021144839_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603639281"
@@ -177,7 +237,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603651947"
     },
     {
-      "title": "Do not rush (Feat. PLZY)",
+      "title": "Do not rush (Feat. PLZY (pledge)",
       "artist": "수우 (soowoo)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/125/15052125_20261021154456_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603642433"
@@ -241,66 +301,6 @@
       "artist": "박나경",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/864/15074864_20261023155306_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603692605"
-    },
-    {
-      "title": "eternal",
-      "artist": "아웃오브캠퍼스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/775/15069775_20261022153739_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676862"
-    },
-    {
-      "title": "3040 (Subtitle: To the Youth)",
-      "artist": "남궁 원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/810/15055810_20261021190954_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603654195"
-    },
-    {
-      "title": "Now you get it?",
-      "artist": "JUN0 (주노)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/713/15069713_20261022153442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676757"
-    },
-    {
-      "title": "Walk",
-      "artist": "제이세라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/361/15055361_20261021184829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603652333"
-    },
-    {
-      "title": "Our Drama",
-      "artist": "코다 브릿지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/702/15069702_20261022153336_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676720"
-    },
-    {
-      "title": "I don't think so (Feat. E.ul)",
-      "artist": "hayawn (하얀)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/192/15052192_20261021154619_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603642491"
-    },
-    {
-      "title": "Meet Again (Feat. Lee Hyung-eun)",
-      "artist": "사적인 이야기",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/664/15069664_20261022153126_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676668"
-    },
-    {
-      "title": "Emotion",
-      "artist": "차수경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/41/426/15041426_20261021094040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603627701"
-    },
-    {
-      "title": "One star, one you",
-      "artist": "리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/127/15052127_20261021154458_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603642444"
-    },
-    {
-      "title": "Our seasons",
-      "artist": "유태",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/647/15055647_20261021190448_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603653471"
     }
   ]
 }
