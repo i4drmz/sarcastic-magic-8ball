@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-10-26T22:47:42.696Z",
+  "generatedAt": "2026-10-27T05:19:02.789Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Hysteric",
+      "artist": "Yves (이브)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/254/15052254_20261021154842_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603642688"
+    },
+    {
+      "title": "SINGIN' 4 YOU",
+      "artist": "HAAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/757/15081757_20261026135728_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603711065"
+    },
+    {
+      "title": "Forever with you",
+      "artist": "임바다",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/554/15082554_20261026180721_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603713867"
+    },
+    {
+      "title": "Fall for you",
+      "artist": "Gila (길라)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/528/15075528_20261023180410_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603694500"
+    },
+    {
+      "title": "I MY ME MINE",
+      "artist": "WISHes (위시스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/467/15081467_20261026112134_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603710074"
+    },
+    {
+      "title": "You can cry",
+      "artist": "지케이 (GK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/56/295/15056295_20261021192922_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603656367"
+    },
+    {
+      "title": "I'll love even a fleeting moment",
+      "artist": "정이운",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/201/15075201_20261023170000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603693837"
+    },
     {
       "title": "Looks Can Kill",
       "artist": "IVE (아이브)",
@@ -13,6 +55,90 @@
       "artist": "아일릿(ILLIT)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/373/15081373_20261026102240_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603709840"
+    },
+    {
+      "title": "CAME FOR THE GLORY",
+      "artist": "BE BOYS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/471/15081471_20261026112236_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603710128"
+    },
+    {
+      "title": "I saw you by accident",
+      "artist": "라니에(SOTK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/387/15081387_20261026104728_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603709860"
+    },
+    {
+      "title": "Rehearsal",
+      "artist": "ej",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/210/15052210_20261021154727_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603642588"
+    },
+    {
+      "title": "I saw you at the club",
+      "artist": "아이언즈(Irons)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/389/15081389_20261026105259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603709864"
+    },
+    {
+      "title": "Momo/",
+      "artist": "한 가",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/762/15081762_20261026140532_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603711083"
+    },
+    {
+      "title": "Huts",
+      "artist": "윤준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/70/048/15070048_20261022165538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603678086"
+    },
+    {
+      "title": "The love that keeps me alive",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/020/15082020_20261026145237_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603712100"
+    },
+    {
+      "title": "Remember That Time",
+      "artist": "INDOW",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/548/15081548_20261026115114_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603710314"
+    },
+    {
+      "title": "Feat. Super Villain",
+      "artist": "비버 (Beaver)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/394/15081394_20261026105649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603709874"
+    },
+    {
+      "title": "How was your day?",
+      "artist": "한림(Hanlim)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/393/15081393_20261026105538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603709871"
+    },
+    {
+      "title": "Youth",
+      "artist": "남유선",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/68/950/15068950_20261022094311_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603674493"
+    },
+    {
+      "title": "The Moment Your Name Spreads (Webtoon Bunker's Day OST X Chill)",
+      "artist": "찬울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/705/15074705_20261023144441_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603692142"
+    },
+    {
+      "title": "feat. Vahn",
+      "artist": "LIPON (립온)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/790/15081790_20261026141340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603711195"
+    },
+    {
+      "title": "Destiny",
+      "artist": "DOKO (도코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/390/15081390_20261026105259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603709866"
     },
     {
       "title": "a thousand more times",
@@ -175,132 +301,6 @@
       "artist": "권언정",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/09/868/15009868_20261020151005_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603579195"
-    },
-    {
-      "title": "It's not the end I was hoping for,",
-      "artist": "소밍",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/50/391/15050391_20261021144839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603639281"
-    },
-    {
-      "title": "Falling",
-      "artist": "Meego",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/795/15074795_20261023152958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603692457"
-    },
-    {
-      "title": "How did we break up?",
-      "artist": "차가을",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/788/15069788_20261022153844_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676887"
-    },
-    {
-      "title": "2026",
-      "artist": "경서예지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/716/15074716_20261023145919_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603692191"
-    },
-    {
-      "title": "Sorry Dad",
-      "artist": "소향",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/363/15055363_20261021184848_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603652369"
-    },
-    {
-      "title": "Easy",
-      "artist": "off the menu (오프더메뉴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/715/15074715_20261023145908_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603692189"
-    },
-    {
-      "title": "Send You Alone",
-      "artist": "이을 (E.ul)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/13/482/15013482_20261020164912_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603582065"
-    },
-    {
-      "title": "Because I miss you so badly",
-      "artist": "배기성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/204/15052204_20261021154703_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603642568"
-    },
-    {
-      "title": "On the day when we were green,",
-      "artist": "선진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/789/15069789_20261022153904_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676888"
-    },
-    {
-      "title": "100m",
-      "artist": "달담",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/278/15055278_20261021183949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603651947"
-    },
-    {
-      "title": "Do not rush (Feat. PLZY (pledge)",
-      "artist": "수우 (soowoo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/125/15052125_20261021154456_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603642433"
-    },
-    {
-      "title": "First Love",
-      "artist": "김시원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/55/260/15055260_20261021183738_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603651876"
-    },
-    {
-      "title": "In our own language",
-      "artist": "NAEWON",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/219/15052219_20261021154734_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603642609"
-    },
-    {
-      "title": "How fortunate (Vocal. Hyerim Kim)",
-      "artist": "그믐달",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/737/15069737_20261022153549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676787"
-    },
-    {
-      "title": "All I Need",
-      "artist": "마루리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/797/15069797_20261022154751_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676946"
-    },
-    {
-      "title": "ft. Lil Gnar, Shyboiitobii, BIG 9ULPO, Costa Cashman",
-      "artist": "Dakshood",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/13/425/15013425_20261020164801_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603582041"
-    },
-    {
-      "title": "Go Get Em Remix (Feat. since, yule, unofficialboyy, huckleberry, dinde, swings)",
-      "artist": "CHERRY BOY 17 (체리보이17)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/801/15069801_20261022154922_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676984"
-    },
-    {
-      "title": "tedious of the day",
-      "artist": "스트레이 (The Stray)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/713/15074713_20261023145748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603692183"
-    },
-    {
-      "title": "Sad Covenant Ceremony",
-      "artist": "반하나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/714/15069714_20261022153443_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603676758"
-    },
-    {
-      "title": "solo ver.",
-      "artist": "LIT",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/936/15074936_20261023160251_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603692893"
-    },
-    {
-      "title": "Kang",
-      "artist": "박나경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/864/15074864_20261023155306_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603692605"
     }
   ]
 }
