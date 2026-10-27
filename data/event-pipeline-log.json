@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-27T11:15:27.887Z",
+  "ranAt": "2026-10-27T17:00:46.172Z",
   "success": false,
   "apiRequests": 16,
   "providersRegistered": [
@@ -25,8 +25,8 @@
       "extracted": 0,
       "discarded": 60,
       "discardReasons": {
-        "no_event_signal": 49,
-        "not_event_announcement": 11
+        "not_event_announcement": 13,
+        "no_event_signal": 47
       }
     },
     {
@@ -55,8 +55,8 @@
       "extracted": 1,
       "discarded": 39,
       "discardReasons": {
-        "no_event_signal": 25,
-        "not_event_announcement": 14
+        "not_event_announcement": 13,
+        "no_event_signal": 26
       }
     },
     {
@@ -70,8 +70,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -85,7 +84,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 10
+        "no_event_signal": 7,
+        "not_event_announcement": 3
       }
     },
     {
@@ -99,7 +99,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 10
+        "no_event_signal": 6,
+        "not_event_announcement": 4
       }
     },
     {
@@ -109,13 +110,11 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 1,
+      "eventRelated": 0,
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 1,
-        "not_kpop": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -125,11 +124,11 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 2,
-      "extracted": 1,
-      "discarded": 9,
+      "eventRelated": 1,
+      "extracted": 0,
+      "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
+        "no_event_signal": 9,
         "not_kpop": 1
       }
     },
@@ -154,13 +153,11 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 1,
+      "eventRelated": 0,
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_kpop": 1,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -189,21 +186,21 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 6,
-        "no_event_signal": 4
+        "no_event_signal": 2,
+        "not_event_announcement": 8
       }
     }
   ],
-  "rawEvents": 5,
-  "afterDedupe": 5,
-  "afterUpcomingFilter": 5,
+  "rawEvents": 4,
+  "afterDedupe": 4,
+  "afterUpcomingFilter": 4,
   "totalItems": 243,
-  "totalEventRelated": 8,
-  "totalExtracted": 5,
-  "totalDiscarded": 238,
-  "extractionAccuracyPct": 62.5,
-  "previousCount": 4,
-  "writtenCount": 5,
+  "totalEventRelated": 5,
+  "totalExtracted": 4,
+  "totalDiscarded": 239,
+  "extractionAccuracyPct": 80,
+  "previousCount": 5,
+  "writtenCount": 4,
   "changed": true,
   "published": false,
   "notes": [
@@ -213,12 +210,12 @@
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme: items=10 related=1 extracted=0 discarded=10",
-    "rss:nme-music: items=10 related=2 extracted=1 discarded=9",
+    "rss:nme: items=10 related=0 extracted=0 discarded=10",
+    "rss:nme-music: items=10 related=1 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
-    "rss:rollingstone-music: items=10 related=1 extracted=0 discarded=10",
+    "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
     "rss:hellokpop: items=3 related=0 extracted=0 discarded=3",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=3/5"
+    "rss:images resolved from articles=3/4"
   ]
 }
