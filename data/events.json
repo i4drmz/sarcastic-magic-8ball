@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-27T17:00:46.172Z",
-  "lastUpdated": "2026-10-27T17:00:46.172Z",
+  "generatedAt": "2026-10-28T03:00:08.024Z",
+  "lastUpdated": "2026-10-28T03:00:08.024Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-b5f346074a993a3a",
+      "type": "Concert",
+      "title": "Solo Concert",
+      "artist": "SAY MY NAME",
+      "group": "SAY MY NAME",
+      "date": "2026-10-28",
+      "time": null,
+      "venue": "TBA",
+      "city": "Paris",
+      "country": "FR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "SAY MY NAME SOLO CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/say-my-name-to-hold-their-first-solo-concert-in-paris-this-november",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-28T03:00:08.024Z"
+    },
     {
       "id": "evt-c7255f88490eb80e",
       "type": "Concert",
@@ -24,7 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/10/ftisland-to-hold-year-end-concert-ftsode-in-december",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-27T17:00:46.172Z"
+      "lastUpdated": "2026-10-28T03:00:08.024Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -44,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-27T17:00:46.172Z"
+      "lastUpdated": "2026-10-28T03:00:08.024Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -64,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-27T17:00:46.172Z"
+      "lastUpdated": "2026-10-28T03:00:08.024Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -84,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-27T17:00:46.172Z"
+      "lastUpdated": "2026-10-28T03:00:08.024Z"
     }
   ]
 }
