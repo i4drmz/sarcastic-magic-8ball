@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-10-28T05:57:57.338Z",
+  "generatedAt": "2026-10-28T13:16:32.461Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Hush",
+      "artist": "XLOV",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/776/15086776_20261027153450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603727487"
+    },
+    {
+      "title": "Perfect World",
+      "artist": "거미 (GUMMY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/848/15085848_20261027101038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603724811"
+    },
+    {
+      "title": "Vibes (Feat. Kwon EUNBI)",
+      "artist": "임슬옹",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/931/15086931_20261027155358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603728079"
+    },
+    {
+      "title": "Is it still beautiful?",
+      "artist": "테이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/611/15086611_20261027142927_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603726912"
+    },
+    {
+      "title": "Tubi",
+      "artist": "Kei (케이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/847/15085847_20261027100940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603724809"
+    },
+    {
+      "title": "WAKE UP",
+      "artist": "EK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/600/15086600_20261027141630_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603726830"
+    },
+    {
+      "title": "feat. Seori",
+      "artist": "AVOKID (에이보키드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/956/15085956_20261027111114_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603725369"
+    },
+    {
+      "title": "Sillim-dong (Feat. Choi Sung)",
+      "artist": "Gist",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/862/15085862_20261027103159_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603724854"
+    },
+    {
+      "title": "Bad at Goodbyes",
+      "artist": "Brody (브로디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/952/15085952_20261027111015_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603725364"
+    },
     {
       "title": "I don't want to do (anything)",
       "artist": "최정윤",
@@ -19,6 +73,24 @@
       "artist": "이선희",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/940/15086940_20261027155510_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603728112"
+    },
+    {
+      "title": "Our Truth",
+      "artist": "LiaR",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/963/15086963_20261027155800_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603728225"
+    },
+    {
+      "title": "Turtle",
+      "artist": "컨트리공방",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/850/15085850_20261027101158_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603724815"
+    },
+    {
+      "title": "It's a tree.",
+      "artist": "소년승",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/839/15085839_20261027100130_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603724787"
     },
     {
       "title": "I've lived without you",
@@ -229,78 +301,6 @@
       "artist": "정이운",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/201/15075201_20261023170000_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603693837"
-    },
-    {
-      "title": "Looks Can Kill",
-      "artist": "IVE (아이브)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/148/09/931/14809931_20261026105712_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603448999"
-    },
-    {
-      "title": "I'll arrest you",
-      "artist": "아일릿(ILLIT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/373/15081373_20261026102240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603709840"
-    },
-    {
-      "title": "CAME FOR THE GLORY",
-      "artist": "BE BOYS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/471/15081471_20261026112236_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710128"
-    },
-    {
-      "title": "I saw you by accident",
-      "artist": "라니에(SOTK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/387/15081387_20261026104728_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603709860"
-    },
-    {
-      "title": "Rehearsal",
-      "artist": "ej",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/210/15052210_20261021154727_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603642588"
-    },
-    {
-      "title": "I saw you at the club",
-      "artist": "아이언즈(Irons)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/389/15081389_20261026105259_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603709864"
-    },
-    {
-      "title": "Momo/",
-      "artist": "한 가",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/762/15081762_20261026140532_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711083"
-    },
-    {
-      "title": "Huts",
-      "artist": "윤준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/70/048/15070048_20261022165538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603678086"
-    },
-    {
-      "title": "The love that keeps me alive",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/020/15082020_20261026145237_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603712100"
-    },
-    {
-      "title": "Remember That Time",
-      "artist": "INDOW",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/548/15081548_20261026115114_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710314"
-    },
-    {
-      "title": "Feat. Super Villain",
-      "artist": "비버 (Beaver)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/394/15081394_20261026105649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603709874"
-    },
-    {
-      "title": "How was your day?",
-      "artist": "한림(Hanlim)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/393/15081393_20261026105538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603709871"
     }
   ]
 }
