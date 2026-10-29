@@ -55,7 +55,7 @@
     "sourceSha256": "f36d5cc94c8790954fa744d70be198ae0ddb6652b319c1e1a653657e37513bba"
   },
   "q28826153": {
-    "file": "artist-q28826153.webp",
+    "file": "matthew-kim-q28826153.webp",
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/BM_of_KARD%2C_2021.jpg/330px-BM_of_KARD%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sourceSha256": "fd4527856f7e9b611e38b71c316ff105eb959b4d46a1addaffab275bf5152d35"
   },
@@ -895,7 +895,7 @@
     "sourceSha256": "1fe1125eefd36d20b42b8a87994bca33f06dbb2b6fb87c9c6525a7e623180aa8"
   },
   "q135108208": {
-    "file": "artist-q135108208.webp",
+    "file": "kim-eun-jae-q135108208.webp",
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Ejae_in_April_2026_02.png/330px-Ejae_in_April_2026_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sourceSha256": "a8acffd1159847e7c53c055406a0fa5fb194536237ff3e756dce7b5d652e85e1"
   },
@@ -6248,5 +6248,10 @@
     "file": "artist-q56678033.webp",
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/082125_Jo_Yuri_for_Maradi_Mercredi_photo_call_01.png/330px-082125_Jo_Yuri_for_Maradi_Mercredi_photo_call_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sourceSha256": "bd9e9b553581bda4e50aa847fc3a08991696ec61b9e65bfbd275414fc68d99fe"
+  },
+  "q12616701": {
+    "file": "zobin-q12616701.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Norazo_Jo_Bin.jpg/330px-Norazo_Jo_Bin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sourceSha256": "9f2a3d1c5f0509b92e9db4ce2f08e8e96384b866eabb3bf93d0cb6c67f86081a"
   }
 }
