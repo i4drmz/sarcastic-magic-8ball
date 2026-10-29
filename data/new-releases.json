@@ -1,7 +1,103 @@
 {
-  "generatedAt": "2026-10-29T06:04:20.050Z",
+  "generatedAt": "2026-10-29T13:23:33.445Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Life Is Life",
+      "artist": "김필",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/206/15091206_20261028150100_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603743671"
+    },
+    {
+      "title": "Day, One day (feat. Duquesne)",
+      "artist": "Meenoi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/467/15090467_20261028105018_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740232"
+    },
+    {
+      "title": "Feat. Coogie",
+      "artist": "BE'O (비오)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/731/15091731_20261028165244_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745134"
+    },
+    {
+      "title": "Don't love me",
+      "artist": "허각",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/736/15091736_20261028165347_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745148"
+    },
+    {
+      "title": "Kids Return",
+      "artist": "ADOY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/292/15082292_20261026170350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603712824"
+    },
+    {
+      "title": "Bye Bye Tonight",
+      "artist": "런치",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/703/15091703_20261028164547_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745071"
+    },
+    {
+      "title": "No doubt",
+      "artist": "안다영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/385/15087385_20261027165659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603729418"
+    },
+    {
+      "title": "Being a friend means",
+      "artist": "닐로(Nilo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/367/15091367_20261028152351_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603744000"
+    },
+    {
+      "title": "COMEBACK",
+      "artist": "Valo",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/504/15090504_20261028110904_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740320"
+    },
+    {
+      "title": "RING IT",
+      "artist": "DXMON (다이몬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/474/15090474_20261028105450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740241"
+    },
+    {
+      "title": "Just the two of us",
+      "artist": "트웰브(TWLV)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/394/15075394_20261023174410_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603694173"
+    },
+    {
+      "title": "Anti-Virus",
+      "artist": "린지 (Leenzy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/759/15081759_20261026140130_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603711069"
+    },
+    {
+      "title": "Unbelievable man",
+      "artist": "강혜연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/591/15086591_20261027135839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603726815"
+    },
+    {
+      "title": "103",
+      "artist": "gyuahh (규아)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/715/15091715_20261028165009_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745105"
+    },
+    {
+      "title": "Deciduous rain",
+      "artist": "노아주다 (noahjooda)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/624/15090624_20261028112626_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740890"
+    },
+    {
+      "title": "Happy Balloon",
+      "artist": "hyeminsong",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/636/15091636_20261028162748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603744915"
+    },
     {
       "title": "Dead Man",
       "artist": "결 (KYUL)",
@@ -205,102 +301,6 @@
       "artist": "이선희",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/940/15086940_20261027155510_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603728112"
-    },
-    {
-      "title": "Our Truth",
-      "artist": "LiaR",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/963/15086963_20261027155800_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603728225"
-    },
-    {
-      "title": "Turtle",
-      "artist": "컨트리공방",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/850/15085850_20261027101158_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603724815"
-    },
-    {
-      "title": "It's a tree.",
-      "artist": "소년승",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/839/15085839_20261027100130_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603724787"
-    },
-    {
-      "title": "I've lived without you",
-      "artist": "종원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/943/15086943_20261027155532_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603728126"
-    },
-    {
-      "title": "pestilence",
-      "artist": "산만한시선",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/831/15085831_20261027095352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603724771"
-    },
-    {
-      "title": "At the end of the day",
-      "artist": "지진석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/69/350/15069350_20261022121928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603675605"
-    },
-    {
-      "title": "Feat. Lil Gnar, Dbo, GGM Kimbo, Young Harry, Loopy",
-      "artist": "YUNB",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/649/15086649_20261027145929_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603727070"
-    },
-    {
-      "title": "French Kissing",
-      "artist": "AND2BLE (앤더블)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/147/59/700/14759700_20261015154243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603430264"
-    },
-    {
-      "title": "Monster",
-      "artist": "Mingginyu (밍기뉴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/011/15082011_20261026144931_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711928"
-    },
-    {
-      "title": "Nanlina",
-      "artist": "JUSTB",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/864/15085864_20261027103242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603724856"
-    },
-    {
-      "title": "Honeydew",
-      "artist": "JAY B",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/388/15081388_20261026105129_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603709862"
-    },
-    {
-      "title": "You may be wrong, but",
-      "artist": "적재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/278/15082278_20261026165428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603712795"
-    },
-    {
-      "title": "Monggeumpo",
-      "artist": "스튜디오360 경음악단",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/510/15075510_20261023175810_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603694470"
-    },
-    {
-      "title": "Before your season runs out",
-      "artist": "포포",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/610/15086610_20261027142825_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603726910"
-    },
-    {
-      "title": "Cold Han River",
-      "artist": "하셉 (H a $ a p)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/601/15086601_20261027141640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603726832"
-    },
-    {
-      "title": "Tingling (feat. Songhan)",
-      "artist": "승재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/058/15082058_20261026151048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603712246"
     }
   ]
 }
