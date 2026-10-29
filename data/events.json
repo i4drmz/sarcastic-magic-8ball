@@ -1,30 +1,50 @@
 {
-  "generatedAt": "2026-10-28T11:49:24.501Z",
-  "lastUpdated": "2026-10-28T11:49:24.501Z",
+  "generatedAt": "2026-10-29T03:26:59.053Z",
+  "lastUpdated": "2026-10-29T03:26:59.053Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
   ],
   "events": [
     {
-      "id": "evt-b5f346074a993a3a",
+      "id": "evt-6f3c87842ed7a1ff",
       "type": "Concert",
-      "title": "Solo Concert",
-      "artist": "SAY MY NAME",
-      "group": "SAY MY NAME",
-      "date": "2026-10-28",
+      "title": "Concert “first VR concert film”",
+      "artist": "TWS",
+      "group": "TWS",
+      "date": "2026-10-29",
       "time": null,
       "venue": "TBA",
-      "city": "Paris",
-      "country": "FR",
+      "city": "Seoul",
+      "country": "KR",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "SAY MY NAME SOLO CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/say-my-name-to-hold-their-first-solo-concert-in-paris-this-november",
+      "shortDescription": "TWS CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/tws-first-vr-concert-film-rush-road-returns-to-theaters-with-4d-effects-in-november",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-10-28T11:49:24.501Z"
+      "lastUpdated": "2026-10-29T03:26:59.053Z"
+    },
+    {
+      "id": "evt-2320e334308958af",
+      "type": "Concert",
+      "title": "Concert “Once Upon a Snowball”",
+      "artist": "N.Flying",
+      "group": "N.Flying",
+      "date": "2026-10-29",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "N.FLYING CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/10/nflying-to-hold-christmas-concert-once-upon-a-snowball-from-december-24-to-26",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-10-29T03:26:59.053Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -44,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-28T11:49:24.501Z"
+      "lastUpdated": "2026-10-29T03:26:59.053Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -64,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-28T11:49:24.501Z"
+      "lastUpdated": "2026-10-29T03:26:59.053Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -84,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-28T11:49:24.501Z"
+      "lastUpdated": "2026-10-29T03:26:59.053Z"
     }
   ]
 }
