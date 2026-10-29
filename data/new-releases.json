@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-10-28T22:43:34.338Z",
+  "generatedAt": "2026-10-29T06:04:20.050Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Dead Man",
+      "artist": "결 (KYUL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/464/15090464_20261028104739_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740223"
+    },
+    {
+      "title": "I want to hate",
+      "artist": "글(GLL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/760/15091760_20261028165551_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745202"
+    },
+    {
+      "title": "Because that's you.",
+      "artist": "NUGU J.YIN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/744/15091744_20261028165430_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745167"
+    },
+    {
+      "title": "Uneven Ground",
+      "artist": "생각의 여름",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/958/15081958_20261026143952_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603711787"
+    },
+    {
+      "title": "Question",
+      "artist": "이정민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/497/15090497_20261028110600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740281"
+    },
+    {
+      "title": "Manghanharu National Park",
+      "artist": "OYSTERS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/929/15087929_20261027181107_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603731225"
+    },
+    {
+      "title": "Silhouette",
+      "artist": "엔탑(N.TOP)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/599/15086599_20261027141559_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603726826"
+    },
+    {
+      "title": "Manga ()",
+      "artist": "123 (일이삼)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/680/15091680_20261028164038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745034"
+    },
     {
       "title": "Hush",
       "artist": "XLOV",
@@ -13,6 +61,90 @@
       "artist": "거미 (GUMMY)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/848/15085848_20261027101038_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603724811"
+    },
+    {
+      "title": "New Days",
+      "artist": "루미너스데이 (LUMINOUS DAY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/601/15091601_20261028155128_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603744645"
+    },
+    {
+      "title": "Nothing will make me love you more",
+      "artist": "강예영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/465/15090465_20261028104901_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740225"
+    },
+    {
+      "title": "Golden Carp",
+      "artist": "5sckar",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/295/15082295_20261026170528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603712839"
+    },
+    {
+      "title": "Find The Pearl",
+      "artist": "AM8IC",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/466/15090466_20261028105000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740229"
+    },
+    {
+      "title": "R.U.N",
+      "artist": "JISU PARK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/416/15090416_20261028103038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603739883"
+    },
+    {
+      "title": "Give E-mail",
+      "artist": "이인규",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/468/15090468_20261028105131_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603740233"
+    },
+    {
+      "title": "Mocha",
+      "artist": "IAN COAST",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/647/15086647_20261027145518_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603727068"
+    },
+    {
+      "title": "Diamond (Feat. Kim Han-cheol)",
+      "artist": "곡식",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/70/516/15070516_20261022180710_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603679650"
+    },
+    {
+      "title": "Alarm",
+      "artist": "조문근",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/590/15086590_20261027135738_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603726813"
+    },
+    {
+      "title": "To Me Today (Prod. Seo Hye-jeong)",
+      "artist": "한성일",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/767/15091767_20261028165638_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745230"
+    },
+    {
+      "title": "I think I still have you.",
+      "artist": "강고은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/418/15090418_20261028103258_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603739894"
+    },
+    {
+      "title": "Ai",
+      "artist": "미강 (MIKANG)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/317/15082317_20261026171831_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603712897"
+    },
+    {
+      "title": "Love Love Love",
+      "artist": "Retro Craft",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/683/15091683_20261028164300_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745038"
+    },
+    {
+      "title": "Stars are your friends",
+      "artist": "이민종",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/693/15090693_20261028113531_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603741362"
     },
     {
       "title": "Vibes (Feat. Kwon EUNBI)",
@@ -169,138 +301,6 @@
       "artist": "승재",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/058/15082058_20261026151048_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603712246"
-    },
-    {
-      "title": "idea",
-      "artist": "Brick (브릭)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/960/15081960_20261026144023_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711793"
-    },
-    {
-      "title": "You're my reason",
-      "artist": "서원(SEOWON)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/653/15081653_20261026121445_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710783"
-    },
-    {
-      "title": "EXIT",
-      "artist": "블낫블(blue is not blue)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/651/15086651_20261027150059_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603727072"
-    },
-    {
-      "title": "Under Your Skin",
-      "artist": "sunoa (수노아)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/832/15085832_20261027095449_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603724773"
-    },
-    {
-      "title": "EGO RING",
-      "artist": "NEXT BEAT",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/399/15075399_20261023174516_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603694209"
-    },
-    {
-      "title": "Blue Fog",
-      "artist": "프리멜로",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/962/15081962_20261026144139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711795"
-    },
-    {
-      "title": "You're my dazzling miracle",
-      "artist": "석우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/349/15087349_20261027164645_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603729226"
-    },
-    {
-      "title": "violet",
-      "artist": "오왠 (O.WHEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/65/221/14565221_20261026115848_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710130"
-    },
-    {
-      "title": "Back and forth",
-      "artist": "공원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/457/15081457_20261026111718_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710052"
-    },
-    {
-      "title": "If this is love,",
-      "artist": "정예원 (YEWON)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/280/15082280_20261026165938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603712799"
-    },
-    {
-      "title": "Drawn",
-      "artist": "THAMA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/458/15081458_20261026111719_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710054"
-    },
-    {
-      "title": "Lie",
-      "artist": "임지성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/277/15082277_20261026165428_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603712794"
-    },
-    {
-      "title": "Autumn is coming again",
-      "artist": "양수경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/546/15081546_20261026115112_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710306"
-    },
-    {
-      "title": "ㄴㅇㄱ",
-      "artist": "이병찬",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/444/15081444_20261026111412_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710035"
-    },
-    {
-      "title": "Bad and Panic",
-      "artist": "Jayci yucca",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/539/15081539_20261026114457_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710296"
-    },
-    {
-      "title": "Hysteric",
-      "artist": "Yves (이브)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/52/254/15052254_20261021154842_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603642688"
-    },
-    {
-      "title": "SINGIN' 4 YOU",
-      "artist": "HAAN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/757/15081757_20261026135728_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711065"
-    },
-    {
-      "title": "Forever with you",
-      "artist": "임바다",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/554/15082554_20261026180721_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603713867"
-    },
-    {
-      "title": "Fall for you",
-      "artist": "Gila (길라)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/528/15075528_20261023180410_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603694500"
-    },
-    {
-      "title": "I MY ME MINE",
-      "artist": "WISHes (위시스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/467/15081467_20261026112134_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710074"
-    },
-    {
-      "title": "You can cry",
-      "artist": "지케이 (GK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/56/295/15056295_20261021192922_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603656367"
-    },
-    {
-      "title": "I'll love even a fleeting moment",
-      "artist": "정이운",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/201/15075201_20261023170000_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603693837"
     }
   ]
 }
