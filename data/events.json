@@ -1,71 +1,10 @@
 {
-  "generatedAt": "2026-10-29T11:57:21.531Z",
-  "lastUpdated": "2026-10-29T11:57:21.531Z",
+  "generatedAt": "2026-10-30T03:29:16.828Z",
+  "lastUpdated": "2026-10-30T03:29:16.828Z",
   "sourceSummary": [
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-6f3c87842ed7a1ff",
-      "type": "Concert",
-      "title": "Concert “first VR concert film”",
-      "artist": "TWS",
-      "group": "TWS",
-      "date": "2026-10-29",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TWS CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/tws-first-vr-concert-film-rush-road-returns-to-theaters-with-4d-effects-in-november",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-29T11:57:21.531Z"
-    },
-    {
-      "id": "evt-2320e334308958af",
-      "type": "Concert",
-      "title": "Concert “Once Upon a Snowball”",
-      "artist": "N.Flying",
-      "group": "N.Flying",
-      "date": "2026-10-29",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "N.FLYING CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/nflying-to-hold-christmas-concert-once-upon-a-snowball-from-december-24-to-26",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-29T11:57:21.531Z"
-    },
-    {
-      "id": "evt-b39fdbacae7b5262",
-      "type": "Concert",
-      "title": "Tour “THE WILDWORLD TOUR”",
-      "artist": "KATSEYE",
-      "group": "KATSEYE",
-      "date": "2026-10-29",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "KATSEYE TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/10/katseye-announce-asia-and-oceania-leg-of-the-wildworld-tour-including-first-korea-concert-at-kspo-dome",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-10-29T11:57:21.531Z"
-    },
     {
       "id": "evt-02d94675440652b8",
       "type": "Festival",
@@ -84,7 +23,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-29T11:57:21.531Z"
+      "lastUpdated": "2026-10-30T03:29:16.828Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -104,7 +43,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-29T11:57:21.531Z"
+      "lastUpdated": "2026-10-30T03:29:16.828Z"
     },
     {
       "id": "evt-6b380b51d3d0c35a",
@@ -124,7 +63,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-29T11:57:21.531Z"
+      "lastUpdated": "2026-10-30T03:29:16.828Z"
     }
   ]
 }
