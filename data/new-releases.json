@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:14:28.807Z",
+  "generatedAt": "2026-10-30T22:31:43.264Z",
   "count": 50,
   "songs": [
     {
@@ -13,12 +13,6 @@
       "artist": "The Poles (더 폴스)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/570/15087570_20261027171925_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603730197"
-    },
-    {
-      "title": "Love Me Hard",
-      "artist": "폴킴",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/577/15105577_20261030095128_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775130"
     },
     {
       "title": "Murasaki",
@@ -43,6 +37,12 @@
       "artist": "g0nny (거니)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/108/15102108_20261029161931_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603765959"
+    },
+    {
+      "title": "Love Me Hard",
+      "artist": "폴킴",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/577/15105577_20261030095128_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775130"
     },
     {
       "title": "ADDICTED",
