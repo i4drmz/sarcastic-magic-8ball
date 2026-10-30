@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-10-30T06:05:17.268Z",
+  "generatedAt": "2026-10-30T13:14:28.807Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Fly Away",
+      "artist": "BOYNEXTDOOR",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/540/15091540_20261028153551_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603744319"
+    },
+    {
+      "title": "Lift",
+      "artist": "The Poles (더 폴스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/570/15087570_20261027171925_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603730197"
+    },
+    {
+      "title": "Love Me Hard",
+      "artist": "폴킴",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/577/15105577_20261030095128_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775130"
+    },
+    {
+      "title": "Murasaki",
+      "artist": "Skinny Brown",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/490/15092490_20261028203240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747229"
+    },
+    {
+      "title": "S T A R",
+      "artist": "KHAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/260/15102260_20261029164930_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766340"
+    },
+    {
+      "title": "2026 ver.",
+      "artist": "김장훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/053/15102053_20261029155929_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603765709"
+    },
+    {
+      "title": "Gone are the days",
+      "artist": "g0nny (거니)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/108/15102108_20261029161931_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603765959"
+    },
     {
       "title": "ADDICTED",
       "artist": "지수 (JISOO)",
@@ -9,10 +51,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603761119"
     },
     {
-      "title": "Love Me Hard",
-      "artist": "폴킴",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/577/15105577_20261030095128_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775130"
+      "title": "STARLIGHT",
+      "artist": "Sondia",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/978/15087978_20261027181628_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603731404"
+    },
+    {
+      "title": "with Gwyn Dorado",
+      "artist": "윤종신",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/011/15102011_20261029153642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603765580"
+    },
+    {
+      "title": "If you're lucky,",
+      "artist": "ROO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/355/15074355_20261023101823_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603690718"
+    },
+    {
+      "title": "Deja Vu",
+      "artist": "윤새 (Yunsae)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/821/15090821_20261028123342_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603741943"
+    },
+    {
+      "title": "Feat. lewyn",
+      "artist": "entoy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/254/15102254_20261029164741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766326"
+    },
+    {
+      "title": "Give Me Love",
+      "artist": "cosmosy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/782/15081782_20261026141113_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603711171"
+    },
+    {
+      "title": "Thumb is a physical battle",
+      "artist": "Austn (오스틴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/719/15100719_20261029093940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603760691"
+    },
+    {
+      "title": "Love is cruel",
+      "artist": "Scails",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/571/15091571_20261028153933_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603744471"
+    },
+    {
+      "title": "Toreta!",
+      "artist": "MILLHAM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/880/15091880_20261028172209_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745511"
+    },
+    {
+      "title": "Drifting Away",
+      "artist": "YEIN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/564/15091564_20261028153843_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603744431"
+    },
+    {
+      "title": "Don't be kind",
+      "artist": "심현보",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/769/15105769_20261030120614_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775918"
+    },
+    {
+      "title": "Step by step",
+      "artist": "이야",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/702/15091702_20261028164536_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745070"
     },
     {
       "title": "LOVE ME MORE!",
@@ -193,114 +301,6 @@
       "artist": "DXMON (다이몬)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/474/15090474_20261028105450_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603740241"
-    },
-    {
-      "title": "Just the two of us",
-      "artist": "트웰브(TWLV)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/75/394/15075394_20261023174410_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603694173"
-    },
-    {
-      "title": "Anti-Virus",
-      "artist": "린지 (Leenzy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/759/15081759_20261026140130_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711069"
-    },
-    {
-      "title": "Unbelievable man",
-      "artist": "강혜연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/591/15086591_20261027135839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603726815"
-    },
-    {
-      "title": "103",
-      "artist": "gyuahh (규아)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/715/15091715_20261028165009_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745105"
-    },
-    {
-      "title": "Deciduous rain",
-      "artist": "노아주다 (noahjooda)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/624/15090624_20261028112626_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603740890"
-    },
-    {
-      "title": "Happy Balloon",
-      "artist": "hyeminsong",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/636/15091636_20261028162748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603744915"
-    },
-    {
-      "title": "Dead Man",
-      "artist": "결 (KYUL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/464/15090464_20261028104739_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603740223"
-    },
-    {
-      "title": "I want to hate",
-      "artist": "글(GLL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/760/15091760_20261028165551_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745202"
-    },
-    {
-      "title": "Because that's you.",
-      "artist": "NUGU J.YIN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/744/15091744_20261028165430_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745167"
-    },
-    {
-      "title": "Uneven Ground",
-      "artist": "생각의 여름",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/958/15081958_20261026143952_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711787"
-    },
-    {
-      "title": "Question",
-      "artist": "이정민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/497/15090497_20261028110600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603740281"
-    },
-    {
-      "title": "Manghanharu National Park",
-      "artist": "OYSTERS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/929/15087929_20261027181107_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603731225"
-    },
-    {
-      "title": "Silhouette",
-      "artist": "엔탑(N.TOP)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/599/15086599_20261027141559_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603726826"
-    },
-    {
-      "title": "Manga ()",
-      "artist": "123 (일이삼)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/680/15091680_20261028164038_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745034"
-    },
-    {
-      "title": "Hush",
-      "artist": "XLOV",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/776/15086776_20261027153450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603727487"
-    },
-    {
-      "title": "Perfect World",
-      "artist": "거미 (GUMMY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/85/848/15085848_20261027101038_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603724811"
-    },
-    {
-      "title": "New Days",
-      "artist": "루미너스데이 (LUMINOUS DAY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/601/15091601_20261028155128_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603744645"
-    },
-    {
-      "title": "Nothing will make me love you more",
-      "artist": "강예영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/465/15090465_20261028104901_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603740225"
     }
   ]
 }
