@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-30T22:31:43.264Z",
+  "generatedAt": "2026-10-31T05:59:23.864Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Threshold",
+      "artist": "Confined White (컨파인드 화이트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/766/15086766_20261027152816_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603727472"
+    },
+    {
+      "title": "The world of goblins",
+      "artist": "이오몽",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/408/15092408_20261028202343_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747134"
+    },
+    {
+      "title": "Lowkey",
+      "artist": "UR:L (유아렐)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/64/110/14964110_20261019155133_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603543528"
+    },
+    {
+      "title": "No, no, no.",
+      "artist": "손빈아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/037/15106037_20261030144913_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603777082"
+    },
+    {
+      "title": "A Perfect Day",
+      "artist": "수상한 커튼",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/422/15092422_20261028202437_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747150"
+    },
+    {
+      "title": "frecuency (wave)",
+      "artist": "정일영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/669/15105669_20261030112034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775454"
+    },
     {
       "title": "Fly Away",
       "artist": "BOYNEXTDOOR",
@@ -15,10 +51,76 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603730197"
     },
     {
+      "title": "Scars (Feat. Jaeyeon Wi)",
+      "artist": "TYVE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/569/15092569_20261028203935_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747579"
+    },
+    {
+      "title": "Tourette",
+      "artist": "최유담",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/262/15102262_20261029165028_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766345"
+    },
+    {
+      "title": "Shelf life (Expiration date)",
+      "artist": "주원 (Joowon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/520/15106520_20261030170005_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603778639"
+    },
+    {
+      "title": "1cm",
+      "artist": "615",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/475/15106475_20261030165200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603778430"
+    },
+    {
+      "title": "Pretty Crier",
+      "artist": "prettylittleiris",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/716/15086716_20261027151759_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603727326"
+    },
+    {
+      "title": "Dance on the Earth (Feat. Gyujin Lee)",
+      "artist": "쌔미 (Sammee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/638/15105638_20261030105009_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775282"
+    },
+    {
+      "title": "The way, the two of us",
+      "artist": "강석철",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/88/118/15088118_20261027183900_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603731931"
+    },
+    {
       "title": "Murasaki",
       "artist": "Skinny Brown",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/490/15092490_20261028203240_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603747229"
+    },
+    {
+      "title": "Blue Milky Way",
+      "artist": "송민경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/392/15092392_20261028202239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747117"
+    },
+    {
+      "title": "Babo",
+      "artist": "아이닐 (iNEAL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/452/15092452_20261028202633_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747186"
+    },
+    {
+      "title": "Cloud",
+      "artist": "지예 (JIYE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/440/15092440_20261028202553_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747174"
+    },
+    {
+      "title": "Empty Room",
+      "artist": "Yeon and Pil",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/810/15105810_20261030123114_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603776088"
     },
     {
       "title": "S T A R",
@@ -199,108 +301,6 @@
       "artist": "Dakshood",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/925/15100925_20261029110314_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603761128"
-    },
-    {
-      "title": "Stingrrrrr",
-      "artist": "MORAN(민재)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/86/592/15086592_20261027135849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603726818"
-    },
-    {
-      "title": "Driftin (Art. Idyne)",
-      "artist": "Anonymous Artists(어나니머스 아티스트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/881/15100881_20261029103338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603760990"
-    },
-    {
-      "title": "Our people today",
-      "artist": "Hion(히온)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/88/119/15088119_20261027183928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603731933"
-    },
-    {
-      "title": "LOVE & LIBERTY",
-      "artist": "FuturePeerClub",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/495/15081495_20261026113521_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603710188"
-    },
-    {
-      "title": "Sepilbut",
-      "artist": "그네",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/514/15091514_20261028153401_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603744236"
-    },
-    {
-      "title": "Which one",
-      "artist": "Madbaddy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/152/15102152_20261029162631_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766037"
-    },
-    {
-      "title": "Live To Go",
-      "artist": "이레 (IREAH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/328/15087328_20261027164210_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603729188"
-    },
-    {
-      "title": "A day without you is a long one",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/238/15102238_20261029163952_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766296"
-    },
-    {
-      "title": "Come Hither",
-      "artist": "S:ONEz (에스원즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/529/15092529_20261028203643_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603747532"
-    },
-    {
-      "title": "Feat. Coogie",
-      "artist": "BE'O (비오)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/731/15091731_20261028165244_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745134"
-    },
-    {
-      "title": "Don't love me",
-      "artist": "허각",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/736/15091736_20261028165347_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745148"
-    },
-    {
-      "title": "Kids Return",
-      "artist": "ADOY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/292/15082292_20261026170350_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603712824"
-    },
-    {
-      "title": "Bye Bye Tonight",
-      "artist": "런치",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/703/15091703_20261028164547_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745071"
-    },
-    {
-      "title": "No doubt",
-      "artist": "안다영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/385/15087385_20261027165659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603729418"
-    },
-    {
-      "title": "Being a friend means",
-      "artist": "닐로(Nilo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/367/15091367_20261028152351_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603744000"
-    },
-    {
-      "title": "COMEBACK",
-      "artist": "Valo",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/504/15090504_20261028110904_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603740320"
-    },
-    {
-      "title": "RING IT",
-      "artist": "DXMON (다이몬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/474/15090474_20261028105450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603740241"
     }
   ]
 }
