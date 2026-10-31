@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T11:51:02.562Z",
-  "lastUpdated": "2026-10-30T11:51:02.562Z",
+  "generatedAt": "2026-10-31T16:30:14.455Z",
+  "lastUpdated": "2026-10-31T16:30:14.455Z",
   "sourceSummary": [
     "soompi",
     "soompi-music"
@@ -24,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-10-30T11:51:02.562Z"
+      "lastUpdated": "2026-10-31T16:30:14.455Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -44,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-30T11:51:02.562Z"
+      "lastUpdated": "2026-10-31T16:30:14.455Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -64,27 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-30T11:51:02.562Z"
-    },
-    {
-      "id": "evt-6b380b51d3d0c35a",
-      "type": "Festival",
-      "title": "Festival",
-      "artist": "HYBE",
-      "group": "HYBE",
-      "date": "2026-10-17",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/17122336/Weverse-Con-Festival-India-1.jpeg",
-      "shortDescription": "HYBE FESTIVAL COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1879106wpp/hybe-announces-lineup-for-weverse-con-festival-india",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-10-30T11:51:02.562Z"
+      "lastUpdated": "2026-10-31T16:30:14.455Z"
     }
   ]
 }
