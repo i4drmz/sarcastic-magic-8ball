@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-31T21:46:02.981Z",
+  "generatedAt": "2026-11-01T06:28:42.782Z",
   "count": 50,
   "songs": [
+    {
+      "title": "On My Way",
+      "artist": "Rico Love",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/284/15102284_20261029165331_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766461"
+    },
+    {
+      "title": "reload reload",
+      "artist": "김새녘",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/464/15092464_20261028202737_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747198"
+    },
+    {
+      "title": "The moment when I loved you",
+      "artist": "지진석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/026/15106026_20261030143804_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603777046"
+    },
+    {
+      "title": "FUEGO",
+      "artist": "이진혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/700/15105700_20261030114031_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775627"
+    },
+    {
+      "title": "SEOUL",
+      "artist": "Monday Feeling",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/811/15105811_20261030123122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603776094"
+    },
+    {
+      "title": "I love you so much",
+      "artist": "연애세포",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/255/15102255_20261029164744_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766327"
+    },
     {
       "title": "I love her because she's crazy",
       "artist": "현서 (HYUN SEO)",
@@ -15,6 +51,30 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603747839"
     },
     {
+      "title": "Touch (Feat. Silver Universe (WZN))",
+      "artist": "Sii",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/488/15106488_20261030165434_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603778453"
+    },
+    {
+      "title": "DYINGMESSAGE",
+      "artist": "QXN (쿠잔)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/323/15102323_20261029171829_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766579"
+    },
+    {
+      "title": "Only Sunset",
+      "artist": "나의 노래 메모장",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/483/15106483_20261030165333_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603778445"
+    },
+    {
+      "title": "Forget it",
+      "artist": "모닝커피 (Morning Coffee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/978/15091978_20261028180610_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745734"
+    },
+    {
       "title": "Alive",
       "artist": "김용빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/800/15105800_20261030122001_500.jpg",
@@ -25,6 +85,18 @@
       "artist": "남궁진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/801/15105801_20261030122055_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603776005"
+    },
+    {
+      "title": "Hanging Thorns",
+      "artist": "일상의 효정",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/467/15092467_20261028202749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603747201"
+    },
+    {
+      "title": "Why Does My Heart",
+      "artist": "Wack",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/333/15102333_20261029172333_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766598"
     },
     {
       "title": "Extermination",
@@ -229,78 +301,6 @@
       "artist": "Sondia",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/87/978/15087978_20261027181628_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603731404"
-    },
-    {
-      "title": "with Gwyn Dorado",
-      "artist": "윤종신",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/011/15102011_20261029153642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603765580"
-    },
-    {
-      "title": "If you're lucky,",
-      "artist": "ROO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/74/355/15074355_20261023101823_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603690718"
-    },
-    {
-      "title": "Deja Vu",
-      "artist": "윤새 (Yunsae)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/90/821/15090821_20261028123342_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603741943"
-    },
-    {
-      "title": "Feat. lewyn",
-      "artist": "entoy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/254/15102254_20261029164741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766326"
-    },
-    {
-      "title": "Give Me Love",
-      "artist": "cosmosy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/81/782/15081782_20261026141113_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603711171"
-    },
-    {
-      "title": "Thumb is a physical battle",
-      "artist": "Austn (오스틴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/719/15100719_20261029093940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603760691"
-    },
-    {
-      "title": "Love is cruel",
-      "artist": "Scails",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/571/15091571_20261028153933_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603744471"
-    },
-    {
-      "title": "Toreta!",
-      "artist": "MILLHAM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/880/15091880_20261028172209_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745511"
-    },
-    {
-      "title": "Drifting Away",
-      "artist": "YEIN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/564/15091564_20261028153843_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603744431"
-    },
-    {
-      "title": "Don't be kind",
-      "artist": "심현보",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/769/15105769_20261030120614_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775918"
-    },
-    {
-      "title": "Step by step",
-      "artist": "이야",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/702/15091702_20261028164536_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745070"
-    },
-    {
-      "title": "LOVE ME MORE!",
-      "artist": "윤채원 (CLASSy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/347/15091347_20261028152149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603743977"
     }
   ]
 }
