@@ -1,8 +1,7 @@
 {
-  "generatedAt": "2026-11-02T03:21:03.999Z",
-  "lastUpdated": "2026-11-02T03:21:03.999Z",
+  "generatedAt": "2026-11-02T14:10:24.901Z",
+  "lastUpdated": "2026-11-02T14:10:24.901Z",
   "sourceSummary": [
-    "soompi",
     "soompi-music",
     "allkpop"
   ],
@@ -25,7 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/dailydirection-announce-their-first-ever-fan-concert-sunday-club-for-december-5",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-02T03:21:03.999Z"
+      "lastUpdated": "2026-11-02T14:10:24.901Z"
     },
     {
       "id": "evt-d480fb605b4d5c18",
@@ -45,7 +44,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/onew-surprises-fans-with-a-february-2027-comeback-reveal-at-his-seoul-concert",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-02T03:21:03.999Z"
+      "lastUpdated": "2026-11-02T14:10:24.901Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -64,8 +63,8 @@
       "shortDescription": "KYUHYUN ASIA TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-02T03:21:03.999Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-11-02T14:10:24.901Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -85,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-02T03:21:03.999Z"
+      "lastUpdated": "2026-11-02T14:10:24.901Z"
     },
     {
       "id": "evt-7d4693cd6a080a4a",
@@ -105,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-02T03:21:03.999Z"
+      "lastUpdated": "2026-11-02T14:10:24.901Z"
     }
   ]
 }
