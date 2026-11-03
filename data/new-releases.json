@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-11-03T01:05:28.178Z",
+  "generatedAt": "2026-11-03T14:30:29.816Z",
   "count": 50,
   "songs": [
+    {
+      "title": "With",
+      "artist": "RESCENE (리센느)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/293/15082293_20261026170443_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603712834"
+    },
+    {
+      "title": "ㅕ",
+      "artist": "머쉬베놈 (MUSHVENOM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/957/15113957_20261102101752_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603796531"
+    },
+    {
+      "title": "10,000,000,000",
+      "artist": "매드클라운",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/679/15114679_20261102152831_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799475"
+    },
+    {
+      "title": "Don't Cry",
+      "artist": "이혁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/625/15114625_20261102152439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799316"
+    },
+    {
+      "title": "AUTOMATIC",
+      "artist": "디노",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/105/15118105_20261103092134_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603809179"
+    },
+    {
+      "title": "The moment I met you",
+      "artist": "전건호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/869/15114869_20261102164222_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603800407"
+    },
+    {
+      "title": "Our Cage of the Day",
+      "artist": "박종민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/670/15114670_20261102152732_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799441"
+    },
+    {
+      "title": "Meeting and separation are opposed",
+      "artist": "ILHOON",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/136/15114136_20261102111113_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603797363"
+    },
+    {
+      "title": "You'll shine (start again)",
+      "artist": "김종서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/377/15114377_20261102140423_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603798623"
+    },
+    {
+      "title": "Germination",
+      "artist": "허성현 (rosy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/383/15114383_20261102142749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603798642"
+    },
+    {
+      "title": "I think I fell in love.",
+      "artist": "파랑망또",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/747/15105747_20261030115933_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775820"
+    },
+    {
+      "title": "erased me",
+      "artist": "yukon (0WAVE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/941/15091941_20261103181009_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603745631"
+    },
+    {
+      "title": "Feat. Horim, Ann One",
+      "artist": "프레디 카소(Fredi Casso)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/961/15100961_20261029110645_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603761242"
+    },
+    {
+      "title": "Earth Plane",
+      "artist": "하은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/135/15114135_20261102110954_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603797362"
+    },
+    {
+      "title": "Air Defense (Webtoon Bunker Day OST X Cloud)",
+      "artist": "구름",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/628/15114628_20261102152442_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799322"
+    },
+    {
+      "title": "feat. MC Thatsuck",
+      "artist": "비프리 (B-Free)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/300/15102300_20261029165608_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766521"
+    },
+    {
+      "title": "Failed project",
+      "artist": "처리 (Churry)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/217/15102217_20261029163712_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766251"
+    },
+    {
+      "title": "If you come to my liking,",
+      "artist": "박대희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/687/15114687_20261102153005_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799495"
+    },
+    {
+      "title": "omg",
+      "artist": "INDEGOAID",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/958/15113958_20261102095342_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603796536"
+    },
+    {
+      "title": "It must be hard to leave",
+      "artist": "김늑",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/752/15100752_20261029101353_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603760761"
+    },
     {
       "title": "Call me by my name",
       "artist": "TWS (투어스)",
@@ -15,10 +135,64 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603796530"
     },
     {
+      "title": "The one who leaves is the one who has truly broken up (Feat. Song Ji-an)",
+      "artist": "김동하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/379/15114379_20261102140642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603798634"
+    },
+    {
+      "title": "English extended version",
+      "artist": "Luci Gang",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/89/389/14589389_20260925191304_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603217390"
+    },
+    {
+      "title": "That street in Seongsu-dong",
+      "artist": "천우경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/751/15105751_20261030120034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775827"
+    },
+    {
+      "title": "GROUND",
+      "artist": "BuildingOwner",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/032/15114032_20261102103640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603796806"
+    },
+    {
+      "title": "MJ",
+      "artist": "G. Nine",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/538/15106538_20261030170242_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603778686"
+    },
+    {
+      "title": "15%",
+      "artist": "PS영준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/982/15113982_20261102100901_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603796682"
+    },
+    {
+      "title": "Love stay",
+      "artist": "제이나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/554/15106554_20261030170530_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603778748"
+    },
+    {
       "title": "DIENAMITE",
       "artist": "xikers(싸이커스)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/092/15106092_20261030150210_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603777413"
+    },
+    {
+      "title": "Everywhere (feat. Song Boram)",
+      "artist": "슬로우휠",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/375/15114375_20261102140358_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603798618"
+    },
+    {
+      "title": "Summer Villa",
+      "artist": "김달",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/745/15105745_20261030115929_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603775804"
     },
     {
       "title": "I'm laughing",
@@ -127,180 +301,6 @@
       "artist": "란 (RAN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/296/15102296_20261029165446_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603766510"
-    },
-    {
-      "title": "What are you waiting for today?",
-      "artist": "달노트 (DalNOTE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/979/15091979_20261028180714_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745736"
-    },
-    {
-      "title": "To you who filled in the gaps",
-      "artist": "헤이즈 (Heize)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/071/15106071_20261030145544_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603777326"
-    },
-    {
-      "title": "Long time no see",
-      "artist": "비크(SOTK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/695/15105695_20261030113251_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775620"
-    },
-    {
-      "title": "Your memories",
-      "artist": "서현준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/024/15106024_20261030143505_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603777043"
-    },
-    {
-      "title": "Farewell Letters",
-      "artist": "주호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/547/15106547_20261030170421_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778731"
-    },
-    {
-      "title": "You will be my light",
-      "artist": "SUBEEN(수빈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/855/15106855_20261030174437_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603779630"
-    },
-    {
-      "title": "Gap of Mind",
-      "artist": "이신주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/949/15106949_20261030182541_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603779988"
-    },
-    {
-      "title": "Forgetting You",
-      "artist": "더 브릿지 (The Bridge)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/890/15106890_20261030175211_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603779698"
-    },
-    {
-      "title": "Reset",
-      "artist": "김수영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/796/15105796_20261030121934_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775998"
-    },
-    {
-      "title": "Fools to fools",
-      "artist": "박지현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/702/15105702_20261030114332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775631"
-    },
-    {
-      "title": "Way Back",
-      "artist": "니브 (NIve)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/295/15102295_20261029165434_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766508"
-    },
-    {
-      "title": "Gwonju",
-      "artist": "마야",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/304/15102304_20261029170938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766538"
-    },
-    {
-      "title": "2026 ver",
-      "artist": "쇼빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/299/15102299_20261029165552_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766515"
-    },
-    {
-      "title": "The Toy Parade's Wedding Waltz",
-      "artist": "DJ Sparrow",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/297/15102297_20261029165447_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766512"
-    },
-    {
-      "title": "It'll show me",
-      "artist": "IDOL MiND PROJECT",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/785/15105785_20261030121240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775968"
-    },
-    {
-      "title": "On My Way",
-      "artist": "Rico Love",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/284/15102284_20261029165331_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766461"
-    },
-    {
-      "title": "reload reload",
-      "artist": "김새녘",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/464/15092464_20261028202737_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603747198"
-    },
-    {
-      "title": "The moment when I loved you",
-      "artist": "지진석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/026/15106026_20261030143804_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603777046"
-    },
-    {
-      "title": "FUEGO",
-      "artist": "이진혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/700/15105700_20261030114031_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775627"
-    },
-    {
-      "title": "SEOUL",
-      "artist": "Monday Feeling",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/811/15105811_20261030123122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603776094"
-    },
-    {
-      "title": "I love you so much",
-      "artist": "연애세포",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/255/15102255_20261029164744_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766327"
-    },
-    {
-      "title": "I love her because she's crazy",
-      "artist": "현서 (HYUN SEO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/524/15106524_20261030170042_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778643"
-    },
-    {
-      "title": "Midnight in SEOUL",
-      "artist": "MELOH",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/92/798/15092798_20261028205559_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603747839"
-    },
-    {
-      "title": "Touch (Feat. Silver Universe (WZN))",
-      "artist": "Sii",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/488/15106488_20261030165434_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778453"
-    },
-    {
-      "title": "DYINGMESSAGE",
-      "artist": "QXN (쿠잔)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/323/15102323_20261029171829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766579"
-    },
-    {
-      "title": "Only Sunset",
-      "artist": "나의 노래 메모장",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/483/15106483_20261030165333_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778445"
-    },
-    {
-      "title": "Forget it",
-      "artist": "모닝커피 (Morning Coffee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/978/15091978_20261028180610_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745734"
-    },
-    {
-      "title": "Alive",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/800/15105800_20261030122001_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603776003"
-    },
-    {
-      "title": "In the Mood for Love",
-      "artist": "남궁진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/801/15105801_20261030122055_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603776005"
     }
   ]
 }
