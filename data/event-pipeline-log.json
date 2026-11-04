@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-11-04T13:27:59.867Z",
+  "ranAt": "2026-11-04T22:59:12.148Z",
   "success": false,
-  "apiRequests": 15,
+  "apiRequests": 14,
   "providersRegistered": [
     "rss"
   ],
@@ -51,12 +51,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 40,
-      "eventRelated": 1,
-      "extracted": 1,
-      "discarded": 39,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 40,
       "discardReasons": {
-        "no_event_signal": 32,
-        "not_event_announcement": 7
+        "no_event_signal": 31,
+        "not_event_announcement": 9
       }
     },
     {
@@ -70,8 +70,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "not_event_announcement": 1,
+        "no_event_signal": 9
       }
     },
     {
@@ -85,8 +85,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "not_event_announcement": 2,
+        "no_event_signal": 8
       }
     },
     {
@@ -100,8 +100,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 7,
-        "not_event_announcement": 3
+        "no_event_signal": 6,
+        "not_event_announcement": 4
       }
     },
     {
@@ -115,8 +115,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_event_announcement": 1
+        "no_event_signal": 8,
+        "not_event_announcement": 2
       }
     },
     {
@@ -126,13 +126,11 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 2,
-      "extracted": 1,
-      "discarded": 9,
+      "eventRelated": 0,
+      "extracted": 0,
+      "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 7,
-        "not_kpop": 1,
-        "not_event_announcement": 1
+        "no_event_signal": 10
       }
     },
     {
@@ -160,8 +158,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 8,
-        "not_event_announcement": 2
+        "no_event_signal": 9,
+        "not_event_announcement": 1
       }
     },
     {
@@ -190,36 +188,36 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 7,
-        "no_event_signal": 3
+        "no_event_signal": 3,
+        "not_event_announcement": 7
       }
     }
   ],
-  "rawEvents": 4,
-  "afterDedupe": 4,
-  "afterUpcomingFilter": 4,
+  "rawEvents": 2,
+  "afterDedupe": 2,
+  "afterUpcomingFilter": 2,
   "totalItems": 243,
-  "totalEventRelated": 5,
-  "totalExtracted": 4,
-  "totalDiscarded": 239,
-  "extractionAccuracyPct": 80,
-  "previousCount": 5,
-  "writtenCount": 4,
+  "totalEventRelated": 2,
+  "totalExtracted": 2,
+  "totalDiscarded": 241,
+  "extractionAccuracyPct": 100,
+  "previousCount": 4,
+  "writtenCount": 2,
   "changed": true,
   "published": false,
   "notes": [
     "rss:soompi: items=60 related=0 extracted=0 discarded=60",
     "rss:soompi-music: items=60 related=2 extracted=2 discarded=58",
-    "rss:allkpop: items=40 related=1 extracted=1 discarded=39",
+    "rss:allkpop: items=40 related=0 extracted=0 discarded=40",
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
     "rss:nme: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme-music: items=10 related=2 extracted=1 discarded=9",
+    "rss:nme-music: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
     "rss:hellokpop: items=3 related=0 extracted=0 discarded=3",
     "rss:biaslist: items=10 related=0 extracted=0 discarded=10",
-    "rss:images resolved from articles=2/4"
+    "rss:images resolved from articles=2/2"
   ]
 }
