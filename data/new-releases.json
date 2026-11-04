@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-03T23:31:39.116Z",
+  "generatedAt": "2026-11-04T06:44:23.360Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Agdeungba, etc.",
+      "artist": "봉제인간",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/829/15102829_20261029184010_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603768106"
+    },
+    {
+      "title": "Last Winter (feat. Taison)",
+      "artist": "김소연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/19/012/15119012_20261103115525_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603811194"
+    },
+    {
+      "title": "Home In Love",
+      "artist": "이민우 (M)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/035/15106035_20261030144840_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603777078"
+    },
+    {
+      "title": "Waiting for you",
+      "artist": "나빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/164/15121164_20261103165957_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603816607"
+    },
+    {
+      "title": "feat. Blueday",
+      "artist": "IOHBOY (아이오보이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/430/15115430_20261102184355_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603802181"
+    },
+    {
+      "title": "One in a bay",
+      "artist": "조은세",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/916/15118916_20261103110040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603810804"
+    },
     {
       "title": "With",
       "artist": "RESCENE (리센느)",
@@ -9,10 +45,64 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603712834"
     },
     {
+      "title": "Feat. DUT2",
+      "artist": "HAAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/859/15118859_20261103102602_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603810619"
+    },
+    {
+      "title": "I choose not to",
+      "artist": "하웅 (Hawoong)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/881/15118881_20261103104330_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603810710"
+    },
+    {
+      "title": "Miracle",
+      "artist": "gen",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/996/15118996_20261103114231_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603811092"
+    },
+    {
+      "title": "No matter how much the seasons go by,",
+      "artist": "강현우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/527/15120527_20261103161137_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603814650"
+    },
+    {
+      "title": "In my head",
+      "artist": "남기준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/415/15115415_20261102183938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603802154"
+    },
+    {
+      "title": "Home",
+      "artist": "UNXL(언오피셜)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/229/15114229_20261102115756_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603797982"
+    },
+    {
       "title": "ㅕ",
       "artist": "머쉬베놈 (MUSHVENOM)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/957/15113957_20261102101752_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603796531"
+    },
+    {
+      "title": "so lovely person",
+      "artist": "비비안 (BBAHN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/704/15114704_20261102153458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799558"
+    },
+    {
+      "title": "Parasite",
+      "artist": "CHOYY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/150/15115150_20261102175549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603801285"
+    },
+    {
+      "title": "Old Bookcase",
+      "artist": "하프더즌 (Half Dozen)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/479/15114479_20261102145649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603798915"
     },
     {
       "title": "10,000,000,000",
@@ -23,7 +113,7 @@
     {
       "title": "Don't Cry",
       "artist": "이혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/625/15114625_20261102152439_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/625/15114625_20261104104332_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603799316"
     },
     {
@@ -211,96 +301,6 @@
       "artist": "정동원",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/036/15106036_20261030144849_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603777080"
-    },
-    {
-      "title": "Attitude",
-      "artist": "구피 (Goopy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/301/15102301_20261029165828_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766535"
-    },
-    {
-      "title": "Korean Ver.",
-      "artist": "신수현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/325/15102325_20261029171840_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766581"
-    },
-    {
-      "title": "Where You're Not - Live",
-      "artist": "양요섭",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/612/15106612_20261030171050_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778993"
-    },
-    {
-      "title": "I know.",
-      "artist": "진엘 (브라더스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/690/15105690_20261030112750_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775613"
-    },
-    {
-      "title": "Lost and Found",
-      "artist": "닙아카이브 (nib.archive)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/730/15105730_20261030115626_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775773"
-    },
-    {
-      "title": "outside time",
-      "artist": "heyden",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/268/15102268_20261029165159_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766352"
-    },
-    {
-      "title": "vision",
-      "artist": "비올라 (VIOLA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/965/15106965_20261030183501_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603780029"
-    },
-    {
-      "title": "Let's take a look sometime",
-      "artist": "KOLAVO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/718/15105718_20261030114952_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775679"
-    },
-    {
-      "title": "Beanpapage",
-      "artist": "104 (백사)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/897/15106897_20261030175314_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603779725"
-    },
-    {
-      "title": "Oriental Dollarbird",
-      "artist": "Kkuek",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/600/15102600_20261029175931_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603767629"
-    },
-    {
-      "title": "Don't Forget Me",
-      "artist": "소수빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/298/15102298_20261029165451_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766513"
-    },
-    {
-      "title": "Feat. EK",
-      "artist": "viceversa",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/537/15106537_20261030170240_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778673"
-    },
-    {
-      "title": "Locked in to you",
-      "artist": "임윤성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/670/15105670_20261030112334_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775456"
-    },
-    {
-      "title": "Wind wave",
-      "artist": "진혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/696/15105696_20261030113303_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775622"
-    },
-    {
-      "title": "I'm really in love with you.",
-      "artist": "란 (RAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/296/15102296_20261029165446_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766510"
     }
   ]
 }
