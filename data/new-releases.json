@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-11-04T06:44:23.360Z",
+  "generatedAt": "2026-11-04T19:55:41.068Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Run (with dynamic duo)",
+      "artist": "EMP (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/445/15115445_20261102185014_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603802276"
+    },
+    {
+      "title": "triple",
+      "artist": "기리보이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/884/15118884_20261103104501_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603810733"
+    },
+    {
+      "title": "Replay",
+      "artist": "Baby DONT Cry",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/253/15121253_20261103170642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603816883"
+    },
+    {
+      "title": "To a friend who is life",
+      "artist": "장민호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/236/15121236_20261103170457_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603816830"
+    },
+    {
+      "title": "LA NOCHE",
+      "artist": "유권 (블락비)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/997/15118997_20261103114431_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603811094"
+    },
+    {
+      "title": "Love 911",
+      "artist": "DK(디셈버)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/502/15120502_20261103160900_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603814565"
+    },
+    {
+      "title": "Slow Motion",
+      "artist": "윤서빈 (Yoon Seobin)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/181/15121181_20261103170137_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603816682"
+    },
+    {
+      "title": "Coincidence and necessity",
+      "artist": "지수연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/038/15106038_20261030145039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603777095"
+    },
+    {
+      "title": "for you",
+      "artist": "줍에이 (Joob A)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/182/15118182_20261103093729_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603809324"
+    },
+    {
+      "title": "Plastic bag",
+      "artist": "루싸이트 토끼",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/702/15114702_20261102153350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799555"
+    },
+    {
+      "title": "feat. BewhY",
+      "artist": "0siggy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/19/138/15119138_20261103121815_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603811978"
+    },
+    {
+      "title": "feat. B-Free",
+      "artist": "야수 (YASU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/429/15115429_20261102184253_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603802180"
+    },
     {
       "title": "Agdeungba, etc.",
       "artist": "봉제인간",
@@ -229,78 +301,6 @@
       "artist": "김동하",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/379/15114379_20261102140642_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603798634"
-    },
-    {
-      "title": "English extended version",
-      "artist": "Luci Gang",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/145/89/389/14589389_20260925191304_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603217390"
-    },
-    {
-      "title": "That street in Seongsu-dong",
-      "artist": "천우경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/751/15105751_20261030120034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775827"
-    },
-    {
-      "title": "GROUND",
-      "artist": "BuildingOwner",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/032/15114032_20261102103640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603796806"
-    },
-    {
-      "title": "MJ",
-      "artist": "G. Nine",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/538/15106538_20261030170242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778686"
-    },
-    {
-      "title": "15%",
-      "artist": "PS영준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/982/15113982_20261102100901_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603796682"
-    },
-    {
-      "title": "Love stay",
-      "artist": "제이나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/554/15106554_20261030170530_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603778748"
-    },
-    {
-      "title": "DIENAMITE",
-      "artist": "xikers(싸이커스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/092/15106092_20261030150210_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603777413"
-    },
-    {
-      "title": "Everywhere (feat. Song Bo-Ram)",
-      "artist": "슬로우휠",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/375/15114375_20261102140358_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603798618"
-    },
-    {
-      "title": "Summer Villa",
-      "artist": "김달",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/745/15105745_20261030115929_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775804"
-    },
-    {
-      "title": "I'm laughing",
-      "artist": "오왠 (O.WHEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/039/15106039_20261030145041_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603777099"
-    },
-    {
-      "title": "GUILTY PLEASURE",
-      "artist": "아이엔 (Stray Kids)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/693/15105693_20261030113203_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775617"
-    },
-    {
-      "title": "I guess he wants you to forget me.",
-      "artist": "정동원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/06/036/15106036_20261030144849_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603777080"
     }
   ]
 }
