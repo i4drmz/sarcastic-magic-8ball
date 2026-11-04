@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T03:52:54.601Z",
-  "lastUpdated": "2026-11-04T03:52:54.601Z",
+  "generatedAt": "2026-11-04T13:27:59.867Z",
+  "lastUpdated": "2026-11-04T13:27:59.867Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop",
-    "nme"
+    "nme-music"
   ],
   "events": [
     {
@@ -25,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/btobs-yook-sung-jae-to-hold-solo-fan-meeting-five-to-seven-in-december-teases-war-with-going-to-work-in-first-poster",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-04T03:52:54.601Z"
+      "lastUpdated": "2026-11-04T13:27:59.867Z"
     },
     {
       "id": "evt-63d3a193353c1b52",
@@ -44,8 +44,8 @@
       "shortDescription": "BTS FESTIVAL COMING UP",
       "sourceUrl": "https://www.nme.com/news/music/kyary-pamyu-pamyu-otoboke-beaver-hitsujibungaku-announced-for-first-ever-european-matsuri-music-festival-in-london-3974885?utm_source=rss&utm_medium=rss&utm_campaign=kyary-pamyu-pamyu-otoboke-beaver-hitsujibungaku-announced-for-first-ever-european-matsuri-music-festival-in-london",
       "ticketUrl": null,
-      "source": "rss:nme",
-      "lastUpdated": "2026-11-04T03:52:54.601Z"
+      "source": "rss:nme-music",
+      "lastUpdated": "2026-11-04T13:27:59.867Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -65,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-04T03:52:54.601Z"
+      "lastUpdated": "2026-11-04T13:27:59.867Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -85,27 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-04T03:52:54.601Z"
-    },
-    {
-      "id": "evt-7d4693cd6a080a4a",
-      "type": "Concert",
-      "title": "Asia Tour “SAUCIN”",
-      "artist": "NEXZ",
-      "group": "NEXZ",
-      "date": "2026-10-18",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/19024743/NEXZ.jpeg",
-      "shortDescription": "NEXZ ASIA TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1879435wpp/nexz-announces-2027-dates-and-cities-for-1st-asia-tour-saucin-the-world",
-      "ticketUrl": null,
-      "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-04T03:52:54.601Z"
+      "lastUpdated": "2026-11-04T13:27:59.867Z"
     }
   ]
 }
