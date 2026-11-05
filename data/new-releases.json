@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-11-05T07:04:06.792Z",
+  "generatedAt": "2026-11-05T20:08:31.368Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Question mark",
+      "artist": "한로로",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/573/15125573_20261104141741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603829906"
+    },
+    {
+      "title": "Calling back",
+      "artist": "Dragon Pony (드래곤포니)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/105/15126105_20261104161728_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603832740"
+    },
+    {
+      "title": "TiNG TiNG",
+      "artist": "언차일드 (UNCHILD)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/321/15102321_20261105095525_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603766577"
+    },
+    {
+      "title": "Slow Jam",
+      "artist": "유빈 (Yubin)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/19/528/15119528_20261103141002_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603812667"
+    },
+    {
+      "title": "I hate you, but I love you",
+      "artist": "이영현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/729/15125729_20261104145359_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603831106"
+    },
+    {
+      "title": "Human Resources",
+      "artist": "펀치 (Punch)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/595/15125595_20261104142639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603830019"
+    },
+    {
+      "title": "LIT IT",
+      "artist": "HEART OF WOMAN (하트오브우먼)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/578/15125578_20261104142049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603829921"
+    },
+    {
+      "title": "Feat. chicken97",
+      "artist": "래원 (Layone)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/882/15125882_20261104152059_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603831555"
+    },
+    {
+      "title": "BRB",
+      "artist": "HITGS(힛지스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/104/15126104_20261104161659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603832738"
+    },
+    {
+      "title": "OKA8 (feat. OKASHII, ley, Noh Yoon-ha)",
+      "artist": "MATTHEW",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/729/15121729_20261103182538_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603818540"
+    },
+    {
+      "title": "BLUE HOUR",
+      "artist": "김뮤지엄 (KIMMUSEUM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/183/15126183_20261104170129_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603833529"
+    },
+    {
+      "title": "Let's go",
+      "artist": "유해준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/610/15125610_20261104143139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603830149"
+    },
+    {
+      "title": "Dazzling",
+      "artist": "현성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/210/15118210_20261103093949_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603809412"
+    },
+    {
+      "title": "True Love",
+      "artist": "BLEXA.",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/410/15126410_20261104175747_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603834102"
+    },
+    {
+      "title": "BUFFERING",
+      "artist": "ADAP (에이댑)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/589/15125589_20261104142338_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603829975"
+    },
     {
       "title": "Anyway, Rudolph is cute.",
       "artist": "네이비쿼카 (NavyQuokka)",
@@ -211,96 +301,6 @@
       "artist": "RESCENE (리센느)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/293/15082293_20261026170443_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603712834"
-    },
-    {
-      "title": "Feat. DUT2",
-      "artist": "HAAN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/859/15118859_20261103102602_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603810619"
-    },
-    {
-      "title": "I choose not to",
-      "artist": "하웅 (Hawoong)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/881/15118881_20261103104330_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603810710"
-    },
-    {
-      "title": "Miracle",
-      "artist": "gen",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/996/15118996_20261103114231_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603811092"
-    },
-    {
-      "title": "No matter how much the seasons go by,",
-      "artist": "강현우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/527/15120527_20261103161137_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603814650"
-    },
-    {
-      "title": "In my head",
-      "artist": "남기준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/415/15115415_20261102183938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603802154"
-    },
-    {
-      "title": "Home",
-      "artist": "UNXL(언오피셜)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/229/15114229_20261102115756_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603797982"
-    },
-    {
-      "title": "ㅕ",
-      "artist": "머쉬베놈 (MUSHVENOM)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/957/15113957_20261102101752_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603796531"
-    },
-    {
-      "title": "so lovely person",
-      "artist": "비비안 (BBAHN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/704/15114704_20261102153458_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799558"
-    },
-    {
-      "title": "Parasite",
-      "artist": "CHOYY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/150/15115150_20261102175549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603801285"
-    },
-    {
-      "title": "Old Bookcase",
-      "artist": "하프더즌 (Half Dozen)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/479/15114479_20261102145649_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603798915"
-    },
-    {
-      "title": "10,000,000,000",
-      "artist": "매드클라운",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/679/15114679_20261102152831_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799475"
-    },
-    {
-      "title": "Don't Cry",
-      "artist": "이혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/625/15114625_20261104104332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799316"
-    },
-    {
-      "title": "AUTOMATIC",
-      "artist": "디노",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/105/15118105_20261103092134_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603809179"
-    },
-    {
-      "title": "The moment I met you",
-      "artist": "전건호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/869/15114869_20261102164222_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603800407"
-    },
-    {
-      "title": "Our Cage of the Day",
-      "artist": "박종민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/670/15114670_20261102152732_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799441"
     }
   ]
 }
