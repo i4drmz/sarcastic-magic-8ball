@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-04T19:55:41.068Z",
+  "generatedAt": "2026-11-05T07:04:06.792Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Anyway, Rudolph is cute.",
+      "artist": "네이비쿼카 (NavyQuokka)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/24/921/15124921_20261104101101_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603826830"
+    },
+    {
+      "title": "Aporia",
+      "artist": "안희수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/725/15125725_20261104145341_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603831080"
+    },
+    {
+      "title": "Excess Romance",
+      "artist": "성영주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/184/15126184_20261104170250_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603833530"
+    },
+    {
+      "title": "River",
+      "artist": "Hayoung (하영)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/225/15120225_20261103145703_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603813580"
+    },
+    {
+      "title": "One Who Protects Me (Feat.)",
+      "artist": "신현우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/125/15126125_20261104163315_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603832988"
+    },
+    {
+      "title": "Vertigo",
+      "artist": "YELO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/442/15115442_20261102184903_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603802272"
+    },
     {
       "title": "Run (with dynamic duo)",
       "artist": "EMP (ZEROBASEONE)",
@@ -15,10 +51,70 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603810733"
     },
     {
+      "title": "Like Angels (Feat. Wangfujing)",
+      "artist": "태사비애",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/703/15114703_20261102153419_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603799556"
+    },
+    {
+      "title": "ENERGY",
+      "artist": "AEILO(에일로)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/19/154/15119154_20261103122150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603812016"
+    },
+    {
+      "title": "feat. WILLA, Munch King",
+      "artist": "30대 공기웅",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/166/15125166_20261104115541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603827849"
+    },
+    {
+      "title": "Hide-and-seek",
+      "artist": "김한울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/094/15125094_20261104112541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603827345"
+    },
+    {
       "title": "Replay",
       "artist": "Baby DONT Cry",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/253/15121253_20261103170642_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603816883"
+    },
+    {
+      "title": "When we meet again,",
+      "artist": "아이드(I'd)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/615/15125615_20261104143200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603830157"
+    },
+    {
+      "title": "LOST",
+      "artist": "YUWAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/154/15115154_20261102175700_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603801303"
+    },
+    {
+      "title": "Be a light with you",
+      "artist": "우이경 (Woo Yi Kyung)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/444/15114444_20261102145053_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603798795"
+    },
+    {
+      "title": "OWL",
+      "artist": "RIIKA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/210/15126210_20261104170705_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603833635"
+    },
+    {
+      "title": "Instant Lab",
+      "artist": "Ambid Jack",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/410/15115410_20261102183732_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603802140"
+    },
+    {
+      "title": "Where are we going now?",
+      "artist": "sorori",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/028/15114028_20261102103459_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603796773"
     },
     {
       "title": "To a friend who is life",
@@ -205,102 +301,6 @@
       "artist": "박종민",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/670/15114670_20261102152732_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603799441"
-    },
-    {
-      "title": "Meeting and separation are opposed",
-      "artist": "ILHOON",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/136/15114136_20261102111113_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603797363"
-    },
-    {
-      "title": "You'll shine (start again)",
-      "artist": "김종서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/377/15114377_20261102140423_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603798623"
-    },
-    {
-      "title": "Germination",
-      "artist": "허성현 (rosy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/383/15114383_20261102142749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603798642"
-    },
-    {
-      "title": "I think I fell in love.",
-      "artist": "파랑망또",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/05/747/15105747_20261030115933_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603775820"
-    },
-    {
-      "title": "erased me",
-      "artist": "yukon (0WAVE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/941/15091941_20261103181009_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603745631"
-    },
-    {
-      "title": "Feat. Horim, Ann One",
-      "artist": "프레디 카소(Fredi Casso)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/961/15100961_20261029110645_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603761242"
-    },
-    {
-      "title": "Earth Plane",
-      "artist": "하은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/135/15114135_20261102110954_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603797362"
-    },
-    {
-      "title": "Air Defense (Webtoon Bunker Day OST X Cloud)",
-      "artist": "구름",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/628/15114628_20261102152442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799322"
-    },
-    {
-      "title": "feat. MC Thatsuck",
-      "artist": "비프리 (B-Free)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/300/15102300_20261029165608_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766521"
-    },
-    {
-      "title": "Ruined Projects",
-      "artist": "처리 (Churry)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/217/15102217_20261029163712_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766251"
-    },
-    {
-      "title": "If you come to my liking,",
-      "artist": "박대희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/687/15114687_20261102153005_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799495"
-    },
-    {
-      "title": "omg",
-      "artist": "INDEGOAID",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/958/15113958_20261102095342_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603796536"
-    },
-    {
-      "title": "It must be hard to leave",
-      "artist": "김늑",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/00/752/15100752_20261029101353_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603760761"
-    },
-    {
-      "title": "Call me by my name",
-      "artist": "TWS (투어스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/54/654/15054654_20261021173012_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603648403"
-    },
-    {
-      "title": "SHOCK",
-      "artist": "TREASURE (트레저)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/13/956/15113956_20261102094928_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603796530"
-    },
-    {
-      "title": "The One Who's Leaving Is A Farewell (Feat. Song Jian)",
-      "artist": "김동하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/379/15114379_20261102140642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603798634"
     }
   ]
 }
