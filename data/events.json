@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-06T13:26:25.773Z",
-  "lastUpdated": "2026-11-06T13:26:25.773Z",
+  "generatedAt": "2026-11-06T22:31:00.760Z",
+  "lastUpdated": "2026-11-06T22:31:00.760Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop",
-    "koreaboo"
+    "allkpop"
   ],
   "events": [
     {
@@ -26,7 +25,27 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/mamamoos-solar-to-hold-her-first-solo-busking-in-sinchon-debuting-to-my-20s-live",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-06T13:26:25.773Z"
+      "lastUpdated": "2026-11-06T22:31:00.760Z"
+    },
+    {
+      "id": "evt-81d1eecd6cf585b3",
+      "type": "Concert",
+      "title": "Encore Concert “Paradise of Rumors”",
+      "artist": "AKMU",
+      "group": "AKMU",
+      "date": "2026-11-06",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "AKMU ENCORE CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/akmu-announces-january-2027-encore-concert-for-paradise-of-rumors",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-06T22:31:00.760Z"
     },
     {
       "id": "evt-2ee08a3106f27a27",
@@ -46,27 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1884315wpp/jung-hae-in-announces-stops-for-2027-fan-meeting-tour-meet-me-there",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-06T13:26:25.773Z"
-    },
-    {
-      "id": "evt-45c0a6e41e711a20",
-      "type": "Concert",
-      "title": "Tour",
-      "artist": "KATSEYE",
-      "group": "KATSEYE",
-      "date": "2026-11-05",
-      "time": null,
-      "venue": "TBA",
-      "city": "Chicago",
-      "country": "US",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://image.koreaboo.com/2026/11/kats.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1794031200&amp;KeyName=kb&amp;Signature=Vs9dicChVf_CUuA2SJV0wz0xyhQ=",
-      "shortDescription": "KATSEYE TOUR COMING UP",
-      "sourceUrl": "https://www.koreaboo.com/news/katseye-reason-show-cancellations-fans-want-entire-tour-scrapped/",
-      "ticketUrl": null,
-      "source": "rss:koreaboo",
-      "lastUpdated": "2026-11-06T13:26:25.773Z"
+      "lastUpdated": "2026-11-06T22:31:00.760Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -86,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-06T13:26:25.773Z"
+      "lastUpdated": "2026-11-06T22:31:00.760Z"
     },
     {
       "id": "evt-02d94675440652b8",
@@ -106,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-06T13:26:25.773Z"
+      "lastUpdated": "2026-11-06T22:31:00.760Z"
     }
   ]
 }
