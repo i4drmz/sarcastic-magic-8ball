@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-07T06:16:38.287Z",
+  "generatedAt": "2026-11-07T13:21:09.999Z",
   "count": 50,
   "songs": [
+    {
+      "title": "The Future",
+      "artist": "듀스 (DEUX)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/337/15134337_20261106104530_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858047"
+    },
+    {
+      "title": "Signal",
+      "artist": "우예린",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/581/15134581_20261106143339_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859212"
+    },
+    {
+      "title": "If we really loved,",
+      "artist": "윤원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/749/15134749_20261106152346_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859888"
+    },
+    {
+      "title": "2026",
+      "artist": "조성확(IHWAK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/537/15134537_20261106140311_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858964"
+    },
+    {
+      "title": "YOONI",
+      "artist": "moonpil",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/055/15131055_20261105171524_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846980"
+    },
+    {
+      "title": "Imagination Ride",
+      "artist": "이파란",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/694/15131694_20261105184753_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603849099"
+    },
     {
       "title": "By my side",
       "artist": "김선재",
@@ -19,6 +55,24 @@
       "artist": "S2AM",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/828/15130828_20261105163549_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603846159"
+    },
+    {
+      "title": "Turn Around (feat. Midam)",
+      "artist": "BLUE WHAILL",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/329/15121329_20261103171339_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603817082"
+    },
+    {
+      "title": "Time Between Fingers",
+      "artist": "숙희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/604/15121604_20261103174550_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603818030"
+    },
+    {
+      "title": "Disappearing things don't interest me.",
+      "artist": "지우근",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/582/15134582_20261106143448_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859214"
     },
     {
       "title": "Mambo of Love",
@@ -247,60 +301,6 @@
       "artist": "floryy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/957/15129957_20261105114956_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603844097"
-    },
-    {
-      "title": "In other seasons",
-      "artist": "임서안 (im seoan)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/795/15125795_20261104151205_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603831268"
-    },
-    {
-      "title": "TiNG TiNG",
-      "artist": "언차일드 (UNCHILD)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/321/15102321_20261105095525_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603766577"
-    },
-    {
-      "title": "Slow Jam",
-      "artist": "유빈 (Yubin)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/19/528/15119528_20261103141002_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603812667"
-    },
-    {
-      "title": "I hate you, but I love you",
-      "artist": "이영현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/729/15125729_20261104145359_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603831106"
-    },
-    {
-      "title": "Human Resources",
-      "artist": "펀치 (Punch)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/595/15125595_20261104142639_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603830019"
-    },
-    {
-      "title": "LIT IT",
-      "artist": "HEART OF WOMAN (하트오브우먼)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/578/15125578_20261104142049_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603829921"
-    },
-    {
-      "title": "Feat. chicken97",
-      "artist": "래원 (Layone)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/882/15125882_20261104152059_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603831555"
-    },
-    {
-      "title": "BRB",
-      "artist": "HITGS(힛지스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/104/15126104_20261104161659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603832738"
-    },
-    {
-      "title": "OKA8 (feat. OKASHII, ley, Noh Yoon-ha)",
-      "artist": "MATTHEW",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/729/15121729_20261103182538_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603818540"
     }
   ]
 }
