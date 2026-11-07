@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-11-06T19:35:10.960Z",
+  "generatedAt": "2026-11-07T06:16:38.287Z",
   "count": 50,
   "songs": [
+    {
+      "title": "By my side",
+      "artist": "김선재",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/576/15134576_20261106142936_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859202"
+    },
+    {
+      "title": "Feat. YonYon",
+      "artist": "Q the trumpet",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/828/15129828_20261105110857_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603843497"
+    },
+    {
+      "title": "Loneliness",
+      "artist": "S2AM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/828/15130828_20261105163549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846159"
+    },
+    {
+      "title": "Mambo of Love",
+      "artist": "김용빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/512/15134512_20261106123322_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858820"
+    },
+    {
+      "title": "Reborn",
+      "artist": "Kriz",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/578/15134578_20261106143139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859208"
+    },
+    {
+      "title": "Talk to you tomorrow",
+      "artist": "민예서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/071/15131071_20261105171839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603847044"
+    },
+    {
+      "title": "Slimy sea",
+      "artist": "지하주차장",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/758/15130758_20261105154959_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603845931"
+    },
+    {
+      "title": "Feat. ASH ISLAND, Skinny Brown",
+      "artist": "WISS",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/750/15130750_20261105154241_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603845902"
+    },
+    {
+      "title": "Art. Tmlm",
+      "artist": "Anonymous Artists(어나니머스 아티스트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/349/15134349_20261106105348_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858077"
+    },
+    {
+      "title": "Call My Name",
+      "artist": "Ari(아리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/642/15134642_20261106145148_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859582"
+    },
+    {
+      "title": "Please don't go",
+      "artist": "리디아 (Lydia)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/281/15121281_20261103171119_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603816957"
+    },
+    {
+      "title": "Shining",
+      "artist": "블낫블(blue is not blue)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/509/15134509_20261106122720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858813"
+    },
+    {
+      "title": "Feat. Gist, Kid Wine",
+      "artist": "그리오 (GRIO)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/960/15129960_20261105115106_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603844117"
+    },
+    {
+      "title": "CINNAMON",
+      "artist": "정수민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/768/15130768_20261105160740_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846000"
+    },
+    {
+      "title": "Black gift",
+      "artist": "ibun",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/601/15131601_20261105182950_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603848614"
+    },
+    {
+      "title": "Fragrance Stays Breeze",
+      "artist": "은주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/577/15134577_20261106143032_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859206"
+    },
+    {
+      "title": "Blue Eyes",
+      "artist": "물 (Mool)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/648/15134648_20261106145722_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859601"
+    },
+    {
+      "title": "How do I fit you in?",
+      "artist": "림도한",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/579/15134579_20261106143303_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859210"
+    },
+    {
+      "title": "Bounce of Love",
+      "artist": "소유미",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/752/15129752_20261105103851_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603843198"
+    },
+    {
+      "title": "Fat! Fat!",
+      "artist": "장예찬 (YECHAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/793/15130793_20261105161702_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846036"
+    },
     {
       "title": "from the Netflix Film “Steps”",
       "artist": "제니 (JENNIE)",
@@ -19,42 +139,6 @@
       "artist": "P1Harmony",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/746/15129746_20261105103550_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603843184"
-    },
-    {
-      "title": "Slimy sea",
-      "artist": "지하주차장",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/758/15130758_20261105154959_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845931"
-    },
-    {
-      "title": "Feat. ASH ISLAND, Skinny Brown",
-      "artist": "WISS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/750/15130750_20261105154241_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845902"
-    },
-    {
-      "title": "Feat. Gist, Kid Wine",
-      "artist": "그리오 (GRIO)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/960/15129960_20261105115106_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603844117"
-    },
-    {
-      "title": "CINNAMON",
-      "artist": "정수민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/768/15130768_20261105160740_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846000"
-    },
-    {
-      "title": "Bounce of Love",
-      "artist": "소유미",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/752/15129752_20261105103851_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603843198"
-    },
-    {
-      "title": "Fat! Fat!",
-      "artist": "장예찬 (YECHAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/793/15130793_20261105161702_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846036"
     },
     {
       "title": "Possible Love",
@@ -217,90 +301,6 @@
       "artist": "MATTHEW",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/729/15121729_20261103182538_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603818540"
-    },
-    {
-      "title": "BLUE HOUR",
-      "artist": "김뮤지엄 (KIMMUSEUM)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/183/15126183_20261104170129_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603833529"
-    },
-    {
-      "title": "Let's go",
-      "artist": "유해준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/610/15125610_20261104143139_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603830149"
-    },
-    {
-      "title": "Dazzling",
-      "artist": "현성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/210/15118210_20261103093949_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603809412"
-    },
-    {
-      "title": "True Love",
-      "artist": "BLEXA.",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/410/15126410_20261104175747_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603834102"
-    },
-    {
-      "title": "BUFFERING",
-      "artist": "ADAP (에이댑)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/589/15125589_20261104142338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603829975"
-    },
-    {
-      "title": "Anyway, Rudolph is cute.",
-      "artist": "네이비쿼카 (NavyQuokka)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/24/921/15124921_20261104101101_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603826830"
-    },
-    {
-      "title": "Aporia",
-      "artist": "안희수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/725/15125725_20261104145341_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603831080"
-    },
-    {
-      "title": "Excess Romance",
-      "artist": "성영주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/184/15126184_20261104170250_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603833530"
-    },
-    {
-      "title": "River",
-      "artist": "Hayoung (하영)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/225/15120225_20261103145703_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603813580"
-    },
-    {
-      "title": "One Who Protects Me (Feat.)",
-      "artist": "신현우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/125/15126125_20261104163315_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603832988"
-    },
-    {
-      "title": "Vertigo",
-      "artist": "YELO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/442/15115442_20261102184903_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603802272"
-    },
-    {
-      "title": "Run (with dynamic duo)",
-      "artist": "EMP (ZEROBASEONE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/445/15115445_20261102185014_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603802276"
-    },
-    {
-      "title": "triple",
-      "artist": "기리보이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/18/884/15118884_20261103104501_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603810733"
-    },
-    {
-      "title": "Like Angels (Feat. Wangfujing)",
-      "artist": "태사비애",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/703/15114703_20261102153419_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799556"
     }
   ]
 }
