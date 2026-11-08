@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-11-08T06:22:30.842Z",
+  "generatedAt": "2026-11-08T13:41:04.515Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Even love..",
+      "artist": "웬디 (WENDY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/644/15134644_20261106145440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859585"
+    },
+    {
+      "title": "The Way to Me",
+      "artist": "경서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/592/15134592_20261106143823_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859275"
+    },
+    {
+      "title": "What if?",
+      "artist": "off the menu (오프더메뉴)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/053/15131053_20261105171522_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846971"
+    },
+    {
+      "title": "2026",
+      "artist": "진민호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/536/15134536_20261106140259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858962"
+    },
+    {
+      "title": "Till the end",
+      "artist": "일레인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/646/15134646_20261106145549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859593"
+    },
+    {
+      "title": "Mama Song",
+      "artist": "WON",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/643/15134643_20261106145439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859583"
+    },
+    {
+      "title": "Any picture",
+      "artist": "천범석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/511/15134511_20261106123312_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858818"
+    },
+    {
+      "title": "Winter rain",
+      "artist": "제이세라",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/761/15130761_20261105155748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603845936"
+    },
+    {
+      "title": "La",
+      "artist": "유주 (YUJU)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/797/15130797_20261105161754_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846043"
+    },
+    {
+      "title": "One Day",
+      "artist": "NEDA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/340/15134340_20261106104700_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858064"
+    },
+    {
+      "title": "feat.CIKI",
+      "artist": "리플리 (RIPLEY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/056/15131056_20261105171524_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846983"
+    },
     {
       "title": "I just want to do well, like minded",
       "artist": "Jimmy Brown",
@@ -235,72 +301,6 @@
       "artist": "소유미",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/752/15129752_20261105103851_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603843198"
-    },
-    {
-      "title": "Fat! Fat!",
-      "artist": "장예찬 (YECHAN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/793/15130793_20261105161702_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846036"
-    },
-    {
-      "title": "from the Netflix Film “Steps”",
-      "artist": "제니 (JENNIE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/756/15130756_20261105154442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845919"
-    },
-    {
-      "title": "Happiest",
-      "artist": "Mark Lee (마크리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/014/15130014_20261105121028_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603844308"
-    },
-    {
-      "title": "BLOW UP",
-      "artist": "P1Harmony",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/746/15129746_20261105103550_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603843184"
-    },
-    {
-      "title": "Possible Love",
-      "artist": "정재일",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/727/15129727_20261105103211_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603843131"
-    },
-    {
-      "title": "Love is life",
-      "artist": "케이시 (Kassy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/926/15129926_20261105113729_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603843959"
-    },
-    {
-      "title": "Rainy Yeongdong Bridge",
-      "artist": "길려원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/753/15130753_20261105154340_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845905"
-    },
-    {
-      "title": "Rico Ver.",
-      "artist": "xikers(싸이커스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/754/15130754_20261105154411_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845909"
-    },
-    {
-      "title": "I'll arrest you",
-      "artist": "아일릿(ILLIT)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/938/15130938_20261105164950_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846616"
-    },
-    {
-      "title": "Vendetta remix",
-      "artist": "Godfather Black",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/731/15129731_20261105103243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603843148"
-    },
-    {
-      "title": "I don't know why I'm here",
-      "artist": "스킵잭 (SKIPJACK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/950/15129950_20261105114854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603844068"
     }
   ]
 }
