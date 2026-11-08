@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-07T22:05:44.010Z",
+  "generatedAt": "2026-11-08T06:22:30.842Z",
   "count": 50,
   "songs": [
+    {
+      "title": "I just want to do well, like minded",
+      "artist": "Jimmy Brown",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/951/15130951_20261105170010_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603846681"
+    },
+    {
+      "title": "Unreached confession",
+      "artist": "최인경",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/589/15134589_20261106143722_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859252"
+    },
+    {
+      "title": "TRUE",
+      "artist": "aiai",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/752/15131752_20261105190940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603849192"
+    },
+    {
+      "title": "Parallel",
+      "artist": "veanii",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/760/15134760_20261106152458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859900"
+    },
+    {
+      "title": "Dream Scenes",
+      "artist": "디어클라우드",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/696/15134696_20261106150751_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859732"
+    },
+    {
+      "title": "No Brand",
+      "artist": "foy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/763/15130763_20261105155838_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603845939"
+    },
     {
       "title": "The Future",
       "artist": "듀스 (DEUX)",
@@ -15,6 +51,18 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603859212"
     },
     {
+      "title": "Feel my bass",
+      "artist": "서기준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/583/15134583_20261106143548_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859215"
+    },
+    {
+      "title": "Clear Eyes",
+      "artist": "김새얀",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/588/15131588_20261105182734_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603848538"
+    },
+    {
       "title": "If we really loved,",
       "artist": "윤원",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/749/15134749_20261106152346_500.jpg",
@@ -25,6 +73,24 @@
       "artist": "조성확(IHWAK)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/537/15134537_20261106140311_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603858964"
+    },
+    {
+      "title": "Altitude",
+      "artist": "전초아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/605/15121605_20261103174659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603818033"
+    },
+    {
+      "title": "Dreamlog",
+      "artist": "미지 (Miji)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/584/15134584_20261106143549_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859216"
+    },
+    {
+      "title": "Discopia",
+      "artist": "Junguk (정욱)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/645/15134645_20261106145541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859588"
     },
     {
       "title": "YOONI",
@@ -235,72 +301,6 @@
       "artist": "스킵잭 (SKIPJACK)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/950/15129950_20261105114854_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603844068"
-    },
-    {
-      "title": "Somehow",
-      "artist": "쓰다 (Xeuda)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/905/15130905_20261105164545_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846493"
-    },
-    {
-      "title": "Question mark",
-      "artist": "한로로",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/573/15125573_20261104141741_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603829906"
-    },
-    {
-      "title": "Calling back",
-      "artist": "Dragon Pony (드래곤포니)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/105/15126105_20261104161728_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603832740"
-    },
-    {
-      "title": "We're not there then",
-      "artist": "최창순",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/949/15129949_20261105114854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603844067"
-    },
-    {
-      "title": "Foolishness Remains",
-      "artist": "브라더스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/319/15121319_20261103171236_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603817038"
-    },
-    {
-      "title": "Original Version",
-      "artist": "현진영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/14/705/15114705_20261102153521_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603799560"
-    },
-    {
-      "title": "Good, good, good. You like it.",
-      "artist": "이보람",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/217/15120217_20261103144911_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603813512"
-    },
-    {
-      "title": "Baranoni",
-      "artist": "유민지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/537/15130537_20261105150438_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845227"
-    },
-    {
-      "title": "Blue Hour Diary (prod. Jung Yoon)",
-      "artist": "승민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/945/15130945_20261105165638_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846668"
-    },
-    {
-      "title": "Good night I love you",
-      "artist": "박기홍",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/934/15130934_20261105164733_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846603"
-    },
-    {
-      "title": "Zoom Out",
-      "artist": "floryy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/957/15129957_20261105114956_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603844097"
     }
   ]
 }
