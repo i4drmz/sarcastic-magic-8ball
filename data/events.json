@@ -1,8 +1,7 @@
 {
-  "generatedAt": "2026-11-08T03:18:39.807Z",
-  "lastUpdated": "2026-11-08T03:18:39.807Z",
+  "generatedAt": "2026-11-08T12:25:53.399Z",
+  "lastUpdated": "2026-11-08T12:25:53.399Z",
   "sourceSummary": [
-    "soompi",
     "soompi-music",
     "allkpop"
   ],
@@ -25,27 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/shinees-minho-reveals-painful-triathlon-eye-injury-on-i-live-alone",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-08T03:18:39.807Z"
-    },
-    {
-      "id": "evt-2ee08a3106f27a27",
-      "type": "Fan Meeting",
-      "title": "Fan Meeting “MEET ME THERE”",
-      "artist": "Jung Hae In",
-      "group": "Jung Hae In",
-      "date": "2026-11-05",
-      "time": null,
-      "venue": "TBA",
-      "city": "Hong Kong",
-      "country": "HK",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/11/05141720/jung-hae-in-1-.jpeg",
-      "shortDescription": "JUNG HAE IN FAN MEETING COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1884315wpp/jung-hae-in-announces-stops-for-2027-fan-meeting-tour-meet-me-there",
-      "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-08T03:18:39.807Z"
+      "lastUpdated": "2026-11-08T12:25:53.399Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -65,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-08T03:18:39.807Z"
+      "lastUpdated": "2026-11-08T12:25:53.399Z"
     }
   ]
 }
