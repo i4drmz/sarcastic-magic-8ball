@@ -1,31 +1,10 @@
 {
-  "generatedAt": "2026-11-08T12:25:53.399Z",
-  "lastUpdated": "2026-11-08T12:25:53.399Z",
+  "generatedAt": "2026-11-09T03:39:01.357Z",
+  "lastUpdated": "2026-11-09T03:39:01.357Z",
   "sourceSummary": [
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-a5a85275060e667f",
-      "type": "Concert",
-      "title": "Concert “I Live Alone”",
-      "artist": "SHINee",
-      "group": "SHINee",
-      "date": "2026-11-07",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "SHINEE CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/shinees-minho-reveals-painful-triathlon-eye-injury-on-i-live-alone",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-08T12:25:53.399Z"
-    },
     {
       "id": "evt-c87e9e9f08513f6c",
       "type": "Concert",
@@ -44,7 +23,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-08T12:25:53.399Z"
+      "lastUpdated": "2026-11-09T03:39:01.357Z"
     }
   ]
 }
