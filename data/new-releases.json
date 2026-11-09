@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-11-09T06:56:04.043Z",
+  "generatedAt": "2026-11-09T22:33:46.588Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Boogie Woogie",
+      "artist": "NCT DREAM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/04/542/15004542_20261106160240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603574639"
+    },
+    {
+      "title": "REBELS",
+      "artist": "이세계아이돌 (ISEGYE IDOL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/216/15120216_20261103144910_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603813508"
+    },
+    {
+      "title": "Night stage",
+      "artist": "이무진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/186/15135186_20261106162156_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603860968"
+    },
+    {
+      "title": "Lovesick",
+      "artist": "채령 (ITZY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/344/15134344_20261106104804_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858068"
+    },
+    {
+      "title": "Dancing in the Dark",
+      "artist": "A2O",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/792/14644792_20261109104252_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603877088"
+    },
+    {
+      "title": "to run",
+      "artist": "CNBLUE (씨엔블루)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/149/15134149_20261106093838_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603857162"
+    },
+    {
+      "title": "NAGARI",
+      "artist": "KEYVITUP",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/000/15125000_20261104102038_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603827043"
+    },
+    {
+      "title": "Sailboat",
+      "artist": "케이시 (Kassy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/770/15134770_20261106152609_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859910"
+    },
+    {
+      "title": "I Was In The",
+      "artist": "슬릭 (SLEEQ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/145/15135145_20261106161839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603860927"
+    },
+    {
+      "title": "Feat. Bryan Chase, sokodomo",
+      "artist": "WE DEM BOYZ",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/762/15130762_20261105155800_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603845938"
+    },
+    {
+      "title": "We have a lot of time left in the fall",
+      "artist": "꿈의음",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/568/15134568_20261106142757_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859133"
+    },
+    {
+      "title": "Young Orchard",
+      "artist": "lyli.(라일리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/191/15135191_20261106162225_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603860973"
+    },
+    {
+      "title": "Twinkle",
+      "artist": "미상",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/935/15129935_20261105114553_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603844024"
+    },
+    {
+      "title": "REDLINE",
+      "artist": "ioona",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/655/15134655_20261106150102_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603859619"
+    },
     {
       "title": "Extra Sweet Version",
       "artist": "베리코이버니 (verycoybunny)",
@@ -217,90 +301,6 @@
       "artist": "서기준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/583/15134583_20261106143548_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603859215"
-    },
-    {
-      "title": "Clear Eyes",
-      "artist": "김새얀",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/588/15131588_20261105182734_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603848538"
-    },
-    {
-      "title": "If we really loved,",
-      "artist": "윤원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/749/15134749_20261106152346_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859888"
-    },
-    {
-      "title": "2026",
-      "artist": "조성확(IHWAK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/537/15134537_20261106140311_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858964"
-    },
-    {
-      "title": "Altitude",
-      "artist": "전초아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/605/15121605_20261103174659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603818033"
-    },
-    {
-      "title": "Dreamlog",
-      "artist": "미지 (Miji)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/584/15134584_20261106143549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859216"
-    },
-    {
-      "title": "Discopia",
-      "artist": "Junguk (정욱)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/645/15134645_20261106145541_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859588"
-    },
-    {
-      "title": "YOONI",
-      "artist": "moonpil",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/055/15131055_20261105171524_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846980"
-    },
-    {
-      "title": "Imagination Ride",
-      "artist": "이파란",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/694/15131694_20261105184753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603849099"
-    },
-    {
-      "title": "By my side",
-      "artist": "김선재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/576/15134576_20261106142936_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859202"
-    },
-    {
-      "title": "Feat. YonYon",
-      "artist": "Q the trumpet",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/828/15129828_20261105110857_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603843497"
-    },
-    {
-      "title": "Loneliness",
-      "artist": "S2AM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/828/15130828_20261105163549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846159"
-    },
-    {
-      "title": "Turn Around (feat. Midam)",
-      "artist": "BLUE WHAILL",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/329/15121329_20261103171339_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603817082"
-    },
-    {
-      "title": "Time Between Fingers",
-      "artist": "숙희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/21/604/15121604_20261103174550_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603818030"
-    },
-    {
-      "title": "Disappearing things don't interest me.",
-      "artist": "지우근",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/582/15134582_20261106143448_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859214"
     }
   ]
 }
