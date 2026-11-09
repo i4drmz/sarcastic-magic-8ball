@@ -1,10 +1,72 @@
 {
-  "generatedAt": "2026-11-09T03:39:01.357Z",
-  "lastUpdated": "2026-11-09T03:39:01.357Z",
+  "generatedAt": "2026-11-09T14:40:36.872Z",
+  "lastUpdated": "2026-11-09T14:40:36.872Z",
   "sourceSummary": [
-    "soompi-music"
+    "soompi-music",
+    "allkpop",
+    "billboard"
   ],
   "events": [
+    {
+      "id": "evt-9544d2eaa955cef2",
+      "type": "Concert",
+      "title": "Anniversary Concert",
+      "artist": "INFINITE",
+      "group": "INFINITE",
+      "date": "2026-11-09",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "INFINITE ANNIVERSARY CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/infinites-nam-woo-hyun-wraps-10th-solo-anniversary-concert-announces-encore-shows-in-march",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-09T14:40:36.872Z"
+    },
+    {
+      "id": "evt-01768273ae88effd",
+      "type": "Festival",
+      "title": "Festival",
+      "artist": "Nature",
+      "group": "Nature",
+      "date": "2026-11-09",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.billboard.com/wp-content/uploads/2026/06/P106DV7B-e1781800056628.jpg?w=1024",
+      "shortDescription": "NATURE FESTIVAL COMING UP",
+      "sourceUrl": "https://www.billboard.com/music/pop/mariah-carey-2027-european-summer-festival-tour-dates-firefly-1236377873/",
+      "ticketUrl": null,
+      "source": "rss:billboard",
+      "lastUpdated": "2026-11-09T14:40:36.872Z"
+    },
+    {
+      "id": "evt-5207d7be80f99e8e",
+      "type": "Fan Meeting",
+      "title": "KO1KEYZ sell out first Seoul fan meeting, reveal winter single 'White Love' for December",
+      "artist": null,
+      "group": null,
+      "date": "2026-11-09",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "KO1KEYZ wrapped up the group's first solo fan meeting in Korea with all four shows sold out, and surprised fans by a winter single for December. On November 7 and 8, KO1KEYZ held '2026 KO1KEYZ 1ST FAN MEETING IN SEOUL' at Blue Square Woo…",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/ko1keyz-sell-out-first-seoul-fan-meeting-reveal-winter-single-white-love-for-december",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-09T14:40:36.872Z"
+    },
     {
       "id": "evt-c87e9e9f08513f6c",
       "type": "Concert",
@@ -23,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-09T03:39:01.357Z"
+      "lastUpdated": "2026-11-09T14:40:36.872Z"
     }
   ]
 }
