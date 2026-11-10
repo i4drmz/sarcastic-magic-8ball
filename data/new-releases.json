@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-09T22:33:46.588Z",
+  "generatedAt": "2026-11-10T07:32:32.155Z",
   "count": 50,
   "songs": [
+    {
+      "title": "How",
+      "artist": "김소희 (KIMSOHEE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/072/15142072_20261109151929_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603880015"
+    },
+    {
+      "title": "Feat. YECHAN",
+      "artist": "숨셔",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/760/15130760_20261105155658_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603845934"
+    },
+    {
+      "title": "Swimming",
+      "artist": "예람",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/619/15142619_20261109155754_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603881125"
+    },
+    {
+      "title": "Song of the Wind",
+      "artist": "박진서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/006/15142006_20261109145439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879777"
+    },
+    {
+      "title": "If the mornings slow down a bit (Webtoon Bunker's Day OST X Say (Weki Meki)",
+      "artist": "세이 (Weki Meki)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/816/15141816_20261109135016_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603878541"
+    },
+    {
+      "title": "I love you crazy",
+      "artist": "에녹",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/698/15142698_20261109161257_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603881541"
+    },
     {
       "title": "Boogie Woogie",
       "artist": "NCT DREAM",
@@ -15,6 +51,24 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603813508"
     },
     {
+      "title": "Our Story",
+      "artist": "NY물고기",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/916/15141916_20261109142140_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603878986"
+    },
+    {
+      "title": "feat. maji",
+      "artist": "STAYP (스테이피)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/407/15134407_20261106112252_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858374"
+    },
+    {
+      "title": "Water Drop",
+      "artist": "추가열",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/244/15135244_20261106165720_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603861135"
+    },
+    {
       "title": "Night stage",
       "artist": "이무진",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/186/15135186_20261106162156_500.jpg",
@@ -25,6 +79,54 @@
       "artist": "채령 (ITZY)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/344/15134344_20261106104804_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603858068"
+    },
+    {
+      "title": "BBU",
+      "artist": "migoo",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/988/15141988_20261109144318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879524"
+    },
+    {
+      "title": "feat. Odd95",
+      "artist": "5sckar",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/267/15141267_20261109111616_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603877222"
+    },
+    {
+      "title": "YELLOW HEART",
+      "artist": "늑준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/768/15102768_20261029181249_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603767982"
+    },
+    {
+      "title": "On My Mind",
+      "artist": "금동현 (KEUM)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/400/15134400_20261106112148_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858355"
+    },
+    {
+      "title": "MUSICBOXER",
+      "artist": "WOO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/920/15141920_20261109142340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879000"
+    },
+    {
+      "title": "Old Darata",
+      "artist": "OTHANKQ (오땡큐)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/930/15141930_20261109142558_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879026"
+    },
+    {
+      "title": "mess it over",
+      "artist": "The Hills (더 힐스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/955/15141955_20261109143132_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879172"
+    },
+    {
+      "title": "With the mindset that you can forget",
+      "artist": "지훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/923/15141923_20261109142442_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879012"
     },
     {
       "title": "Dancing in the Dark",
@@ -40,7 +142,7 @@
     },
     {
       "title": "NAGARI",
-      "artist": "KEYVITUP",
+      "artist": "KEYVITUP(키빗업)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/000/15125000_20261104102038_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603827043"
     },
@@ -199,108 +301,6 @@
       "artist": "하비(최성용)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/118/15135118_20261106161701_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603860897"
-    },
-    {
-      "title": "Our own anniversary",
-      "artist": "클린코튼",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/676/15131676_20261105184032_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603849059"
-    },
-    {
-      "title": "Till the end",
-      "artist": "일레인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/646/15134646_20261106145549_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859593"
-    },
-    {
-      "title": "Mama Song",
-      "artist": "WON",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/643/15134643_20261106145439_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859583"
-    },
-    {
-      "title": "Any picture",
-      "artist": "천범석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/511/15134511_20261106123312_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858818"
-    },
-    {
-      "title": "Winter rain",
-      "artist": "제이세라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/761/15130761_20261109105657_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845936"
-    },
-    {
-      "title": "La",
-      "artist": "유주 (YUJU)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/797/15130797_20261105161754_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846043"
-    },
-    {
-      "title": "One Day",
-      "artist": "NEDA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/340/15134340_20261106104700_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858064"
-    },
-    {
-      "title": "feat.CIKI",
-      "artist": "리플리 (RIPLEY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/056/15131056_20261105171524_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846983"
-    },
-    {
-      "title": "I just want to do well, like minded",
-      "artist": "Jimmy Brown",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/951/15130951_20261105170010_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846681"
-    },
-    {
-      "title": "Unreached confession",
-      "artist": "최인경",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/589/15134589_20261106143722_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859252"
-    },
-    {
-      "title": "TRUE",
-      "artist": "aiai",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/752/15131752_20261105190940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603849192"
-    },
-    {
-      "title": "Parallel",
-      "artist": "veanii",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/760/15134760_20261106152458_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859900"
-    },
-    {
-      "title": "Dream Scenes",
-      "artist": "디어클라우드",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/696/15134696_20261106150751_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859732"
-    },
-    {
-      "title": "No Brand",
-      "artist": "foy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/763/15130763_20261105155838_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845939"
-    },
-    {
-      "title": "The Future",
-      "artist": "듀스 (DEUX)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/337/15134337_20261106104530_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858047"
-    },
-    {
-      "title": "Signal",
-      "artist": "우예린",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/581/15134581_20261106143339_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859212"
-    },
-    {
-      "title": "Feel my bass",
-      "artist": "서기준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/583/15134583_20261106143548_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859215"
     }
   ]
 }
