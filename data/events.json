@@ -1,70 +1,30 @@
 {
-  "generatedAt": "2026-11-10T00:58:27.656Z",
-  "lastUpdated": "2026-11-10T00:58:27.656Z",
+  "generatedAt": "2026-11-10T13:56:49.685Z",
+  "lastUpdated": "2026-11-10T13:56:49.685Z",
   "sourceSummary": [
     "soompi-music",
     "allkpop"
   ],
   "events": [
     {
-      "id": "evt-9544d2eaa955cef2",
+      "id": "evt-c7ca7fa86b08c047",
       "type": "Concert",
-      "title": "Anniversary Concert",
-      "artist": "INFINITE",
-      "group": "INFINITE",
-      "date": "2026-11-09",
+      "title": "World Tour “THE FUTURE IS NOW,”",
+      "artist": "NouerA",
+      "group": "NouerA",
+      "date": "2026-11-10",
       "time": null,
       "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
+      "city": "Macau",
+      "country": "MO",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "INFINITE ANNIVERSARY CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/infinites-nam-woo-hyun-wraps-10th-solo-anniversary-concert-announces-encore-shows-in-march",
+      "shortDescription": "NOUERA WORLD TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/nouera-announce-2027-world-tour-the-future-is-now-kicking-off-in-macau-this-december",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-10T00:58:27.656Z"
-    },
-    {
-      "id": "evt-5207d7be80f99e8e",
-      "type": "Fan Meeting",
-      "title": "KO1KEYZ sell out first Seoul fan meeting, reveal winter single 'White Love' for December",
-      "artist": null,
-      "group": null,
-      "date": "2026-11-09",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "KO1KEYZ wrapped up the group's first solo fan meeting in Korea with all four shows sold out, and surprised fans by a winter single for December. On November 7 and 8, KO1KEYZ held '2026 KO1KEYZ 1ST FAN MEETING IN SEOUL' at Blue Square Woo…",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/ko1keyz-sell-out-first-seoul-fan-meeting-reveal-winter-single-white-love-for-december",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-10T00:58:27.656Z"
-    },
-    {
-      "id": "evt-94c84ed53f95ed3f",
-      "type": "Concert",
-      "title": "World Tour “RUN IT”",
-      "artist": "Stray Kids",
-      "group": "Stray Kids",
-      "date": "2026-11-09",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "STRAY KIDS WORLD TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/stray-kids-announce-2027-run-it-world-tour-with-nearly-30-stadium-shows-across-12-countries",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-10T00:58:27.656Z"
+      "lastUpdated": "2026-11-10T13:56:49.685Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -84,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-10T00:58:27.656Z"
+      "lastUpdated": "2026-11-10T13:56:49.685Z"
     }
   ]
 }
