@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-11-10T13:56:49.685Z",
-  "lastUpdated": "2026-11-10T13:56:49.685Z",
+  "generatedAt": "2026-11-10T22:39:03.994Z",
+  "lastUpdated": "2026-11-10T22:39:03.994Z",
   "sourceSummary": [
+    "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-355eb3e7f184456c",
+      "type": "Concert",
+      "title": "World Tour “NOCHE”",
+      "artist": "Wonho",
+      "group": "Wonho",
+      "date": "2026-11-10",
+      "time": null,
+      "venue": "TBA",
+      "city": "Los Angeles",
+      "country": "US",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/11034455/Wonho.jpeg",
+      "shortDescription": "WONHO WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-11-10T22:39:03.994Z"
+    },
     {
       "id": "evt-c7ca7fa86b08c047",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/nouera-announce-2027-world-tour-the-future-is-now-kicking-off-in-macau-this-december",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-10T13:56:49.685Z"
+      "lastUpdated": "2026-11-10T22:39:03.994Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-10T13:56:49.685Z"
+      "lastUpdated": "2026-11-10T22:39:03.994Z"
     }
   ]
 }
