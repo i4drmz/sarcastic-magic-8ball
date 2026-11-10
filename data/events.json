@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-09T14:40:36.872Z",
-  "lastUpdated": "2026-11-09T14:40:36.872Z",
+  "generatedAt": "2026-11-10T00:58:27.656Z",
+  "lastUpdated": "2026-11-10T00:58:27.656Z",
   "sourceSummary": [
     "soompi-music",
-    "allkpop",
-    "billboard"
+    "allkpop"
   ],
   "events": [
     {
@@ -25,27 +24,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/infinites-nam-woo-hyun-wraps-10th-solo-anniversary-concert-announces-encore-shows-in-march",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-09T14:40:36.872Z"
-    },
-    {
-      "id": "evt-01768273ae88effd",
-      "type": "Festival",
-      "title": "Festival",
-      "artist": "Nature",
-      "group": "Nature",
-      "date": "2026-11-09",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://www.billboard.com/wp-content/uploads/2026/06/P106DV7B-e1781800056628.jpg?w=1024",
-      "shortDescription": "NATURE FESTIVAL COMING UP",
-      "sourceUrl": "https://www.billboard.com/music/pop/mariah-carey-2027-european-summer-festival-tour-dates-firefly-1236377873/",
-      "ticketUrl": null,
-      "source": "rss:billboard",
-      "lastUpdated": "2026-11-09T14:40:36.872Z"
+      "lastUpdated": "2026-11-10T00:58:27.656Z"
     },
     {
       "id": "evt-5207d7be80f99e8e",
@@ -65,7 +44,27 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/ko1keyz-sell-out-first-seoul-fan-meeting-reveal-winter-single-white-love-for-december",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-09T14:40:36.872Z"
+      "lastUpdated": "2026-11-10T00:58:27.656Z"
+    },
+    {
+      "id": "evt-94c84ed53f95ed3f",
+      "type": "Concert",
+      "title": "World Tour “RUN IT”",
+      "artist": "Stray Kids",
+      "group": "Stray Kids",
+      "date": "2026-11-09",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "STRAY KIDS WORLD TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/stray-kids-announce-2027-run-it-world-tour-with-nearly-30-stadium-shows-across-12-countries",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-10T00:58:27.656Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -85,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-09T14:40:36.872Z"
+      "lastUpdated": "2026-11-10T00:58:27.656Z"
     }
   ]
 }
