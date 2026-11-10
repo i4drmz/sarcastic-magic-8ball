@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-11-10T07:32:32.155Z",
+  "generatedAt": "2026-11-10T19:53:21.742Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Bananas",
+      "artist": "LNGSHOT",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/07/233/15007233_20261020135543_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603744728"
+    },
+    {
+      "title": "Run (with dynamic duo)",
+      "artist": "EMP (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/937/15141937_20261109142729_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879057"
+    },
+    {
+      "title": "feat. Leellamarz",
+      "artist": "저스디스 (JUSTHIS)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/238/15141238_20261109103825_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603877170"
+    },
+    {
+      "title": "Home",
+      "artist": "빈첸",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/958/15141958_20261109143142_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879183"
+    },
+    {
+      "title": "Still Valid",
+      "artist": "모모랜드 (MOMOLAND)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/759/15130759_20261105155658_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603845933"
+    },
+    {
+      "title": "Where's the free stuff",
+      "artist": "윤수현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/014/15142014_20261109150451_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879789"
+    },
+    {
+      "title": "Midnight Drift Remix",
+      "artist": "KickFlip(킥플립)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/243/15141243_20261109105139_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603877184"
+    },
+    {
+      "title": "JM Interlude",
+      "artist": "스윙스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/016/15142016_20261109150700_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879793"
+    },
+    {
+      "title": "Elf of Shampoo",
+      "artist": "jeebanoff",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/588/15142588_20261109155117_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603880987"
+    },
+    {
+      "title": "Summer Saturday",
+      "artist": "정새벽",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/959/15141959_20261109143145_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879193"
+    },
+    {
+      "title": "From \"The Remarried Empress\"/Soundtrack Version",
+      "artist": "김태성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/136/15141136_20261109100135_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603876810"
+    },
+    {
+      "title": "RUSH!!",
+      "artist": "Heon Seo (헌서)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/433/15134433_20261106114030_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858502"
+    },
+    {
+      "title": "R2 x AtHeart",
+      "artist": "AtHeart (앳하트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/628/15142628_20261109160010_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603881184"
+    },
+    {
+      "title": "MIS2 U",
+      "artist": "한겸 (OMEGA X)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/962/15141962_20261109143252_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879223"
+    },
+    {
+      "title": "Even if there's no parting light for you, I'll walk",
+      "artist": "장 (JANG)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/932/15141932_20261109142644_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603879042"
+    },
+    {
+      "title": "If love is all over,",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/403/15134403_20261106112202_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858363"
+    },
+    {
+      "title": "MOONWALK",
+      "artist": "Panda Gomm",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/411/15134411_20261106112408_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858397"
+    },
+    {
+      "title": "Shadow",
+      "artist": "민지운 (Min Jiwoon)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/915/15141915_20261109142137_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603878984"
+    },
     {
       "title": "How",
       "artist": "김소희 (KIMSOHEE)",
@@ -193,114 +301,6 @@
       "artist": "베리코이버니 (verycoybunny)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/012/15131012_20261106135035_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603846837"
-    },
-    {
-      "title": "You are my first love",
-      "artist": "박연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/137/15135137_20261106161810_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603860918"
-    },
-    {
-      "title": "Once, twice, thrice, every time",
-      "artist": "적색밴드",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/764/15130764_20261105160450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845940"
-    },
-    {
-      "title": "Did you have dinner?",
-      "artist": "mono sapa (모노사파)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/753/15131753_20261105190941_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603849198"
-    },
-    {
-      "title": "Smee-myeon, red in the evening",
-      "artist": "박구윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/353/15134353_20261109123758_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858087"
-    },
-    {
-      "title": "Bad For Me",
-      "artist": "FIILD",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/134/15135134_20261106161806_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603860915"
-    },
-    {
-      "title": "Even love..",
-      "artist": "웬디 (WENDY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/644/15134644_20261106145440_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859585"
-    },
-    {
-      "title": "The Way to Me",
-      "artist": "경서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/592/15134592_20261106143823_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859275"
-    },
-    {
-      "title": "Like the day you loved",
-      "artist": "주현민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/965/15134965_20261106154447_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603860312"
-    },
-    {
-      "title": "romantic charge",
-      "artist": "OVN (오븐)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/538/15134538_20261106140600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858967"
-    },
-    {
-      "title": "28600",
-      "artist": "잔물결",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/599/15131599_20261105182936_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603848606"
-    },
-    {
-      "title": "badak",
-      "artist": "Raph!",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/374/15134374_20261106110923_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858176"
-    },
-    {
-      "title": "Happy Relationships",
-      "artist": "진진경 (真真敬)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/103/15135103_20261106161543_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603860881"
-    },
-    {
-      "title": "feat. Seungmin",
-      "artist": "Jxxn (진)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/702/15134702_20261106150839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859741"
-    },
-    {
-      "title": "What if?",
-      "artist": "off the menu (오프더메뉴)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/053/15131053_20261105171522_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846971"
-    },
-    {
-      "title": "2026",
-      "artist": "진민호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/536/15134536_20261106140259_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858962"
-    },
-    {
-      "title": "Where the wind is going",
-      "artist": "브롬토닉",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/081/15131081_20261105171947_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603847073"
-    },
-    {
-      "title": "Don't leave",
-      "artist": "모닝커피 (Morning Coffee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/490/15131490_20261105175920_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603848205"
-    },
-    {
-      "title": "Can We Love Again?",
-      "artist": "하비(최성용)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/118/15135118_20261106161701_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603860897"
     }
   ]
 }
