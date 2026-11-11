@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-11-11T03:43:34.942Z",
-  "lastUpdated": "2026-11-11T03:43:34.942Z",
+  "generatedAt": "2026-11-11T23:50:39.158Z",
+  "lastUpdated": "2026-11-11T23:50:39.158Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-313b7369f777c447",
+      "type": "Concert",
+      "title": "World Tour “NOCHE”",
+      "artist": "Wonho",
+      "group": "Wonho",
+      "date": "2026-11-11",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "WONHO WORLD TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/wonho-announces-10-us-cities-for-2027-world-tour-noche",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-11T23:50:39.158Z"
+    },
     {
       "id": "evt-355eb3e7f184456c",
       "type": "Concert",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-11T03:43:34.942Z"
+      "lastUpdated": "2026-11-11T23:50:39.158Z"
     },
     {
       "id": "evt-c87e9e9f08513f6c",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-11T03:43:34.942Z"
+      "lastUpdated": "2026-11-11T23:50:39.158Z"
     }
   ]
 }
