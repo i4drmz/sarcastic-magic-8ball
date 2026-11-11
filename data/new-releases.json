@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-10T19:53:21.742Z",
+  "generatedAt": "2026-11-11T06:50:19.762Z",
   "count": 50,
   "songs": [
+    {
+      "title": "feat. SUMIN",
+      "artist": "IDIOTAPE (이디오테잎)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/458/15142458_20261109163610_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603880763"
+    },
+    {
+      "title": "Seaside love",
+      "artist": "Ziddle",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/204/15141204_20261109101420_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603877073"
+    },
+    {
+      "title": "Hi Hyodor",
+      "artist": "이지형",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/448/15142448_20261109153946_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603880718"
+    },
+    {
+      "title": "serenade",
+      "artist": "90idle (구공아이들)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/241/15141241_20261109105048_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603877173"
+    },
+    {
+      "title": "On the shores of Lake Tune",
+      "artist": "조형우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/364/15143364_20261109175859_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603883570"
+    },
+    {
+      "title": "I need a vacation",
+      "artist": "체리베리 (CherryBerry)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/452/15142452_20261109153951_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603880736"
+    },
     {
       "title": "Bananas",
       "artist": "LNGSHOT",
@@ -13,6 +49,90 @@
       "artist": "EMP (ZEROBASEONE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/937/15141937_20261109142729_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603879057"
+    },
+    {
+      "title": "Feat. Oh Yun",
+      "artist": "뎁트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/44/049/15144049_20261109234047_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603885750"
+    },
+    {
+      "title": "Sorry",
+      "artist": "puffitboi(퍼핏보이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/436/15142436_20261109153850_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603880685"
+    },
+    {
+      "title": "Break/1",
+      "artist": "1ANDON (원엔온)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/677/15142677_20261109160858_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603881451"
+    },
+    {
+      "title": "It's like a tee.",
+      "artist": "이윤희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/792/15142792_20261109164328_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603882045"
+    },
+    {
+      "title": "From \"The Remarried Empress\"/Soundtrack Version",
+      "artist": "김태성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/136/15141136_20261109100135_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603876810"
+    },
+    {
+      "title": "Siren",
+      "artist": "나빌레라 (NAVILLERA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/042/15143042_20261109173327_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603882851"
+    },
+    {
+      "title": "Aurora at Night",
+      "artist": "설레인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/528/15131528_20261105181749_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603848366"
+    },
+    {
+      "title": "Sunset Incheon (with Raehyun)",
+      "artist": "멜로틱",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/545/15143545_20261109185659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603884309"
+    },
+    {
+      "title": "HANNA",
+      "artist": "PCR",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/749/15142749_20261109162441_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603881806"
+    },
+    {
+      "title": "You're hiding",
+      "artist": "Su2 (수희)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/401/15134401_20261106112149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603858357"
+    },
+    {
+      "title": "navigation",
+      "artist": "데이네버체인지(TheyNeverChange)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/921/15142921_20261109172616_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603882479"
+    },
+    {
+      "title": "It's an old friend",
+      "artist": "상수역 1번 출구",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/432/15143432_20261109180318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603883701"
+    },
+    {
+      "title": "Pink Frankenstein",
+      "artist": "인디아레드",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/831/15142831_20261109171325_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603882229"
+    },
+    {
+      "title": "TAKE IT OR LEAVE IT",
+      "artist": "케일라(Kayla)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/748/15142748_20261109162350_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603881801"
     },
     {
       "title": "feat. Leellamarz",
@@ -61,12 +181,6 @@
       "artist": "정새벽",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/959/15141959_20261109143145_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603879193"
-    },
-    {
-      "title": "From \"The Remarried Empress\"/Soundtrack Version",
-      "artist": "김태성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/136/15141136_20261109100135_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603876810"
     },
     {
       "title": "RUSH!!",
@@ -187,120 +301,6 @@
       "artist": "채령 (ITZY)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/344/15134344_20261106104804_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603858068"
-    },
-    {
-      "title": "BBU",
-      "artist": "migoo",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/988/15141988_20261109144318_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603879524"
-    },
-    {
-      "title": "feat. Odd95",
-      "artist": "5sckar",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/267/15141267_20261109111616_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603877222"
-    },
-    {
-      "title": "YELLOW HEART",
-      "artist": "늑준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/02/768/15102768_20261029181249_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603767982"
-    },
-    {
-      "title": "On My Mind",
-      "artist": "금동현 (KEUM)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/400/15134400_20261106112148_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603858355"
-    },
-    {
-      "title": "MUSICBOXER",
-      "artist": "WOO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/920/15141920_20261109142340_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603879000"
-    },
-    {
-      "title": "Old Darata",
-      "artist": "OTHANKQ (오땡큐)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/930/15141930_20261109142558_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603879026"
-    },
-    {
-      "title": "mess it over",
-      "artist": "The Hills (더 힐스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/955/15141955_20261109143132_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603879172"
-    },
-    {
-      "title": "With the mindset that you can forget",
-      "artist": "지훈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/923/15141923_20261109142442_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603879012"
-    },
-    {
-      "title": "Dancing in the Dark",
-      "artist": "A2O",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/792/14644792_20261109104252_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603877088"
-    },
-    {
-      "title": "to run",
-      "artist": "CNBLUE (씨엔블루)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/149/15134149_20261106093838_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603857162"
-    },
-    {
-      "title": "NAGARI",
-      "artist": "KEYVITUP(키빗업)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/000/15125000_20261104102038_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603827043"
-    },
-    {
-      "title": "Sailboat",
-      "artist": "케이시 (Kassy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/770/15134770_20261106152609_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859910"
-    },
-    {
-      "title": "I Was In The",
-      "artist": "슬릭 (SLEEQ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/145/15135145_20261106161839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603860927"
-    },
-    {
-      "title": "Feat. Bryan Chase, sokodomo",
-      "artist": "WE DEM BOYZ",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/762/15130762_20261105155800_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845938"
-    },
-    {
-      "title": "We have a lot of time left in the fall",
-      "artist": "꿈의음",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/568/15134568_20261106142757_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859133"
-    },
-    {
-      "title": "Young Orchard",
-      "artist": "lyli.(라일리)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/191/15135191_20261106162225_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603860973"
-    },
-    {
-      "title": "Twinkle",
-      "artist": "미상",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/29/935/15129935_20261105114553_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603844024"
-    },
-    {
-      "title": "REDLINE",
-      "artist": "ioona",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/655/15134655_20261106150102_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603859619"
-    },
-    {
-      "title": "Extra Sweet Version",
-      "artist": "베리코이버니 (verycoybunny)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/012/15131012_20261106135035_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603846837"
     }
   ]
 }
