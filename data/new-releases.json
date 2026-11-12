@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-11-12T07:27:39.015Z",
+  "generatedAt": "2026-11-12T20:10:50.457Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Platinum",
+      "artist": "김하온 (HAON)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/190/15151190_20261111143640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603907933"
+    },
+    {
+      "title": "Again!",
+      "artist": "LUCY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/596/15150596_20261111105539_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603905196"
+    },
+    {
+      "title": "To My 20s (Harmonica. Harim)",
+      "artist": "솔라 (마마무)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/818/15151818_20261111170329_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603910977"
+    },
+    {
+      "title": "Songbird",
+      "artist": "오존 (O3ohn)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/789/15151789_20261111164653_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603910811"
+    },
+    {
+      "title": "Interview Date",
+      "artist": "순순희(기태)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/819/15151819_20261111170450_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603910978"
+    },
+    {
+      "title": "I Love You (feat. Heize)",
+      "artist": "dress",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/156/15151156_20261111142246_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603907788"
+    },
+    {
+      "title": "Now",
+      "artist": "기현 (몬스타엑스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/191/15151191_20261111143648_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603907944"
+    },
+    {
+      "title": "Feat. jeebanoff",
+      "artist": "이지카이트 (Izykite)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/460/15151460_20261111153651_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603908849"
+    },
+    {
+      "title": "Highball Remix",
+      "artist": "로시 (Rothy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/947/15151947_20261111174938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603911787"
+    },
+    {
+      "title": "Please.",
+      "artist": "서문탁",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/781/15150781_20261111120945_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603905970"
+    },
+    {
+      "title": "Smileys",
+      "artist": "장들레",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/166/15126166_20261104164948_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603833465"
+    },
+    {
+      "title": "Come on a tiring day.",
+      "artist": "전우성 (노을)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/166/15151166_20261111142838_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603907829"
+    },
+    {
+      "title": "Sky Blue",
+      "artist": "아넌딜라이트(Anandelight)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/333/15151333_20261111151021_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603908459"
+    },
+    {
+      "title": "feat. Bebelune",
+      "artist": "whvts (와츠)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/549/15150549_20261111104613_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603905036"
+    },
+    {
+      "title": "So Beautiful",
+      "artist": "온새 (ONSAE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/152/15151152_20261111142149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603907778"
+    },
     {
       "title": "Eco-Friendly Part 3",
       "artist": "KIRARA (키라라)",
@@ -33,7 +123,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603907478"
     },
     {
-      "title": "Sharing an umbrella",
+      "title": "Two people under one umbrella",
       "artist": "셀린 (Celine)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/760/15150760_20261111120408_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603905737"
@@ -129,7 +219,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603880891"
     },
     {
-      "title": "On summer nights, we",
+      "title": "On a summer night, we",
       "artist": "김희재",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/791/15142791_20261109164228_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603882043"
@@ -211,96 +301,6 @@
       "artist": "Ziddle",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/204/15141204_20261109101420_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603877073"
-    },
-    {
-      "title": "Hi, Fyodor.",
-      "artist": "이지형",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/448/15142448_20261109153946_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880718"
-    },
-    {
-      "title": "serenade",
-      "artist": "90idle (구공아이들)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/241/15141241_20261109105048_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603877173"
-    },
-    {
-      "title": "By Lake Thun",
-      "artist": "조형우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/364/15143364_20261109175859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603883570"
-    },
-    {
-      "title": "I need a vacation.",
-      "artist": "체리베리 (CherryBerry)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/452/15142452_20261109153951_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880736"
-    },
-    {
-      "title": "Bananas",
-      "artist": "LNGSHOT",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/07/233/15007233_20261020135543_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603744728"
-    },
-    {
-      "title": "RUN (with Dynamic Duo)",
-      "artist": "EMP (ZEROBASEONE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/937/15141937_20261109142729_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603879057"
-    },
-    {
-      "title": "Feat. Oh Yun",
-      "artist": "뎁트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/44/049/15144049_20261109234047_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603885750"
-    },
-    {
-      "title": "Sorry",
-      "artist": "puffitboi(퍼핏보이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/436/15142436_20261109153850_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880685"
-    },
-    {
-      "title": "Break/1",
-      "artist": "1ANDON (원엔온)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/677/15142677_20261109160858_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603881451"
-    },
-    {
-      "title": "I guess it's obvious.",
-      "artist": "이윤희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/792/15142792_20261109164328_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603882045"
-    },
-    {
-      "title": "From \"The Remarried Empress\"/Soundtrack Version",
-      "artist": "김태성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/136/15141136_20261109100135_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603876810"
-    },
-    {
-      "title": "Siren",
-      "artist": "나빌레라 (NAVILLERA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/042/15143042_20261109173327_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603882851"
-    },
-    {
-      "title": "Aurora Night",
-      "artist": "설레인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/31/528/15131528_20261105181749_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603848366"
-    },
-    {
-      "title": "Incheon at Sunset (With Rae-hyun)",
-      "artist": "멜로틱",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/545/15143545_20261109185659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603884309"
-    },
-    {
-      "title": "HANNA",
-      "artist": "PCR",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/749/15142749_20261109162441_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603881806"
     }
   ]
 }
