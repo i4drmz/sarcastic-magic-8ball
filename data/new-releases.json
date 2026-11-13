@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-11-12T20:10:50.457Z",
+  "generatedAt": "2026-11-13T06:59:05.055Z",
   "count": 50,
   "songs": [
+    {
+      "title": "UP",
+      "artist": "ATEEZ(에이티즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/469/15135469_20261106183141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603862285"
+    },
+    {
+      "title": "I Want You To Know",
+      "artist": "tripleS (트리플에스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/775/15155775_20261112150336_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923689"
+    },
+    {
+      "title": "Pretending not to know",
+      "artist": "이소나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/790/15155790_20261112150659_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923775"
+    },
+    {
+      "title": "Mother",
+      "artist": "중식이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/664/15151664_20261111161210_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603910179"
+    },
+    {
+      "title": "English Ver.",
+      "artist": "채령 (ITZY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/567/15155567_20261112120938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922804"
+    },
+    {
+      "title": "salvation",
+      "artist": "모트 (Motte)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/063/15155063_20261112095637_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921365"
+    },
+    {
+      "title": "NEW MARK",
+      "artist": "SWAN (수안)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/591/15155591_20261112121346_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922838"
+    },
     {
       "title": "Platinum",
       "artist": "김하온 (HAON)",
@@ -13,6 +55,72 @@
       "artist": "LUCY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/596/15150596_20261111105539_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603905196"
+    },
+    {
+      "title": "Wind",
+      "artist": "테종",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/077/15155077_20261112095751_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921406"
+    },
+    {
+      "title": "Farewell to the Stars",
+      "artist": "꿈의 악마",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/785/15155785_20261112150536_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923769"
+    },
+    {
+      "title": "Movie theater",
+      "artist": "규린 (Kyurin)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/197/15151197_20261111143944_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603907965"
+    },
+    {
+      "title": "Recall (memory)",
+      "artist": "김태래 (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/019/15155019_20261112095153_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921274"
+    },
+    {
+      "title": "Fly again",
+      "artist": "성영규",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/529/15155529_20261112120028_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922736"
+    },
+    {
+      "title": "Beauty Inside You",
+      "artist": "Cache Alleyway (캐시앨리웨이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/052/15155052_20261112095532_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921340"
+    },
+    {
+      "title": "Death and Sunshine",
+      "artist": "옛그리움 (Old Yearning)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/813/15155813_20261112151349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923838"
+    },
+    {
+      "title": "Never Leave",
+      "artist": "DJ 검은별",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/809/15151809_20261111165443_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603910863"
+    },
+    {
+      "title": "My tired heart, please endure a little longer.",
+      "artist": "김민울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/793/15155793_20261112151131_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923782"
+    },
+    {
+      "title": "SANSANSAN",
+      "artist": "Keepro",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/754/15155754_20261112145556_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923641"
+    },
+    {
+      "title": "Are you happy now?",
+      "artist": "겐키",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/664/15150664_20261111111735_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603905351"
     },
     {
       "title": "To My 20s (Harmonica. Harim)",
@@ -177,7 +285,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603905468"
     },
     {
-      "title": "Your thoughts",
+      "title": "Your opinion",
       "artist": "Kid Wine",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/151/15141151_20261109100619_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603876893"
@@ -193,114 +301,6 @@
       "artist": "신얼",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/066/15151066_20261111140028_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603907386"
-    },
-    {
-      "title": "My sister is an atomic bomb 2026",
-      "artist": "김준선 (AK)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/872/15150872_20261111123039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603906479"
-    },
-    {
-      "title": "I'll let you go.",
-      "artist": "육민재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/153/15151153_20261111142150_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907780"
-    },
-    {
-      "title": "If we",
-      "artist": "Wooks",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/124/15151124_20261111140827_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907700"
-    },
-    {
-      "title": "It's getting darker.",
-      "artist": "김재환",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/523/15142523_20261109154338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880891"
-    },
-    {
-      "title": "On a summer night, we",
-      "artist": "김희재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/791/15142791_20261109164228_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603882043"
-    },
-    {
-      "title": "Balloon Man",
-      "artist": "oftheblue",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/493/15150493_20261111103252_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603904773"
-    },
-    {
-      "title": "Fly Away, Emily",
-      "artist": "김광진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/524/15142524_20261109154338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880893"
-    },
-    {
-      "title": "100",
-      "artist": "AIMERS",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/954/15142954_20261109172943_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603882598"
-    },
-    {
-      "title": "Prod.Zzindda",
-      "artist": "정상수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/225/15143225_20261109174533_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603883225"
-    },
-    {
-      "title": "SlowCity",
-      "artist": "SlowCity",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/410/15143410_20261109180212_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603883669"
-    },
-    {
-      "title": "Blanket Kick",
-      "artist": "Big Phony",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/536/15142536_20261109154431_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880907"
-    },
-    {
-      "title": "Savior (The Time That Saved You)",
-      "artist": "비욘드 보이스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/825/15150825_20261111121420_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603906100"
-    },
-    {
-      "title": "Teddy Bear (Feat. GoRocket)",
-      "artist": "혜다",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/259/15150259_20261111095242_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603904033"
-    },
-    {
-      "title": "Feat.E.SHA of X:IN",
-      "artist": "아리(Ari)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/30/550/15130550_20261105151002_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603845265"
-    },
-    {
-      "title": "Can we still be friends even after breaking up?",
-      "artist": "마이영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/44/056/15144056_20261109234345_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603885800"
-    },
-    {
-      "title": "Feat. Koonta",
-      "artist": "황지상 (HWANG JI SANG)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/44/055/15144055_20261109234252_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603885794"
-    },
-    {
-      "title": "feat. SUMIN",
-      "artist": "IDIOTAPE (이디오테잎)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/458/15142458_20261109163610_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880763"
-    },
-    {
-      "title": "Seaside love",
-      "artist": "Ziddle",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/204/15141204_20261109101420_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603877073"
     }
   ]
 }
