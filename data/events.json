@@ -1,11 +1,72 @@
 {
-  "generatedAt": "2026-11-12T22:57:46.891Z",
-  "lastUpdated": "2026-11-12T22:57:46.891Z",
+  "generatedAt": "2026-11-13T13:37:48.029Z",
+  "lastUpdated": "2026-11-13T13:37:48.029Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-a372962d98357de4",
+      "type": "Concert",
+      "title": "Concert",
+      "artist": "The Boyz",
+      "group": "The Boyz",
+      "date": "2026-11-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "THE BOYZ CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/the-boyz-to-hold-four-day-kspo-dome-concert-in-december-as-nine-members",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-13T13:37:48.029Z"
+    },
+    {
+      "id": "evt-616e4bd921243cfa",
+      "type": "Concert",
+      "title": "Fan Concert “SILENT CITY”",
+      "artist": "EXO",
+      "group": "EXO",
+      "date": "2026-11-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/13144958/exo-kase_000f66.jpg",
+      "shortDescription": "EXO FAN CONCERT COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-11-13T13:37:48.029Z"
+    },
+    {
+      "id": "evt-79fe3f5d6e86ea17",
+      "type": "Festival",
+      "title": "Festival",
+      "artist": "MAMAMOO",
+      "group": "MAMAMOO",
+      "date": "2026-11-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/13200137/2016-kbs-song-festival.jpg",
+      "shortDescription": "MAMAMOO FESTIVAL COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-11-13T13:37:48.029Z"
+    },
     {
       "id": "evt-355eb3e7f184456c",
       "type": "Concert",
@@ -23,28 +84,8 @@
       "shortDescription": "WONHO WORLD TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-12T22:57:46.891Z"
-    },
-    {
-      "id": "evt-c87e9e9f08513f6c",
-      "type": "Concert",
-      "title": "Asia Tour “CONTINUE”",
-      "artist": "Kyuhyun",
-      "group": "Kyuhyun",
-      "date": "2026-10-30",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/10/30154159/kyuhyun-oct-26.jpg",
-      "shortDescription": "KYUHYUN ASIA TOUR COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1882930wpp/kyuhyun-announces-dates-and-cities-for-new-asia-tour-continue",
-      "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-12T22:57:46.891Z"
+      "lastUpdated": "2026-11-13T13:37:48.029Z"
     }
   ]
 }
