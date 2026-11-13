@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T06:59:05.055Z",
+  "generatedAt": "2026-11-13T19:54:28.701Z",
   "count": 50,
   "songs": [
     {
@@ -9,10 +9,88 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603862285"
     },
     {
+      "title": "Instead of Saying Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
+      "artist": "Cosmic Boy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/141/15151141_20261111141248_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603907729"
+    },
+    {
+      "title": "MIXWELL",
+      "artist": "스윙스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/779/15155779_20261112150447_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923721"
+    },
+    {
       "title": "I Want You To Know",
       "artist": "tripleS (트리플에스)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/775/15155775_20261112150336_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603923689"
+    },
+    {
+      "title": "Unbelievable",
+      "artist": "H1-KEY (하이키)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/338/15151338_20261111151251_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603908469"
+    },
+    {
+      "title": "Forever Mojave (Feat. D.Ark)",
+      "artist": "용용 (YongYong)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/139/15155139_20261112100241_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921507"
+    },
+    {
+      "title": "zacuzzi",
+      "artist": "Royal 44",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/137/15156137_20261112161138_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603925200"
+    },
+    {
+      "title": "moneymoney",
+      "artist": "키드킹 (Kidd King)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/598/15155598_20261112122058_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922862"
+    },
+    {
+      "title": "Talk to Talk",
+      "artist": "basecamp",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/515/15155515_20261112114905_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922686"
+    },
+    {
+      "title": "English Ver.",
+      "artist": "채령 (ITZY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/567/15155567_20261112120938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922804"
+    },
+    {
+      "title": "Prod. Dosi Bwoy",
+      "artist": "브라운티거 (Brown Tigger)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/648/15152648_20261111194125_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603913631"
+    },
+    {
+      "title": "Feat. Mietze Conte",
+      "artist": "HYPNOSIS THERAPY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/089/15155089_20261112095845_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921425"
+    },
+    {
+      "title": "I'm trying to let go of love.",
+      "artist": "그네",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/644/15152644_20261111193940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603913622"
+    },
+    {
+      "title": "Let's love each other a little more.",
+      "artist": "DOKO (도코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/078/15155078_20261112095752_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921408"
+    },
+    {
+      "title": "Switchblade",
+      "artist": "Scails",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/413/15156413_20261112170356_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603926119"
     },
     {
       "title": "Pretending not to know",
@@ -25,12 +103,6 @@
       "artist": "중식이",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/664/15151664_20261111161210_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603910179"
-    },
-    {
-      "title": "English Ver.",
-      "artist": "채령 (ITZY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/567/15155567_20261112120938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922804"
     },
     {
       "title": "salvation",
@@ -105,7 +177,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603910863"
     },
     {
-      "title": "My tired heart, please endure a little longer.",
+      "title": "My weary heart, please endure a little longer.",
       "artist": "김민울",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/793/15155793_20261112151131_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603923782"
@@ -183,7 +255,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603907829"
     },
     {
-      "title": "Sky Blue",
+      "title": "Light Blue",
       "artist": "아넌딜라이트(Anandelight)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/333/15151333_20261111151021_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603908459"
@@ -229,78 +301,6 @@
       "artist": "WetBoy (웻보이)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/092/15151092_20261111140425_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603907478"
-    },
-    {
-      "title": "Two people under one umbrella",
-      "artist": "셀린 (Celine)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/760/15150760_20261111120408_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905737"
-    },
-    {
-      "title": "promise made.",
-      "artist": "규현 (KYUHYUN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/716/15150716_20261111114659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905482"
-    },
-    {
-      "title": "Darling",
-      "artist": "도경수(D.O.)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/073/15143073_20261109173434_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603882945"
-    },
-    {
-      "title": "NO.501",
-      "artist": "Masterclass",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/808/15150808_20261111121248_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603906080"
-    },
-    {
-      "title": "Vocal. Dale",
-      "artist": "그믐달",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/143/15151143_20261111141501_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907740"
-    },
-    {
-      "title": "I want to marry you.",
-      "artist": "정욱",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/602/15150602_20261111105634_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905220"
-    },
-    {
-      "title": "RABBIT ON THE MOON",
-      "artist": "유백합",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/663/15150663_20261111111734_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905350"
-    },
-    {
-      "title": "Take care. Bye.",
-      "artist": "방성우",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/782/15150782_20261111120946_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905971"
-    },
-    {
-      "title": "Feat. Raf Sandou",
-      "artist": "우원재",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/707/15150707_20261111113829_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905468"
-    },
-    {
-      "title": "Your opinion",
-      "artist": "Kid Wine",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/41/151/15141151_20261109100619_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603876893"
-    },
-    {
-      "title": "I Be On That",
-      "artist": "Nudeboi Seo (누드보이 서)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/145/15151145_20261111141630_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907748"
-    },
-    {
-      "title": "I'm Your Fan",
-      "artist": "신얼",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/066/15151066_20261111140028_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907386"
     }
   ]
 }
