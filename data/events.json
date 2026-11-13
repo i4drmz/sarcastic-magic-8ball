@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-13T13:37:48.029Z",
-  "lastUpdated": "2026-11-13T13:37:48.029Z",
+  "generatedAt": "2026-11-13T23:00:12.867Z",
+  "lastUpdated": "2026-11-13T23:00:12.867Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "nme"
   ],
   "events": [
     {
@@ -25,7 +26,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/the-boyz-to-hold-four-day-kspo-dome-concert-in-december-as-nine-members",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-13T13:37:48.029Z"
+      "lastUpdated": "2026-11-13T23:00:12.867Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -45,7 +46,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-13T13:37:48.029Z"
+      "lastUpdated": "2026-11-13T23:00:12.867Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -65,7 +66,27 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-13T13:37:48.029Z"
+      "lastUpdated": "2026-11-13T23:00:12.867Z"
+    },
+    {
+      "id": "evt-979e8a0d4a146ace",
+      "type": "Concert",
+      "title": "World Tour “KPop Demon Hunters”",
+      "artist": "‘KPop Demon Hunters’",
+      "group": "‘KPop Demon Hunters’",
+      "date": "2026-11-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "London",
+      "country": "GB",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.nme.com/wp-content/uploads/2026/11/kpop_demon_hunters_tour.jpg",
+      "shortDescription": "‘KPOP DEMON HUNTERS’ WORLD TOUR COMING UP",
+      "sourceUrl": "https://www.nme.com/news/music/kpop-demon-hunters-2027-golden-world-tour-uk-dates-tickets-3975892",
+      "ticketUrl": null,
+      "source": "rss:nme",
+      "lastUpdated": "2026-11-13T23:00:12.867Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -85,7 +106,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-13T13:37:48.029Z"
+      "lastUpdated": "2026-11-13T23:00:12.867Z"
     }
   ]
 }
