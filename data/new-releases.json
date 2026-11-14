@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-11-14T06:47:35.206Z",
+  "generatedAt": "2026-11-14T18:20:57.279Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Black & Blue",
+      "artist": "에반(EVAN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/129/15159129_20261113112910_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935448"
+    },
+    {
+      "title": "Even occasionally",
+      "artist": "아우릴고트 (OUREALGOAT)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/334/15151334_20261111151040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603908461"
+    },
+    {
+      "title": "Get Shaky",
+      "artist": "Kevin Park",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/267/15159267_20261113120818_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935889"
+    },
+    {
+      "title": "Encounter",
+      "artist": "임가영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/259/15159259_20261113120413_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935872"
+    },
+    {
+      "title": "No matter what happens,",
+      "artist": "윤토벤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/378/15152378_20261111184611_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603912963"
+    },
+    {
+      "title": "8",
+      "artist": "신설희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/131/15159131_20261113113010_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935452"
+    },
+    {
+      "title": "Home",
+      "artist": "PRSNT(프레젠트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/534/15155534_20261112120612_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922746"
+    },
+    {
+      "title": "I'll be there by 2:00.",
+      "artist": "Option",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/329/15151329_20261111150943_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603908452"
+    },
+    {
+      "title": "We just broke up.",
+      "artist": "최충현 (화곡동 청개구리)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/130/15159130_20261113112921_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935450"
+    },
+    {
+      "title": "are we out of time ?",
+      "artist": "tāya",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/594/15155594_20261112121541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922841"
+    },
+    {
+      "title": "NEW RULE",
+      "artist": "ruletheworldboi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/243/15156243_20261112163433_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603925610"
+    },
+    {
+      "title": "Proclamation of the world's cutest!",
+      "artist": "iME",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/861/15156861_20261112183453_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603927487"
+    },
+    {
+      "title": "looks glance",
+      "artist": "긴",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/300/15159300_20261113121750_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603936012"
+    },
     {
       "title": "AFTER",
       "artist": "김지웅 (ZEROBASEONE)",
@@ -39,7 +117,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603936494"
     },
     {
-      "title": "Instead of Saying I'm Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
+      "title": "Instead of Saying Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
       "artist": "Cosmic Boy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/141/15151141_20261111141248_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603907729"
@@ -75,7 +153,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603922743"
     },
     {
-      "title": "I live by loving.",
+      "title": "I live loving.",
       "artist": "몽글",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/901/15156901_20261112184319_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603927636"
@@ -223,84 +301,6 @@
       "artist": "LUCY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/596/15150596_20261111105539_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603905196"
-    },
-    {
-      "title": "Wind",
-      "artist": "테종",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/077/15155077_20261112095751_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603921406"
-    },
-    {
-      "title": "Farewell to the Stars",
-      "artist": "꿈의 악마",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/785/15155785_20261112150536_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603923769"
-    },
-    {
-      "title": "Movie theater",
-      "artist": "규린 (Kyurin)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/197/15151197_20261111143944_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907965"
-    },
-    {
-      "title": "Recall (memory)",
-      "artist": "김태래 (ZEROBASEONE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/019/15155019_20261112095153_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603921274"
-    },
-    {
-      "title": "Fly again",
-      "artist": "성영규",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/529/15155529_20261112120028_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922736"
-    },
-    {
-      "title": "Beauty Inside You",
-      "artist": "Cache Alleyway (캐시앨리웨이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/052/15155052_20261112095532_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603921340"
-    },
-    {
-      "title": "Death and Sunshine",
-      "artist": "옛그리움 (Old Yearning)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/813/15155813_20261112151349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603923838"
-    },
-    {
-      "title": "Never Leave",
-      "artist": "DJ 검은별",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/809/15151809_20261111165443_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603910863"
-    },
-    {
-      "title": "My weary heart, please endure a little longer.",
-      "artist": "김민울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/793/15155793_20261112151131_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603923782"
-    },
-    {
-      "title": "Sansan-san",
-      "artist": "Keepro",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/754/15155754_20261112145556_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603923641"
-    },
-    {
-      "title": "Are you happy now?",
-      "artist": "겐키",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/664/15150664_20261111111735_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905351"
-    },
-    {
-      "title": "To My 20s (Harmonica. Harim)",
-      "artist": "솔라 (마마무)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/818/15151818_20261111170329_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603910977"
-    },
-    {
-      "title": "Songbird",
-      "artist": "오존 (O3ohn)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/789/15151789_20261111164653_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603910811"
     }
   ]
 }
