@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T23:00:12.867Z",
-  "lastUpdated": "2026-11-13T23:00:12.867Z",
+  "generatedAt": "2026-11-14T04:00:29.626Z",
+  "lastUpdated": "2026-11-14T04:00:29.626Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -26,7 +26,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/the-boyz-to-hold-four-day-kspo-dome-concert-in-december-as-nine-members",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-13T23:00:12.867Z"
+      "lastUpdated": "2026-11-14T04:00:29.626Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -46,7 +46,27 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-13T23:00:12.867Z"
+      "lastUpdated": "2026-11-14T04:00:29.626Z"
+    },
+    {
+      "id": "evt-1b5be62f8236b73b",
+      "type": "Fan Meeting",
+      "title": "Fan Meeting “The Long Take”",
+      "artist": "Gong Yoo",
+      "group": "Gong Yoo",
+      "date": "2026-11-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "Manila",
+      "country": "PH",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "GONG YOO FAN MEETING COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/gong-yoo-to-hold-his-the-long-take-fan-meeting-in-manila-next-weekend",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-14T04:00:29.626Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -66,7 +86,27 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-13T23:00:12.867Z"
+      "lastUpdated": "2026-11-14T04:00:29.626Z"
+    },
+    {
+      "id": "evt-28090282e6723977",
+      "type": "Concert",
+      "title": "World Tour",
+      "artist": "TOMORROW X TOGETHER",
+      "group": "TOMORROW X TOGETHER",
+      "date": "2026-11-13",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "TOMORROW X TOGETHER WORLD TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/tomorrow-x-together-unveils-all-six-new-album-tracks-through-world-tour-performances",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-14T04:00:29.626Z"
     },
     {
       "id": "evt-979e8a0d4a146ace",
@@ -86,7 +126,7 @@
       "sourceUrl": "https://www.nme.com/news/music/kpop-demon-hunters-2027-golden-world-tour-uk-dates-tickets-3975892",
       "ticketUrl": null,
       "source": "rss:nme",
-      "lastUpdated": "2026-11-13T23:00:12.867Z"
+      "lastUpdated": "2026-11-14T04:00:29.626Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -106,7 +146,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-13T23:00:12.867Z"
+      "lastUpdated": "2026-11-14T04:00:29.626Z"
     }
   ]
 }
