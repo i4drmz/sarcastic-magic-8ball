@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T04:00:29.626Z",
-  "lastUpdated": "2026-11-14T04:00:29.626Z",
+  "generatedAt": "2026-11-14T12:41:48.947Z",
+  "lastUpdated": "2026-11-14T12:41:48.947Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "allkpop",
-    "nme"
+    "nme-music"
   ],
   "events": [
     {
@@ -26,7 +26,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/the-boyz-to-hold-four-day-kspo-dome-concert-in-december-as-nine-members",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-14T04:00:29.626Z"
+      "lastUpdated": "2026-11-14T12:41:48.947Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -46,7 +46,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-14T04:00:29.626Z"
+      "lastUpdated": "2026-11-14T12:41:48.947Z"
     },
     {
       "id": "evt-1b5be62f8236b73b",
@@ -66,7 +66,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/gong-yoo-to-hold-his-the-long-take-fan-meeting-in-manila-next-weekend",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-14T04:00:29.626Z"
+      "lastUpdated": "2026-11-14T12:41:48.947Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -86,7 +86,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-14T04:00:29.626Z"
+      "lastUpdated": "2026-11-14T12:41:48.947Z"
     },
     {
       "id": "evt-28090282e6723977",
@@ -106,7 +106,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/tomorrow-x-together-unveils-all-six-new-album-tracks-through-world-tour-performances",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-14T04:00:29.626Z"
+      "lastUpdated": "2026-11-14T12:41:48.947Z"
     },
     {
       "id": "evt-979e8a0d4a146ace",
@@ -125,8 +125,8 @@
       "shortDescription": "‘KPOP DEMON HUNTERS’ WORLD TOUR COMING UP",
       "sourceUrl": "https://www.nme.com/news/music/kpop-demon-hunters-2027-golden-world-tour-uk-dates-tickets-3975892",
       "ticketUrl": null,
-      "source": "rss:nme",
-      "lastUpdated": "2026-11-14T04:00:29.626Z"
+      "source": "rss:nme-music",
+      "lastUpdated": "2026-11-14T12:41:48.947Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -146,7 +146,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-14T04:00:29.626Z"
+      "lastUpdated": "2026-11-14T12:41:48.947Z"
     }
   ]
 }
