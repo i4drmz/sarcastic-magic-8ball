@@ -1,15 +1,45 @@
 {
-  "generatedAt": "2026-11-13T19:54:28.701Z",
+  "generatedAt": "2026-11-14T06:47:35.206Z",
   "count": 50,
   "songs": [
     {
-      "title": "UP",
-      "artist": "ATEEZ(에이티즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/469/15135469_20261106183141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603862285"
+      "title": "AFTER",
+      "artist": "김지웅 (ZEROBASEONE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/197/15159197_20261113115213_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935646"
     },
     {
-      "title": "Instead of Saying Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
+      "title": "Sound of breathing",
+      "artist": "남도콜링",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/126/15159126_20261113112709_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935441"
+    },
+    {
+      "title": "Yudalsan, tell me.",
+      "artist": "김용빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/296/15159296_20261113121536_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935994"
+    },
+    {
+      "title": "Hilarious",
+      "artist": "Kvsh",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/459/15151459_20261111153559_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603908847"
+    },
+    {
+      "title": "Seeking love",
+      "artist": "정동원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/125/15159125_20261113112556_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935440"
+    },
+    {
+      "title": "Peach blossom",
+      "artist": "김이불",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/453/15159453_20261113144649_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603936494"
+    },
+    {
+      "title": "Instead of Saying I'm Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
       "artist": "Cosmic Boy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/141/15151141_20261111141248_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603907729"
@@ -21,10 +51,34 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603923721"
     },
     {
-      "title": "I Want You To Know",
-      "artist": "tripleS (트리플에스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/775/15155775_20261112150336_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603923689"
+      "title": "Braxe+Falcon & DEUX Remix",
+      "artist": "듀스 (DEUX)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/111/15159111_20261113111727_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935303"
+    },
+    {
+      "title": "That it's still you.",
+      "artist": "숙희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/172/15155172_20261112100454_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921572"
+    },
+    {
+      "title": "Can't you come back?",
+      "artist": "지세희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/127/15159127_20261113112809_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935443"
+    },
+    {
+      "title": "Tears are falling drop by drop.",
+      "artist": "송지안",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/532/15155532_20261112120510_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922743"
+    },
+    {
+      "title": "I live by loving.",
+      "artist": "몽글",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/901/15156901_20261112184319_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603927636"
     },
     {
       "title": "Unbelievable",
@@ -39,6 +93,36 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603921507"
     },
     {
+      "title": "bye bye",
+      "artist": "다함",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/451/15159451_20261113144543_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603936491"
+    },
+    {
+      "title": "Luv Ur Mind",
+      "artist": "리코 (Ricoe)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/128/15159128_20261113112820_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935445"
+    },
+    {
+      "title": "Prod. Tmlm",
+      "artist": "HWAN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/663/15151663_20261111161150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603910178"
+    },
+    {
+      "title": "You're not perfect.",
+      "artist": "에리즈 (Aries)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/464/15159464_20261113144854_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603936558"
+    },
+    {
+      "title": "Where did you put your dreams?",
+      "artist": "DOKO (도코)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/121/15159121_20261113111954_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935373"
+    },
+    {
       "title": "zacuzzi",
       "artist": "Royal 44",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/137/15156137_20261112161138_500.jpg",
@@ -49,6 +133,18 @@
       "artist": "키드킹 (Kidd King)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/598/15155598_20261112122058_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603922862"
+    },
+    {
+      "title": "UP",
+      "artist": "ATEEZ(에이티즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/469/15135469_20261106183141_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603862285"
+    },
+    {
+      "title": "I Want You To Know",
+      "artist": "tripleS (트리플에스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/775/15155775_20261112150336_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923689"
     },
     {
       "title": "Talk to Talk",
@@ -183,7 +279,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603923782"
     },
     {
-      "title": "SANSANSAN",
+      "title": "Sansan-san",
       "artist": "Keepro",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/754/15155754_20261112145556_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603923641"
@@ -205,102 +301,6 @@
       "artist": "오존 (O3ohn)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/789/15151789_20261111164653_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603910811"
-    },
-    {
-      "title": "Interview Date",
-      "artist": "순순희(기태)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/819/15151819_20261111170450_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603910978"
-    },
-    {
-      "title": "I Love You (feat. Heize)",
-      "artist": "dress",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/156/15151156_20261111142246_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907788"
-    },
-    {
-      "title": "Now",
-      "artist": "기현 (몬스타엑스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/191/15151191_20261111143648_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907944"
-    },
-    {
-      "title": "Feat. jeebanoff",
-      "artist": "이지카이트 (Izykite)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/460/15151460_20261111153651_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603908849"
-    },
-    {
-      "title": "Highball Remix",
-      "artist": "로시 (Rothy)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/947/15151947_20261111174938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603911787"
-    },
-    {
-      "title": "Please.",
-      "artist": "서문탁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/781/15150781_20261111120945_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905970"
-    },
-    {
-      "title": "Smileys",
-      "artist": "장들레",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/26/166/15126166_20261104164948_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603833465"
-    },
-    {
-      "title": "Come on a tiring day.",
-      "artist": "전우성 (노을)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/166/15151166_20261111142838_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907829"
-    },
-    {
-      "title": "Light Blue",
-      "artist": "아넌딜라이트(Anandelight)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/333/15151333_20261111151021_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603908459"
-    },
-    {
-      "title": "feat. Bebelune",
-      "artist": "whvts (와츠)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/549/15150549_20261111104613_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905036"
-    },
-    {
-      "title": "So Beautiful",
-      "artist": "온새 (ONSAE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/152/15151152_20261111142149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907778"
-    },
-    {
-      "title": "Eco-Friendly Part 3",
-      "artist": "KIRARA (키라라)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/188/15151188_20261111143531_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907927"
-    },
-    {
-      "title": "Feat. maji",
-      "artist": "이아람",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/570/15150570_20261111105131_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905119"
-    },
-    {
-      "title": "Crumpled paper",
-      "artist": "앤츠 (Ants)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/593/15151593_20261111155338_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603909850"
-    },
-    {
-      "title": "Bangrang",
-      "artist": "유인원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/144/15151144_20261111141519_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907744"
-    },
-    {
-      "title": "The Person I Think of When It Rains (feat. Suen)",
-      "artist": "WetBoy (웻보이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/092/15151092_20261111140425_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907478"
     }
   ]
 }
