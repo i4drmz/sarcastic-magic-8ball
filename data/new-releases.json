@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-14T22:37:28.556Z",
+  "generatedAt": "2026-11-15T06:52:16.141Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Starlight",
+      "artist": "효정 (오마이걸)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/132/15159132_20261113113111_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935453"
+    },
+    {
+      "title": "Feat. Skinny Brown",
+      "artist": "B JYUN.",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/791/15156791_20261112182454_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603927280"
+    },
+    {
+      "title": "Under the ginkgo tree that has lived for a thousand years",
+      "artist": "산만한시선",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/140/15159140_20261113113321_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935491"
+    },
+    {
+      "title": "Where are you going?",
+      "artist": "이창민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/136/15159136_20261113113213_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935475"
+    },
+    {
+      "title": "If you keep calling,",
+      "artist": "김결",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/402/15152402_20261111185333_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603913054"
+    },
+    {
+      "title": "Favorite",
+      "artist": "버블 시스터즈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/147/15159147_20261113113522_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935506"
+    },
     {
       "title": "Black & Blue",
       "artist": "에반(EVAN)",
@@ -13,6 +49,54 @@
       "artist": "아우릴고트 (OUREALGOAT)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/334/15151334_20261111151040_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603908461"
+    },
+    {
+      "title": "Because I like it.",
+      "artist": "다희 (dahee)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/599/15155599_20261112122208_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922863"
+    },
+    {
+      "title": "99",
+      "artist": "행주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/609/15156609_20261112172601_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603926669"
+    },
+    {
+      "title": "Falling Again",
+      "artist": "단월",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/597/15155597_20261112121742_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922856"
+    },
+    {
+      "title": "I want to date, but",
+      "artist": "에피타이저 (Appetizer)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/900/15156900_20261112184316_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603927635"
+    },
+    {
+      "title": "At that place, at that time",
+      "artist": "권순호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/270/15159270_20261113120918_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935894"
+    },
+    {
+      "title": "Garden Angel",
+      "artist": "Jon McDonald",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/871/15156871_20261112183800_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603927521"
+    },
+    {
+      "title": "Muuusic",
+      "artist": "디폴트 (DEFAULT.)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/897/15156897_20261112184157_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603927617"
+    },
+    {
+      "title": "Give U (feat. Ivan)",
+      "artist": "V.teum(빈틈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/141/15159141_20261113113414_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935493"
     },
     {
       "title": "Get Shaky",
@@ -69,7 +153,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603925610"
     },
     {
-      "title": "Proclamation of the World's Cutest!",
+      "title": "Proclamation of the world's cutest!",
       "artist": "iME",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/861/15156861_20261112183453_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603927487"
@@ -117,7 +201,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603936494"
     },
     {
-      "title": "Instead of Saying Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
+      "title": "Instead of Saying I'm Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
       "artist": "Cosmic Boy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/141/15151141_20261111141248_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603907729"
@@ -165,7 +249,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603908469"
     },
     {
-      "title": "Forever Mojave (feat. D.Ark)",
+      "title": "Forever Mojave (Feat. D.Ark)",
       "artist": "용용 (YongYong)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/139/15155139_20261112100241_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603921507"
@@ -217,90 +301,6 @@
       "artist": "ATEEZ(에이티즈)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/469/15135469_20261106183141_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603862285"
-    },
-    {
-      "title": "I Want You To Know",
-      "artist": "tripleS (트리플에스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/775/15155775_20261112150336_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603923689"
-    },
-    {
-      "title": "Talk to Talk",
-      "artist": "basecamp",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/515/15155515_20261112114905_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922686"
-    },
-    {
-      "title": "English Ver.",
-      "artist": "채령 (ITZY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/567/15155567_20261112120938_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922804"
-    },
-    {
-      "title": "Prod. Dosi Bwoy",
-      "artist": "브라운티거 (Brown Tigger)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/648/15152648_20261111194125_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603913631"
-    },
-    {
-      "title": "Feat. Mietze Conte",
-      "artist": "HYPNOSIS THERAPY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/089/15155089_20261112095845_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603921425"
-    },
-    {
-      "title": "I'm trying to let go of love.",
-      "artist": "그네",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/644/15152644_20261111193940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603913622"
-    },
-    {
-      "title": "Let's love each other a little more.",
-      "artist": "DOKO (도코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/078/15155078_20261112095752_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603921408"
-    },
-    {
-      "title": "Switchblade",
-      "artist": "Scails",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/413/15156413_20261112170356_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603926119"
-    },
-    {
-      "title": "Pretending not to know",
-      "artist": "이소나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/790/15155790_20261112150659_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603923775"
-    },
-    {
-      "title": "Mother",
-      "artist": "중식이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/664/15151664_20261111161210_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603910179"
-    },
-    {
-      "title": "salvation",
-      "artist": "모트 (Motte)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/063/15155063_20261112095637_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603921365"
-    },
-    {
-      "title": "NEW MARK",
-      "artist": "SWAN (수안)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/591/15155591_20261112121346_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922838"
-    },
-    {
-      "title": "Platinum",
-      "artist": "김하온 (HAON)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/190/15151190_20261111143640_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603907933"
-    },
-    {
-      "title": "Again!",
-      "artist": "LUCY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/596/15150596_20261111105539_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603905196"
     }
   ]
 }
