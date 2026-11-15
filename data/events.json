@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T13:09:05.076Z",
-  "lastUpdated": "2026-11-15T13:09:05.076Z",
+  "generatedAt": "2026-11-15T22:16:11.124Z",
+  "lastUpdated": "2026-11-15T22:16:11.124Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887029wpp/watch-txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-15T13:09:05.076Z"
+      "lastUpdated": "2026-11-15T22:16:11.124Z"
     },
     {
       "id": "evt-7b65a74e8ae503b4",
@@ -45,27 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/video/2026/11/txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-15T13:09:05.076Z"
-    },
-    {
-      "id": "evt-9b277934275ecf44",
-      "type": "Concert",
-      "title": "World Tour “KPop Demon Hunters”",
-      "artist": "'KPop Demon Hunters'",
-      "group": "'KPop Demon Hunters'",
-      "date": "2026-11-15",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "'KPOP DEMON HUNTERS' WORLD TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/kpop-demon-hunters-announces-2027-world-tour-bringing-huntr-x-to-arenas-worldwide",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-15T13:09:05.076Z"
+      "lastUpdated": "2026-11-15T22:16:11.124Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -85,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-15T13:09:05.076Z"
+      "lastUpdated": "2026-11-15T22:16:11.124Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -105,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-15T13:09:05.076Z"
+      "lastUpdated": "2026-11-15T22:16:11.124Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -125,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-15T13:09:05.076Z"
+      "lastUpdated": "2026-11-15T22:16:11.124Z"
     }
   ]
 }
