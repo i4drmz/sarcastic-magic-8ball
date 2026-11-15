@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-11-15T06:52:16.141Z",
+  "generatedAt": "2026-11-15T18:59:24.221Z",
   "count": 50,
   "songs": [
+    {
+      "title": "If you love someone,",
+      "artist": "KCM",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/280/15159280_20261113121133_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935909"
+    },
+    {
+      "title": "Love S.O.S",
+      "artist": "임영민",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/292/15159292_20261113121436_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935990"
+    },
+    {
+      "title": "ANEMOIA",
+      "artist": "JJK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/140/15156140_20261112161819_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603925224"
+    },
+    {
+      "title": "HOME",
+      "artist": "예잔 (가비엔제이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/284/15159284_20261113121241_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935914"
+    },
+    {
+      "title": "Present",
+      "artist": "이예지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/600/15155600_20261112122258_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922864"
+    },
+    {
+      "title": "Moon Dampi (Feat. Heo Seong-hyeon)",
+      "artist": "키츠요지 (kitsyojii)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/148/15159148_20261113113523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935512"
+    },
+    {
+      "title": "Ganggangsullae (Feat. Jong-sook Park)",
+      "artist": "KARDI (카디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/353/15155353_20261112102511_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922194"
+    },
+    {
+      "title": "I'll always love you.",
+      "artist": "류민희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/151/15159151_20261113113624_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935515"
+    },
+    {
+      "title": "Fibonacci",
+      "artist": "아울러 (OWLER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/278/15155278_20261112101241_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603921886"
+    },
+    {
+      "title": "Infinity Light",
+      "artist": "마하 (Macha)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/153/15159153_20261113113718_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935518"
+    },
     {
       "title": "Starlight",
       "artist": "효정 (오마이걸)",
@@ -75,7 +135,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603927635"
     },
     {
-      "title": "At that place, at that time",
+      "title": "At that place, at that time.",
       "artist": "권순호",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/270/15159270_20261113120918_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603935894"
@@ -201,7 +261,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603936494"
     },
     {
-      "title": "Instead of Saying I'm Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
+      "title": "Instead of Saying Sorry (Feat. SOLE, BIG Naughty (Seo Dong-hyun))",
       "artist": "Cosmic Boy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/141/15151141_20261111141248_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603907729"
@@ -237,70 +297,10 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603922743"
     },
     {
-      "title": "I live loving.",
+      "title": "I live by loving.",
       "artist": "몽글",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/901/15156901_20261112184319_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603927636"
-    },
-    {
-      "title": "Unbelievable",
-      "artist": "H1-KEY (하이키)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/338/15151338_20261111151251_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603908469"
-    },
-    {
-      "title": "Forever Mojave (Feat. D.Ark)",
-      "artist": "용용 (YongYong)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/139/15155139_20261112100241_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603921507"
-    },
-    {
-      "title": "bye bye",
-      "artist": "다함",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/451/15159451_20261113144543_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603936491"
-    },
-    {
-      "title": "Luv Ur Mind",
-      "artist": "리코 (Ricoe)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/128/15159128_20261113112820_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935445"
-    },
-    {
-      "title": "Prod. Tmlm",
-      "artist": "HWAN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/663/15151663_20261111161150_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603910178"
-    },
-    {
-      "title": "You're not perfect.",
-      "artist": "에리즈 (Aries)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/464/15159464_20261113144854_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603936558"
-    },
-    {
-      "title": "Where did you put your dreams?",
-      "artist": "DOKO (도코)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/121/15159121_20261113111954_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935373"
-    },
-    {
-      "title": "zacuzzi",
-      "artist": "Royal 44",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/137/15156137_20261112161138_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603925200"
-    },
-    {
-      "title": "moneymoney",
-      "artist": "키드킹 (Kidd King)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/598/15155598_20261112122058_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922862"
-    },
-    {
-      "title": "UP",
-      "artist": "ATEEZ(에이티즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/35/469/15135469_20261106183141_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603862285"
     }
   ]
 }
