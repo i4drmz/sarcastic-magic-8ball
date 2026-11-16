@@ -1,11 +1,52 @@
 {
-  "generatedAt": "2026-11-16T03:47:17.580Z",
-  "lastUpdated": "2026-11-16T03:47:17.580Z",
+  "generatedAt": "2026-11-16T14:16:39.177Z",
+  "lastUpdated": "2026-11-16T14:16:39.177Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-fa4d9f82885308de",
+      "type": "Concert",
+      "title": "Concert “Again, Today”",
+      "artist": "2AM",
+      "group": "2AM",
+      "date": "2026-11-16",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "2AM CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/2am-announce-year-end-full-group-concert-again-today-six-months-after-today-2am",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-16T14:16:39.177Z"
+    },
+    {
+      "id": "evt-a66ab682bf204d4a",
+      "type": "Concert",
+      "title": "World Tour",
+      "artist": "G-Dragon",
+      "group": "G-Dragon",
+      "date": "2026-11-16",
+      "time": null,
+      "venue": "TBA",
+      "city": "Hong Kong",
+      "country": "HK",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "G-DRAGON WORLD TOUR COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/g-dragon-reveals-bloodied-knee-during-bigbangs-hong-kong-shows-as-world-tour-grind-continues",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-16T14:16:39.177Z"
+    },
     {
       "id": "evt-697f2642abab312f",
       "type": "Concert",
@@ -24,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887029wpp/watch-txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-16T03:47:17.580Z"
+      "lastUpdated": "2026-11-16T14:16:39.177Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -43,8 +84,8 @@
       "shortDescription": "EXO FAN CONCERT COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-16T03:47:17.580Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-11-16T14:16:39.177Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -63,8 +104,8 @@
       "shortDescription": "MAMAMOO FESTIVAL COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-16T03:47:17.580Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-11-16T14:16:39.177Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -84,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-16T03:47:17.580Z"
+      "lastUpdated": "2026-11-16T14:16:39.177Z"
     }
   ]
 }
