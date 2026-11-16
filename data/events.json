@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-15T22:16:11.124Z",
-  "lastUpdated": "2026-11-15T22:16:11.124Z",
+  "generatedAt": "2026-11-16T03:47:17.580Z",
+  "lastUpdated": "2026-11-16T03:47:17.580Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
     {
@@ -25,27 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887029wpp/watch-txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-15T22:16:11.124Z"
-    },
-    {
-      "id": "evt-7b65a74e8ae503b4",
-      "type": "Concert",
-      "title": "Concert “I Live Alone”",
-      "artist": "TXT",
-      "group": "TXT",
-      "date": "2026-11-15",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TXT CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/video/2026/11/txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-15T22:16:11.124Z"
+      "lastUpdated": "2026-11-16T03:47:17.580Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -65,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-15T22:16:11.124Z"
+      "lastUpdated": "2026-11-16T03:47:17.580Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -85,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-15T22:16:11.124Z"
+      "lastUpdated": "2026-11-16T03:47:17.580Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -105,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-15T22:16:11.124Z"
+      "lastUpdated": "2026-11-16T03:47:17.580Z"
     }
   ]
 }
