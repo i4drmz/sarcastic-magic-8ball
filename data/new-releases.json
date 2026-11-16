@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-11-16T06:52:08.312Z",
+  "generatedAt": "2026-11-16T22:23:29.958Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Angel Bite",
+      "artist": "투모로우바이투게더",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/131/15115131_20261102175232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603801191"
+    },
+    {
+      "title": "The rap you're supposed to do",
+      "artist": "다이나믹 듀오",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/937/15159937_20261113165303_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603938365"
+    },
+    {
+      "title": "The Forest of the Mind",
+      "artist": "조선힙합",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/909/15159909_20261113164643_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603938218"
+    },
+    {
+      "title": "Still, I love you.",
+      "artist": "순순희(지환)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/898/15159898_20261113164453_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603938130"
+    },
+    {
+      "title": "Hero? Hero!",
+      "artist": "위수 (WISUE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/672/15156672_20261112173214_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603926856"
+    },
+    {
+      "title": "feat. LAVEEN",
+      "artist": "Deepshower (딥샤워)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/865/15156865_20261112183628_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603927511"
+    },
+    {
+      "title": "Anew",
+      "artist": "요아리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/588/15155588_20261112121145_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603922832"
+    },
+    {
+      "title": "Explicit Ver.",
+      "artist": "플로우식 (Flowsik)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/312/15166312_20261116120511_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603957575"
+    },
+    {
+      "title": "Meet Someone Better Than Me (feat. Polim)",
+      "artist": "정창룡",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/712/15155712_20261112140107_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603923441"
+    },
+    {
+      "title": "We Have No Time",
+      "artist": "행성",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/944/15159944_20261113165439_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603938380"
+    },
+    {
+      "title": "Flying through the deep night",
+      "artist": "준성 (JunSung)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/309/15159309_20261113122510_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603936027"
+    },
+    {
+      "title": "I want to be the only one you see.",
+      "artist": "혁기 (hucki)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/062/15159062_20261113105939_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935084"
+    },
+    {
+      "title": "You think you're the most miserable person in the world.",
+      "artist": "kiri",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/943/15159943_20261113165435_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603938379"
+    },
     {
       "title": "HAH!",
       "artist": "Keyveatz",
@@ -9,7 +87,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603937799"
     },
     {
-      "title": "Majimak Sarang",
+      "title": "last love",
       "artist": "안재우",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/851/15159851_20261113163435_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603937835"
@@ -45,7 +123,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603881385"
     },
     {
-      "title": "Paljataryeong",
+      "title": "Lamenting one's fate",
       "artist": "신승태",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/756/15155756_20261112145719_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603923647"
@@ -57,31 +135,31 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603936587"
     },
     {
-      "title": "Saranghamyeon",
+      "title": "If you love someone,",
       "artist": "KCM",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/280/15159280_20261113121133_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603935909"
     },
     {
-      "title": "Urin Saranghaetjana Eotteoke Ireoni",
+      "title": "We loved each other. How could this happen?",
       "artist": "란 (RAN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/304/15159304_20261113122410_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603936018"
     },
     {
-      "title": "Gatasseumyeonhae",
+      "title": "I wish it were like that.",
       "artist": "장은지",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/585/15155585_20261112121121_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603922822"
     },
     {
-      "title": "Jalmotange Eomneunde",
+      "title": "I didn't do anything wrong.",
       "artist": "Hollow Young",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/916/15159916_20261113164858_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603938276"
     },
     {
-      "title": "Saranghandaneun Mallodo Chaeul Su Eopdeon Uri",
+      "title": "We couldn't even fill the void with words of love.",
       "artist": "이보람",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/895/15159895_20261113164234_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603938120"
@@ -93,7 +171,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603926630"
     },
     {
-      "title": "Nunmullaemsae",
+      "title": "The smell of tears",
       "artist": "마션 (Martian)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/403/15152403_20261111185410_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603913056"
@@ -105,25 +183,25 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603935990"
     },
     {
-      "title": "Gwangyareul Jinamyeo",
+      "title": "Passing through the wilderness",
       "artist": "정진운",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/833/15159833_20261113163037_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603937626"
     },
     {
-      "title": "I Mal Hana Jeonhago Sipeosseo",
+      "title": "There's something I wanted to tell you.",
       "artist": "주현민",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/472/15159472_20261113145343_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603936576"
     },
     {
-      "title": "Gachi Gabollae?",
+      "title": "Do you want to go with me?",
       "artist": "1% (원퍼센트)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/787/15159787_20261113161833_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603937432"
     },
     {
-      "title": "Boksunga Mat Sarang",
+      "title": "Love for peach flavor",
       "artist": "파스텔걸스(Pastel Girls)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/827/15159827_20261113162908_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603937617"
@@ -141,25 +219,25 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603935914"
     },
     {
-      "title": "Seonmul",
+      "title": "Present",
       "artist": "이예지",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/600/15155600_20261112122258_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603922864"
     },
     {
-      "title": "Mundampi (Feat. Heoseonghyeon)",
+      "title": "Moon Dampi (Feat. Heo Seong-hyeon)",
       "artist": "키츠요지 (kitsyojii)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/148/15159148_20261113113523_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603935512"
     },
     {
-      "title": "Ganggangsullae (Feat.bakjongsuk)",
+      "title": "Kanggangsullae (Feat. Jong-suk Park)",
       "artist": "KARDI (카디)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/353/15155353_20261112102511_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603922194"
     },
     {
-      "title": "Eonjena Saranghae",
+      "title": "I'll always love you.",
       "artist": "류민희",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/151/15159151_20261113113624_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603935515"
@@ -189,19 +267,19 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603927280"
     },
     {
-      "title": "Cheon Nyeon Dongan Saratdeon Eunhaengnamu Araeeseo",
+      "title": "Under the ginkgo tree that has lived for a thousand years",
       "artist": "산만한시선",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/140/15159140_20261113113321_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603935491"
     },
     {
-      "title": "Eodegano",
+      "title": "Where are you going?",
       "artist": "이창민",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/136/15159136_20261113113213_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603935475"
     },
     {
-      "title": "Bureuda Bomyeon",
+      "title": "If you keep calling,",
       "artist": "김결",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/402/15152402_20261111185333_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603913054"
@@ -219,88 +297,10 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603935448"
     },
     {
-      "title": "Gakkeumssigirado",
+      "title": "Even occasionally",
       "artist": "아우릴고트 (OUREALGOAT)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/334/15151334_20261111151040_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603908461"
-    },
-    {
-      "title": "Joahanikka",
-      "artist": "다희 (dahee)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/599/15155599_20261112122208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922863"
-    },
-    {
-      "title": "99",
-      "artist": "행주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/609/15156609_20261112172601_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603926669"
-    },
-    {
-      "title": "Falling Again",
-      "artist": "단월",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/597/15155597_20261112121742_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922856"
-    },
-    {
-      "title": "Yeonaehago Sipjiman",
-      "artist": "에피타이저 (Appetizer)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/900/15156900_20261112184316_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603927635"
-    },
-    {
-      "title": "Geuttae Geu Jarie Geu Sigane",
-      "artist": "권순호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/270/15159270_20261113120918_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935894"
-    },
-    {
-      "title": "Garden Angel",
-      "artist": "Jon McDonald",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/871/15156871_20261112183800_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603927521"
-    },
-    {
-      "title": "Muuusic",
-      "artist": "디폴트 (DEFAULT.)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/897/15156897_20261112184157_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603927617"
-    },
-    {
-      "title": "Give U (feat. Aiban)",
-      "artist": "V.teum(빈틈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/141/15159141_20261113113414_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935493"
-    },
-    {
-      "title": "Get Shaky",
-      "artist": "Kevin Park",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/267/15159267_20261113120818_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935889"
-    },
-    {
-      "title": "Majuchyeo",
-      "artist": "임가영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/259/15159259_20261113120413_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935872"
-    },
-    {
-      "title": "Eotteon Iri Itdaedo",
-      "artist": "윤토벤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/52/378/15152378_20261111184611_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603912963"
-    },
-    {
-      "title": "8",
-      "artist": "신설희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/131/15159131_20261113113010_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935452"
-    },
-    {
-      "title": "Home",
-      "artist": "PRSNT(프레젠트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/55/534/15155534_20261112120612_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603922746"
     }
   ]
 }
