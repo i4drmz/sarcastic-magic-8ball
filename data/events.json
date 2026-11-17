@@ -1,12 +1,32 @@
 {
-  "generatedAt": "2026-11-16T14:16:39.177Z",
-  "lastUpdated": "2026-11-16T14:16:39.177Z",
+  "generatedAt": "2026-11-17T15:08:45.483Z",
+  "lastUpdated": "2026-11-17T15:08:45.483Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-7ee351b2fe2cecbc",
+      "type": "Festival",
+      "title": "Choo Young Woo And izna’s Bang Jeemin Confirmed To Host 2026 KBS Song Festival",
+      "artist": null,
+      "group": null,
+      "date": "2026-11-17",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/17131230/choo-young-woo-bang-jeemin.jpg",
+      "shortDescription": "The 2026 KBS Song Festival has its MC lineup! On November 17, the 2026 KBS Song Festival that actor Choo Young Woo and izna’s Bang Jeemin will host this year’s event together. The festival is set to take place at KBS Arena at 7 p.m. KST…",
+      "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-11-17T15:08:45.483Z"
+    },
     {
       "id": "evt-fa4d9f82885308de",
       "type": "Concert",
@@ -25,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/2am-announce-year-end-full-group-concert-again-today-six-months-after-today-2am",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-16T14:16:39.177Z"
+      "lastUpdated": "2026-11-17T15:08:45.483Z"
     },
     {
       "id": "evt-a66ab682bf204d4a",
@@ -45,27 +65,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/g-dragon-reveals-bloodied-knee-during-bigbangs-hong-kong-shows-as-world-tour-grind-continues",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-16T14:16:39.177Z"
-    },
-    {
-      "id": "evt-697f2642abab312f",
-      "type": "Concert",
-      "title": "Concert “I Live Alone”",
-      "artist": "TXT",
-      "group": "TXT",
-      "date": "2026-11-15",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": "https://0.soompi.io/wp-content/uploads/2026/11/15125726/Yeonjun.jpg",
-      "shortDescription": "TXT CONCERT COMING UP",
-      "sourceUrl": "https://www.soompi.com/article/1887029wpp/watch-txts-yeonjun-reveals-his-home-hangs-out-with-seo-bum-june-in-i-live-alone-preview",
-      "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-16T14:16:39.177Z"
+      "lastUpdated": "2026-11-17T15:08:45.483Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-16T14:16:39.177Z"
+      "lastUpdated": "2026-11-17T15:08:45.483Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -105,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-16T14:16:39.177Z"
+      "lastUpdated": "2026-11-17T15:08:45.483Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -125,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-16T14:16:39.177Z"
+      "lastUpdated": "2026-11-17T15:08:45.483Z"
     }
   ]
 }
