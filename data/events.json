@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T15:08:45.483Z",
-  "lastUpdated": "2026-11-17T15:08:45.483Z",
+  "generatedAt": "2026-11-18T00:11:22.288Z",
+  "lastUpdated": "2026-11-18T00:11:22.288Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,47 +25,27 @@
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-17T15:08:45.483Z"
+      "lastUpdated": "2026-11-18T00:11:22.288Z"
     },
     {
-      "id": "evt-fa4d9f82885308de",
+      "id": "evt-5884f5d4794b5799",
       "type": "Concert",
-      "title": "Concert “Again, Today”",
-      "artist": "2AM",
-      "group": "2AM",
-      "date": "2026-11-16",
+      "title": "Fan Concert “Still LoBubble”",
+      "artist": "FIFTY FIFTY",
+      "group": "FIFTY FIFTY",
+      "date": "2026-11-17",
       "time": null,
       "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
+      "city": "Taipei",
+      "country": "TW",
       "latitude": null,
       "longitude": null,
       "image": null,
-      "shortDescription": "2AM CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/2am-announce-year-end-full-group-concert-again-today-six-months-after-today-2am",
+      "shortDescription": "FIFTY FIFTY FAN CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/fifty-fifty-to-hold-still-lobubble-fan-concert-in-taipei-on-january-31",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-17T15:08:45.483Z"
-    },
-    {
-      "id": "evt-a66ab682bf204d4a",
-      "type": "Concert",
-      "title": "World Tour",
-      "artist": "G-Dragon",
-      "group": "G-Dragon",
-      "date": "2026-11-16",
-      "time": null,
-      "venue": "TBA",
-      "city": "Hong Kong",
-      "country": "HK",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "G-DRAGON WORLD TOUR COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/g-dragon-reveals-bloodied-knee-during-bigbangs-hong-kong-shows-as-world-tour-grind-continues",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-17T15:08:45.483Z"
+      "lastUpdated": "2026-11-18T00:11:22.288Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -85,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-17T15:08:45.483Z"
+      "lastUpdated": "2026-11-18T00:11:22.288Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -105,7 +85,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-17T15:08:45.483Z"
+      "lastUpdated": "2026-11-18T00:11:22.288Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -125,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-17T15:08:45.483Z"
+      "lastUpdated": "2026-11-18T00:11:22.288Z"
     }
   ]
 }
