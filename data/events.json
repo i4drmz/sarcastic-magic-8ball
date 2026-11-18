@@ -1,12 +1,73 @@
 {
-  "generatedAt": "2026-11-18T00:11:22.288Z",
-  "lastUpdated": "2026-11-18T00:11:22.288Z",
+  "generatedAt": "2026-11-18T14:47:08.428Z",
+  "lastUpdated": "2026-11-18T14:47:08.428Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
-    "allkpop"
+    "allkpop",
+    "billboard"
   ],
   "events": [
+    {
+      "id": "evt-15753a0661406742",
+      "type": "Concert",
+      "title": "Concert “F.L.Y.”",
+      "artist": "Taeyeon",
+      "group": "Taeyeon",
+      "date": "2026-11-18",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/18142959/taeyeon-fly2.jpeg",
+      "shortDescription": "TAEYEON CONCERT COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
+    },
+    {
+      "id": "evt-68a46007cf461e15",
+      "type": "Concert",
+      "title": "Concert “F.L.Y.”",
+      "artist": "Taeyeon",
+      "group": "Taeyeon",
+      "date": "2026-11-18",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "TAEYEON CONCERT COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/taeyeon-announces-fly-concert-at-kspo-dome-and-six-city-asia-tour",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
+    },
+    {
+      "id": "evt-3f2989c0099e9b76",
+      "type": "Exhibition",
+      "title": "Exhibition “Taylor Swift: The Eras Collection”",
+      "artist": "Nature",
+      "group": "Nature",
+      "date": "2026-11-18",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://www.billboard.com/wp-content/uploads/2026/11/P118BU5U.jpg?w=237&h=147&crop=1",
+      "shortDescription": "NATURE EXHIBITION COMING UP",
+      "sourceUrl": "https://www.billboard.com/music/pop/taylor-swift-eras-collection-boston-museum-fine-arts-details-1236384740/",
+      "ticketUrl": null,
+      "source": "rss:billboard",
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
+    },
     {
       "id": "evt-7ee351b2fe2cecbc",
       "type": "Festival",
@@ -25,7 +86,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-18T00:11:22.288Z"
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
     },
     {
       "id": "evt-5884f5d4794b5799",
@@ -45,7 +106,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/fifty-fifty-to-hold-still-lobubble-fan-concert-in-taipei-on-january-31",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-18T00:11:22.288Z"
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -65,7 +126,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-18T00:11:22.288Z"
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -85,7 +146,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-18T00:11:22.288Z"
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -105,7 +166,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-18T00:11:22.288Z"
+      "lastUpdated": "2026-11-18T14:47:08.428Z"
     }
   ]
 }
