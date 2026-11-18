@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-11-18T07:45:06.128Z",
+  "generatedAt": "2026-11-18T20:45:12.883Z",
   "count": 50,
   "songs": [
+    {
+      "title": "I want to love you.",
+      "artist": "미나미 of RESCENE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/808/15166808_20261116145219_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603959458"
+    },
+    {
+      "title": "Not Like Lovin’ Me",
+      "artist": "산(ATEEZ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/219/15166219_20261116113313_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603957251"
+    },
+    {
+      "title": "Hi, guys.",
+      "artist": "허각",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/736/15091736_20261117170935_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603977744"
+    },
+    {
+      "title": "A Long Walk",
+      "artist": "선우정아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/568/15171568_20261117161011_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603978106"
+    },
+    {
+      "title": "Love in Full (feat. Jo Gyu-chan)",
+      "artist": "Babylon (베이빌론)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/473/15151473_20261111154411_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603909047"
+    },
+    {
+      "title": "Promises",
+      "artist": "제아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/053/15159053_20261113104040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603935040"
+    },
+    {
+      "title": "own_translation heavy shower snow",
+      "artist": "박현규",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/271/15171271_20261117152736_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603977339"
+    },
+    {
+      "title": "Little Star",
+      "artist": "송민준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/165/15171165_20261117150320_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603977021"
+    },
+    {
+      "title": "Morning glow",
+      "artist": "낯선아이",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/233/15160233_20261113183618_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603939058"
+    },
+    {
+      "title": "In that movie, in that romance,",
+      "artist": "태비 (Taeb2)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/576/15170576_20261117104145_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603974987"
+    },
+    {
+      "title": "Just one minute.",
+      "artist": "WhOLLiN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/503/15170503_20261117102639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603974868"
+    },
+    {
+      "title": "Munchkin (Feat. Just Nochang, Jvcki Wai)",
+      "artist": "래원 (Layone)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/491/15170491_20261117102233_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603974811"
+    },
+    {
+      "title": "Durama",
+      "artist": "김모이 (Kim Moi)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/158/15171158_20261117145736_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603977013"
+    },
+    {
+      "title": "What was called love",
+      "artist": "승희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/262/15167262_20261116164149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603960883"
+    },
     {
       "title": "ferry ey",
       "artist": "DPR ARTIC",
@@ -105,7 +189,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603977348"
     },
     {
-      "title": "The Earth has a limited lifespan.",
+      "title": "The Earth is on borrowed time.",
       "artist": "heyseunghey",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/047/15167047_20261116153456_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603960149"
@@ -217,90 +301,6 @@
       "artist": "Tuesday Beach Club",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/855/15166855_20261116151455_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603959660"
-    },
-    {
-      "title": "Feat. jeebanoff",
-      "artist": "SOIN (서인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/029/15166029_20261116105753_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603956406"
-    },
-    {
-      "title": "Maybe We're Just Close (Webtoon \"Daytime at the Bunker\" OST X Wilcox)",
-      "artist": "윌콕스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/075/15166075_20261117124120_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603956618"
-    },
-    {
-      "title": "As time goes by",
-      "artist": "임바다",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/925/15166925_20261116152132_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603959821"
-    },
-    {
-      "title": "I'm standing in time that has stopped.",
-      "artist": "ChiVee",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/868/15166868_20261116151841_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603959678"
-    },
-    {
-      "title": "Explicit Ver.",
-      "artist": "플로우식 (Flowsik)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/312/15166312_20261116120511_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603957575"
-    },
-    {
-      "title": "It's you.",
-      "artist": "지진석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/285/15166285_20261116120035_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603957480"
-    },
-    {
-      "title": "Angel Bite",
-      "artist": "투모로우바이투게더",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/131/15115131_20261102175232_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603801191"
-    },
-    {
-      "title": "The rap you're supposed to do",
-      "artist": "다이나믹 듀오",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/937/15159937_20261113165303_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603938365"
-    },
-    {
-      "title": "Pretend to be Good",
-      "artist": "ISHA (이샤)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/311/15159311_20261117172353_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603936029"
-    },
-    {
-      "title": "Stay By My Side",
-      "artist": "Peace Pizza Piece",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/224/15166224_20261116113840_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603957267"
-    },
-    {
-      "title": "Bioramjjeo",
-      "artist": "사우스카니발",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/290/15166290_20261116120136_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603957499"
-    },
-    {
-      "title": "How can love be like that?",
-      "artist": "아렌 (브라더스)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/047/15166047_20261116110045_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603956482"
-    },
-    {
-      "title": "Strolling",
-      "artist": "정수라",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/173/15166173_20261116111858_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603957100"
-    },
-    {
-      "title": "ROOKIE",
-      "artist": "Neat (니트)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/65/754/15165754_20261116101159_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603954943"
     }
   ]
 }
