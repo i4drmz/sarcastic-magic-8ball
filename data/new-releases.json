@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-11-19T07:41:20.522Z",
+  "generatedAt": "2026-11-19T20:50:41.916Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Lights Out",
+      "artist": "넬 (NELL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/389/15167389_20261116171150_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603961877"
+    },
+    {
+      "title": "In the end",
+      "artist": "케이시 (Kassy)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/770/15134770_20261118161348_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604000956"
+    },
+    {
+      "title": "Back then, we",
+      "artist": "홍이삭",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/180/15167180_20261116154302_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603960555"
+    },
+    {
+      "title": "Conversations",
+      "artist": "앨리스신드롬",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/731/15176731_20261118114827_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603997433"
+    },
+    {
+      "title": "Still, it's love.",
+      "artist": "홍성윤",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/683/15177683_20261118164435_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002106"
+    },
+    {
+      "title": "Hamster wheel",
+      "artist": "팔칠댄스 (87dance)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/294/15177294_20261118151953_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604000129"
+    },
+    {
+      "title": "Habit",
+      "artist": "도유카 (doyouka)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/429/15176429_20261118103559_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603995746"
+    },
+    {
+      "title": "Cotton candy",
+      "artist": "권인서",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/723/15177723_20261118174332_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002240"
+    },
+    {
+      "title": "I have something to say.",
+      "artist": "Meenoi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/329/15176329_20261118170354_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603995424"
+    },
+    {
+      "title": "Paragliding",
+      "artist": "행주",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/555/15171555_20261117160449_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603978002"
+    },
+    {
+      "title": "We did it again.",
+      "artist": "주윤하",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/398/15167398_20261116171349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603961929"
+    },
+    {
+      "title": "Snowflower",
+      "artist": "홀린 (HLIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/263/15171263_20261117152650_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603977319"
+    },
+    {
+      "title": "Checkmate (feat. BoyB, No Yoon-ha, Jung Sun-hye (SUNHYE))",
+      "artist": "DJ SKY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/232/15142232_20261116110937_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603880356"
+    },
+    {
+      "title": "Stupid Face",
+      "artist": "doff",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/386/15177386_20261118152848_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604000500"
+    },
     {
       "title": "demo",
       "artist": "김뮤지엄 (KIMMUSEUM)",
@@ -99,7 +183,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603999489"
     },
     {
-      "title": "Hey, guys.",
+      "title": "Hi, everyone.",
       "artist": "허각",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/736/15091736_20261117170935_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603977744"
@@ -217,90 +301,6 @@
       "artist": "NUGU YAM",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/294/15171294_20261117152930_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603977381"
-    },
-    {
-      "title": "Eternity, Love, Trust",
-      "artist": "나고은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/204/15166204_20261116112919_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603957190"
-    },
-    {
-      "title": "Spray Ver.",
-      "artist": "ATEEZ(에이티즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/296/15151296_20261111145936_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603908335"
-    },
-    {
-      "title": "feat. ALEPH",
-      "artist": "듀 (DEW)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/652/15170652_20261117112542_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603975273"
-    },
-    {
-      "title": "Letter",
-      "artist": "KORB (코브)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/260/15171260_20261117152602_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977311"
-    },
-    {
-      "title": "Sakuranbo",
-      "artist": "YENA (최예나)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/859/15166859_20261116151739_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603959665"
-    },
-    {
-      "title": "NO RETURN",
-      "artist": "아이엔 (Stray Kids)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/769/15166769_20261116143739_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603959302"
-    },
-    {
-      "title": "ENFP ver.",
-      "artist": "HarryBigButton (해리빅버튼)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/251/15171251_20261117152149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977274"
-    },
-    {
-      "title": "Can I just hug you once?",
-      "artist": "에코비",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/224/15160224_20261113183512_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603939042"
-    },
-    {
-      "title": "First Touch",
-      "artist": "굿굿",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/015/15171015_20261117141503_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603976559"
-    },
-    {
-      "title": "The Puzzle of \"Us\"",
-      "artist": "양지은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/640/15170640_20261117111722_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603975218"
-    },
-    {
-      "title": "Hear Me Now",
-      "artist": "김귤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/804/15166804_20261116145045_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603959441"
-    },
-    {
-      "title": "baby baby",
-      "artist": "아도레 (adore)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/278/15171278_20261117152824_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977348"
-    },
-    {
-      "title": "The Earth has a limited lifespan.",
-      "artist": "heyseunghey",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/047/15167047_20261116153456_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603960149"
-    },
-    {
-      "title": "Butterfly",
-      "artist": "화아 (HwA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/036/15167036_20261116153352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603960121"
     }
   ]
 }
