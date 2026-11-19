@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-19T04:59:35.131Z",
-  "lastUpdated": "2026-11-19T04:59:35.131Z",
+  "generatedAt": "2026-11-19T14:53:51.358Z",
+  "lastUpdated": "2026-11-19T14:53:51.358Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
     {
@@ -25,27 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-19T04:59:35.131Z"
-    },
-    {
-      "id": "evt-68a46007cf461e15",
-      "type": "Concert",
-      "title": "Concert “F.L.Y.”",
-      "artist": "Taeyeon",
-      "group": "Taeyeon",
-      "date": "2026-11-18",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TAEYEON CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/taeyeon-announces-fly-concert-at-kspo-dome-and-six-city-asia-tour",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-19T04:59:35.131Z"
+      "lastUpdated": "2026-11-19T14:53:51.358Z"
     },
     {
       "id": "evt-7ee351b2fe2cecbc",
@@ -64,8 +43,8 @@
       "shortDescription": "The 2026 KBS Song Festival has its MC lineup! On November 17, the 2026 KBS Song Festival that actor Choo Young Woo and izna’s Bang Jeemin will host this year’s event together. The festival is set to take place at KBS Arena at 7 p.m. KST…",
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-19T04:59:35.131Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-11-19T14:53:51.358Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -85,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-19T04:59:35.131Z"
+      "lastUpdated": "2026-11-19T14:53:51.358Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -105,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-19T04:59:35.131Z"
+      "lastUpdated": "2026-11-19T14:53:51.358Z"
     },
     {
       "id": "evt-355eb3e7f184456c",
@@ -125,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1885646wpp/wonho-announces-dates-and-cities-for-2027-world-tour-noche",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-19T04:59:35.131Z"
+      "lastUpdated": "2026-11-19T14:53:51.358Z"
     }
   ]
 }
