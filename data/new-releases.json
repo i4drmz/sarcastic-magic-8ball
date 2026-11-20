@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-11-19T20:50:41.916Z",
+  "generatedAt": "2026-11-20T07:32:23.834Z",
   "count": 50,
   "songs": [
+    {
+      "title": "GiiiRIP",
+      "artist": "BIGBANG (빅뱅)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/441/15185441_20261120095643_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604028779"
+    },
+    {
+      "title": "I Want You",
+      "artist": "엔하이픈 (ENHYPEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/014/15160014_20261119175208_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603938629"
+    },
+    {
+      "title": "BABY ANGEL",
+      "artist": "나연 (TWICE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/680/15181680_20261119103644_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016268"
+    },
+    {
+      "title": "Polaroid",
+      "artist": "Yves (이브)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/120/15177120_20261118140332_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603999463"
+    },
+    {
+      "title": "The Wildcard Club Theme Song",
+      "artist": "THEWILDCARDCLUB",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/416/15185416_20261120095528_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604028742"
+    },
+    {
+      "title": "Road",
+      "artist": "스트레이 (The Stray)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/440/15167440_20261116172152_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603962181"
+    },
+    {
+      "title": "feat. HYOI",
+      "artist": "TAEJO",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/448/15167448_20261116172257_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603962217"
+    },
+    {
+      "title": "You, going to memories",
+      "artist": "이소나",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/451/15182451_20261119152850_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604019228"
+    },
+    {
+      "title": "Love",
+      "artist": "Ruru (루루)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/438/15167438_20261116172151_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603962175"
+    },
+    {
+      "title": "feat. maji",
+      "artist": "정바스 (J.BASS)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/438/15181438_20261119100126_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604015131"
+    },
+    {
+      "title": "Blue",
+      "artist": "Kyly",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/686/15181686_20261119103852_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016306"
+    },
+    {
+      "title": "Right now, it's a dream for tomorrow.",
+      "artist": "이날(YNR)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/667/15182667_20261119172750_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604020198"
+    },
+    {
+      "title": "Day N Night",
+      "artist": "Shammah",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/756/15182756_20261119174004_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604020611"
+    },
     {
       "title": "Lights Out",
       "artist": "넬 (NELL)",
@@ -13,6 +91,36 @@
       "artist": "케이시 (Kassy)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/770/15134770_20261118161348_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604000956"
+    },
+    {
+      "title": "Feat. HOSON",
+      "artist": "Dazzling Jihye",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/265/15167265_20261116164340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603960887"
+    },
+    {
+      "title": "COME BACK HOME",
+      "artist": "빅플로",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/72/426/15172426_20261117181050_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603980734"
+    },
+    {
+      "title": "I Miss You So Much",
+      "artist": "이영현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/315/15182315_20261119150031_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018706"
+    },
+    {
+      "title": "She's just crying.",
+      "artist": "파니니 브런치 (PANINI BRUNCH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/316/15171316_20261117153048_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603977454"
+    },
+    {
+      "title": "A Tiny Miracle",
+      "artist": "아야츠노 유니",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/72/440/15172440_20261117181259_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603980809"
     },
     {
       "title": "Back then, we",
@@ -59,7 +167,7 @@
     {
       "title": "Paragliding",
       "artist": "행주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/555/15171555_20261117160449_500.jpg",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/555/15171555_20261120094859_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603978002"
     },
     {
@@ -75,7 +183,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603977319"
     },
     {
-      "title": "Checkmate (feat. BoyB, No Yoon-ha, Jung Sun-hye (SUNHYE))",
+      "title": "Checkmate (feat. BoiB, No Yoon-ha, Jung Sun-hye (SUNHYE))",
       "artist": "DJ SKY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/232/15142232_20261116110937_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603880356"
@@ -105,7 +213,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604002022"
     },
     {
-      "title": "Dupamo Metaverse",
+      "title": "Dufamo Multiverse",
       "artist": "듀파모",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/661/15177661_20261118163441_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604002059"
@@ -183,7 +291,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603999489"
     },
     {
-      "title": "Hi, everyone.",
+      "title": "Hey, guys.",
       "artist": "허각",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/736/15091736_20261117170935_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603977744"
@@ -193,114 +301,6 @@
       "artist": "27RING",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/662/15170662_20261117112906_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603975348"
-    },
-    {
-      "title": "Our Days",
-      "artist": "우다비",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/041/15160041_20261113180411_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603938668"
-    },
-    {
-      "title": "Ants",
-      "artist": "싸비 (XAVII)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/356/15167356_20261116170459_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603961561"
-    },
-    {
-      "title": "A Long Walk",
-      "artist": "선우정아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/568/15171568_20261117161011_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603978106"
-    },
-    {
-      "title": "Love in Full (feat. Jo Gyu-chan)",
-      "artist": "Babylon (베이빌론)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/51/473/15151473_20261111154411_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603909047"
-    },
-    {
-      "title": "Promises",
-      "artist": "제아",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/053/15159053_20261113104040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603935040"
-    },
-    {
-      "title": "own_translation heavy shower snow",
-      "artist": "박현규",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/271/15171271_20261117152736_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977339"
-    },
-    {
-      "title": "Little Star",
-      "artist": "송민준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/165/15171165_20261117150320_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977021"
-    },
-    {
-      "title": "Morning glow",
-      "artist": "낯선아이",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/233/15160233_20261113183618_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603939058"
-    },
-    {
-      "title": "In that movie, in that romance,",
-      "artist": "태비 (Taeb2)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/576/15170576_20261117104145_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974987"
-    },
-    {
-      "title": "Just one minute.",
-      "artist": "WhOLLiN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/503/15170503_20261117102639_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974868"
-    },
-    {
-      "title": "Munchkin (Feat. Just Nochang, Jvcki Wai)",
-      "artist": "래원 (Layone)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/491/15170491_20261117102233_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974811"
-    },
-    {
-      "title": "Durama",
-      "artist": "김모이 (Kim Moi)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/158/15171158_20261117145736_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977013"
-    },
-    {
-      "title": "What was called love",
-      "artist": "승희",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/262/15167262_20261116164149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603960883"
-    },
-    {
-      "title": "ferry ey",
-      "artist": "DPR ARTIC",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/921/15171921_20261117165155_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603979171"
-    },
-    {
-      "title": "Talk To Me",
-      "artist": "KATIE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/216/15167216_20261116160333_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603960718"
-    },
-    {
-      "title": "Tears of the Virgin Mary For Desperado",
-      "artist": "015B",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/585/15170585_20261117104243_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974998"
-    },
-    {
-      "title": "MIRAGE",
-      "artist": "NTAKE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/321/15171321_20261117153241_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977465"
-    },
-    {
-      "title": "Female Ver.",
-      "artist": "NUGU YAM",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/294/15171294_20261117152930_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977381"
     }
   ]
 }
