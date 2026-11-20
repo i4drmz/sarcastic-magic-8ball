@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:32:23.834Z",
+  "generatedAt": "2026-11-20T20:35:05.098Z",
   "count": 50,
   "songs": [
     {
@@ -15,10 +15,46 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603938629"
     },
     {
+      "title": "ICONIC",
+      "artist": "CL",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/375/15182375_20261119151337_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018944"
+    },
+    {
       "title": "BABY ANGEL",
       "artist": "나연 (TWICE)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/680/15181680_20261119103644_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604016268"
+    },
+    {
+      "title": "Reset",
+      "artist": "펀치 (Punch)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/726/15177726_20261118174333_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002245"
+    },
+    {
+      "title": "An obvious breakup",
+      "artist": "Kei (케이)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/132/15177132_20261118140836_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603999484"
+    },
+    {
+      "title": "How many of me",
+      "artist": "니브 (NIve)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/469/15167469_20261116172506_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603962371"
+    },
+    {
+      "title": "Feat. by me",
+      "artist": "entoy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/658/15181658_20261119103147_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016100"
+    },
+    {
+      "title": "CAKE",
+      "artist": "딘딘 (DINDIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/129/15177129_20261118140745_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603999481"
     },
     {
       "title": "Polaroid",
@@ -27,10 +63,52 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603999463"
     },
     {
+      "title": "Strawberry",
+      "artist": "김다현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/320/15171320_20261117153210_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603977463"
+    },
+    {
       "title": "The Wildcard Club Theme Song",
       "artist": "THEWILDCARDCLUB",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/416/15185416_20261120095528_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604028742"
+    },
+    {
+      "title": "Hare Detox",
+      "artist": "이승현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/688/15181688_20261119103957_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016311"
+    },
+    {
+      "title": "BLUE ROAD",
+      "artist": "Meego",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/450/15181450_20261119100348_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604015146"
+    },
+    {
+      "title": "Dust & Diamond",
+      "artist": "M1NU",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/457/15167457_20261116172400_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603962300"
+    },
+    {
+      "title": "NAME IS MINE",
+      "artist": "異현상(곽동현,김현수,박상돈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/894/15171894_20261117164947_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603979103"
+    },
+    {
+      "title": "That it was you all along.",
+      "artist": "에리즈 (Aries)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/826/15181826_20261120184008_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016872"
+    },
+    {
+      "title": "Praise",
+      "artist": "틴들럭스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/441/15176441_20261118103853_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603995808"
     },
     {
       "title": "Road",
@@ -183,7 +261,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603977319"
     },
     {
-      "title": "Checkmate (feat. BoiB, No Yoon-ha, Jung Sun-hye (SUNHYE))",
+      "title": "Checkmate (Feat. BoiB, No Yoon-ha, Jung Sun-hye (SUNHYE))",
       "artist": "DJ SKY",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/232/15142232_20261116110937_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603880356"
@@ -213,7 +291,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604002022"
     },
     {
-      "title": "Dufamo Multiverse",
+      "title": "Dupamo Multiverse",
       "artist": "듀파모",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/661/15177661_20261118163441_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604002059"
@@ -223,84 +301,6 @@
       "artist": "송차앤",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/386/15167386_20261116171124_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603961838"
-    },
-    {
-      "title": "That's not it.",
-      "artist": "김시원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/377/15167377_20261116171015_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603961785"
-    },
-    {
-      "title": "R3HAB Ver.",
-      "artist": "ATEEZ(에이티즈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/56/106/15156106_20261112160208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603925119"
-    },
-    {
-      "title": "#Apartment#Stock#Crypto#Dollar (Feat. Seok-won Yoon)",
-      "artist": "PLAT9 (플랏나인)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/755/15176755_20261118115852_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603997520"
-    },
-    {
-      "title": "I want to love you.",
-      "artist": "미나미 of RESCENE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/808/15166808_20261116145219_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603959458"
-    },
-    {
-      "title": "Not Like Lovin’ Me",
-      "artist": "산(ATEEZ)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/219/15166219_20261116113313_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603957251"
-    },
-    {
-      "title": "Time takes away a lot without saying anything, but",
-      "artist": "손하은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/737/15176737_20261118114958_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603997448"
-    },
-    {
-      "title": "Feat. SANTA19",
-      "artist": "서울달 (SEOULDAL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/72/030/15172030_20261117170502_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603979513"
-    },
-    {
-      "title": "UP & DOWN",
-      "artist": "JDEN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/398/15176398_20261118102055_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603995679"
-    },
-    {
-      "title": "O's",
-      "artist": "로프리스 (Lofris)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/265/15171265_20261117152704_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977329"
-    },
-    {
-      "title": "Zombie",
-      "artist": "랑세 (RANGSE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/264/15167264_20261116164320_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603960886"
-    },
-    {
-      "title": "Last Christmas",
-      "artist": "심각한 개구리",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/136/15177136_20261118141319_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603999489"
-    },
-    {
-      "title": "Hey, guys.",
-      "artist": "허각",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/150/91/736/15091736_20261117170935_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977744"
-    },
-    {
-      "title": "eAzy",
-      "artist": "27RING",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/662/15170662_20261117112906_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603975348"
     }
   ]
 }
