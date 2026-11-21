@@ -1,32 +1,11 @@
 {
-  "generatedAt": "2026-11-21T13:52:55.645Z",
-  "lastUpdated": "2026-11-21T13:52:55.645Z",
+  "generatedAt": "2026-11-21T22:34:57.690Z",
+  "lastUpdated": "2026-11-21T22:34:57.690Z",
   "sourceSummary": [
     "soompi",
-    "soompi-music",
-    "allkpop"
+    "soompi-music"
   ],
   "events": [
-    {
-      "id": "evt-3c5c3e67cb816ef4",
-      "type": "Concert",
-      "title": "Concert “s Yeonjun reveals his cozy new home on”",
-      "artist": "TXT",
-      "group": "TXT",
-      "date": "2026-11-20",
-      "time": null,
-      "venue": "TBA",
-      "city": "TBA",
-      "country": "XX",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "TXT CONCERT COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/txts-yeonjun-reveals-his-cozy-new-home-on-i-live-alone-calls-koo-sung-hwan-his-role-model",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-21T13:52:55.645Z"
-    },
     {
       "id": "evt-ec220f7501a33d5e",
       "type": "Concert",
@@ -45,7 +24,7 @@
       "sourceUrl": "https://www.soompi.com/article/1888986wpp/wayv-announces-2027-u-s-tour-dates-and-cities-for-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-21T13:52:55.645Z"
+      "lastUpdated": "2026-11-21T22:34:57.690Z"
     },
     {
       "id": "evt-15753a0661406742",
@@ -65,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-21T13:52:55.645Z"
+      "lastUpdated": "2026-11-21T22:34:57.690Z"
     },
     {
       "id": "evt-7ee351b2fe2cecbc",
@@ -85,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-21T13:52:55.645Z"
+      "lastUpdated": "2026-11-21T22:34:57.690Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -105,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-21T13:52:55.645Z"
+      "lastUpdated": "2026-11-21T22:34:57.690Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -125,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-21T13:52:55.645Z"
+      "lastUpdated": "2026-11-21T22:34:57.690Z"
     }
   ]
 }
