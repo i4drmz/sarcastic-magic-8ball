@@ -1,18 +1,48 @@
 {
-  "generatedAt": "2026-11-20T20:35:05.098Z",
+  "generatedAt": "2026-11-21T07:27:57.334Z",
   "count": 50,
   "songs": [
     {
-      "title": "GiiiRIP",
-      "artist": "BIGBANG (빅뱅)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/441/15185441_20261120095643_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604028779"
+      "title": "A few coincidences",
+      "artist": "김시원",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/574/15170574_20261117104118_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603974985"
     },
     {
-      "title": "I Want You",
+      "title": "Would tomorrow be okay?",
+      "artist": "단칸방 로맨스",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/681/15185681_20261120105030_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029550"
+    },
+    {
+      "title": "He's not coming.",
+      "artist": "김용빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/967/15185967_20261120115937_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031425"
+    },
+    {
+      "title": "I guess this is a breakup. I guess we're breaking up.",
+      "artist": "휴이 (Huie)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/245/15186245_20261120141232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032263"
+    },
+    {
+      "title": "My honey, darling, mi amor",
+      "artist": "Jade (제이드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/577/15170577_20261117104145_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603974988"
+    },
+    {
+      "title": "Go, Don't Go",
+      "artist": "앤드뉴 (Andnew)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/592/15185592_20261120101541_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029205"
+    },
+    {
+      "title": "JUNGWON Ver.",
       "artist": "엔하이픈 (ENHYPEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/014/15160014_20261119175208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603938629"
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/723/15185723_20261120105530_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029802"
     },
     {
       "title": "ICONIC",
@@ -21,16 +51,58 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604018944"
     },
     {
-      "title": "BABY ANGEL",
-      "artist": "나연 (TWICE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/680/15181680_20261119103644_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604016268"
-    },
-    {
       "title": "Reset",
       "artist": "펀치 (Punch)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/726/15177726_20261118174333_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604002245"
+    },
+    {
+      "title": "I want to take a nap.",
+      "artist": "여은",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/699/15177699_20261118164847_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002165"
+    },
+    {
+      "title": "Sometimes, we",
+      "artist": "박건후",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/448/15176448_20261118104339_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603995832"
+    },
+    {
+      "title": "yoosooji",
+      "artist": "LOBOTOME",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/598/15170598_20261117105052_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603975032"
+    },
+    {
+      "title": "How are you?",
+      "artist": "디멜로(D'Melo)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/523/15182523_20261119162954_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604019623"
+    },
+    {
+      "title": "Feat. IOHBOY",
+      "artist": "김토라 (Tora)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/427/15181427_20261119095436_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604015108"
+    },
+    {
+      "title": "How's it going? (Feat. Da-eun)",
+      "artist": "윤예준",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/331/15186331_20261120143727_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032560"
+    },
+    {
+      "title": "luciddream (Feat. Soo-woong Choi)",
+      "artist": "ByssBlue",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/798/15177798_20261118175002_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002490"
+    },
+    {
+      "title": "Dorodoro",
+      "artist": "유은석",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/567/15170567_20261117103942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603974969"
     },
     {
       "title": "An obvious breakup",
@@ -49,6 +121,24 @@
       "artist": "entoy",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/658/15181658_20261119103147_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604016100"
+    },
+    {
+      "title": "GiiiRIP",
+      "artist": "BIGBANG (빅뱅)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/441/15185441_20261120095643_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604028779"
+    },
+    {
+      "title": "I Want You",
+      "artist": "엔하이픈 (ENHYPEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/014/15160014_20261119175208_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603938629"
+    },
+    {
+      "title": "BABY ANGEL",
+      "artist": "나연 (TWICE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/680/15181680_20261119103644_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016268"
     },
     {
       "title": "CAKE",
@@ -123,7 +213,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603962217"
     },
     {
-      "title": "You, going to memories",
+      "title": "You, heading towards memories",
       "artist": "이소나",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/451/15182451_20261119152850_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604019228"
@@ -211,96 +301,6 @@
       "artist": "앨리스신드롬",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/731/15176731_20261118114827_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603997433"
-    },
-    {
-      "title": "Still, it's love.",
-      "artist": "홍성윤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/683/15177683_20261118164435_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604002106"
-    },
-    {
-      "title": "Hamster wheel",
-      "artist": "팔칠댄스 (87dance)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/294/15177294_20261118151953_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604000129"
-    },
-    {
-      "title": "Habit",
-      "artist": "도유카 (doyouka)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/429/15176429_20261118103559_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603995746"
-    },
-    {
-      "title": "Cotton candy",
-      "artist": "권인서",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/723/15177723_20261118174332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604002240"
-    },
-    {
-      "title": "I have something to say.",
-      "artist": "Meenoi",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/329/15176329_20261118170354_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603995424"
-    },
-    {
-      "title": "Paragliding",
-      "artist": "행주",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/555/15171555_20261120094859_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603978002"
-    },
-    {
-      "title": "We did it again.",
-      "artist": "주윤하",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/398/15167398_20261116171349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603961929"
-    },
-    {
-      "title": "Snowflower",
-      "artist": "홀린 (HLIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/263/15171263_20261117152650_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977319"
-    },
-    {
-      "title": "Checkmate (Feat. BoiB, No Yoon-ha, Jung Sun-hye (SUNHYE))",
-      "artist": "DJ SKY",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/42/232/15142232_20261116110937_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603880356"
-    },
-    {
-      "title": "Stupid Face",
-      "artist": "doff",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/386/15177386_20261118152848_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604000500"
-    },
-    {
-      "title": "demo",
-      "artist": "김뮤지엄 (KIMMUSEUM)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/426/15176426_20261118104946_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603995742"
-    },
-    {
-      "title": "Long Distance",
-      "artist": "뷰렛",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/663/15176663_20261118113842_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603997150"
-    },
-    {
-      "title": "Your World",
-      "artist": "김현진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/647/15177647_20261118163218_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604002022"
-    },
-    {
-      "title": "Dupamo Multiverse",
-      "artist": "듀파모",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/661/15177661_20261118163441_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604002059"
-    },
-    {
-      "title": "Rainbow (Rainbow Beyond the Hill)",
-      "artist": "송차앤",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/386/15167386_20261116171124_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603961838"
     }
   ]
 }
