@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-21T19:33:04.708Z",
+  "generatedAt": "2026-11-22T07:09:39.824Z",
   "count": 50,
   "songs": [
+    {
+      "title": "TWO DAYS",
+      "artist": "WHOEVER",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/955/15182955_20261119183632_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604021348"
+    },
+    {
+      "title": "The Secret of the Number 3",
+      "artist": "옴 (omm..)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/591/15176591_20261118112457_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603996629"
+    },
+    {
+      "title": "I want to walk with you.",
+      "artist": "권연우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/608/15181608_20261119102232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604015772"
+    },
+    {
+      "title": "all alone",
+      "artist": "태리 (Terry)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/332/15186332_20261120143731_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032564"
+    },
+    {
+      "title": "The Underestimated Woman",
+      "artist": "Haeroiki (해로이키)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/547/15181547_20261119101534_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604015497"
+    },
+    {
+      "title": "In the direction the wind is blowing",
+      "artist": "여운",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/715/15185715_20261120105344_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029770"
+    },
     {
       "title": "Who I Am",
       "artist": "플라이 투 더 스카이",
@@ -9,19 +45,67 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604018634"
     },
     {
-      "title": "Neoreul Wonhae (feat. Dainamikdyuo)",
+      "title": "I Want You (feat. Dynamic Duo)",
       "artist": "듀스 (DEUX)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/88/179/15188179_20261120175407_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604036840"
     },
     {
-      "title": "Naneun Nareul",
+      "title": "Grounded",
+      "artist": "일라잇",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/734/15185734_20261120105932_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029840"
+    },
+    {
+      "title": "in a low voice",
+      "artist": "아란",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/164/15177164_20261118143301_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603999577"
+    },
+    {
+      "title": "My Angel",
+      "artist": "윤사와",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/763/15182763_20261119174214_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604020734"
+    },
+    {
+      "title": "Twilight Madness",
+      "artist": "안시우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/169/15177169_20261118143406_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603999583"
+    },
+    {
+      "title": "pledge vow",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/87/529/15187529_20261120165856_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604035129"
+    },
+    {
+      "title": "Winter Party Night",
+      "artist": "하이디",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/722/15177722_20261118174332_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002239"
+    },
+    {
+      "title": "Violet",
+      "artist": "aett",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/446/15176446_20261118104054_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603995827"
+    },
+    {
+      "title": "Waiting for you",
+      "artist": "지훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/972/15185972_20261120120049_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031473"
+    },
+    {
+      "title": "I",
       "artist": "시은 (SIEUN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/174/15177174_20261118144439_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603999590"
     },
     {
-      "title": "Siniyeo",
+      "title": "Oh, God.",
       "artist": "김우형",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/276/15186276_20261120141844_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604032365"
@@ -33,25 +117,25 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603999552"
     },
     {
-      "title": "Sonyeoui Ilgi",
+      "title": "A Girl's Diary",
       "artist": "리플리 (RIPLEY)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/281/15167281_20261116165040_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603960966"
     },
     {
-      "title": "Sikginjong",
+      "title": "Cannibal",
       "artist": "Bigstoneboi",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/271/15186271_20261120141647_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604032332"
     },
     {
-      "title": "Haengbokaji Malgeol Geuraesseo",
+      "title": "I shouldn't have been happy.",
       "artist": "차가을",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/160/15177160_20261118143030_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603999560"
     },
     {
-      "title": "Amureochi Aneun Oneul",
+      "title": "Today is just another day.",
       "artist": "박종민",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/719/15177719_20261118174331_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604002235"
@@ -63,37 +147,37 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603974961"
     },
     {
-      "title": "Somyeoruju",
+      "title": "Dying Universe",
       "artist": "다루성",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/750/15182750_20261119173954_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604020549"
     },
     {
-      "title": "Naneun Nuga Wirohae Junayo",
+      "title": "Who will comfort me?",
       "artist": "인호",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/462/15177462_20261118160040_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604001028"
     },
     {
-      "title": "Myeot Beonui Uyeon",
+      "title": "A few coincidences",
       "artist": "김시원",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/574/15170574_20261117104118_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603974985"
     },
     {
-      "title": "Naeireun Gwaenchaneulkkayo?",
+      "title": "Would tomorrow be okay?",
       "artist": "단칸방 로맨스",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/681/15185681_20261120105030_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604029550"
     },
     {
-      "title": "An One",
+      "title": "He's not coming.",
       "artist": "김용빈",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/967/15185967_20261120115937_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604031425"
     },
     {
-      "title": "Ibyeollinga Bwa Heeojina Bwa",
+      "title": "I guess this is a breakup. I guess we're breaking up.",
       "artist": "휴이 (Huie)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/245/15186245_20261120141232_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604032263"
@@ -129,13 +213,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604002245"
     },
     {
-      "title": "Natjam Jallae",
+      "title": "I want to take a nap.",
       "artist": "여은",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/699/15177699_20261118164847_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604002165"
     },
     {
-      "title": "Gakkeum Urin Uriui",
+      "title": "Sometimes, we",
       "artist": "박건후",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/448/15176448_20261118104339_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603995832"
@@ -147,7 +231,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603975032"
     },
     {
-      "title": "Annyeonghangayo",
+      "title": "How are you?",
       "artist": "디멜로(D'Melo)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/523/15182523_20261119162954_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604019623"
@@ -159,13 +243,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604015108"
     },
     {
-      "title": "Eottae? (Feat. Daeun)",
+      "title": "How's it going? (Feat. Da-eun)",
       "artist": "윤예준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/331/15186331_20261120143727_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604032560"
     },
     {
-      "title": "Luciddream (Feat. Choesuung)",
+      "title": "luciddream (feat. Soo-woong Choi)",
       "artist": "ByssBlue",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/798/15177798_20261118175002_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604002490"
@@ -177,7 +261,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603974969"
     },
     {
-      "title": "Ppeonhan Ibyeol",
+      "title": "An obvious breakup",
       "artist": "Kei (케이)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/132/15177132_20261118140836_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603999484"
@@ -217,90 +301,6 @@
       "artist": "딘딘 (DINDIN)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/129/15177129_20261118140745_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=603999481"
-    },
-    {
-      "title": "Polaroid",
-      "artist": "Yves (이브)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/120/15177120_20261118140332_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603999463"
-    },
-    {
-      "title": "Ttalgi",
-      "artist": "김다현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/320/15171320_20261117153210_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603977463"
-    },
-    {
-      "title": "The Wildcard Club Theme Song",
-      "artist": "THEWILDCARDCLUB",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/416/15185416_20261120095528_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604028742"
-    },
-    {
-      "title": "Santokki Ditokseu",
-      "artist": "이승현",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/688/15181688_20261119103957_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604016311"
-    },
-    {
-      "title": "BLUE ROAD",
-      "artist": "Meego",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/450/15181450_20261119100348_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604015146"
-    },
-    {
-      "title": "Dust & Diamond",
-      "artist": "M1NU",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/457/15167457_20261116172400_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603962300"
-    },
-    {
-      "title": "NAME IS MINE",
-      "artist": "異현상(곽동현,김현수,박상돈)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/71/894/15171894_20261117164947_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603979103"
-    },
-    {
-      "title": "Kkeunnae Neoyeotdaneun Geol",
-      "artist": "에리즈 (Aries)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/826/15181826_20261120184008_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604016872"
-    },
-    {
-      "title": "Chingsonghae",
-      "artist": "틴들럭스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/441/15176441_20261118103853_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603995808"
-    },
-    {
-      "title": "Gil",
-      "artist": "스트레이 (The Stray)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/440/15167440_20261116172152_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603962181"
-    },
-    {
-      "title": "feat. HYOI",
-      "artist": "TAEJO",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/448/15167448_20261116172257_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603962217"
-    },
-    {
-      "title": "Chueogeuro Ganeun Dangsin",
-      "artist": "이소나",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/451/15182451_20261119152850_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604019228"
-    },
-    {
-      "title": "Sarangae",
-      "artist": "Ruru (루루)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/438/15167438_20261116172151_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603962175"
-    },
-    {
-      "title": "feat. maji",
-      "artist": "정바스 (J.BASS)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/438/15181438_20261119100126_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604015131"
     }
   ]
 }
