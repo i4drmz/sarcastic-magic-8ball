@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-11-22T07:09:39.824Z",
+  "generatedAt": "2026-11-22T19:52:50.647Z",
   "count": 50,
   "songs": [
+    {
+      "title": "You must be happy.",
+      "artist": "로이킴",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/301/15182301_20261119145441_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018652"
+    },
+    {
+      "title": "One hot pack in your pocket",
+      "artist": "탑현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/990/15185990_20261120120401_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031544"
+    },
+    {
+      "title": "November",
+      "artist": "소향",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/739/15185739_20261120110240_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029862"
+    },
+    {
+      "title": "Love is piling up.",
+      "artist": "스무살",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/524/15182524_20261119163040_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604019625"
+    },
+    {
+      "title": "Freefall",
+      "artist": "슬릭 (SLEEQ)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/997/15185997_20261120120616_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031552"
+    },
+    {
+      "title": "Corners",
+      "artist": "siso(시소)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/171/15177171_20261118143432_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603999586"
+    },
+    {
+      "title": "City Lights",
+      "artist": "신해솔",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/791/15176791_20261118121640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603997698"
+    },
+    {
+      "title": "Flat Out",
+      "artist": "KARDI (카디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/525/15185525_20261120100452_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029033"
+    },
+    {
+      "title": "Take off your clothes and do it.",
+      "artist": "호미들",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/045/15186045_20261120122200_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031662"
+    },
     {
       "title": "TWO DAYS",
       "artist": "WHOEVER",
@@ -27,13 +81,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604032564"
     },
     {
-      "title": "The Underestimated Woman",
+      "title": "The undervalued woman",
       "artist": "Haeroiki (해로이키)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/547/15181547_20261119101534_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604015497"
     },
     {
-      "title": "In the direction the wind is blowing",
+      "title": "In the direction of the wind",
       "artist": "여운",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/715/15185715_20261120105344_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604029770"
@@ -247,60 +301,6 @@
       "artist": "윤예준",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/331/15186331_20261120143727_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604032560"
-    },
-    {
-      "title": "luciddream (feat. Soo-woong Choi)",
-      "artist": "ByssBlue",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/798/15177798_20261118175002_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604002490"
-    },
-    {
-      "title": "Dorodoro",
-      "artist": "유은석",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/567/15170567_20261117103942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974969"
-    },
-    {
-      "title": "An obvious breakup",
-      "artist": "Kei (케이)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/132/15177132_20261118140836_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603999484"
-    },
-    {
-      "title": "How many of me",
-      "artist": "니브 (NIve)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/469/15167469_20261116172506_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603962371"
-    },
-    {
-      "title": "Feat. by me",
-      "artist": "entoy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/658/15181658_20261119103147_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604016100"
-    },
-    {
-      "title": "GiiiRIP",
-      "artist": "BIGBANG (빅뱅)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/441/15185441_20261120095643_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604028779"
-    },
-    {
-      "title": "I Want You",
-      "artist": "엔하이픈 (ENHYPEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/60/014/15160014_20261119175208_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603938629"
-    },
-    {
-      "title": "BABY ANGEL",
-      "artist": "나연 (TWICE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/680/15181680_20261119103644_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604016268"
-    },
-    {
-      "title": "CAKE",
-      "artist": "딘딘 (DINDIN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/129/15177129_20261118140745_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603999481"
     }
   ]
 }
