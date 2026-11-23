@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-11-22T19:52:50.647Z",
+  "generatedAt": "2026-11-23T07:56:01.372Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Lily",
+      "artist": "장수빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/348/15182348_20261119150544_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018850"
+    },
+    {
+      "title": "My love seems to be a contradiction (feat. Lokid)",
+      "artist": "이야",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/320/15182320_20261119150229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018762"
+    },
+    {
+      "title": "feat. 16",
+      "artist": "oftn (오픈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/343/15186343_20261120144039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032625"
+    },
+    {
+      "title": "I love you",
+      "artist": "트래블러 (TRAVELLER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/583/15186583_20261120155154_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604033409"
+    },
+    {
+      "title": "Beyond the Gate",
+      "artist": "박수진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/720/15177720_20261118174332_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002238"
+    },
+    {
+      "title": "day off lover",
+      "artist": "사민(SAMIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/793/15181793_20261119111125_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016679"
+    },
+    {
+      "title": "SOOBIN Ver.",
+      "artist": "투모로우바이투게더",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/999/15186999_20261120161835_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604034068"
+    },
+    {
+      "title": "I Want You",
+      "artist": "엔하이픈 (ENHYPEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/280/15186280_20261120142000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032387"
+    },
+    {
+      "title": "IÖN Ver.",
+      "artist": "ATEEZ(에이티즈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/66/225/15166225_20261116114429_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=603957271"
+    },
     {
       "title": "You must be happy.",
       "artist": "로이킴",
@@ -13,6 +67,60 @@
       "artist": "탑현",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/990/15185990_20261120120401_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604031544"
+    },
+    {
+      "title": "Feat. h3hyeon",
+      "artist": "SEEMI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/762/15185762_20261120110935_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029981"
+    },
+    {
+      "title": "Breast lump",
+      "artist": "장해리",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/735/15185735_20261120105938_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029847"
+    },
+    {
+      "title": "Tiny Universe",
+      "artist": "PINKRISE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/042/15186042_20261120122059_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031659"
+    },
+    {
+      "title": "Tu tu tu (The way to you)",
+      "artist": "정수빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/703/15185703_20261120105232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029702"
+    },
+    {
+      "title": "Late night feelings",
+      "artist": "0018",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/747/15185747_20261120110457_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029900"
+    },
+    {
+      "title": "(Shaking his head) ...",
+      "artist": "김준범",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/805/15185805_20261120111441_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604030172"
+    },
+    {
+      "title": "Frame",
+      "artist": "나아람",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/800/15185800_20261120111340_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604030150"
+    },
+    {
+      "title": "hiyin",
+      "artist": "Jaenax",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/749/15185749_20261120110639_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029914"
+    },
+    {
+      "title": "I miss you when autumn comes.",
+      "artist": "휴이 (Huie)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/731/15185731_20261120105800_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029830"
     },
     {
       "title": "November",
@@ -189,118 +297,10 @@
       "link": "https://www.melon.com/song/detail.htm?songId=603999560"
     },
     {
-      "title": "Today is just another day.",
+      "title": "An ordinary day today",
       "artist": "박종민",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/719/15177719_20261118174331_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604002235"
-    },
-    {
-      "title": "Feat. AIDEN",
-      "artist": "JISEONG (지성)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/562/15170562_20261117103827_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974961"
-    },
-    {
-      "title": "Dying Universe",
-      "artist": "다루성",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/750/15182750_20261119173954_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604020549"
-    },
-    {
-      "title": "Who will comfort me?",
-      "artist": "인호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/462/15177462_20261118160040_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604001028"
-    },
-    {
-      "title": "A few coincidences",
-      "artist": "김시원",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/574/15170574_20261117104118_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974985"
-    },
-    {
-      "title": "Would tomorrow be okay?",
-      "artist": "단칸방 로맨스",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/681/15185681_20261120105030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604029550"
-    },
-    {
-      "title": "He's not coming.",
-      "artist": "김용빈",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/967/15185967_20261120115937_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604031425"
-    },
-    {
-      "title": "I guess this is a breakup. I guess we're breaking up.",
-      "artist": "휴이 (Huie)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/245/15186245_20261120141232_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604032263"
-    },
-    {
-      "title": "My honey, darling, mi amor",
-      "artist": "Jade (제이드)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/577/15170577_20261117104145_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603974988"
-    },
-    {
-      "title": "Go, Don't Go",
-      "artist": "앤드뉴 (Andnew)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/592/15185592_20261120101541_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604029205"
-    },
-    {
-      "title": "JUNGWON Ver.",
-      "artist": "엔하이픈 (ENHYPEN)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/723/15185723_20261120105530_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604029802"
-    },
-    {
-      "title": "ICONIC",
-      "artist": "CL",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/375/15182375_20261119151337_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604018944"
-    },
-    {
-      "title": "Reset",
-      "artist": "펀치 (Punch)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/726/15177726_20261118174333_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604002245"
-    },
-    {
-      "title": "I want to take a nap.",
-      "artist": "여은",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/699/15177699_20261118164847_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604002165"
-    },
-    {
-      "title": "Sometimes, we",
-      "artist": "박건후",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/76/448/15176448_20261118104339_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603995832"
-    },
-    {
-      "title": "yoosooji",
-      "artist": "LOBOTOME",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/70/598/15170598_20261117105052_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=603975032"
-    },
-    {
-      "title": "How are you?",
-      "artist": "디멜로(D'Melo)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/523/15182523_20261119162954_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604019623"
-    },
-    {
-      "title": "Feat. IOHBOY",
-      "artist": "김토라 (Tora)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/427/15181427_20261119095436_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604015108"
-    },
-    {
-      "title": "How's it going? (Feat. Da-eun)",
-      "artist": "윤예준",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/331/15186331_20261120143727_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604032560"
     }
   ]
 }
