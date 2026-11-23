@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T04:43:00.736Z",
-  "lastUpdated": "2026-11-23T04:43:00.736Z",
+  "generatedAt": "2026-11-23T16:48:52.199Z",
+  "lastUpdated": "2026-11-23T16:48:52.199Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/bigbangs-20th-anniversary-merch-exhibition-reaches-19-mainland-chinese-cities-tencent-music-reveals",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     },
     {
       "id": "evt-832030e7643276f9",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/lee-junho-to-hold-2027-fan-concert-twilight-ahead-of-his-next-project",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     },
     {
       "id": "evt-b10bca8712408d10",
@@ -65,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1889538wpp/iu-announces-dates-and-cities-for-2027-world-tour",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     },
     {
       "id": "evt-ec220f7501a33d5e",
@@ -84,8 +84,8 @@
       "shortDescription": "WAYV TOUR COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1888986wpp/wayv-announces-2027-u-s-tour-dates-and-cities-for-born-this-way",
       "ticketUrl": null,
-      "source": "rss:soompi",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "source": "rss:soompi-music",
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     },
     {
       "id": "evt-15753a0661406742",
@@ -105,7 +105,7 @@
       "sourceUrl": "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     },
     {
       "id": "evt-7ee351b2fe2cecbc",
@@ -125,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     },
     {
       "id": "evt-616e4bd921243cfa",
@@ -145,7 +145,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886712wpp/exo-kase-announces-dates-and-cities-for-1st-fan-concert-tour-silent-city",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     },
     {
       "id": "evt-79fe3f5d6e86ea17",
@@ -165,7 +165,7 @@
       "sourceUrl": "https://www.soompi.com/article/1886817wpp/2026-kbs-song-festival-announces-artist-lineup",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-23T04:43:00.736Z"
+      "lastUpdated": "2026-11-23T16:48:52.199Z"
     }
   ]
 }
