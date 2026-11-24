@@ -1,5 +1,306 @@
 {
-  "generatedAt": "2026-11-24T00:07:13.746Z",
-  "count": 0,
-  "songs": []
+  "generatedAt": "2026-11-24T10:09:05.469Z",
+  "count": 50,
+  "songs": [
+    {
+      "title": "A farewell to well-being",
+      "artist": "신용재 (2F)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/593/15194593_20261123135123_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604054997"
+    },
+    {
+      "title": "Mountain, Life",
+      "artist": "장민호",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/846/15194846_20261123153246_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604056009"
+    },
+    {
+      "title": "Desperate, desperate",
+      "artist": "윤하 (YOUNHA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/755/15194755_20261123151426_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604055740"
+    },
+    {
+      "title": "Like You",
+      "artist": "임시완 (Yim Siwan)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/148/15186148_20261120135220_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031946"
+    },
+    {
+      "title": "Love Me Love Me",
+      "artist": "보라미유",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/027/15195027_20261123160239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604056540"
+    },
+    {
+      "title": "When this rain stops,",
+      "artist": "변진섭",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/279/15194279_20261123114940_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604053296"
+    },
+    {
+      "title": "or",
+      "artist": "박다울",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/804/15185804_20261120111440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604030171"
+    },
+    {
+      "title": "Critical Love",
+      "artist": "이예지",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/760/15194760_20261123151626_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604055790"
+    },
+    {
+      "title": "Survive that winter.",
+      "artist": "정가이 (와인루프)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/150/15186150_20261120135320_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031959"
+    },
+    {
+      "title": "Afterimage (Vocal Zgoomong)",
+      "artist": "망고팔트 (MangoPhalt)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/87/448/15187448_20261120165352_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604034975"
+    },
+    {
+      "title": "with Molly Yam",
+      "artist": "Shane",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/590/15194590_20261123134921_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604054977"
+    },
+    {
+      "title": "same clothes",
+      "artist": "MODS (0WAVE)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/144/15186144_20261120134523_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031924"
+    },
+    {
+      "title": "Youngimma Park Children",
+      "artist": "권기백",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/553/15198553_20261124095944_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604066916"
+    },
+    {
+      "title": "Faded Love (feat. Chilloop)",
+      "artist": "Brody (브로디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/146/15194146_20261123104942_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604052741"
+    },
+    {
+      "title": "Under the First Snow (feat. Choi I-o, Mabinc)",
+      "artist": "SUDI",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/000/15186000_20261120120718_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031570"
+    },
+    {
+      "title": "Tomorrow's Smile (OST from the webtoon \"Bunker's Day\" X IT'S)",
+      "artist": "이츠",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/711/15182711_20261124155813_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604020444"
+    },
+    {
+      "title": "The things I thought were love",
+      "artist": "김소연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/776/15194776_20261123152520_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604055839"
+    },
+    {
+      "title": "Stay",
+      "artist": "floryy",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/145/15194145_20261123104839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604052740"
+    },
+    {
+      "title": "Both you and I",
+      "artist": "최아인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/026/15195026_20261123160149_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604056538"
+    },
+    {
+      "title": "ROSTER",
+      "artist": "HEYOON (혜윤)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/312/15194312_20261123115349_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604053438"
+    },
+    {
+      "title": "Before Sunrise",
+      "artist": "웬디 (WENDY)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/714/15185714_20261120105342_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029765"
+    },
+    {
+      "title": "Love Again (feat. Jenna of RESCENE)",
+      "artist": "한해",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/657/15186657_20261120155734_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604033577"
+    },
+    {
+      "title": "Whenever I see you,",
+      "artist": "셀린 (Celine)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/144/15194144_20261123104732_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604052738"
+    },
+    {
+      "title": "Dancing in the Rain",
+      "artist": "1VERSE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/859/15185859_20261120140012_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604030329"
+    },
+    {
+      "title": "To you who are exhausted",
+      "artist": "수소진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/002/15186002_20261120120724_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031587"
+    },
+    {
+      "title": "The days I hated, and the days I loved",
+      "artist": "구구 (GuGu)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/413/15194413_20261123121102_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604054155"
+    },
+    {
+      "title": "Polar Night",
+      "artist": "길미",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/213/15194213_20261123113841_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604052931"
+    },
+    {
+      "title": "Warm Season Will Come In The End",
+      "artist": "야자수",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/273/15194273_20261123114839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604053285"
+    },
+    {
+      "title": "Ready To Dive",
+      "artist": "WONDER ATTACK",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/623/15186623_20261120155440_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604033465"
+    },
+    {
+      "title": "Express yourself with your body",
+      "artist": "술탄 오브 더 디스코",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/287/15186287_20261120142123_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032426"
+    },
+    {
+      "title": "U",
+      "artist": "Lixm (리암)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/422/15194422_20261123121250_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604054213"
+    },
+    {
+      "title": "2026 CITY POP Ver.",
+      "artist": "Group PLANT (그룹 플랜트)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/087/15194087_20261123100052_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604052583"
+    },
+    {
+      "title": "She's not a good kid.",
+      "artist": "도토리 스튜디오",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/269/15194269_20261123114837_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604053277"
+    },
+    {
+      "title": "Unwanted",
+      "artist": "1DAY",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/205/15194205_20261123113721_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604052899"
+    },
+    {
+      "title": "Money Count (Feat. Potty Monkey, ZENE THE ZILLA, Just Nochang)",
+      "artist": "Wiz World",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/611/15185611_20261120101839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029262"
+    },
+    {
+      "title": "PRETTY DIRT",
+      "artist": "D.Ark (디아크)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/946/15185946_20261120115410_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604031222"
+    },
+    {
+      "title": "Like a Beautiful Painting (feat. Lim Jae-hyun)",
+      "artist": "양정승",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/353/15182353_20261119150744_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018870"
+    },
+    {
+      "title": "I Didn't Know Love Was Like This (feat. OWN)",
+      "artist": "Kinn (킨)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/771/15185771_20261120111016_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029992"
+    },
+    {
+      "title": "Even though I'm looking at you, I still miss you.",
+      "artist": "Pa!nter",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/753/15185753_20261120110748_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604029933"
+    },
+    {
+      "title": "Don't cry for no reason.",
+      "artist": "밈 (mim)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/787/15181787_20261119111022_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016660"
+    },
+    {
+      "title": "Should I say it's okay?",
+      "artist": "하진 (HAJIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/356/15182356_20261119150841_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018874"
+    },
+    {
+      "title": "gray.",
+      "artist": "RYUL",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/798/15185798_20261120111330_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604030117"
+    },
+    {
+      "title": "Lily",
+      "artist": "장수빈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/348/15182348_20261119150544_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018850"
+    },
+    {
+      "title": "My love seems to be a contradiction (feat. Lokid)",
+      "artist": "이야",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/320/15182320_20261119150229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604018762"
+    },
+    {
+      "title": "feat. 16",
+      "artist": "oftn (오픈)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/343/15186343_20261120144039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032625"
+    },
+    {
+      "title": "I love you",
+      "artist": "트래블러 (TRAVELLER)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/583/15186583_20261120155154_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604033409"
+    },
+    {
+      "title": "Beyond the Gate",
+      "artist": "박수진",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/720/15177720_20261118174332_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604002238"
+    },
+    {
+      "title": "day off lover",
+      "artist": "사민(SAMIN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/81/793/15181793_20261119111125_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604016679"
+    },
+    {
+      "title": "SOOBIN Ver.",
+      "artist": "투모로우바이투게더",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/999/15186999_20261120161835_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604034068"
+    },
+    {
+      "title": "I Want You",
+      "artist": "엔하이픈 (ENHYPEN)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/280/15186280_20261120142000_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032387"
+    }
+  ]
 }
