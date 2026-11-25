@@ -1,7 +1,73 @@
 {
-  "generatedAt": "2026-11-25T08:54:55.899Z",
+  "generatedAt": "2026-11-25T21:52:05.584Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Greedy",
+      "artist": "KISS OF LIFE",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/00/268/15200268_20261124162444_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604071114"
+    },
+    {
+      "title": "Weight of the soul",
+      "artist": "혁오 (HYUKOH)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/397/15199397_20261124135722_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069082"
+    },
+    {
+      "title": "Just Because",
+      "artist": "Christopher",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/158/15199158_20261124121933_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068699"
+    },
+    {
+      "title": "Noon Race",
+      "artist": "신인류",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/629/15199629_20261124154855_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069753"
+    },
+    {
+      "title": "I couldn't ask for more.",
+      "artist": "한올",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/128/85/474/12885474_20261124144722_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069169"
+    },
+    {
+      "title": "Nocturne of Love",
+      "artist": "INJAE(인재)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/028/15195028_20261123160631_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604056541"
+    },
+    {
+      "title": "IWALY (I Will Always Love You)",
+      "artist": "izna (이즈나)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/00/820/15200820_20261124165045_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604072262"
+    },
+    {
+      "title": "Tree Tree Christmas Tree (feat. Son Mo-eun)",
+      "artist": "강유현 (Kang yuhyun)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/159/15199159_20261124122114_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068701"
+    },
+    {
+      "title": "The Season Without a Name",
+      "artist": "전세연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/624/15198624_20261124103828_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604067136"
+    },
+    {
+      "title": "Commitment",
+      "artist": "꿈의음",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/111/15199111_20261124115526_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068505"
+    },
+    {
+      "title": "Arkins Remix",
+      "artist": "EVNNE(이븐)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/863/15203863_20261125094132_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081207"
+    },
     {
       "title": "Magic (From \"Hex: The Kingdom of Witches\"/Korean Single Version)",
       "artist": "RESCENE (리센느)",
@@ -45,7 +111,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604067184"
     },
     {
-      "title": "A farewell to well-being",
+      "title": "Goodbye, goodbye",
       "artist": "신용재 (2F)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/593/15194593_20261123135123_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604054997"
@@ -99,7 +165,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604068610"
     },
     {
-      "title": "Definitely this Christmas",
+      "title": "This Christmas, be sure to",
       "artist": "이을 (E.ul)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/172/15195172_20261123165131_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604057316"
@@ -201,7 +267,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604052741"
     },
     {
-      "title": "Under the First Snow (feat. Choi I-o, Mabinc)",
+      "title": "Under the First Snow (Feat. Choi I-o, Mabinc)",
       "artist": "SUDI",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/000/15186000_20261120120718_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604031570"
@@ -235,72 +301,6 @@
       "artist": "HEYOON (혜윤)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/312/15194312_20261123115349_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604053438"
-    },
-    {
-      "title": "Before Sunrise",
-      "artist": "웬디 (WENDY)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/714/15185714_20261120105342_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604029765"
-    },
-    {
-      "title": "Love Again (feat. Jenna of RESCENE)",
-      "artist": "한해",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/657/15186657_20261120155734_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604033577"
-    },
-    {
-      "title": "Whenever I see you,",
-      "artist": "셀린 (Celine)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/144/15194144_20261123104732_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604052738"
-    },
-    {
-      "title": "Dancing in the Rain",
-      "artist": "1VERSE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/859/15185859_20261120140012_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604030329"
-    },
-    {
-      "title": "To you who are exhausted",
-      "artist": "수소진",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/002/15186002_20261120120724_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604031587"
-    },
-    {
-      "title": "The days I hated, and the days I loved",
-      "artist": "구구 (GuGu)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/413/15194413_20261123121102_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604054155"
-    },
-    {
-      "title": "Polar Night",
-      "artist": "길미",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/213/15194213_20261123113841_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604052931"
-    },
-    {
-      "title": "Warm Season Will Come In The End",
-      "artist": "야자수",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/273/15194273_20261123114839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604053285"
-    },
-    {
-      "title": "Ready To Dive",
-      "artist": "WONDER ATTACK",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/623/15186623_20261120155440_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604033465"
-    },
-    {
-      "title": "Express yourself with your body",
-      "artist": "술탄 오브 더 디스코",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/287/15186287_20261120142123_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604032426"
-    },
-    {
-      "title": "U",
-      "artist": "Lixm (리암)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/422/15194422_20261123121250_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604054213"
     }
   ]
 }
