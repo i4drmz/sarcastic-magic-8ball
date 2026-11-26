@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-25T21:52:05.584Z",
+  "generatedAt": "2026-11-26T08:40:03.133Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Laundry",
+      "artist": "결 (KYUL)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/464/15199464_20261124145039_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069377"
+    },
+    {
+      "title": "You'll have sweet dreams.",
+      "artist": "109",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/214/14418214_20261124121522_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068347"
+    },
+    {
+      "title": "It doesn't matter whether it's there or not.",
+      "artist": "머무르",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/059/15205059_20261125143843_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604085572"
+    },
+    {
+      "title": "Good. It's getting better.",
+      "artist": "이레",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/187/15205187_20261125152252_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604086160"
+    },
+    {
+      "title": "feat. ILHOON",
+      "artist": "Aden (에이든)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/65/365/14965365_20261123152419_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604055646"
+    },
+    {
+      "title": "UNKNOWN",
+      "artist": "아이우에오",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/211/15205211_20261125160157_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604086371"
+    },
     {
       "title": "Greedy",
       "artist": "KISS OF LIFE",
@@ -13,6 +49,72 @@
       "artist": "혁오 (HYUKOH)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/397/15199397_20261124135722_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604069082"
+    },
+    {
+      "title": "Kill My Calm",
+      "artist": "After Thoughts",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/930/15203930_20261125101746_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081399"
+    },
+    {
+      "title": "I LET YOU",
+      "artist": "Holynn (홀린)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/455/15199455_20261124144823_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069365"
+    },
+    {
+      "title": "Just because it's you.",
+      "artist": "Kkuek",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/420/15186420_20261120153642_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604032955"
+    },
+    {
+      "title": "All I Know",
+      "artist": "크리스 메인 (Kris Main)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/018/15204018_20261125103530_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081654"
+    },
+    {
+      "title": "Lyla",
+      "artist": "미즈이로 (Mizuiro)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/811/15201811_20261124183634_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604075540"
+    },
+    {
+      "title": "I am.",
+      "artist": "K2 김성면",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/033/15204033_20261125104255_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081694"
+    },
+    {
+      "title": "White snow is falling.",
+      "artist": "케이플라워 (K. Flower)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/792/15201792_20261124183325_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604075482"
+    },
+    {
+      "title": "NANANA",
+      "artist": "LINA (리나)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/461/15199461_20261124144935_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069373"
+    },
+    {
+      "title": "I love you now.",
+      "artist": "솔플라워 (Sol' Flower)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/486/15204486_20261125120213_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604083388"
+    },
+    {
+      "title": "I can't forget it no matter how hard I try.",
+      "artist": "리디아 (Lydia)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/125/15199125_20261124120511_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068543"
+    },
+    {
+      "title": "Last Scene",
+      "artist": "한림(Hanlim)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/870/15203870_20261125094534_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081240"
     },
     {
       "title": "Just Because",
@@ -111,7 +213,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604067184"
     },
     {
-      "title": "Goodbye, goodbye",
+      "title": "A farewell to well-being",
       "artist": "신용재 (2F)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/593/15194593_20261123135123_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604054997"
@@ -165,7 +267,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604068610"
     },
     {
-      "title": "This Christmas, be sure to",
+      "title": "Definitely this Christmas",
       "artist": "이을 (E.ul)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/172/15195172_20261123165131_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604057316"
@@ -183,7 +285,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604068465"
     },
     {
-      "title": "If it's you and me together,",
+      "title": "If you and I are together,",
       "artist": "밈 (mim)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/482/15199482_20261124150642_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604069413"
@@ -199,108 +301,6 @@
       "artist": "일민",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/709/15198709_20261124104650_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604067457"
-    },
-    {
-      "title": "Like You",
-      "artist": "임시완 (Yim Siwan)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/148/15186148_20261120135220_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604031946"
-    },
-    {
-      "title": "Love Me Love Me",
-      "artist": "보라미유",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/027/15195027_20261123160239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604056540"
-    },
-    {
-      "title": "When this rain stops,",
-      "artist": "변진섭",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/279/15194279_20261123114940_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604053296"
-    },
-    {
-      "title": "or",
-      "artist": "박다울",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/804/15185804_20261120111440_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604030171"
-    },
-    {
-      "title": "Critical Love",
-      "artist": "이예지",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/760/15194760_20261123151626_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604055790"
-    },
-    {
-      "title": "Survive that winter.",
-      "artist": "정가이 (와인루프)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/150/15186150_20261120135320_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604031959"
-    },
-    {
-      "title": "Afterimage (Vocal Zgoomong)",
-      "artist": "망고팔트 (MangoPhalt)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/87/448/15187448_20261120165352_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604034975"
-    },
-    {
-      "title": "with Molly Yam",
-      "artist": "Shane",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/590/15194590_20261123134921_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604054977"
-    },
-    {
-      "title": "same clothes",
-      "artist": "MODS (0WAVE)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/144/15186144_20261120134523_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604031924"
-    },
-    {
-      "title": "Youngimma Park Children",
-      "artist": "권기백",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/553/15198553_20261124095944_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604066916"
-    },
-    {
-      "title": "Faded Love (feat. Chilloop)",
-      "artist": "Brody (브로디)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/146/15194146_20261123104942_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604052741"
-    },
-    {
-      "title": "Under the First Snow (Feat. Choi I-o, Mabinc)",
-      "artist": "SUDI",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/000/15186000_20261120120718_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604031570"
-    },
-    {
-      "title": "Tomorrow's Smile (OST from the webtoon \"Daytime at the Bunker\" X IT'S)",
-      "artist": "이츠",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/711/15182711_20261124155813_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604020444"
-    },
-    {
-      "title": "The things I thought were love",
-      "artist": "김소연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/776/15194776_20261123152520_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604055839"
-    },
-    {
-      "title": "Stay",
-      "artist": "floryy",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/145/15194145_20261123104839_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604052740"
-    },
-    {
-      "title": "Both you and I",
-      "artist": "최아인",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/026/15195026_20261123160149_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604056538"
-    },
-    {
-      "title": "ROSTER",
-      "artist": "HEYOON (혜윤)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/312/15194312_20261123115349_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604053438"
     }
   ]
 }
