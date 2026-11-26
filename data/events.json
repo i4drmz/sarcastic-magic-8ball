@@ -1,10 +1,31 @@
 {
-  "generatedAt": "2026-11-25T16:26:16.650Z",
-  "lastUpdated": "2026-11-25T16:26:16.650Z",
+  "generatedAt": "2026-11-26T16:00:03.394Z",
+  "lastUpdated": "2026-11-26T16:00:03.394Z",
   "sourceSummary": [
-    "soompi-music"
+    "soompi-music",
+    "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-634a757a23fd4e5c",
+      "type": "Festival",
+      "title": "Festival “s first leading film”",
+      "artist": "Chuu",
+      "group": "Chuu",
+      "date": "2026-11-26",
+      "time": null,
+      "venue": "TBA",
+      "city": "Seoul",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "CHUU FESTIVAL COMING UP",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/chuus-first-leading-film-jari-to-hold-world-premiere-at-seoul-independent-film-festival",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-26T16:00:03.394Z"
+    },
     {
       "id": "evt-b10bca8712408d10",
       "type": "Concert",
@@ -23,7 +44,7 @@
       "sourceUrl": "https://www.soompi.com/article/1889538wpp/iu-announces-dates-and-cities-for-2027-world-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-25T16:26:16.650Z"
+      "lastUpdated": "2026-11-26T16:00:03.394Z"
     },
     {
       "id": "evt-ec220f7501a33d5e",
@@ -43,7 +64,7 @@
       "sourceUrl": "https://www.soompi.com/article/1888986wpp/wayv-announces-2027-u-s-tour-dates-and-cities-for-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-25T16:26:16.650Z"
+      "lastUpdated": "2026-11-26T16:00:03.394Z"
     },
     {
       "id": "evt-15753a0661406742",
@@ -63,7 +84,7 @@
       "sourceUrl": "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-25T16:26:16.650Z"
+      "lastUpdated": "2026-11-26T16:00:03.394Z"
     },
     {
       "id": "evt-7ee351b2fe2cecbc",
@@ -83,7 +104,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-25T16:26:16.650Z"
+      "lastUpdated": "2026-11-26T16:00:03.394Z"
     }
   ]
 }
