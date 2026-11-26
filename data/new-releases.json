@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-11-26T08:40:03.133Z",
+  "generatedAt": "2026-11-26T21:45:45.281Z",
   "count": 50,
   "songs": [
+    {
+      "title": "Songbird",
+      "artist": "오존 (O3ohn)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/961/15203961_20261125102301_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081482"
+    },
+    {
+      "title": "OVER U",
+      "artist": "KIIRAS (키라스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/188/15205188_20261125152455_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604086163"
+    },
+    {
+      "title": "FEAT. RAF SANDOU",
+      "artist": "Colde (콜드)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/191/15205191_20261125152741_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604086173"
+    },
+    {
+      "title": "2026",
+      "artist": "#안녕",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/057/15195057_20261123161923_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604056945"
+    },
+    {
+      "title": "Wintered",
+      "artist": "에피톤 프로젝트",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/474/15199474_20261124145542_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069397"
+    },
+    {
+      "title": "O",
+      "artist": "ChRocktikal (크록티칼)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/924/15198924_20261124111121_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068000"
+    },
+    {
+      "title": "Sincerity",
+      "artist": "사뮈 (Samui)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/475/15199475_20261124145622_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069399"
+    },
+    {
+      "title": "Quarantine Lifestyle",
+      "artist": "OXYNOVA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/189/15205189_20261125152600_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604086166"
+    },
+    {
+      "title": "To tomorrow",
+      "artist": "이젤(EJel)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/451/15204451_20261125115755_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604083205"
+    },
+    {
+      "title": "VIVID",
+      "artist": "LIPSTICKERZ",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/013/15204013_20261125103443_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081648"
+    },
+    {
+      "title": "Footpath",
+      "artist": "고고학 (Gogohawk)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/469/15199469_20261124145232_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069389"
+    },
+    {
+      "title": "G $HIT",
+      "artist": "P. Cassady (피캐시디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/116/15199116_20261124120028_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068527"
+    },
+    {
+      "title": "Feat. lewyn",
+      "artist": "Brick (브릭)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/266/15201266_20261124173122_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604073761"
+    },
+    {
+      "title": "Feat. D-Hack",
+      "artist": "그린베이지 (greenbeige)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/448/15201448_20261124175306_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604074577"
+    },
     {
       "title": "Laundry",
       "artist": "결 (KYUL)",
@@ -99,7 +183,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604069373"
     },
     {
-      "title": "I love you now.",
+      "title": "I love the present moment.",
       "artist": "솔플라워 (Sol' Flower)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/486/15204486_20261125120213_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604083388"
@@ -217,90 +301,6 @@
       "artist": "신용재 (2F)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/593/15194593_20261123135123_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604054997"
-    },
-    {
-      "title": "When I hold you in my arms,",
-      "artist": "이혁",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/105/15199105_20261124115013_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068496"
-    },
-    {
-      "title": "Feat. Oh Yun",
-      "artist": "뎁트",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/312/15195312_20261123173623_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604057708"
-    },
-    {
-      "title": "feat. VAITEI",
-      "artist": "ONZU(온주)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/148/15199148_20261124121429_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068603"
-    },
-    {
-      "title": "Catchphrase",
-      "artist": "INSU",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/565/15198565_20261124101530_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604066951"
-    },
-    {
-      "title": "Gone",
-      "artist": "Enoch",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/543/15199543_20261124153030_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069631"
-    },
-    {
-      "title": "Mountain, Life",
-      "artist": "장민호",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/846/15194846_20261123153246_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604056009"
-    },
-    {
-      "title": "Desperate, desperate",
-      "artist": "윤하 (YOUNHA)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/755/15194755_20261123151426_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604055740"
-    },
-    {
-      "title": "Bubble",
-      "artist": "LAYER 88",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/154/15199154_20261124121744_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068610"
-    },
-    {
-      "title": "Definitely this Christmas",
-      "artist": "이을 (E.ul)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/172/15195172_20261123165131_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604057316"
-    },
-    {
-      "title": "without you",
-      "artist": "DEONTE (디온테)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/153/15199153_20261124121641_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068609"
-    },
-    {
-      "title": "Bread lover",
-      "artist": "KODI GREEN",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/098/15199098_20261124114700_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068465"
-    },
-    {
-      "title": "If you and I are together,",
-      "artist": "밈 (mim)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/482/15199482_20261124150642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069413"
-    },
-    {
-      "title": "Candy",
-      "artist": "예림",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/155/15199155_20261124121832_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068612"
-    },
-    {
-      "title": "Nongshim Cheonsim",
-      "artist": "일민",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/709/15198709_20261124104650_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604067457"
     }
   ]
 }
