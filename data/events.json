@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-11-26T16:00:03.394Z",
-  "lastUpdated": "2026-11-26T16:00:03.394Z",
+  "generatedAt": "2026-11-27T15:49:07.985Z",
+  "lastUpdated": "2026-11-27T15:49:07.985Z",
   "sourceSummary": [
+    "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-6f24e98450b4c936",
+      "type": "Concert",
+      "title": "Tour “D&ESTIVAL: THE 15/15”",
+      "artist": "Super Junior",
+      "group": "Super Junior",
+      "date": "2026-11-27",
+      "time": null,
+      "venue": "TBA",
+      "city": "Incheon",
+      "country": "KR",
+      "latitude": null,
+      "longitude": null,
+      "image": "https://0.soompi.io/wp-content/uploads/2026/11/27121633/dE-1.jpeg",
+      "shortDescription": "SUPER JUNIOR TOUR COMING UP",
+      "sourceUrl": "https://www.soompi.com/article/1891251wpp/super-junior-de-announces-2027-live-tour-destival-the-15-15",
+      "ticketUrl": null,
+      "source": "rss:soompi",
+      "lastUpdated": "2026-11-27T15:49:07.985Z"
+    },
     {
       "id": "evt-634a757a23fd4e5c",
       "type": "Festival",
@@ -24,7 +45,7 @@
       "sourceUrl": "https://lab.allkpop.com/article/2026/11/chuus-first-leading-film-jari-to-hold-world-premiere-at-seoul-independent-film-festival",
       "ticketUrl": null,
       "source": "rss:allkpop",
-      "lastUpdated": "2026-11-26T16:00:03.394Z"
+      "lastUpdated": "2026-11-27T15:49:07.985Z"
     },
     {
       "id": "evt-b10bca8712408d10",
@@ -44,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1889538wpp/iu-announces-dates-and-cities-for-2027-world-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-26T16:00:03.394Z"
+      "lastUpdated": "2026-11-27T15:49:07.985Z"
     },
     {
       "id": "evt-ec220f7501a33d5e",
@@ -64,14 +85,14 @@
       "sourceUrl": "https://www.soompi.com/article/1888986wpp/wayv-announces-2027-u-s-tour-dates-and-cities-for-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-26T16:00:03.394Z"
+      "lastUpdated": "2026-11-27T15:49:07.985Z"
     },
     {
       "id": "evt-15753a0661406742",
       "type": "Concert",
       "title": "Concert “F.L.Y.”",
-      "artist": "Girls' Generation",
-      "group": "Girls' Generation",
+      "artist": "Taeyeon",
+      "group": "Taeyeon",
       "date": "2026-11-18",
       "time": null,
       "venue": "TBA",
@@ -80,11 +101,11 @@
       "latitude": null,
       "longitude": null,
       "image": "https://0.soompi.io/wp-content/uploads/2026/11/18142959/taeyeon-fly2.jpeg",
-      "shortDescription": "GIRLS' GENERATION CONCERT COMING UP",
+      "shortDescription": "TAEYEON CONCERT COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-26T16:00:03.394Z"
+      "lastUpdated": "2026-11-27T15:49:07.985Z"
     },
     {
       "id": "evt-7ee351b2fe2cecbc",
@@ -104,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-26T16:00:03.394Z"
+      "lastUpdated": "2026-11-27T15:49:07.985Z"
     }
   ]
 }
