@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:51:32.923Z",
+  "generatedAt": "2026-11-27T21:29:31.426Z",
   "count": 50,
   "songs": [
     {
@@ -9,16 +9,88 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604100514"
     },
     {
-      "title": "Sunset",
-      "artist": "휘영",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/379/15204379_20261125114903_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604082924"
+      "title": "WBYL",
+      "artist": "키드밀리 (Kid Milli)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/754/15209754_20261126122814_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098740"
+    },
+    {
+      "title": "Feat. BE'O",
+      "artist": "ASH ISLAND",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/985/15209985_20261126140436_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099103"
+    },
+    {
+      "title": "Because it has to be you every day.",
+      "artist": "오월오일 ( 五月五日 )",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/164/15209164_20261126095654_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604096799"
+    },
+    {
+      "title": "Moving On",
+      "artist": "김재환",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/283/15204283_20261125113628_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604082511"
+    },
+    {
+      "title": "HALO",
+      "artist": "WINKX (윙스)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/736/15209736_20261126121339_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098709"
     },
     {
       "title": "My Only One",
       "artist": "폴킴",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/734/15209734_20261126121034_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604098707"
+    },
+    {
+      "title": "What star did you come from?",
+      "artist": "나르샤 (Brown Eyed Girls)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/700/15209700_20261126115640_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098586"
+    },
+    {
+      "title": "Over The New World",
+      "artist": "SAY MY NAME (세이마이네임)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/068/15210068_20261126150332_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099371"
+    },
+    {
+      "title": "edisoncore",
+      "artist": "Coa White",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/119/15199119_20261124120229_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604068530"
+    },
+    {
+      "title": "NOMADESQUE (feat. Ha Hyun-woo)",
+      "artist": "양방언",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/061/15204061_20261125110437_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081749"
+    },
+    {
+      "title": "Limbo",
+      "artist": "우수현",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/259/15204259_20261125113438_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604082454"
+    },
+    {
+      "title": "Hotteok",
+      "artist": "이세준(유리상자)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/100/15210100_20261126150847_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099504"
+    },
+    {
+      "title": "falling",
+      "artist": "이라온",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/075/15204075_20261125111015_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081804"
+    },
+    {
+      "title": "Sunset",
+      "artist": "휘영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/379/15204379_20261125114903_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604082924"
     },
     {
       "title": "Old letter",
@@ -63,13 +135,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604086163"
     },
     {
-      "title": "With a snowman, at the moment when the cherry blossoms fall",
+      "title": "With a snowman as the cherry blossoms fall",
       "artist": "놀이터의 그네",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/683/15209683_20261126114819_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604098553"
     },
     {
-      "title": "One day, suddenly",
+      "title": "Suddenly, one day",
       "artist": "손지연",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/008/15210008_20261126142729_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604099188"
@@ -111,7 +183,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604099213"
     },
     {
-      "title": "My heart's pounding. What should I do?",
+      "title": "My heart is pounding. What should I do?",
       "artist": "소밍",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/031/15210031_20261126143553_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604099235"
@@ -123,7 +195,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604082394"
     },
     {
-      "title": "Way Of Love (sarangui Gil) Classic Ver.",
+      "title": "Way Of Love classic ver.",
       "artist": "김준선 (AK)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/403/15199403_20261124141730_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604069105"
@@ -153,7 +225,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604086166"
     },
     {
-      "title": "To Tomorrow",
+      "title": "To tomorrow",
       "artist": "이젤(EJel)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/451/15204451_20261125115755_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604083205"
@@ -201,7 +273,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604068347"
     },
     {
-      "title": "It doesn't matter if it's there or not.",
+      "title": "It doesn't matter whether it's there or not.",
       "artist": "머무르",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/059/15205059_20261125143843_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604085572"
@@ -229,78 +301,6 @@
       "artist": "KISS OF LIFE",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/00/268/15200268_20261124162444_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604071114"
-    },
-    {
-      "title": "Weight of the soul",
-      "artist": "혁오 (HYUKOH)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/397/15199397_20261124135722_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069082"
-    },
-    {
-      "title": "Kill My Calm",
-      "artist": "After Thoughts",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/930/15203930_20261125101746_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604081399"
-    },
-    {
-      "title": "I LET YOU",
-      "artist": "Holynn (홀린)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/455/15199455_20261124144823_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069365"
-    },
-    {
-      "title": "Just because it's you.",
-      "artist": "Kkuek",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/86/420/15186420_20261120153642_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604032955"
-    },
-    {
-      "title": "All I Know",
-      "artist": "크리스 메인 (Kris Main)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/018/15204018_20261125103530_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604081654"
-    },
-    {
-      "title": "Lyla",
-      "artist": "미즈이로 (Mizuiro)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/811/15201811_20261124183634_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604075540"
-    },
-    {
-      "title": "I am.",
-      "artist": "K2 김성면",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/033/15204033_20261125104255_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604081694"
-    },
-    {
-      "title": "White snow is falling.",
-      "artist": "케이플라워 (K. Flower)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/792/15201792_20261124183325_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604075482"
-    },
-    {
-      "title": "NANANA",
-      "artist": "LINA (리나)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/461/15199461_20261124144935_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069373"
-    },
-    {
-      "title": "I love you now.",
-      "artist": "솔플라워 (Sol' Flower)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/486/15204486_20261125120213_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604083388"
-    },
-    {
-      "title": "I can't forget even if I try.",
-      "artist": "리디아 (Lydia)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/125/15199125_20261124120511_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068543"
-    },
-    {
-      "title": "Last Scene",
-      "artist": "한림(Hanlim)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/870/15203870_20261125094534_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604081240"
     }
   ]
 }
