@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-11-26T21:45:45.281Z",
+  "generatedAt": "2026-11-27T08:51:32.923Z",
   "count": 50,
   "songs": [
+    {
+      "title": "English Ver.",
+      "artist": "aespa",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/345/15210345_20261126164239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604100514"
+    },
+    {
+      "title": "Sunset",
+      "artist": "휘영",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/379/15204379_20261125114903_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604082924"
+    },
+    {
+      "title": "My Only One",
+      "artist": "폴킴",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/734/15209734_20261126121034_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098707"
+    },
+    {
+      "title": "Old letter",
+      "artist": "박지우",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/060/15204060_20261125110345_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081747"
+    },
+    {
+      "title": "Caroline",
+      "artist": "Maggie’s Garden",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/737/15209737_20261126121435_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098713"
+    },
+    {
+      "title": "LOOK!",
+      "artist": "디타 (DITA)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/537/15205537_20261125164735_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604087562"
+    },
+    {
+      "title": "Messed Up",
+      "artist": "Slevin",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/137/15204137_20261125112255_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604082033"
+    },
+    {
+      "title": "MY DUALITY",
+      "artist": "MOVE ØN",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/663/15209663_20261126113318_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098452"
+    },
     {
       "title": "Songbird",
       "artist": "오존 (O3ohn)",
@@ -13,6 +61,24 @@
       "artist": "KIIRAS (키라스)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/188/15205188_20261125152455_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604086163"
+    },
+    {
+      "title": "With a snowman, at the moment when the cherry blossoms fall",
+      "artist": "놀이터의 그네",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/683/15209683_20261126114819_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098553"
+    },
+    {
+      "title": "One day, suddenly",
+      "artist": "손지연",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/008/15210008_20261126142729_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099188"
+    },
+    {
+      "title": "Starlight Steps (feat. Shirayuki Hina)",
+      "artist": "아주르 프로밀리아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/174/15204174_20261125112839_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604082210"
     },
     {
       "title": "FEAT. RAF SANDOU",
@@ -33,6 +99,42 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604069397"
     },
     {
+      "title": "It's okay because it's you.",
+      "artist": "숙희",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/040/15204040_20261125104458_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604081707"
+    },
+    {
+      "title": "GYARU!",
+      "artist": "치인",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/017/15210017_20261126143035_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099213"
+    },
+    {
+      "title": "My heart's pounding. What should I do?",
+      "artist": "소밍",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/031/15210031_20261126143553_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099235"
+    },
+    {
+      "title": "The Best Christmas",
+      "artist": "JUKINI (주키니)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/241/15204241_20261125113338_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604082394"
+    },
+    {
+      "title": "Way Of Love (sarangui Gil) Classic Ver.",
+      "artist": "김준선 (AK)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/403/15199403_20261124141730_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604069105"
+    },
+    {
+      "title": "Take a picture.",
+      "artist": "언더독스 (UnderDoggs)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/124/15210124_20261126151208_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099626"
+    },
+    {
       "title": "O",
       "artist": "ChRocktikal (크록티칼)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/924/15198924_20261124111121_500.jpg",
@@ -51,7 +153,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604086166"
     },
     {
-      "title": "To tomorrow",
+      "title": "To Tomorrow",
       "artist": "이젤(EJel)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/451/15204451_20261125115755_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604083205"
@@ -99,7 +201,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604068347"
     },
     {
-      "title": "It doesn't matter whether it's there or not.",
+      "title": "It doesn't matter if it's there or not.",
       "artist": "머무르",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/059/15205059_20261125143843_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604085572"
@@ -183,13 +285,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604069373"
     },
     {
-      "title": "I love the present moment.",
+      "title": "I love you now.",
       "artist": "솔플라워 (Sol' Flower)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/486/15204486_20261125120213_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604083388"
     },
     {
-      "title": "I can't forget it no matter how hard I try.",
+      "title": "I can't forget even if I try.",
       "artist": "리디아 (Lydia)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/125/15199125_20261124120511_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604068543"
@@ -199,108 +301,6 @@
       "artist": "한림(Hanlim)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/870/15203870_20261125094534_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604081240"
-    },
-    {
-      "title": "Just Because",
-      "artist": "Christopher",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/158/15199158_20261124121933_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068699"
-    },
-    {
-      "title": "Noon Race",
-      "artist": "신인류",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/629/15199629_20261124154855_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069753"
-    },
-    {
-      "title": "I couldn't ask for more.",
-      "artist": "한올",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/128/85/474/12885474_20261124144722_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069169"
-    },
-    {
-      "title": "Nocturne of Love",
-      "artist": "INJAE(인재)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/95/028/15195028_20261123160631_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604056541"
-    },
-    {
-      "title": "IWALY (I Will Always Love You)",
-      "artist": "izna (이즈나)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/00/820/15200820_20261124165045_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604072262"
-    },
-    {
-      "title": "Tree Tree Christmas Tree (feat. Son Mo-eun)",
-      "artist": "강유현 (Kang yuhyun)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/159/15199159_20261124122114_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068701"
-    },
-    {
-      "title": "The Season Without a Name",
-      "artist": "전세연",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/624/15198624_20261124103828_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604067136"
-    },
-    {
-      "title": "Commitment",
-      "artist": "꿈의음",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/111/15199111_20261124115526_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068505"
-    },
-    {
-      "title": "Arkins Remix",
-      "artist": "EVNNE(이븐)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/03/863/15203863_20261125094132_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604081207"
-    },
-    {
-      "title": "Magic (From \"Hex: The Kingdom of Witches\"/Korean Single Version)",
-      "artist": "RESCENE (리센느)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/93/368/15193368_20261123000410_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604050537"
-    },
-    {
-      "title": "Youth",
-      "artist": "웨터 (wetter)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/152/15199152_20261124121631_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068608"
-    },
-    {
-      "title": "bitter",
-      "artist": "야드림테일러 (yadreamtaylor)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/141/15199141_20261124120820_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068588"
-    },
-    {
-      "title": "Cozy Room With You",
-      "artist": "ClueAt (클루엣)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/603/15199603_20261124154748_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069722"
-    },
-    {
-      "title": "Pandora",
-      "artist": "HeMeets",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/838/15198838_20261124110051_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604067779"
-    },
-    {
-      "title": "Like us that day",
-      "artist": "구슬요",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/088/15199088_20261124114344_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068446"
-    },
-    {
-      "title": "If it ends like this,",
-      "artist": "시즈더데이 (seizetheday)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/632/15198632_20261124104034_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604067184"
-    },
-    {
-      "title": "A farewell to well-being",
-      "artist": "신용재 (2F)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/94/593/15194593_20261123135123_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604054997"
     }
   ]
 }
