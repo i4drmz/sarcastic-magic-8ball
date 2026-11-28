@@ -1,12 +1,32 @@
 {
-  "generatedAt": "2026-11-27T15:49:07.985Z",
-  "lastUpdated": "2026-11-27T15:49:07.985Z",
+  "generatedAt": "2026-11-28T14:44:13.867Z",
+  "lastUpdated": "2026-11-28T14:44:13.867Z",
   "sourceSummary": [
     "soompi",
     "soompi-music",
     "allkpop"
   ],
   "events": [
+    {
+      "id": "evt-bcd96731adbc7ef3",
+      "type": "Pop-up Store",
+      "title": "HYBE announces 2027 season’s greetings pop-ups across 13 cities worldwide",
+      "artist": "HYBE",
+      "group": "HYBE",
+      "date": "2026-11-28",
+      "time": null,
+      "venue": "TBA",
+      "city": "TBA",
+      "country": "XX",
+      "latitude": null,
+      "longitude": null,
+      "image": null,
+      "shortDescription": "HYBE is bringing its annual season’s greetings pop-up to more fans around the world, with events planned across 13 major cities from December through January. On November 28, HYBE that it would partner with Dreamus Company to operate “Ho…",
+      "sourceUrl": "https://lab.allkpop.com/article/2026/11/hybe-announces-2027-seasons-greetings-pop-ups-across-13-cities-worldwide",
+      "ticketUrl": null,
+      "source": "rss:allkpop",
+      "lastUpdated": "2026-11-28T14:44:13.867Z"
+    },
     {
       "id": "evt-6f24e98450b4c936",
       "type": "Concert",
@@ -25,27 +45,7 @@
       "sourceUrl": "https://www.soompi.com/article/1891251wpp/super-junior-de-announces-2027-live-tour-destival-the-15-15",
       "ticketUrl": null,
       "source": "rss:soompi",
-      "lastUpdated": "2026-11-27T15:49:07.985Z"
-    },
-    {
-      "id": "evt-634a757a23fd4e5c",
-      "type": "Festival",
-      "title": "Festival “s first leading film”",
-      "artist": "Chuu",
-      "group": "Chuu",
-      "date": "2026-11-26",
-      "time": null,
-      "venue": "TBA",
-      "city": "Seoul",
-      "country": "KR",
-      "latitude": null,
-      "longitude": null,
-      "image": null,
-      "shortDescription": "CHUU FESTIVAL COMING UP",
-      "sourceUrl": "https://lab.allkpop.com/article/2026/11/chuus-first-leading-film-jari-to-hold-world-premiere-at-seoul-independent-film-festival",
-      "ticketUrl": null,
-      "source": "rss:allkpop",
-      "lastUpdated": "2026-11-27T15:49:07.985Z"
+      "lastUpdated": "2026-11-28T14:44:13.867Z"
     },
     {
       "id": "evt-b10bca8712408d10",
@@ -65,7 +65,7 @@
       "sourceUrl": "https://www.soompi.com/article/1889538wpp/iu-announces-dates-and-cities-for-2027-world-tour",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-27T15:49:07.985Z"
+      "lastUpdated": "2026-11-28T14:44:13.867Z"
     },
     {
       "id": "evt-ec220f7501a33d5e",
@@ -85,14 +85,14 @@
       "sourceUrl": "https://www.soompi.com/article/1888986wpp/wayv-announces-2027-u-s-tour-dates-and-cities-for-born-this-way",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-27T15:49:07.985Z"
+      "lastUpdated": "2026-11-28T14:44:13.867Z"
     },
     {
       "id": "evt-15753a0661406742",
       "type": "Concert",
       "title": "Concert “F.L.Y.”",
-      "artist": "Taeyeon",
-      "group": "Taeyeon",
+      "artist": "Girls' Generation",
+      "group": "Girls' Generation",
       "date": "2026-11-18",
       "time": null,
       "venue": "TBA",
@@ -101,11 +101,11 @@
       "latitude": null,
       "longitude": null,
       "image": "https://0.soompi.io/wp-content/uploads/2026/11/18142959/taeyeon-fly2.jpeg",
-      "shortDescription": "TAEYEON CONCERT COMING UP",
+      "shortDescription": "GIRLS' GENERATION CONCERT COMING UP",
       "sourceUrl": "https://www.soompi.com/article/1888389wpp/taeyeon-announces-stops-for-concert-tour-f-l-y",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-27T15:49:07.985Z"
+      "lastUpdated": "2026-11-28T14:44:13.867Z"
     },
     {
       "id": "evt-7ee351b2fe2cecbc",
@@ -125,7 +125,7 @@
       "sourceUrl": "https://www.soompi.com/article/1887941wpp/choo-young-woo-and-iznas-bang-jeemin-confirmed-to-host-2026-kbs-song-festival",
       "ticketUrl": null,
       "source": "rss:soompi-music",
-      "lastUpdated": "2026-11-27T15:49:07.985Z"
+      "lastUpdated": "2026-11-28T14:44:13.867Z"
     }
   ]
 }

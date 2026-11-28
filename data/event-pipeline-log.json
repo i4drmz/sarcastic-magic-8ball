@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-27T15:49:07.985Z",
+  "ranAt": "2026-11-28T14:44:13.867Z",
   "success": false,
   "apiRequests": 18,
   "providersRegistered": [
@@ -55,8 +55,8 @@
       "extracted": 1,
       "discarded": 39,
       "discardReasons": {
-        "no_event_signal": 28,
-        "not_event_announcement": 11
+        "not_event_announcement": 13,
+        "no_event_signal": 26
       }
     },
     {
@@ -70,8 +70,7 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 7,
-        "not_event_announcement": 3
+        "no_event_signal": 10
       }
     },
     {
@@ -85,8 +84,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 7,
-        "not_event_announcement": 3
+        "no_event_signal": 9,
+        "not_event_announcement": 1
       }
     },
     {
@@ -100,8 +99,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "not_event_announcement": 3,
-        "no_event_signal": 7
+        "no_event_signal": 7,
+        "not_event_announcement": 3
       }
     },
     {
@@ -111,12 +110,12 @@
       "ok": true,
       "httpStatus": 200,
       "items": 10,
-      "eventRelated": 1,
+      "eventRelated": 0,
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
-        "not_kpop": 1
+        "no_event_signal": 8,
+        "not_event_announcement": 2
       }
     },
     {
@@ -130,7 +129,8 @@
       "extracted": 0,
       "discarded": 10,
       "discardReasons": {
-        "no_event_signal": 9,
+        "no_event_signal": 8,
+        "not_event_announcement": 1,
         "not_kpop": 1
       }
     },
@@ -197,11 +197,11 @@
   "afterDedupe": 6,
   "afterUpcomingFilter": 6,
   "totalItems": 243,
-  "totalEventRelated": 9,
+  "totalEventRelated": 8,
   "totalExtracted": 6,
   "totalDiscarded": 236,
-  "extractionAccuracyPct": 66.7,
-  "previousCount": 5,
+  "extractionAccuracyPct": 75,
+  "previousCount": 6,
   "writtenCount": 6,
   "changed": true,
   "published": false,
@@ -212,7 +212,7 @@
     "rss:koreaboo: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard: items=10 related=0 extracted=0 discarded=10",
     "rss:billboard-music: items=10 related=0 extracted=0 discarded=10",
-    "rss:nme: items=10 related=1 extracted=0 discarded=10",
+    "rss:nme: items=10 related=0 extracted=0 discarded=10",
     "rss:nme-music: items=10 related=1 extracted=0 discarded=10",
     "rss:rollingstone: items=10 related=0 extracted=0 discarded=10",
     "rss:rollingstone-music: items=10 related=0 extracted=0 discarded=10",
