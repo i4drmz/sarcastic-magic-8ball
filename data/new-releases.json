@@ -1,12 +1,42 @@
 {
-  "generatedAt": "2026-11-27T21:29:31.426Z",
+  "generatedAt": "2026-11-28T08:10:03.321Z",
   "count": 50,
   "songs": [
     {
-      "title": "English Ver.",
-      "artist": "aespa",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/345/15210345_20261126164239_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604100514"
+      "title": "Fany Hwang",
+      "artist": "이영훈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/447/15204447_20261125115736_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604083198"
+    },
+    {
+      "title": "GOTTA FIX MY BANGS",
+      "artist": "NECTA",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/466/15204466_20261125120004_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604083294"
+    },
+    {
+      "title": "Chilgap Mountain",
+      "artist": "손빈아",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/041/15210041_20261126144342_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099271"
+    },
+    {
+      "title": "Simulation",
+      "artist": "내귀에도청장치",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/574/15205574_20261125165216_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604087640"
+    },
+    {
+      "title": "My Bride",
+      "artist": "Fresh Boyz",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/717/15209717_20261126120212_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098623"
+    },
+    {
+      "title": "It's a secret.",
+      "artist": "기니비니",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/672/15209672_20261126113721_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098506"
     },
     {
       "title": "WBYL",
@@ -19,6 +49,48 @@
       "artist": "ASH ISLAND",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/985/15209985_20261126140436_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604099103"
+    },
+    {
+      "title": "Club Mix",
+      "artist": "Hendorphin",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/339/15209339_20261126103142_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604097212"
+    },
+    {
+      "title": "MaybeMine",
+      "artist": "kenessi",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/988/15209988_20261126140533_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604099107"
+    },
+    {
+      "title": "Shoring",
+      "artist": "진진경 (真真敬)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/709/15209709_20261126120028_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604098604"
+    },
+    {
+      "title": "Pulso",
+      "artist": "쇼루식구 (Chorosikgu)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/463/15210463_20261126171335_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604100891"
+    },
+    {
+      "title": "Metropole",
+      "artist": "Avii Garde",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/771/15210771_20261126173539_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604101881"
+    },
+    {
+      "title": "blizzard",
+      "artist": "Switcbak",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/14/257/15214257_20261127155647_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604111417"
+    },
+    {
+      "title": "run",
+      "artist": "비제로 (BASEMENTZEROFLOOR)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/448/15210448_20261126171224_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604100821"
     },
     {
       "title": "Because it has to be you every day.",
@@ -39,10 +111,28 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604098709"
     },
     {
+      "title": "Window Seat (Feat. Jeong-ho)",
+      "artist": "바부르즈",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/469/15204469_20261125120006_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604083297"
+    },
+    {
+      "title": "It's because you're pretty.",
+      "artist": "MELDY (멜디)",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/536/15209536_20261126110251_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604097841"
+    },
+    {
       "title": "My Only One",
       "artist": "폴킴",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/09/734/15209734_20261126121034_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604098707"
+    },
+    {
+      "title": "English Ver.",
+      "artist": "aespa",
+      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/345/15210345_20261126164239_500.jpg",
+      "link": "https://www.melon.com/song/detail.htm?songId=604100514"
     },
     {
       "title": "What star did you come from?",
@@ -141,13 +231,13 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604098553"
     },
     {
-      "title": "Suddenly, one day",
+      "title": "One day, all of a sudden,",
       "artist": "손지연",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/008/15210008_20261126142729_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604099188"
     },
     {
-      "title": "Starlight Steps (feat. Shirayuki Hina)",
+      "title": "Starlight Walk (feat. Shirayuki Hina)",
       "artist": "아주르 프로밀리아",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/174/15204174_20261125112839_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604082210"
@@ -183,7 +273,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604099213"
     },
     {
-      "title": "My heart is pounding. What should I do?",
+      "title": "My heart's pounding. What should I do?",
       "artist": "소밍",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/10/031/15210031_20261126143553_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604099235"
@@ -195,7 +285,7 @@
       "link": "https://www.melon.com/song/detail.htm?songId=604082394"
     },
     {
-      "title": "Way Of Love classic ver.",
+      "title": "Way Of Love (sarangui Gil) Classic Ver.",
       "artist": "김준선 (AK)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/403/15199403_20261124141730_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604069105"
@@ -211,96 +301,6 @@
       "artist": "ChRocktikal (크록티칼)",
       "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/98/924/15198924_20261124111121_500.jpg",
       "link": "https://www.melon.com/song/detail.htm?songId=604068000"
-    },
-    {
-      "title": "Sincerity",
-      "artist": "사뮈 (Samui)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/475/15199475_20261124145622_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069399"
-    },
-    {
-      "title": "Quarantine Lifestyle",
-      "artist": "OXYNOVA",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/189/15205189_20261125152600_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604086166"
-    },
-    {
-      "title": "To tomorrow",
-      "artist": "이젤(EJel)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/451/15204451_20261125115755_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604083205"
-    },
-    {
-      "title": "VIVID",
-      "artist": "LIPSTICKERZ",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/04/013/15204013_20261125103443_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604081648"
-    },
-    {
-      "title": "Footpath",
-      "artist": "고고학 (Gogohawk)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/469/15199469_20261124145232_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069389"
-    },
-    {
-      "title": "G $HIT",
-      "artist": "P. Cassady (피캐시디)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/116/15199116_20261124120028_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068527"
-    },
-    {
-      "title": "Feat. lewyn",
-      "artist": "Brick (브릭)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/266/15201266_20261124173122_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604073761"
-    },
-    {
-      "title": "Feat. D-Hack",
-      "artist": "그린베이지 (greenbeige)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/01/448/15201448_20261124175306_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604074577"
-    },
-    {
-      "title": "Laundry",
-      "artist": "결 (KYUL)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/151/99/464/15199464_20261124145039_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604069377"
-    },
-    {
-      "title": "You'll have sweet dreams.",
-      "artist": "109",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/144/18/214/14418214_20261124121522_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604068347"
-    },
-    {
-      "title": "It doesn't matter whether it's there or not.",
-      "artist": "머무르",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/059/15205059_20261125143843_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604085572"
-    },
-    {
-      "title": "Good. It's getting better.",
-      "artist": "이레",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/187/15205187_20261125152252_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604086160"
-    },
-    {
-      "title": "feat. ILHOON",
-      "artist": "Aden (에이든)",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/149/65/365/14965365_20261123152419_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604055646"
-    },
-    {
-      "title": "UNKNOWN",
-      "artist": "아이우에오",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/05/211/15205211_20261125160157_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604086371"
-    },
-    {
-      "title": "Greedy",
-      "artist": "KISS OF LIFE",
-      "image": "https://cdnimg.melon.co.kr/cm2/album/images/152/00/268/15200268_20261124162444_500.jpg",
-      "link": "https://www.melon.com/song/detail.htm?songId=604071114"
     }
   ]
 }
